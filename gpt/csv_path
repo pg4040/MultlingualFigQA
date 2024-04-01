@@ -1,0 +1,730 @@
+Question 0,1
+Question 1,0
+Question 2,1
+Question 3,1
+Question 4,0
+Question 5,1
+Question 6,1
+Question 7,0
+Question 8,1
+Question 9,1
+Question 10,0
+Question 11,1
+Question 12,0
+Question 13,0
+Question 14,1
+Question 15,0
+Question 16,0
+Question 17,1
+Question 18,0
+Question 19,1
+20, 1
+21, 0
+22, 1
+23, 0
+24, 0
+25, 1
+26, 1
+27, 0
+28, 1
+29, 0
+30, 0
+31, 1
+32, 0
+33, 1
+34, 1
+35, 0
+36, 0
+37, 1
+38, 1
+39, 0
+40,1
+41,1
+42,1
+43,1
+44,0
+45,0
+46,0
+47,0
+48,1
+49,1
+50,1
+51,1
+52,0
+53,0
+54,1
+55,1
+56,0
+57,0
+58,0
+59,0
+Question 60, 1
+Question 61, 1
+Question 62, 0
+Question 63, 1
+Question 64, 0
+Question 65, 0
+Question 66, 1
+Question 67, 0
+Question 68, 1
+Question 69, 0
+Question 70, 0
+Question 71, 1
+Question 72, 1
+Question 73, 0
+Question 74, 1
+Question 75, 0
+Question 76, 0
+Question 77, 1
+Question 78, 1
+Question 79, 0
+80, 1
+81, 0
+82, 0
+83, 1
+84, 0
+85, 1
+86, 0
+87, 1
+88, 0
+89, 1
+90, 1
+91, 0
+92, 0
+93, 1
+94, 0
+95, 1
+96, 0
+97, 1
+98, 0
+99, 1
+100, 1
+101, 0
+102, 1
+103, 1
+104, 1
+105, 0
+106, 1
+107, 0
+108, 1
+109, 0
+110, 0
+111, 1
+112, 0
+113, 1
+114, 1
+115, 0
+116, 1
+117, 0
+118, 1
+119, 0
+120, 0
+121, 1
+122, 1
+123, 0
+124, 0
+125, 1
+126, 1
+127, 0
+128, 0
+129, 1
+130, 0
+131, 1
+132, 1
+133, 0
+134, 1
+135, 0
+136, 1
+137, 0
+138, 1
+139, 0
+Question 140,1
+Question 141,0
+Question 142,1
+Question 143,0
+Question 144,0
+Question 145,0
+Question 146,0
+Question 147,1
+Question 148,0
+Question 149,1
+Question 150,0
+Question 151,1
+Question 152,1
+Question 153,0
+Question 154,1
+Question 155,1
+Question 156,0
+Question 157,1
+Question 158,1
+Question 159,0
+160,0
+161,0
+162,1
+163,0
+164,0
+165,1
+166,0
+167,1
+168,1
+169,0
+170,1
+171,0
+172,0
+173,1
+174,0
+175,1
+176,1
+177,0
+178,1
+179,0
+180, 1
+181, 0
+182, 1
+183, 0
+184, 0
+185, 1
+186, 0
+187, 1
+188, 0
+189, 1
+190, 1
+191, 0
+192, 1
+193, 0
+194, 1
+195, 0
+196, 0
+197, 1
+198, 1
+199, 0
+200, 1
+201, 0
+202, 1
+203, 0
+204, 1
+205, 0
+206, 1
+207, 0
+208, 1
+209, 0
+210, 1
+211, 0
+212, 0
+213, 1
+214, 1
+215, 0
+216, 0
+217, 1
+218, 1
+219, 0
+Question 220: 0
+Question 221: 0
+Question 222: 1
+Question 223: 0
+Question 224: 1
+Question 225: 0
+Question 226: 1
+Question 227: 0
+Question 228: 0
+Question 229: 1
+Question 230: 1
+Question 231: 0
+Question 232: 1
+Question 233: 0
+Question 234: 0
+Question 235: 0
+Question 236: 0
+Question 237: 1
+Question 238: 1
+Question 239: 0
+Question 240,1
+Question 241,0
+Question 242,1
+Question 243,1
+Question 244,0
+Question 245,1
+Question 246,1
+Question 247,1
+Question 248,1
+Question 249,0
+Question 250,0
+Question 251,1
+Question 252,0
+Question 253,0
+Question 254,0
+Question 255,1
+Question 256,0
+Question 257,1
+Question 258,0
+Question 259,1
+260, 0
+261, 0
+262, 1
+263, 0
+264, 0
+265, 1
+266, 0
+267, 1
+268, 0
+269, 0
+270, 1
+271, 0
+272, 1
+273, 0
+274, 1
+275, 0
+276, 1
+277, 0
+278, 1
+279, 0
+280,1
+281,1
+282,0
+283,0
+284,1
+285,0
+286,0
+287,0
+288,1
+289,0
+290,1
+291,0
+292,0
+293,1
+294,0
+295,0
+296,1
+297,1
+298,0
+299,1
+300, 1
+301, 1
+302, 1
+303, 1
+304, 1
+305, 1
+306, 0
+307, 1
+308, 1
+309, 0
+310, 0
+311, 0
+312, 1
+313, 1
+314, 1
+315, 0
+316, 0
+317, 1
+318, 0
+319, 1
+Question 320: 0
+Question 321: 0
+Question 322: 0
+Question 323: 0
+Question 324: 0
+Question 325: 0
+Question 326: 1
+Question 327: 1
+Question 328: 0
+Question 329: 0
+Question 330: 0
+Question 331: 0
+Question 332: 0
+Question 333: 0
+Question 334: 1
+Question 335: 0
+Question 336: 0
+Question 337: 0
+Question 338: 1
+Question 339: 1
+Question 340: 1
+Question 341: 0
+Question 342: 0
+Question 343: 1
+Question 344: 0
+Question 345: 0
+Question 346: 0
+Question 347: 0
+Question 348: 1
+Question 349: 0
+Question 350: 0
+Question 351: 1
+Question 352: 0
+Question 353: 1
+Question 354: 0
+Question 355: 1
+Question 356: 1
+Question 357: 0
+Question 358: 0
+Question 359: 0
+360, 1
+361, 1
+362, 1
+363, 0
+364, 1
+365, 0
+366, 0
+367, 0
+368, 0
+369, 0
+370, 0
+371, 0
+372, 0
+373, 1
+374, 0
+375, 0
+376, 1
+377, 0
+378, 0
+379, 1
+Question 380, 1
+Question 381, 0
+Question 382, 0
+Question 383, 1
+Question 384, 1
+Question 385, 0
+Question 386, 1
+Question 387, 0
+Question 388, 1
+Question 389, 0
+Question 390, 0
+Question 391, 1
+Question 392, 0
+Question 393, 1
+Question 394, 1
+Question 395, 0
+Question 396, 0
+Question 397, 1
+Question 398, 1
+Question 399, 1
+Question 400,0
+Question 401,0
+Question 402,1
+Question 403,0
+Question 404,1
+Question 405,0
+Question 406,0
+Question 407,1
+Question 408,0
+Question 409,1
+Question 410,1
+Question 411,1
+Question 412,0
+Question 413,1
+Question 414,1
+Question 415,0
+Question 416,1
+Question 417,0
+Question 418,0
+Question 419,1
+Question 420, 1
+Question 421, 1
+Question 422, 0
+Question 423, 1
+Question 424, 1
+Question 425, 0
+Question 426, 1
+Question 427, 0
+Question 428, 1
+Question 429, 0
+Question 430, 1
+Question 431, 0
+Question 432, 1
+Question 433, 0
+Question 434, 1
+Question 435, 1
+Question 436, 1
+Question 437, 0
+Question 438, 0
+Question 439, 1
+Question 440: 1
+Question 441: 0
+Question 442: 1
+Question 443: 0
+Question 444: 1
+Question 445: 1
+Question 446: 0
+Question 447: 1
+Question 448: 1
+Question 449: 0
+Question 450: 1
+Question 451: 0
+Question 452: 0
+Question 453: 1
+Question 454: 1
+Question 455: 0
+Question 456: 0
+Question 457: 1
+Question 458: 1
+Question 459: 0
+Question 460: 1
+Question 461: 0
+Question 462: 0
+Question 463: 1
+Question 464: 1
+Question 465: 0
+Question 466: 1
+Question 467: 0
+Question 468: 1
+Question 469: 0
+Question 470: 1
+Question 471: 0
+Question 472: 0
+Question 473: 1
+Question 474: 0
+Question 475: 1
+Question 476: 0
+Question 477: 1
+Question 478: 0
+Question 479: 0
+Question 480, 0
+Question 481, 0
+Question 482, 1
+Question 483, 1
+Question 484, 1
+Question 485, 0
+Question 486, 1
+Question 487, 1
+Question 488, 1
+Question 489, 0
+Question 490, 0
+Question 491, 1
+Question 492, 1
+Question 493, 0
+Question 494, 0
+Question 495, 0
+Question 496, 1
+Question 497, 0
+Question 498, 0
+Question 499, 1
+500, 1
+501, 0
+502, 1
+503, 0
+504, 0
+505, 1
+506, 1
+507, 0
+508, 1
+509, 0
+510, 0
+511, 1
+512, 1
+513, 0
+514, 1
+515, 0
+516, 0
+517, 1
+518, 0
+519, 0
+520, 0
+521, 0
+522, 1
+523, 1
+524, 1
+525, 1
+526, 1
+527, 0
+528, 1
+529, 0
+530, 1
+531, 0
+532, 0
+533, 1
+534, 1
+535, 0
+536, 0
+537, 1
+538, 1
+539, 1
+540, 0
+541, 1
+542, 0
+543, 1
+544, 1
+545, 0
+546, 1
+547, 1
+548, 0
+549, 1
+550, 0
+551, 1
+552, 0
+553, 0
+554, 1
+555, 1
+556, 0
+557, 1
+558, 0
+559, 1
+Question 560,1
+Question 561,0
+Question 562,1
+Question 563,0
+Question 564,1
+Question 565,0
+Question 566,1
+Question 567,0
+Question 568,1
+Question 569,0
+Question 570,1
+Question 571,0
+Question 572,0
+Question 573,1
+Question 574,0
+Question 575,0
+Question 576,0
+Question 577,1
+Question 578,1
+Question 579,0
+580, 0
+581, 1
+582, 1
+583, 0
+584, 1
+585, 0
+586, 1
+587, 0
+588, 0
+589, 1
+590, 0
+591, 1
+592, 1
+593, 0
+594, 1
+595, 0
+596, 0
+597, 1
+598, 1
+599, 0
+Question 600: 1
+Question 601: 0
+Question 602: 0
+Question 603: 1
+Question 604: 0
+Question 605: 1
+Question 606: 1
+Question 607: 0
+Question 608: 1
+Question 609: 1
+Question 610: 0
+Question 611: 1
+Question 612: 1
+Question 613: 1
+Question 614: 0
+Question 615: 1
+Question 616: 0
+Question 617: 1
+Question 618: 0
+Question 619: 1
+620, 1
+621, 1
+622, 0
+623, 1
+624, 1
+625, 1
+626, 0
+627, 1
+628, 1
+629, 1
+630, 0
+631, 0
+632, 0
+633, 0
+634, 0
+635, 1
+636, 0
+637, 1
+638, 1
+639, 1
+Question 640, 0
+Question 641, 1
+Question 642, 1
+Question 643, 0
+Question 644, 1
+Question 645, 0
+Question 646, 1
+Question 647, 0
+Question 648, 0
+Question 649, 1
+Question 650, 0
+Question 651, 1
+Question 652, 1
+Question 653, 0
+Question 654, 1
+Question 655, 0
+Question 656, 0
+Question 657, 1
+Question 658, 0
+Question 659, 1
+Question 660: 0
+Question 661: 1
+Question 662: 1
+Question 663: 0
+Question 664: 0
+Question 665: 1
+Question 666: 1
+Question 667: 0
+Question 668: 1
+Question 669: 0
+Question 670: 0
+Question 671: 1
+Question 672: 1
+Question 673: 0
+Question 674: 0
+Question 675: 1
+Question 676: 0
+Question 677: 1
+Question 678: 0
+Question 679: 1
+Question 680,1
+Question 681,0
+Question 682,1
+Question 683,0
+Question 684,1
+Question 685,0
+Question 686,0
+Question 687,1
+Question 688,0
+Question 689,1
+Question 690,0
+Question 691,1
+Question 692,0
+Question 693,1
+Question 694,0
+Question 695,1
+Question 696,1
+Question 697,0
+Question 698,1
+Question 699,0
+Question 700: 1
+Question 701: 0
+Question 702: 1
+Question 703: 0
+Question 704: 1
+Question 705: 0
+Question 706: 0
+Question 707: 1
+Question 708: 0
+Question 709: 0
+Question 710: 0
+Question 711: 0
+Question 712: 1
+Question 713: 0
+Question 714: 0
+Question 715: 1
+Question 716: 0
+Question 717: 1
+Question 718: 1
+Question 719: 0
+Question 720: 0
+Question 721: 0
+Question 722: 1
+Question 723: 1
+Question 724: 0
+Question 725: 0
+Question 726: 1
+Question 727: 1
+Question 728: 0
+Question 729: 1

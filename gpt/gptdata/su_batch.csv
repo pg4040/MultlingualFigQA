@@ -1,0 +1,3011 @@
+Index,String
+0,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 0: hirup kawas kurung batok
+Options:
+0) hirup kawas kakekang
+1) hirup kawas bebas.
+
+Question 1: hirup kawas murag bulu bitis.
+Options:
+0) hirup kawas kakekang
+1) hirup kawas bebas.
+
+Question 2: jadi jalma teh kudu hampang birit
+Options:
+0) jadi jalma teh kudu rajin
+1) jadi jalma teh kudu kedul.
+
+Question 3: jadi jalma teh kudu beurat birit.
+Options:
+0) jadi jalma teh kudu rajin
+1) jadi jalma teh kudu kedul.
+
+Question 4: Mamat lumpatna siga uncal
+Options:
+0) mamat lumpat siga gancang
+1) mamat lumpat siga laun.
+
+Question 5: Mamat lumpatna siga kuya.
+Options:
+0) mamat lumpat siga gancang
+1) mamat lumpat siga laun.
+
+Question 6: hirup teh kudu boga pamadeugan
+Options:
+0) hirup teh kudu boga pendirian
+1) hirup teh kudu boga plin-plan.
+
+Question 7: hirup teh kudu boga kaditu kadieu.
+Options:
+0) hirup teh kudu boga pendirian
+1) hirup teh kudu boga plin-plan.
+
+Question 8: si amat mah sok ngeduk cikur kedah mitutur
+Options:
+0) jadi jalma kudu jujur
+1) jadi jalma kudu boong.
+
+Question 9: si amat mah sok luncat licin.
+Options:
+0) jadi jalma kudu jujur
+1) jadi jalma kudu boong.
+
+Question 10: ceuk ema jadi jalmi teh kedah sing someah hade ka semah
+Options:
+0) ceuk ema jadi jalmi teh kedah ramah
+1) ceuk ema jadi jalmi teh kedah judes.
+
+Question 11: ceuk ema jadi jalmi teh kedah sing goreng bagug.
+Options:
+0) ceuk ema jadi jalmi teh kedah ramah
+1) ceuk ema jadi jalmi teh kedah judes.
+
+Question 12: si eta mah ateul biwir
+Options:
+0) si eta mah ngomong wae
+1) si eta mah cicing wae.
+
+Question 13: si eta mah kawas gaang katincak.
+Options:
+0) si eta mah ngomong wae
+1) si eta mah cicing wae.
+
+Question 14: lamun mikir kudu pondok lengkah
+Options:
+0) lamun mikir kudu teu mikir panjang
+1) lamun mikir kudu mikir jauh.
+
+Question 15: lamun mikir kudu panjang lengkah.
+Options:
+0) lamun mikir kudu teu mikir panjang
+1) lamun mikir kudu mikir jauh.
+
+Question 16: budak eta mah epes meer
+Options:
+0) budak eta mah babarian ceurik
+1) budak eta mah wanian.
+
+Question 17: budak eta mah wanteran.
+Options:
+0) budak eta mah babarian ceurik
+1) budak eta mah wanian.
+
+Question 18: jelema lamun geus kandel kulit bengeut
+Options:
+0) jelema lamun geus teu gaduh kaera
+1) jelema lamun geus eraan kudu diantepkeun.
+
+Question 19: jelema lamun geus isinan kudu diantepkeun.
+Options:
+0) jelema lamun geus teu gaduh kaera
+1) jelema lamun geus eraan kudu diantepkeun.
+
+Question 20: si Udin jadi jalma teh meni buntut kasiran
+Options:
+0) si Udin jadi jalma teh meni koret, pedit
+1) si Udin jadi jalma teh meni reseup babagi.
+
+Question 21: si Udin jadi jalma teh meni berehan.
+Options:
+0) si Udin jadi jalma teh meni koret, pedit
+1) si Udin jadi jalma teh meni reseup babagi.
+
+Question 22: Iis mah amis daging
+Options:
+0) Iis mah gampang kana panyakit
+1) Iis mah teu gampang kana panyakit.
+
+Question 23: Iis mah pahang tulang.
+Options:
+0) Iis mah gampang kana panyakit
+1) Iis mah teu gampang kana panyakit.
+
+Question 24: sasa teh biasana sok jadi amis budi
+Options:
+0) sasa teh biasana ramah
+1) sasa teh biasana judes.
+
+Question 25: sasa teh biasana sok jadi haseum budi.
+Options:
+0) sasa teh biasana ramah
+1) sasa teh biasana judes.
+
+Question 26: lamun bade nginjem duit kudu make duit panas
+Options:
+0) lamun bade nginjem duit kudu make duit anu teu menang dipake biasana lain anu pribadi
+1) lamun bade nginjem duit kudu make duit anu pribadi moal waka dipake.
+
+Question 27: lamun bade nginjem duit kudu make duit tiis.
+Options:
+0) lamun bade nginjem duit kudu make duit anu teu menang dipake biasana lain anu pribadi
+1) lamun bade nginjem duit kudu make duit anu pribadi moal waka dipake.
+
+Question 28: jalma ayeuna teh sok gurat cai
+Options:
+0) jalma ayeuna teh sok babari ngarobah omongan atawa janji
+1) jalma ayeuna teh sok pageuh kana omongan atawa janji.
+
+Question 29: jalma ayeuna teh sok gurat batu.
+Options:
+0) jalma ayeuna teh sok babari ngarobah omongan atawa janji
+1) jalma ayeuna teh sok pageuh kana omongan atawa janji.
+
+Question 30: lamun bisnis mah pasti jadi kandel dompet
+Options:
+0) lamun bisnis mah pasti jadi loba duit
+1) lamun bisnis mah pasti jadi kacida teu boga duit.
+
+Question 31: lamun bisnis mah pasti jadi kokoro nyoso.
+Options:
+0) lamun bisnis mah pasti jadi loba duit
+1) lamun bisnis mah pasti jadi kacida teu boga duit.
+
+Question 32: nanaon ge teu menang kaleleuwihan bisi tamplok bacoteun
+Options:
+0) nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean
+1) nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean nepi ka poho ka diri sorangan.
+
+Question 33: nanaon ge teu menang kaleleuwihan bisi tamplok batokeun.
+Options:
+0) nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean
+1) nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean nepi ka poho ka diri sorangan.
+
+Question 34: jadi jelema teh kadang bisa jadi yuni kembang
+Options:
+0) jadi jelema teh kadang bisa jadi pikareseupeun
+1) jadi jelema teh kadang bisa jadi pikasebeleun.
+
+Question 35: jadi jelema teh kadang bisa jadi yuni tai.
+Options:
+0) jadi jelema teh kadang bisa jadi pikareseupeun
+1) jadi jelema teh kadang bisa jadi pikasebeleun.
+
+Question 36: jelema teh kabagi jadi dua, nyaeta anu wening galih
+Options:
+0) jelema teh kabagi jadi dua, nyaeta anu bersih hate
+1) jelema teh kabagi jadi dua, nyaeta anu goreng hate iri, dengki.
+
+Question 37: jelema teh kabagi jadi dua, nyaeta anu sulit ati.
+Options:
+0) jelema teh kabagi jadi dua, nyaeta anu bersih hate
+1) jelema teh kabagi jadi dua, nyaeta anu goreng hate iri, dengki.
+
+Question 38: kudu hati hati milih pasangan bisi jadi potol jarum
+Options:
+0) kudu hati hati milih pasangan bisi jadi awewe anu beak hartana
+1) kudu hati hati milih pasangan bisi jadi lalaki anu beak hartana.
+
+Question 39: kudu hati hati milih pasangan bisi jadi potol teko.
+Options:
+0) kudu hati hati milih pasangan bisi jadi awewe anu beak hartana
+1) kudu hati hati milih pasangan bisi jadi lalaki anu beak hartana.
+
+Question 40: si Bina mah anak emas
+Options:
+0) si Bina mah anak anu dipikanyaah
+1) si Bina mah anak tere.
+
+Question 41: si Bina mah anak sampeuran.
+Options:
+0) si Bina mah anak anu dipikanyaah
+1) si Bina mah anak tere.
+
+Question 42: budak teh kudu asak warah
+Options:
+0) budak teh kudu alus didikana
+1) budak teh kudu kurang didikan.
+
+Question 43: budak teh kudu atah adol.
+Options:
+0) budak teh kudu alus didikana
+1) budak teh kudu kurang didikan.
+
+Question 44: tong jadi budak anu bodo katotoloyo
+Options:
+0) tong jadi budak anu bodo tapi tara daek nanya
+1) tong jadi budak anu bodo tapi daek tatanya.
+
+Question 45: tong jadi budak anu bodo alewoh.
+Options:
+0) tong jadi budak anu bodo tapi tara daek nanya
+1) tong jadi budak anu bodo tapi daek tatanya.
+
+Question 46: ari jadi salaki teh kudu banting tulang
+Options:
+0) ari jadi salaki teh kudu digawe popohoan
+1) ari jadi salaki teh kudu teu bisa digawe.
+
+Question 47: ari jadi salaki teh kudu badag cagap.
+Options:
+0) ari jadi salaki teh kudu digawe popohoan
+1) ari jadi salaki teh kudu teu bisa digawe.
+
+Question 48: si Dewi mah jadi gadis teh meni handap asor
+Options:
+0) si Dewi mah jadi gadis teh meni teu sombong
+1) si Dewi mah jadi gadis teh meni sombong.
+
+Question 49: si Dewi mah jadi gadis teh meni gede hulu.
+Options:
+0) si Dewi mah jadi gadis teh meni teu sombong
+1) si Dewi mah jadi gadis teh meni sombong.
+
+Question 50: ceunah lamun jadi awewe teh kudu siga putri raja
+Options:
+0) ceunah lamun jadi awewe teh kudu anggun
+1) ceunah lamun jadi awewe teh kudu buruk rupa.
+
+Question 51: ceunah lamun jadi awewe teh kudu siga mak lampir.
+Options:
+0) ceunah lamun jadi awewe teh kudu anggun
+1) ceunah lamun jadi awewe teh kudu buruk rupa.
+
+Question 52: poe ieu teh cuaca siga bisa ngagoreng lauk dinu aspal
+Options:
+0) poe ieu teh cuaca siga panas pisan
+1) poe ieu teh cuaca siga hujan angin.
+
+Question 53: poe ieu teh cuaca siga hujan angin dordar gelap.
+Options:
+0) poe ieu teh cuaca siga panas pisan
+1) poe ieu teh cuaca siga hujan angin.
+
+Question 54: hujan teh meuni siga ngajak geulut
+Options:
+0) hujan teh meuni badag jeung gandeng
+1) hujan teh meuni sepi jeung geunaheun.
+
+Question 55: hujan teh meuni siga tiis ceuli.
+Options:
+0) hujan teh meuni badag jeung gandeng
+1) hujan teh meuni sepi jeung geunaheun.
+
+Question 56: si eta mah kuatannya, teu siga lempeuh yuni
+Options:
+0) si eta mah kuatannya, teu gampang geuring
+1) si eta mah kuatannya, teu sehat.
+
+Question 57: si eta mah kuatannya, teu siga jagjag waringkas.
+Options:
+0) si eta mah kuatannya, teu gampang geuring
+1) si eta mah kuatannya, teu sehat.
+
+Question 58: ai budak keneh mah antep kudu jadi kembang buruan
+Options:
+0) ai budak keneh mah antep kudu jadi budak nu reseup kaluar
+1) ai budak keneh mah antep kudu jadi tong dikurung.
+
+Question 59: ai budak keneh mah antep kudu jadi kurung batok.
+Options:
+0) ai budak keneh mah antep kudu jadi budak nu reseup kaluar
+1) ai budak keneh mah antep kudu jadi tong dikurung.
+"
+1,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 60: Kadang hirup teh bisa jadi kembang seungit
+Options:
+0) Kadang hirup teh bisa jadi katingali senang
+1) Kadang hirup teh bisa jadi teu bahagia.
+
+Question 61: Kadang hirup teh bisa jadi bau bangke.
+Options:
+0) Kadang hirup teh bisa jadi katingali senang
+1) Kadang hirup teh bisa jadi teu bahagia.
+
+Question 62: Ulah agul kana payung butut
+Options:
+0) Ulah agul kana harta saetik nu dipikaboga ayeuna
+1) Ulah agul kana harta loba nu dipikaboga ayeuna.
+
+Question 63: Ulah agul kana imah gedogan.
+Options:
+0) Ulah agul kana harta saetik nu dipikaboga ayeuna
+1) Ulah agul kana harta loba nu dipikaboga ayeuna.
+
+Question 64: Jalma teh bisa jadi cai
+Options:
+0) Jalma teh bisa jadi nu tenang
+1) Jalma teh bisa jadi nu riweuh.
+
+Question 65: Jalma teh bisa jadi seune.
+Options:
+0) Jalma teh bisa jadi nu tenang
+1) Jalma teh bisa jadi nu riweuh.
+
+Question 66: Hirup kudu bisa jadi batu
+Options:
+0) Hirup kudu bisa jadi boga pamadegan
+1) Hirup kudu bisa jadi plin-plan.
+
+Question 67: Hirup kudu bisa jadi awi sumaer di pasir.
+Options:
+0) Hirup kudu bisa jadi boga pamadegan
+1) Hirup kudu bisa jadi plin-plan.
+
+Question 68: Jadi budak ulah nincak hulu
+Options:
+0) Jadi budak ulah teu sopan
+1) Jadi budak ulah sopan.
+
+Question 69: Jadi budak ulah hade basa.
+Options:
+0) Jadi budak ulah teu sopan
+1) Jadi budak ulah sopan.
+
+Question 70: hirup mah ngan ukur hahay
+Options:
+0) hirup mah ngan ukur senang
+1) hirup mah ngan ukur sedih.
+
+Question 71: hirup mah ngan ukur dedeuh.
+Options:
+0) hirup mah ngan ukur senang
+1) hirup mah ngan ukur sedih.
+
+Question 72: ai ka batur teh ulah sok ngukur baju sasereg awak
+Options:
+0) ai ka batur teh ulah sok ningali ti luarna hungkul
+1) ai ka batur teh ulah sok leuwi jero.
+
+Question 73: ai ka batur teh ulah sok ngukur baju jeung kaen-kaenna.
+Options:
+0) ai ka batur teh ulah sok ningali ti luarna hungkul
+1) ai ka batur teh ulah sok leuwi jero.
+
+Question 74: kulit teh meuni kelir kawas cangkang cau
+Options:
+0) kulit teh meuni kelir koneng
+1) kulit teh meuni kelir coklat.
+
+Question 75: kulit teh meuni kelir kawas sawo asak.
+Options:
+0) kulit teh meuni kelir koneng
+1) kulit teh meuni kelir coklat.
+
+Question 76: lamun aya masalah, hidup teh karasa keur buuk pakusut
+Options:
+0) lamun aya masalah, hidup teh karasa keurteu lancar
+1) lamun aya masalah, hidup teh karasa keur mulus.
+
+Question 77: lamun aya masalah, hidup teh karasa keur jalan tol.
+Options:
+0) lamun aya masalah, hidup teh karasa keurteu lancar
+1) lamun aya masalah, hidup teh karasa keur mulus.
+
+Question 78: jadi gadis balik teh tong pas datang panonpoe
+Options:
+0) jadi gadis balik teh tong pas datang isuk
+1) jadi gadis balik teh tong pas datang peuting.
+
+Question 79: jadi gadis balik teh tong pas datang bulan.
+Options:
+0) jadi gadis balik teh tong pas datang isuk
+1) jadi gadis balik teh tong pas datang peuting.
+
+Question 80: Lamun gawe teh kuduna mah bisa rerejeungan
+Options:
+0) Lamun gawe teh kuduna bisa kompak
+1) Lamun gawe teh kuduna bisa masing-masing.
+
+Question 81: Lamun gawe teh kuduna mah bisa paaing-aing.
+Options:
+0) Lamun gawe teh kuduna bisa kompak
+1) Lamun gawe teh kuduna bisa masing-masing.
+
+Question 82: Nuju liburan teh kedah bari bear budi
+Options:
+0) Nuju liburan teh kedah bari gumbira
+1) Nuju liburan teh kedah bari nyesel.
+
+Question 83: Nuju liburan teh kedah bari kaduhung.
+Options:
+0) Nuju liburan teh kedah bari gumbira
+1) Nuju liburan teh kedah bari nyesel.
+
+Question 84: Hirup teh kadang bisa jadi runtah
+Options:
+0) Hirup teh kadang bisa jadi teu dihargaan
+1) Hirup teh kadang bisa jadi diagung-agungkeun.
+
+Question 85: Hirup teh kadang bisa jadi emas.
+Options:
+0) Hirup teh kadang bisa jadi teu dihargaan
+1) Hirup teh kadang bisa jadi diagung-agungkeun.
+
+Question 86: Sangkan hirup teh loba kapait
+Options:
+0) Sangkan hirup teh loba cobaan
+1) Sangkan hirup teh loba kabahagiaan kudu bisa ngarumasakeun.
+
+Question 87: Sangkan hirup teh loba kaamis kudu bisa ngarumasakeun.
+Options:
+0) Sangkan hirup teh loba cobaan
+1) Sangkan hirup teh loba kabahagiaan kudu bisa ngarumasakeun.
+
+Question 88: Ngomong jeung si eta mah nya meuni kawas sireum
+Options:
+0) Ngomong jeung si eta mah nya meuni lalaunan
+1) Ngomong jeung si eta mah nya meuni jojorowokan.
+
+Question 89: Ngomong jeung si eta mah nya meuni kawas maung.
+Options:
+0) Ngomong jeung si eta mah nya meuni lalaunan
+1) Ngomong jeung si eta mah nya meuni jojorowokan.
+
+Question 90: Kadang jelema teh bisa kandel kulit bengeut
+Options:
+0) Kadang jelema teh bisa teu boga kaera
+1) Kadang jelema teh bisa eraan.
+
+Question 91: Kadang jelema teh bisa ipis kulit bengeut.
+Options:
+0) Kadang jelema teh bisa teu boga kaera
+1) Kadang jelema teh bisa eraan.
+
+Question 92: ayeuna buuk na teh tos jadi barodas
+Options:
+0) Ayeuna mah tos jadi kolot
+1) Ayeuna mah tos jadi ngora keneh.
+
+Question 93: ayeuna buuk na teh tos jadi harideung.
+Options:
+0) Ayeuna mah tos jadi kolot
+1) Ayeuna mah tos jadi ngora keneh.
+
+Question 94: Jadi jelema mah ulah sulit ati
+Options:
+0) Jadi jelema mah ulah iri
+1) Jadi jelema mah ulah bageur.
+
+Question 95: Jadi jelema mah ulah hade hate.
+Options:
+0) Jadi jelema mah ulah iri
+1) Jadi jelema mah ulah bageur.
+
+Question 96: Ayeuna mah ka Bandung teh meuni siga jalan ka cai
+Options:
+0) Ayeuna mah ka Bandung teh meuni deket
+1) Ayeuna mah ka Bandung teh meuni jauh.
+
+Question 97: Ayeuna mah ka Bandung teh meuni siga mapay jalan satapak.
+Options:
+0) Ayeuna mah ka Bandung teh meuni deket
+1) Ayeuna mah ka Bandung teh meuni jauh.
+
+Question 98: Maneh mah jadi jelema teh meuni beteung karet
+Options:
+0) Maneh mah jadi jelema teh meuni loba dahar
+1) Maneh mah jadi jelema teh meuni tara barang dahar.
+
+Question 99: Maneh mah jadi jelema teh meuni beuteng heras.
+Options:
+0) Maneh mah jadi jelema teh meuni loba dahar
+1) Maneh mah jadi jelema teh meuni tara barang dahar.
+
+Question 100: Lalakonna siga bangkong dikurung batok
+Options:
+0) Lalakonna keueungeun
+1) Lalakonna liar.
+
+Question 101: Lalakonna siga manuk dikencarkeun.
+Options:
+0) Lalakonna keueungeun
+1) Lalakonna liar.
+
+Question 102: Balong laukna siga mencrang cai herang
+Options:
+0) Balong laukna beresih
+1) Balong laukna ledig.
+
+Question 103: Balong laukna siga buyatak solokan.
+Options:
+0) Balong laukna beresih
+1) Balong laukna ledig.
+
+Question 104: Rupina siga kembang beukah
+Options:
+0) Rupina sae
+1) Rupina awon.
+
+Question 105: Rupina siga tahu beukah.
+Options:
+0) Rupina sae
+1) Rupina awon.
+
+Question 106: Sorana kawas tarompet
+Options:
+0) Sora na tarik
+1) Sora na laun.
+
+Question 107: Sorana kawas susumputan.
+Options:
+0) Sora na tarik
+1) Sora na laun.
+
+Question 108: Neangan si eta kawas neang jarum di sawah
+Options:
+0) Neangan si eta hese
+1) Neangan si eta gampil.
+
+Question 109: Neangan si eta kawas neang domba dina kandang hayam.
+Options:
+0) Neangan si eta hese
+1) Neangan si eta gampil.
+
+Question 110: Sapopoe si eta kawas nu diudag ku rentenir
+Options:
+0) Sapopoe si eta seueur emutan
+1) Sapopoe si eta euweuh pagawean.
+
+Question 111: Sapopoe si eta kawas nu teu boga pamajikan.
+Options:
+0) Sapopoe si eta seueur emutan
+1) Sapopoe si eta euweuh pagawean.
+
+Question 112: Mun makan siga nu teu boga duit
+Options:
+0) Mun dahar loba
+1) Mun dahar saeutik.
+
+Question 113: Mun makan siga loba duit.
+Options:
+0) Mun dahar loba
+1) Mun dahar saeutik.
+
+Question 114: Nasehat ti bapa na nangceub siga batu
+Options:
+0) Nasihat apa na diemutan
+1) Nasihat apa na poho.
+
+Question 115: Nasehat ti bapa na leungit siga debu kahujanan.
+Options:
+0) Nasihat apa na diemutan
+1) Nasihat apa na poho.
+
+Question 116: Dagingna siga tahu
+Options:
+0) Daging na hipu
+1) Daging na heuras.
+
+Question 117: Dagingna siga batu.
+Options:
+0) Daging na hipu
+1) Daging na heuras.
+
+Question 118: Gawena siga nu diudag ku anjing
+Options:
+0) Gawe na gancang
+1) Gawe na lila.
+
+Question 119: Gawena siga nu keong meuntas jalan.
+Options:
+0) Gawe na gancang
+1) Gawe na lila.
+"
+2,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 120: Sakapeung jodoh teh kawas meuli ucing dina karung
+Options:
+0) Sakapeung jodoh teh teu kantos ditebak
+1) Sakapeung jodoh teh kantos ditebak.
+
+Question 121: Sakapeung jodoh teh kawas meuli bumbu di pasar.
+Options:
+0) Sakapeung jodoh teh teu kantos ditebak
+1) Sakapeung jodoh teh kantos ditebak.
+
+Question 122: Acukna siga meuli di mall
+Options:
+0) Acuk na sae
+1) Acuk na awon.
+
+Question 123: Acukna siga nimu di rongsokan.
+Options:
+0) Acuk na sae
+1) Acuk na awon.
+
+Question 124: Sapi na siga limosin
+Options:
+0) Sapi na ageung
+1) Sapi na leutik.
+
+Question 125: Sapi na siga nu cacingan.
+Options:
+0) Sapi na ageung
+1) Sapi na leutik.
+
+Question 126: Mung ngomong siga aya sambelna
+Options:
+0) Mung ngomong nyeurikeun hate
+1) Mung ngomong hati-hati.
+
+Question 127: Mung ngomong siga putri solo.
+Options:
+0) Mung ngomong nyeurikeun hate
+1) Mung ngomong hati-hati.
+
+Question 128: Ditingal teh si eta siga nu can ibak
+Options:
+0) Ditingal teh si eta bau
+1) Ditingal teh si eta wangi.
+
+Question 129: Ditingal teh si eta siga ibak kembang tujuh rupi.
+Options:
+0) Ditingal teh si eta bau
+1) Ditingal teh si eta wangi.
+
+Question 130: Ka pasar ge siga nu rek ka uleman
+Options:
+0) Ka pasar loba dangdan
+1) Ka pasar teu dangdan.
+
+Question 131: Ka pasar ge siga nu rek sare.
+Options:
+0) Ka pasar loba dangdan
+1) Ka pasar teu dangdan.
+
+Question 132: Lengeunna geutihan siga nu ditabrak mobil
+Options:
+0) Lengeunna geutihan loba
+1) Lengeunna geutihan saeutik.
+
+Question 133: Lengeunna geutihan siga kakowet ucing.
+Options:
+0) Lengeunna geutihan loba
+1) Lengeunna geutihan saeutik.
+
+Question 134: Si eta mung ceurik siga nu loba masalah
+Options:
+0) Si eta mung ceurik tarik
+1) Si eta mung ceurik lalaunan.
+
+Question 135: Si eta mung ceurik siga euweuh masalah.
+Options:
+0) Si eta mung ceurik tarik
+1) Si eta mung ceurik lalaunan.
+
+Question 136: Aya nu nyetir siga jalan boga akina
+Options:
+0) Aya nu nyetir ugal-ugalan
+1) Aya nu nyetir hati-hati.
+
+Question 137: Aya nu nyetir siga sieun labuh.
+Options:
+0) Aya nu nyetir ugal-ugalan
+1) Aya nu nyetir hati-hati.
+
+Question 138: Mangga na siga madu
+Options:
+0) Mangga na amis
+1) Mangga na haseum.
+
+Question 139: Mangga na siga cuka.
+Options:
+0) Mangga na amis
+1) Mangga na haseum.
+
+Question 140: Rai na ka adi na teh siga cocoan
+Options:
+0) Kalakuan rai na ka adi jail
+1) Kalakuan rai na ka adi nyaah.
+
+Question 141: Rai na ka adi na teh siga perhiasan.
+Options:
+0) Kalakuan rai na ka adi jail
+1) Kalakuan rai na ka adi nyaah.
+
+Question 142: Si eta mung ngomong siga nu kahuruan
+Options:
+0) Mung nyauran gugurusuhan
+1) Mung nyauran anteng.
+
+Question 143: Si eta mung ngomong siga aya di situ.
+Options:
+0) Mung nyauran gugurusuhan
+1) Mung nyauran anteng.
+
+Question 144: Rupi na siga arjuna
+Options:
+0) Rupi na kasep
+1) Rupi na awon.
+
+Question 145: Rupi na siga cepot.
+Options:
+0) Rupi na kasep
+1) Rupi na awon.
+
+Question 146: Kuliah na siga euweuh tanggal beureum
+Options:
+0) Kuliah na rajin
+1) Kuliah na sakahayang.
+
+Question 147: Kuliah na siga kalender isina tanggal beureum.
+Options:
+0) Kuliah na rajin
+1) Kuliah na sakahayang.
+
+Question 148: Awakna siga tangkal jati
+Options:
+0) Awakna kiat
+1) Awakna letoy.
+
+Question 149: Awakna siga tangkal gedang.
+Options:
+0) Awakna kiat
+1) Awakna letoy.
+
+Question 150: Mung lumpat si eta siga peucang
+Options:
+0) Mung lumpat gancang
+1) Mung lumpat lila.
+
+Question 151: Mung lumpat si eta siga kuya.
+Options:
+0) Mung lumpat gancang
+1) Mung lumpat lila.
+
+Question 152: Si eta kuliah siga nu teu kantos bobo
+Options:
+0) Si eta kuliah na sibuk
+1) Si eta kuliah na santai.
+
+Question 153: Si eta kuliah siga nu teu aya beban.
+Options:
+0) Si eta kuliah na sibuk
+1) Si eta kuliah na santai.
+
+Question 154: Masakanna kawas nu hoyong geura nikah
+Options:
+0) Masakan na awon
+1) Masakan na ngeunah.
+
+Question 155: Masakanna kawas nu boga resto ageung.
+Options:
+0) Masakan na awon
+1) Masakan na ngeunah.
+
+Question 156: Hawa na siga di leuweung
+Options:
+0) Hawa na tiis
+1) Hawa na panas.
+
+Question 157: Hawa na siga di pasar.
+Options:
+0) Hawa na tiis
+1) Hawa na panas.
+
+Question 158: Kaayaan ayeuna kawas loba dosa
+Options:
+0) Kaayaan ayeuna awon
+1) Kaayaan ayeuna alus.
+
+Question 159: Kaayaan ayeuna kawas loba pahala.
+Options:
+0) Kaayaan ayeuna awon
+1) Kaayaan ayeuna alus.
+
+Question 160: Hujanna kawas cai ngagubrag
+Options:
+0) Hujan na lebat
+1) Hujan na tiiseun.
+
+Question 161: Hujanna kawas cai ceret.
+Options:
+0) Hujan na lebat
+1) Hujan na tiiseun.
+
+Question 162: Salaki na kawas Kabayan
+Options:
+0) Salaki na kedul
+1) Salaki na rajin.
+
+Question 163: Salaki na kawas Nyi Iteung.
+Options:
+0) Salaki na kedul
+1) Salaki na rajin.
+
+Question 164: Budak na siga nu dipoe ti isuk nepi peuting
+Options:
+0) Budak na kurus
+1) Budak na gendut.
+
+Question 165: Budak na siga nu dihuapan sapopoe.
+Options:
+0) Budak na kurus
+1) Budak na gendut.
+
+Question 166: Hirup teh kawas meuntas atas benang
+Options:
+0) Hirup teh loba tantangan
+1) Hirup teh teu aya tantangan.
+
+Question 167: Hirup teh kawas leumpang dina jalan lega.
+Options:
+0) Hirup teh loba tantangan
+1) Hirup teh teu aya tantangan.
+
+Question 168: Keneh isuk ngan siga panonpoe geus mencrang wae
+Options:
+0) Keneh isuk tos panas
+1) Keneh isuk keneh tiis.
+
+Question 169: Keneh isuk ngan siga moal aya deui panonpoe.
+Options:
+0) Keneh isuk tos panas
+1) Keneh isuk keneh tiis.
+
+Question 170: Ngabaturan si eta unggal poe siga keur aya perang wae
+Options:
+0) Ngabaturan si eta unggal poe loba masalah
+1) Ngabaturan si eta unggal poe euweuh masalah.
+
+Question 171: Ngabaturan si eta unggal poe siga boga asisten sagala tiasa.
+Options:
+0) Ngabaturan si eta unggal poe loba masalah
+1) Ngabaturan si eta unggal poe euweuh masalah.
+
+Question 172: Kakolot undak unduk na siga malin kundang
+Options:
+0) Ka kolot undak unduk na siga durhaka
+1) Ka kolot undak unduk na siga ngabaktos.
+
+Question 173: Kakolot undak unduk na siga lukman hakim.
+Options:
+0) Ka kolot undak unduk na siga durhaka
+1) Ka kolot undak unduk na siga ngabaktos.
+
+Question 174: Budak ayeuna mung gawe kawas kebo
+Options:
+0) Budak ayeuna mung gawe lambat
+1) Budak ayeuna mung gawe geusit.
+
+Question 175: Budak ayeuna mung gawe kawas peucang.
+Options:
+0) Budak ayeuna mung gawe lambat
+1) Budak ayeuna mung gawe geusit.
+
+Question 176: Milarian artos siga nu moal waka gugah deui
+Options:
+0) Milarian artos rajin
+1) Milarian artos nyalse.
+
+Question 177: Milarian artos siga artos ngagolosor ti langit.
+Options:
+0) Milarian artos rajin
+1) Milarian artos nyalse.
+
+Question 178: Mie na beukah kawas kembang aromanis
+Options:
+0) Mie na beukah sae
+1) Mie na beukah teu tangtu.
+
+Question 179: Mie na beukah kawas adonan buyatak.
+Options:
+0) Mie na beukah sae
+1) Mie na beukah teu tangtu.
+"
+3,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 180: Bumi na siga nu teu aya cucunguk sahiji-hiji acan
+Options:
+0) Bumi na beresih pisan
+1) Bumi na buladig.
+
+Question 181: Bumi na siga sarang na cucunguk.
+Options:
+0) Bumi na beresih pisan
+1) Bumi na buladig.
+
+Question 182: Sakola na ka bumi siga ti kulon ka wetan
+Options:
+0) Sakola na ka bumi tebih
+1) Sakola na ka bumi caket.
+
+Question 183: Sakola na ka bumi siga ukur salengkah.
+Options:
+0) Sakola na ka bumi tebih
+1) Sakola na ka bumi caket.
+
+Question 184: Pangaos cocoan si ade siga panagos imah jeung sawah
+Options:
+0) Pangaos cocoan si ade awis
+1) Pangaos cocoan si ade mirah.
+
+Question 185: Pangaos cocoan si ade siga cimol tilu siki.
+Options:
+0) Pangaos cocoan si ade awis
+1) Pangaos cocoan si ade mirah.
+
+Question 186: Wengi ieu langit na siga cai herang
+Options:
+0) Wengi ieu langit na mencrang
+1) Wengi ieu langit na ceudeum.
+
+Question 187: Wengi ieu langit na siga cai kopi.
+Options:
+0) Wengi ieu langit na mencrang
+1) Wengi ieu langit na ceudeum.
+
+Question 188: Kasohor na eta artis siga nu gaduh panghargaan ti seeuer nagara
+Options:
+0) Kasohor na eta artis sagala jalmi uninga
+1) Kasohor na eta artis teu aya jalmi uninga.
+
+Question 189: Kasohor na eta artis siga nu teu aya internet wae.
+Options:
+0) Kasohor na eta artis sagala jalmi uninga
+1) Kasohor na eta artis teu aya jalmi uninga.
+
+Question 190: Hasil melak na kawas kali keur banjir
+Options:
+0) Hasil melak na loba
+1) Hasil melak na saeutik.
+
+Question 191: Hasil melak na kawas kali keur saat.
+Options:
+0) Hasil melak na loba
+1) Hasil melak na saeutik.
+
+Question 192: Nu lalajo di stadion kamari siga budak leutik
+Options:
+0) Nu lalajo di stadion kamari rame
+1) Nu lalajo di stadion kamari sepi.
+
+Question 193: Nu lalajo di stadion kamari siga nu karolot kabeh.
+Options:
+0) Nu lalajo di stadion kamari rame
+1) Nu lalajo di stadion kamari sepi.
+
+Question 194: Beuki ka dieu pamarentah teh siga beurit dina lumbung pare
+Options:
+0) Beuki ka dieu pamarentah beuki korup
+1) Beuki ka dieu pamarentah beuki ngaalusan.
+
+Question 195: Beuki ka dieu pamarentah teh siga pare nu geus asak.
+Options:
+0) Beuki ka dieu pamarentah beuki korup
+1) Beuki ka dieu pamarentah beuki ngaalusan.
+
+Question 196: Sanajan loba masalah manehna siga jukut di leuweung
+Options:
+0) Sanajan loba masalah maneh na pantang nyerah
+1) Sanajan loba masalah maneh na gampil nyerah.
+
+Question 197: Sanajan loba masalah manehna siga kembang katewak angin.
+Options:
+0) Sanajan loba masalah maneh na pantang nyerah
+1) Sanajan loba masalah maneh na gampil nyerah.
+
+Question 198: Ngalereskeun ieu mesin siga nu keur operasi jantung
+Options:
+0) Ngalereskeun ieu mesin hese
+1) Ngalereskeun ieu mesin gampil.
+
+Question 199: Ngalereskeun ieu mesin siga ngalereskeun cocoan budak.
+Options:
+0) Ngalereskeun ieu mesin hese
+1) Ngalereskeun ieu mesin gampil.
+
+Question 200: Asep lumpatna kawas uncal
+Options:
+0) Asep lumpatna gancang
+1) Asep lumpatna lila.
+
+Question 201: Asep lumpatna kawas keong.
+Options:
+0) Asep lumpatna gancang
+1) Asep lumpatna lila.
+
+Question 202: Si Iwan kasohor lantaran siga foto model
+Options:
+0) Si Iwan kasohor lantaran kasep
+1) Si Iwan kasohor lantaran goreng.
+
+Question 203: Si Iwan kasohor lantaran siga foto modol.
+Options:
+0) Si Iwan kasohor lantaran kasep
+1) Si Iwan kasohor lantaran goreng.
+
+Question 204: Mun jadi jalmi ulah sok beurat birit
+Options:
+0) Mun jadi jalmi ulah sok kedul
+1) Mun jadi jalmi ulah sok getol.
+
+Question 205: Mun jadi jalmi ulah sok hampang birit.
+Options:
+0) Mun jadi jalmi ulah sok kedul
+1) Mun jadi jalmi ulah sok getol.
+
+Question 206: Hirup teh kawas leumpang di gigir gawir
+Options:
+0) Hirup teh sulit
+1) Hirup teh gampil.
+
+Question 207: Hirup teh kawas lumpat di lapang.
+Options:
+0) Hirup teh sulit
+1) Hirup teh gampil.
+
+Question 208: Meuli hp saharga imah gedongan
+Options:
+0) Meuli hp mahal
+1) Meuli hp murah.
+
+Question 209: Meuli hp saharga rorompok gubuk.
+Options:
+0) Meuli hp mahal
+1) Meuli hp murah.
+
+Question 210: Omongan Pak Ustad kawas gula dina enteh
+Options:
+0) Omongan Pak Ustad amis
+1) Omongan Pak Ustad pait.
+
+Question 211: Omongan Pak Ustad kawas kopi hideung.
+Options:
+0) Omongan Pak Ustad amis
+1) Omongan Pak Ustad pait.
+
+Question 212: Ieu kabar umpama hujan bentar
+Options:
+0) Ieu kabar ngareuwaskeun
+1) Ieu kabar nenangkeun.
+
+Question 213: Ieu kabar umpama angin ngahiliwir.
+Options:
+0) Ieu kabar ngareuwaskeun
+1) Ieu kabar nenangkeun.
+
+Question 214: Kulit Siti kos bujur orok
+Options:
+0) Kulit Siti mulus
+1) Kulit Siti korodok.
+
+Question 215: Kulit Siti kos careuh bulan.
+Options:
+0) Kulit Siti mulus
+1) Kulit Siti korodok.
+
+Question 216: Sikap anjeunna siga es batu
+Options:
+0) Sikap anjeunna tiis
+1) Sikap anjeunna haneut.
+
+Question 217: Sikap anjeunna siga susu botol jang orok.
+Options:
+0) Sikap anjeunna tiis
+1) Sikap anjeunna haneut.
+
+Question 218: Adi lanceuk teh kalakuan kos anjing jeung ucing
+Options:
+0) Adi lanceuk teh kalakuan teu akur
+1) Adi lanceuk teh kalakuan akur.
+
+Question 219: Adi lanceuk teh kalakuan kos jalak jeung kebo.
+Options:
+0) Adi lanceuk teh kalakuan teu akur
+1) Adi lanceuk teh kalakuan akur.
+
+Question 220: Boga kabogoh teh sikapna kos maung
+Options:
+0) Boga kabogoh teh sikapna wanian
+1) Boga kabogoh teh sikapna eraan.
+
+Question 221: Boga kabogoh teh sikapna kos kukang.
+Options:
+0) Boga kabogoh teh sikapna wanian
+1) Boga kabogoh teh sikapna eraan.
+
+Question 222: Lanceuk abdi awakna sapertos nyere
+Options:
+0) Lanceuk abdi awakna begang
+1) Lanceuk abdi awakna buleud.
+
+Question 223: Lanceuk abdi awakna sapertos gajah.
+Options:
+0) Lanceuk abdi awakna begang
+1) Lanceuk abdi awakna buleud.
+
+Question 224: Gawe teh umpama nginum cai sirop
+Options:
+0) Gawe teh ngabagjakeun
+1) Gawe teh hanjelu.
+
+Question 225: Gawe teh umpama nginum peresan limo.
+Options:
+0) Gawe teh ngabagjakeun
+1) Gawe teh hanjelu.
+
+Question 226: Sora manehna kawas kicau manuk dadali
+Options:
+0) Sora manehna merdu
+1) Sora manehna gandeng.
+
+Question 227: Sora manehna kawas hujan geledek.
+Options:
+0) Sora manehna merdu
+1) Sora manehna gandeng.
+
+Question 228: Awak manehna meuni kawas mawar bodas
+Options:
+0) Awak manehna meuni seungit
+1) Awak manehna meuni bau.
+
+Question 229: Awak manehna meuni kawas kembang bangke.
+Options:
+0) Awak manehna meuni seungit
+1) Awak manehna meuni bau.
+
+Question 230: Ponten rapor kuring umpama beureum getih
+Options:
+0) Ponten rapor kuring goreng
+1) Ponten rapor kuring alus.
+
+Question 231: Ponten rapor kuring umpama biru langit.
+Options:
+0) Ponten rapor kuring goreng
+1) Ponten rapor kuring alus.
+
+Question 232: Ditolak manehna umpama hate dikeureut peso
+Options:
+0) Ditolak manehna meuni nyeri
+1) Ditolak manehna meuni gumbira.
+
+Question 233: Ditolak manehna umpama taman pinuh ku kembang.
+Options:
+0) Ditolak manehna meuni nyeri
+1) Ditolak manehna meuni gumbira.
+
+Question 234: Omongan manehna kawas cai di daun taleus
+Options:
+0) Omongan manehna robah-robah
+1) Omongan manehna ajeg.
+
+Question 235: Omongan manehna kawas tangkal beringin.
+Options:
+0) Omongan manehna robah-robah
+1) Omongan manehna ajeg.
+
+Question 236: Kosan rerencangan abdi sapertos lapangan bola
+Options:
+0) Kosan rerencangan abdi lega
+1) Kosan rerencangan abdi heurin.
+
+Question 237: Kosan rerencangan abdi sapertos liang sireum.
+Options:
+0) Kosan rerencangan abdi lega
+1) Kosan rerencangan abdi heurin.
+
+Question 238: Cicing di imah teh kos cicing di neraka
+Options:
+0) Cicing di imah teh teu betah
+1) Cicing di imah teh betah.
+
+Question 239: Cicing di imah teh kos cicing di taman firdaus.
+Options:
+0) Cicing di imah teh teu betah
+1) Cicing di imah teh betah.
+"
+4,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 240: Ngaharep balesan manehna ibarat ngajarkeun lauk naek tangkal
+Options:
+0) Ngaharep balesan manehna mustahil
+1) Ngaharep balesan manehna teu kudu usaha.
+
+Question 241: Ngaharep balesan manehna ibarat ngajarkeun monyet naek tangkal.
+Options:
+0) Ngaharep balesan manehna mustahil
+1) Ngaharep balesan manehna teu kudu usaha.
+
+Question 242: Milarian padamelan ayena mah sapertos milarian bintang di beurang copong
+Options:
+0) Milarian padamelan ayeuna mah sesah
+1) Milarian padamelan ayeuna mah gampil.
+
+Question 243: Milarian padamelan ayena mah sapertos milarian lauk di sagara.
+Options:
+0) Milarian padamelan ayeuna mah sesah
+1) Milarian padamelan ayeuna mah gampil.
+
+Question 244: Hoyong seueur acis, tapi teu damel tes sapertos ngajarkeun lauk naek tangkal
+Options:
+0) Hoyong seueur acis, tapi teu damel teh mustahil
+1) Hoyong seueur acis, tapi teu damel teh mungkin wae.
+
+Question 245: Hoyong seueur acis, tapi teu damel tes sapertos ngajarkeun monyet renang.
+Options:
+0) Hoyong seueur acis, tapi teu damel teh mustahil
+1) Hoyong seueur acis, tapi teu damel teh mungkin wae.
+
+Question 246: Abdi sareung anjeuna kawas langit jeung bumi
+Options:
+0) Abdi sareung anjeuna jauh bedana
+1) Abdi sareung anjeuna eweuh bedana.
+
+Question 247: Abdi sareung anjeuna kawas monyet jeung kera.
+Options:
+0) Abdi sareung anjeuna jauh bedana
+1) Abdi sareung anjeuna eweuh bedana.
+
+Question 248: Diajar matematika umpama diajar maca jang budak SMA
+Options:
+0) Diajar matematika sesah
+1) Diajar matematika gampil.
+
+Question 249: Diajar matematika umpama diajar maca jang budak TK.
+Options:
+0) Diajar matematika sesah
+1) Diajar matematika gampil.
+
+Question 250: Kue damelan umi abdi saraos kue toko
+Options:
+0) Kue damelan umi abdi raos
+1) Kue damelan umi abdi teu raos.
+
+Question 251: Kue damelan umi abdi saraos kue basi.
+Options:
+0) Kue damelan umi abdi raos
+1) Kue damelan umi abdi teu raos.
+
+Question 252: Pun bapa tanagana kawas samson
+Options:
+0) Pun bapa kuat
+1) Pun bapa lemah.
+
+Question 253: Pun bapa tanagana kawas budak sd.
+Options:
+0) Pun bapa kuat
+1) Pun bapa lemah.
+
+Question 254: Acuk lebaran teh sarupa acuk damelan designer kasohor
+Options:
+0) Acuk lebaran teh sae
+1) Acuk lebaran teh butut.
+
+Question 255: Acuk lebaran teh sarupa acuk tukang pulung.
+Options:
+0) Acuk lebaran teh sae
+1) Acuk lebaran teh butut.
+
+Question 256: Teu nyangka rayi abdi sajangkung buto ijo
+Options:
+0) Teu nyangka rayi abdi jangkung
+1) Teu nyangka rayi abdi pondok.
+
+Question 257: Teu nyangka rayi abdi sajangkung ucok baba.
+Options:
+0) Teu nyangka rayi abdi jangkung
+1) Teu nyangka rayi abdi pondok.
+
+Question 258: Ngarantau ibarat jalan-jalan ka nagari nu endah kacipta
+Options:
+0) Ngarantau nyenengkeun
+1) Ngarantau sieun.
+
+Question 259: Ngarantau ibarat jalan-jalan ka leuweung nu loba jurigna.
+Options:
+0) Ngarantau nyenengkeun
+1) Ngarantau sieun.
+
+Question 260: Bobogah lima taun jeung manehna kawas naek kapal di laut nu loba badaina
+Options:
+0) Bobogohan lima taun jeung manehna nyusahkeun
+1) Bobogohan lima taun jeung manehna nyenengkeun.
+
+Question 261: Bobogah lima taun jeung manehna kawas naek kapal di lautan biru nan endah.
+Options:
+0) Bobogohan lima taun jeung manehna nyusahkeun
+1) Bobogohan lima taun jeung manehna nyenengkeun.
+
+Question 262: Jaket maneh naha siga tukang ojek
+Options:
+0) Jaket maneh butut
+1) Jaket maneh alus.
+
+Question 263: Jaket maneh naha siga jaket artis.
+Options:
+0) Jaket maneh butut
+1) Jaket maneh alus.
+
+Question 264: Acuk seuseuhan abdi mah sapertos acuk anyar
+Options:
+0) Acuk seuseuhan abdi mah beresih
+1) Acuk seuseuhan abdi mah kotor.
+
+Question 265: Acuk seuseuhan abdi mah sapertos acuk jalmi beres nguli.
+Options:
+0) Acuk seuseuhan abdi mah beresih
+1) Acuk seuseuhan abdi mah kotor.
+
+Question 266: Budak rerencangan abdi irungnya samancung orang arab
+Options:
+0) Budak rerencangan abdi irungna mancung
+1) Budak rerencangan abdi irungna pesek.
+
+Question 267: Budak rerencangan abdi irungnya samancung jalmi nu beres nyusruk.
+Options:
+0) Budak rerencangan abdi irungna mancung
+1) Budak rerencangan abdi irungna pesek.
+
+Question 268: Pindah bumi ibarat kaleungitan dompet
+Options:
+0) Pindah bumi nyedihkeun
+1) Pindah bumi nyenengkeun.
+
+Question 269: Pindah bumi ibarat manggihan dompet.
+Options:
+0) Pindah bumi nyedihkeun
+1) Pindah bumi nyenengkeun.
+
+Question 270: Buku di bumi rerencangan abdi kawas perpustakaan
+Options:
+0) Buku di bumi rerencangan abdi seueur
+1) Buku di bumi rerencangan abdi hiji atawa sakedik.
+
+Question 271: Buku di bumi rerencangan abdi kawas jumlah kolot na budak yatim.
+Options:
+0) Buku di bumi rerencangan abdi seueur
+1) Buku di bumi rerencangan abdi hiji atawa sakedik.
+
+Question 272: Naek kareta ekonomi sarupa calik dina korsi papan
+Options:
+0) Naek kareta ekonomi teu enakeun
+1) Naek kareta ekonomi enakeun.
+
+Question 273: Naek kareta ekonomi sarupa calik dina sofa busa.
+Options:
+0) Naek kareta ekonomi teu enakeun
+1) Naek kareta ekonomi enakeun.
+
+Question 274: Ukuran suku maneh meuni jiga raksasa
+Options:
+0) Ukuran suku maneh meuni gede
+1) Ukuran suku maneh meuni leutik.
+
+Question 275: Ukuran suku maneh meuni jiga cebol.
+Options:
+0) Ukuran suku maneh meuni gede
+1) Ukuran suku maneh meuni leutik.
+
+Question 276: Basa inggris maneh geus saalus bule
+Options:
+0) Basa inggris maneh lancar
+1) Basa inggris maneh balelol.
+
+Question 277: Basa inggris maneh geus saalus budak nu karak diajar ngomong.
+Options:
+0) Basa inggris maneh lancar
+1) Basa inggris maneh balelol.
+
+Question 278: Carita nini abdi kawas carita pelem-pelem di bioskop
+Options:
+0) Carita nini abdi rame tur alus
+1) Carita nini abdi butut.
+
+Question 279: Carita nini abdi kawas carita nu nyieun sare.
+Options:
+0) Carita nini abdi rame tur alus
+1) Carita nini abdi butut.
+
+Question 280: Minyak goreng ayeuna geus saharga imah
+Options:
+0) Minyak goreng ayeuna mahal
+1) Minyak goreng ayeuna mirah.
+
+Question 281: Minyak goreng ayeuna geus saharga kacang.
+Options:
+0) Minyak goreng ayeuna mahal
+1) Minyak goreng ayeuna mirah.
+
+Question 282: Cai sumur ayeuna mah kos cai kopi
+Options:
+0) Cai sumur ayeuna kiruh
+1) Cai sumur ayeuna herang.
+
+Question 283: Cai sumur ayeuna mah kos cai aqua.
+Options:
+0) Cai sumur ayeuna kiruh
+1) Cai sumur ayeuna herang.
+
+Question 284: Ngadangu carita anjeun mah kawas ngimpi labuh ka gawir
+Options:
+0) Ngadangu carita anjeun mah ngareuwaskeun
+1) Ngadangu carita anjeun mah nyenengkeun.
+
+Question 285: Ngadangu carita anjeun mah kawas ngimpi naek ferrari.
+Options:
+0) Ngadangu carita anjeun mah ngareuwaskeun
+1) Ngadangu carita anjeun mah nyenengkeun.
+
+Question 286: Hirup teu boga elmu sarupa leumpang teu aya tujuan
+Options:
+0) Hirup teu boga elmu teu jelas
+1) Hirup teu boga elmu jelas.
+
+Question 287: Hirup teu boga elmu sarupa leumpang sapanjang jalan nu loba lampuna.
+Options:
+0) Hirup teu boga elmu teu jelas
+1) Hirup teu boga elmu jelas.
+
+Question 288: Pertanyaan si bapa teh meuni kos tts kompas
+Options:
+0) Pertanyaan si bapa bermutu tur sesah
+1) Pertanyaan si bapa teu bermutu.
+
+Question 289: Pertanyaan si bapa teh meuni kos pertanyaan budak.
+Options:
+0) Pertanyaan si bapa bermutu tur sesah
+1) Pertanyaan si bapa teu bermutu.
+
+Question 290: Lamun keur belajar naha nya panon teh kawas teu sare 3 poe
+Options:
+0) Lamun keur belajar naha panon teh tunduh
+1) Lamun keur belajar naha panon teh beunta.
+
+Question 291: Lamun keur belajar naha nya panon teh kawas karak ngadahar mangga ngora.
+Options:
+0) Lamun keur belajar naha panon teh tunduh
+1) Lamun keur belajar naha panon teh beunta.
+
+Question 292: Kunaon atuh eta seragam teh jiga can meunang nyetrika
+Options:
+0) Kunaon atuh eta seragam teh risek
+1) Kunaon atuh eta seragam teh licin.
+
+Question 293: Kunaon atuh eta seragam teh jiga baju ti londri.
+Options:
+0) Kunaon atuh eta seragam teh risek
+1) Kunaon atuh eta seragam teh licin.
+
+Question 294: Hirup abdi mah kawas tv baheula
+Options:
+0) Hirup abdi mah hitam putih tur monoton
+1) Hirup abdi mah loba warnana.
+
+Question 295: Hirup abdi mah kawas tv jaman kiwari.
+Options:
+0) Hirup abdi mah hitam putih tur monoton
+1) Hirup abdi mah loba warnana.
+
+Question 296: Buruan tatangga teh meuni saluas lapangan bola
+Options:
+0) Buruan tatanga luas
+1) Buruan tatanga heurin.
+
+Question 297: Buruan tatangga teh meuni saluas wc kareta.
+Options:
+0) Buruan tatanga luas
+1) Buruan tatanga heurin.
+
+Question 298: Gambar rayi abdi layak umpama gambar nu meunang ponten 100
+Options:
+0) Gambar rayi abdi hade
+1) Gambar rayi abdi butut.
+
+Question 299: Gambar rayi abdi layak umpama gambar nu meunang ponten F.
+Options:
+0) Gambar rayi abdi hade
+1) Gambar rayi abdi butut.
+"
+5,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 300: Chat jeung manehna mah kawas ngobrol pas keur diboceng tukang ojek
+Options:
+0) Chat jeung manehna mah teu jelas
+1) Chat jeung manehna mah jelas.
+
+Question 301: Chat jeung manehna mah kawas guru nerangkeun di kelas.
+Options:
+0) Chat jeung manehna mah teu jelas
+1) Chat jeung manehna mah jelas.
+
+Question 302: Tulisan budak teh meuni jiga cakar hayam
+Options:
+0) Tulisan budak teh acak-acakan
+1) Tulisan budak teh rapi.
+
+Question 303: Tulisan budak teh meuni jiga hasil ngeprint.
+Options:
+0) Tulisan budak teh acak-acakan
+1) Tulisan budak teh rapi.
+
+Question 304: Elmu agama kawas senter caang kanggo mapay jalan wengi
+Options:
+0) Elmu agama caang tur nuntun
+1) Elmu agama poek.
+
+Question 305: Elmu agama kawas gudang nu eweuh lampuan.
+Options:
+0) Elmu agama caang tur nuntun
+1) Elmu agama poek.
+
+Question 306: Lapang Padjajaran kos lapang bola piala dunia
+Options:
+0) Lapang Padjajaran alus tur rapi
+1) Lapang Padjajaran butut tur balatak.
+
+Question 307: Lapang Padjajaran kos lapang di kandang kuda.
+Options:
+0) Lapang Padjajaran alus tur rapi
+1) Lapang Padjajaran butut tur balatak.
+
+Question 308: Cai Dieng sapertos cai es
+Options:
+0) Cai Dieng tiis
+1) Cai Dieng panas.
+
+Question 309: Cai Dieng sapertos cai termos.
+Options:
+0) Cai Dieng tiis
+1) Cai Dieng panas.
+
+Question 310: Ngendong sawengi ge bawaan teh kawas jalmi nu bade pindahan
+Options:
+0) Ngendong sawengi ge bawaan teh seueur
+1) Ngendong sawengi ge bawaan teh teu aya.
+
+Question 311: Ngendong sawengi ge bawaan teh kawas jalmi teu gaduh acuk.
+Options:
+0) Ngendong sawengi ge bawaan teh seueur
+1) Ngendong sawengi ge bawaan teh teu aya.
+
+Question 312: Acuk rerencangan abdi sapertos bu haji
+Options:
+0) Acuk rerencangan abdi katutup
+1) Acuk rerencangan abdi kabuka.
+
+Question 313: Acuk rerencangan abdi sapertos awewe nu arek mangkal.
+Options:
+0) Acuk rerencangan abdi katutup
+1) Acuk rerencangan abdi kabuka.
+
+Question 314: Kahayang abdi mah sagede truk
+Options:
+0) Kahayang abdi mah seueur
+1) Kahayang abdi mah saalit.
+
+Question 315: Kahayang abdi mah sagede keresek indomaret.
+Options:
+0) Kahayang abdi mah seueur
+1) Kahayang abdi mah saalit.
+
+Question 316: Tutumbenan masakan dinten ieu kawas masakan hotel bintang lima
+Options:
+0) Tutumbenan masakan dinten ieu raos pisan
+1) Tutumbenan masakan dinten ieu teu raos.
+
+Question 317: Tutumbenan masakan dinten ieu kawas masakan sesa minggu kamari.
+Options:
+0) Tutumbenan masakan dinten ieu raos pisan
+1) Tutumbenan masakan dinten ieu teu raos.
+
+Question 318: Kaca di kamar abdi meuni sagede kaca spion
+Options:
+0) Kaca di kamar abdi meuni alit
+1) Kaca di kamar abdi meuni ageung.
+
+Question 319: Kaca di kamar abdi meuni sagede almari tilu panto.
+Options:
+0) Kaca di kamar abdi meuni alit
+1) Kaca di kamar abdi meuni ageung.
+
+Question 320: Akuarium hotel ieu meuni saageung sea world
+Options:
+0) Akuarium hotel ieu ageung
+1) Akuarium hotel ieu alit.
+
+Question 321: Akuarium hotel ieu meuni saageung keler kue.
+Options:
+0) Akuarium hotel ieu ageung
+1) Akuarium hotel ieu alit.
+
+Question 322: Kembang pamasihan anjeun teh kawas seungit sedap malam
+Options:
+0) Kembang pamasihan anjeun seungit
+1) Kembang pamasihan anjeun hapeuk.
+
+Question 323: Kembang pamasihan anjeun teh kawas seungit sangit.
+Options:
+0) Kembang pamasihan anjeun seungit
+1) Kembang pamasihan anjeun hapeuk.
+
+Question 324: Mun jadi jalmi ulah sok luhur hate
+Options:
+0) Mun jadi jalmi ulah sok agul
+1) Mun jadi jalmi ulah sok pesimis.
+
+Question 325: Mun jadi jalmi ulah sok pondok hate.
+Options:
+0) Mun jadi jalmi ulah sok agul
+1) Mun jadi jalmi ulah sok pesimis.
+
+Question 326: Tawaran anjeun kawas hujan duit
+Options:
+0) Tawaran anjeun nyenengkeun
+1) Tawaran anjeun nyengsarakeun.
+
+Question 327: Tawaran anjeun kawas hujan batu es.
+Options:
+0) Tawaran anjeun nyenengkeun
+1) Tawaran anjeun nyengsarakeun.
+
+Question 328: Diajar ekonomi sapertos renang di kulah cai es
+Options:
+0) Diajar ekonomi nyengsarakeun
+1) Diajar ekonomi nyenengkeun.
+
+Question 329: Diajar ekonomi sapertos renang di kulah kembang.
+Options:
+0) Diajar ekonomi nyengsarakeun
+1) Diajar ekonomi nyenengkeun.
+
+Question 330: Acara Jazz Prambanan taun ieu kawas langit bertabur bentang
+Options:
+0) Acara Jazz Prambanan taun ieu meriah
+1) Acara Jazz Prambanan taun ieu sepi.
+
+Question 331: Acara Jazz Prambanan taun ieu kawas langit wengi teu aya bentang.
+Options:
+0) Acara Jazz Prambanan taun ieu meriah
+1) Acara Jazz Prambanan taun ieu sepi.
+
+Question 332: Tisu merek eta mah saalus selimut orok
+Options:
+0) Tisu merek eta mah alus
+1) Tisu merek eta mah kasar.
+
+Question 333: Tisu merek eta mah saalus karung beas.
+Options:
+0) Tisu merek eta mah alus
+1) Tisu merek eta mah kasar.
+
+Question 334: Tong make lipen setip eta, jieun biwir kos sawah retak
+Options:
+0) Tong make lipen setip eta, jieun biwir garing
+1) Tong make lipen setip eta, jieun biwir lembab.
+
+Question 335: Tong make lipen setip eta, jieun biwir kos embun daun.
+Options:
+0) Tong make lipen setip eta, jieun biwir garing
+1) Tong make lipen setip eta, jieun biwir lembab.
+
+Question 336: Omongan presiden teh umpama cai di daun taleus
+Options:
+0) Omongan presiden teh gonta-ganti
+1) Omongan presiden teh ajeg.
+
+Question 337: Omongan presiden teh umpama bangunan kabah.
+Options:
+0) Omongan presiden teh gonta-ganti
+1) Omongan presiden teh ajeg.
+
+Question 338: Kualitas koper anyar teh kos urut batur
+Options:
+0) Kualitas koper anyar teh butut
+1) Kualitas koper anyar teh alus.
+
+Question 339: Kualitas koper anyar teh kos koper dior.
+Options:
+0) Kualitas koper anyar teh butut
+1) Kualitas koper anyar teh alus.
+
+Question 340: Ngadangukeun lagu Yura Yunita sapertos dipepende
+Options:
+0) Ngadangukeun lagu Yura Yunita nenangkeun
+1) Ngadangukeun lagu Yura Yunita gandeng tur ngaganggu.
+
+Question 341: Ngadangukeun lagu Yura Yunita sapertos hujan guludug.
+Options:
+0) Ngadangukeun lagu Yura Yunita nenangkeun
+1) Ngadangukeun lagu Yura Yunita gandeng tur ngaganggu.
+
+Question 342: Sampo si mama jieun buuk sapertos ti salon
+Options:
+0) Sampo si mama jieun buuk alus
+1) Sampo si mama jieun buuk kasar.
+
+Question 343: Sampo si mama jieun buuk sapertos kasetrum listrik.
+Options:
+0) Sampo si mama jieun buuk alus
+1) Sampo si mama jieun buuk kasar.
+
+Question 344: Kantor abdi di Bandung umpama gedong di tengah kebon
+Options:
+0) Kantor abdi di Bandung tiis tur asri
+1) Kantor abdi di Bandung panas tur tandus.
+
+Question 345: Kantor abdi di Bandung umpama gedong di tengah savana.
+Options:
+0) Kantor abdi di Bandung tiis tur asri
+1) Kantor abdi di Bandung panas tur tandus.
+
+Question 346: Tumpeng damelan si uwak meuni sajangkung gunung merapi
+Options:
+0) Tumpeng damelan si uwak jangkung
+1) Tumpeng damelan si uwak pondok.
+
+Question 347: Tumpeng damelan si uwak meuni sajangkung meja lipet lesehan.
+Options:
+0) Tumpeng damelan si uwak jangkung
+1) Tumpeng damelan si uwak pondok.
+
+Question 348: Buku sakola ayeuna sakandeul koran
+Options:
+0) Buku sakola ayeuna ipis
+1) Buku sakola ayeuna kandeul.
+
+Question 349: Buku sakola ayeuna sakandeul ensiklopedia dunia.
+Options:
+0) Buku sakola ayeuna ipis
+1) Buku sakola ayeuna kandeul.
+
+Question 350: Cuaca dinten ieu sapertos langit nu nuju sedih
+Options:
+0) Cuaca dinten ieu hujan
+1) Cuaca dinten ieu cerah.
+
+Question 351: Cuaca dinten ieu sapertos langit nu keur bagja.
+Options:
+0) Cuaca dinten ieu hujan
+1) Cuaca dinten ieu cerah.
+
+Question 352: Biaya listrik makin kiwari makin kos taraje
+Options:
+0) Biaya listrik makin kiwari makin naek
+1) Biaya listrik makin kiwari makin turun.
+
+Question 353: Biaya listrik makin kiwari makin kos porosotan.
+Options:
+0) Biaya listrik makin kiwari makin naek
+1) Biaya listrik makin kiwari makin turun.
+
+Question 354: Karpet anyar teh warnana jiga gulali
+Options:
+0) Karpet anyar teh warnana cerah
+1) Karpet anyar teh warnana poek.
+
+Question 355: Karpet anyar teh warnana jiga areng.
+Options:
+0) Karpet anyar teh warnana cerah
+1) Karpet anyar teh warnana poek.
+
+Question 356: Gawe tanpa elmu umpama mancing eweuh umpan
+Options:
+0) Gawe tanpa elmu sesah
+1) Gawe tanpa elmu gampil.
+
+Question 357: Gawe tanpa elmu umpama ngala lauk di akuarium make jaring.
+Options:
+0) Gawe tanpa elmu sesah
+1) Gawe tanpa elmu gampil.
+
+Question 358: Poto kawinan anjeun sapertos poster pelem nu meunang penghargaan
+Options:
+0) Poto kawinan anjeun estetik
+1) Poto kawinan anjeun teu estetik.
+
+Question 359: Poto kawinan anjeun sapertos poto di kalender toko emas.
+Options:
+0) Poto kawinan anjeun estetik
+1) Poto kawinan anjeun teu estetik.
+"
+6,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 360: Harga anduk di toko ieu samirah kembang gula di warung
+Options:
+0) Harga anduk di toko ieu mirah
+1) Harga anduk di toko ieu awis.
+
+Question 361: Harga anduk di toko ieu samirah dp bumi di komplek elit.
+Options:
+0) Harga anduk di toko ieu mirah
+1) Harga anduk di toko ieu awis.
+
+Question 362: Desain Totoya nu anyar kawas mobil ti masa hareup
+Options:
+0) Desain Toyota nu anyar keren tur canggih
+1) Desain Toyota nu anyar butut.
+
+Question 363: Desain Totoya nu anyar kawas mobil cocooan.
+Options:
+0) Desain Toyota nu anyar keren tur canggih
+1) Desain Toyota nu anyar butut.
+
+Question 364: Naek gunung Sumbing umpama naek gunung nganggo sapatu roda
+Options:
+0) Naek gunung Sumbing sesah
+1) Naek gunung Sumbing gampil.
+
+Question 365: Naek gunung Sumbing umpama naek gunung digandong porter.
+Options:
+0) Naek gunung Sumbing sesah
+1) Naek gunung Sumbing gampil.
+
+Question 366: Kulah lauk di bumi aki salega bagasi motor
+Options:
+0) Kulah lauk di bumi aki leutik
+1) Kulah lauk di bumi aki lega.
+
+Question 367: Kulah lauk di bumi aki salega garasi kapal udara.
+Options:
+0) Kulah lauk di bumi aki leutik
+1) Kulah lauk di bumi aki lega.
+
+Question 368: Rorompok amih lamun nuju seueur dulur kawas bumi gigir rel kareta
+Options:
+0) Rorompok amih lamun nuju seueur dulur rame tur gandeng
+1) Rorompok amih lamun nuju seueur dulur tiiseun tur jempling.
+
+Question 369: Rorompok amih lamun nuju seueur dulur kawas bumi di tengah leuweung.
+Options:
+0) Rorompok amih lamun nuju seueur dulur rame tur gandeng
+1) Rorompok amih lamun nuju seueur dulur tiiseun tur jempling.
+
+Question 370: Kelas X IPS mah aya teu aya guru umpama budak can dibere nyusu
+Options:
+0) Kelas X IPS mah aya teu aya guru gandeng
+1) Kelas X IPS mah aya teu aya guru jempling.
+
+Question 371: Kelas X IPS mah aya teu aya guru umpama barudak di perpustakaan.
+Options:
+0) Kelas X IPS mah aya teu aya guru gandeng
+1) Kelas X IPS mah aya teu aya guru jempling.
+
+Question 372: Sapatu pamere mamang teh kawas sapatu meunang nginjeum
+Options:
+0) Sapatu pamere mamang teh teu mahi
+1) Sapatu pamere mamang teh mahi.
+
+Question 373: Sapatu pamere mamang teh kawas sapatu kaca dipake cinderella.
+Options:
+0) Sapatu pamere mamang teh teu mahi
+1) Sapatu pamere mamang teh mahi.
+
+Question 374: Lomari di kamar pun kolot saageung ka'bah
+Options:
+0) Lomari di kamar pun kolot ageung
+1) Lomari di kamar pun kolot alit.
+
+Question 375: Lomari di kamar pun kolot saageung bagasi mobil sedan.
+Options:
+0) Lomari di kamar pun kolot ageung
+1) Lomari di kamar pun kolot alit.
+
+Question 376: Lukisan ieu sapertos karya da Vinci
+Options:
+0) Lukisan ieu alus
+1) Lukisan ieu butut.
+
+Question 377: Lukisan ieu sapertos karya budak nu keur diajar ngagambar.
+Options:
+0) Lukisan ieu alus
+1) Lukisan ieu butut.
+
+Question 378: Botol cai teh kos toren cai
+Options:
+0) Botol cai teh gede pisan
+1) Botol cai teh leutik pisan.
+
+Question 379: Botol cai teh kos gelas budak.
+Options:
+0) Botol cai teh gede pisan
+1) Botol cai teh leutik pisan.
+
+Question 380: Jolang di bumi rerencangan abdi kawas kulah lauk
+Options:
+0) Jolang di bumi rerencangan abdi ageung
+1) Jolang di bumi rerencangan abdi alit.
+
+Question 381: Jolang di bumi rerencangan abdi kawas gayung.
+Options:
+0) Jolang di bumi rerencangan abdi ageung
+1) Jolang di bumi rerencangan abdi alit.
+
+Question 382: Sangu di warung ieu mah sapertos sangu beres akeul
+Options:
+0) Sangu di warung ieu pulen
+1) Sangu di warung ieu heuras.
+
+Question 383: Sangu di warung ieu mah sapertos gigih.
+Options:
+0) Sangu di warung ieu pulen
+1) Sangu di warung ieu heuras.
+
+Question 384: Cat di imah maneh mah jiun imah kawas imah eweuh lampuan
+Options:
+0) Cat imah maneh mah jieun imah poek
+1) Cat imah maneh mah jieun imah caang.
+
+Question 385: Cat di imah maneh mah jiun imah kawas panggung dangdut akademi.
+Options:
+0) Cat imah maneh mah jieun imah poek
+1) Cat imah maneh mah jieun imah caang.
+
+Question 386: Martabak Mang Idoy umpama lauk digembrong laleur
+Options:
+0) Martabak Mang Idoy payu
+1) Martabak Mang Idoy teu payu.
+
+Question 387: Martabak Mang Idoy umpama emas nu hargana naek.
+Options:
+0) Martabak Mang Idoy payu
+1) Martabak Mang Idoy teu payu.
+
+Question 388: Jarawat Teh Susi naha makin jiga jelema keuna cacar
+Options:
+0) Jarawat Teh Susi naha makin loba tur parah
+1) Jarawat Teh Susi naha makin bersih.
+
+Question 389: Jarawat Teh Susi naha makin jiga hasil perawatan dokter.
+Options:
+0) Jarawat Teh Susi naha makin loba tur parah
+1) Jarawat Teh Susi naha makin bersih.
+
+Question 390: Laut di Sukabumi kawas kelas meunang piket
+Options:
+0) Laut di Sukabumi beresih
+1) Laut di Sukabumi bala.
+
+Question 391: Laut di Sukabumi kawas lapang urut konser.
+Options:
+0) Laut di Sukabumi beresih
+1) Laut di Sukabumi bala.
+
+Question 392: Twitter jaman kiwari makin sapertos warung klontong
+Options:
+0) Twitter jaman kiwari makin rame
+1) Twitter jaman kiwari makin tiiseun.
+
+Question 393: Twitter jaman kiwari makin sapertos warung bakso jam 12 beurang basa keur bulan puasa.
+Options:
+0) Twitter jaman kiwari makin rame
+1) Twitter jaman kiwari makin tiiseun.
+
+Question 394: Pangseungit ruangan ieu jieun sapertos hayang utah
+Options:
+0) Pangseungit ruangan ieu bau
+1) Pangseungit ruangan ieu seungit.
+
+Question 395: Pangseungit ruangan ieu jieun sapertos di taman kembang.
+Options:
+0) Pangseungit ruangan ieu bau
+1) Pangseungit ruangan ieu seungit.
+
+Question 396: Hargi sewa mobil di dieu saharga biaya umroh
+Options:
+0) Hargi sewa mobil di dieu awis
+1) Hargi sewa mobil di dieu mirah.
+
+Question 397: Hargi sewa mobil di dieu saharga biaya naek beca.
+Options:
+0) Hargi sewa mobil di dieu awis
+1) Hargi sewa mobil di dieu mirah.
+
+Question 398: Huntu Si Joko jiga seragam golkar
+Options:
+0) Huntu Si Joko koneng
+1) Huntu Si Joko bodas.
+
+Question 399: Huntu Si Joko jiga mukena lebaran.
+Options:
+0) Huntu Si Joko koneng
+1) Huntu Si Joko bodas.
+
+Question 400: Manehna ngahasilkeun artos jiga ngarenghap napas
+Options:
+0) Manehna ngahasilkeun artos meuni gampil
+1) Manehna ngahasilkeun artos hese pisan.
+
+Question 401: Manehna ngahasilkeun artos jiga milarian cai di gurun.
+Options:
+0) Manehna ngahasilkeun artos meuni gampil
+1) Manehna ngahasilkeun artos hese pisan.
+
+Question 402: Eta murid hiji otak udang
+Options:
+0) Eta murid hiji bodo
+1) Eta murid hiji pinter.
+
+Question 403: Eta murid hiji kawas kancil.
+Options:
+0) Eta murid hiji bodo
+1) Eta murid hiji pinter.
+
+Question 404: Biwirna ngucapkeun kecap kawas cabe
+Options:
+0) Biwirna ngucapkeun kecap nu mikeun nyeri hate
+1) Biwirna ngucapkeun kecap mikeun bungah.
+
+Question 405: Biwirna ngucapkeun kecap amis siga gula.
+Options:
+0) Biwirna ngucapkeun kecap nu mikeun nyeri hate
+1) Biwirna ngucapkeun kecap mikeun bungah.
+
+Question 406: Manehna angkat liburan nganggo kuda beusi
+Options:
+0) Manehna angkat liburan nganggo motor
+1) Manehna angkat liburan nganggo pesawat.
+
+Question 407: Manehna angkat liburan nganggo manuk beusi.
+Options:
+0) Manehna angkat liburan nganggo motor
+1) Manehna angkat liburan nganggo pesawat.
+
+Question 408: Sorana kadéngé kawas kicau manu
+Options:
+0) Sorana kadéngé merdu
+1) Sorana kadéngé ngaganggu.
+
+Question 409: Sorana kadéngé kawas gogog anjing.
+Options:
+0) Sorana kadéngé merdu
+1) Sorana kadéngé ngaganggu.
+
+Question 410: Di tempat damel manenha janten budak emas
+Options:
+0) Di tempat damel manenha janten unggulan
+1) Di tempat damel manenha janten jalma nu dipikasalah.
+
+Question 411: Di tempat damel manenha janten embe hideung.
+Options:
+0) Di tempat damel manenha janten unggulan
+1) Di tempat damel manenha janten jalma nu dipikasalah.
+
+Question 412: Ceuk babaturanana, manehna mangrupikeun jalma sirah batu
+Options:
+0) Ceuk babaturanana, manehna mangrupikeun jalma keras kepala
+1) Ceuk babaturanana, manehna mangrupikeun jalma anu ngartikeun.
+
+Question 413: Ceuk babaturanana, manehna mangrupikeun jalma tiis sirah.
+Options:
+0) Ceuk babaturanana, manehna mangrupikeun jalma keras kepala
+1) Ceuk babaturanana, manehna mangrupikeun jalma anu ngartikeun.
+
+Question 414: Manehna jalmi nu tiis leungeun
+Options:
+0) Manehna jalmi nu bisa naon wae
+1) Manehna jalmi nu teu bisa nanaon.
+
+Question 415: Manehna jalmi nu panas leungeun.
+Options:
+0) Manehna jalmi nu bisa naon wae
+1) Manehna jalmi nu teu bisa nanaon.
+
+Question 416: Manehna tampil siga bintang dina langit
+Options:
+0) Manehna tampil siga percaya diri
+1) Manehna tampil siga henteu percaya diri.
+
+Question 417: Manehna tampil siga semut dina taneuh.
+Options:
+0) Manehna tampil siga percaya diri
+1) Manehna tampil siga henteu percaya diri.
+
+Question 418: Dina éta balapan manehna jiga béntang lapangan
+Options:
+0) Dina éta balapan manehna jiga idola
+1) Dina éta balapan manehna jiga jalmi nu teu diperhitungkeun.
+
+Question 419: Dina éta balapan manehna jiga kuda hideung.
+Options:
+0) Dina éta balapan manehna jiga idola
+1) Dina éta balapan manehna jiga jalmi nu teu diperhitungkeun.
+"
+7,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 420: Manehna mangrupakeun jalma anu hatena siga lapangan
+Options:
+0) Manehna mangrupakeun jalma anu hatena siga luas
+1) Manehna mangrupakeun jalma anu hatena siga sempit.
+
+Question 421: Manehna mangrupakeun jalma anu hatena siga kamar.
+Options:
+0) Manehna mangrupakeun jalma anu hatena siga luas
+1) Manehna mangrupakeun jalma anu hatena siga sempit.
+
+Question 422: Pagawean anu dilakonan ku manehna nganggo kaki jeung lengeun batur
+Options:
+0) Pagawean anu dilakonan ku manehna nganggo dikerjakeun nu lain
+1) Pagawean anu dilakonan ku manehna nganggo usaha sorangan.
+
+Question 423: Pagawean anu dilakonan ku manehna nganggo lengeun sorangan.
+Options:
+0) Pagawean anu dilakonan ku manehna nganggo dikerjakeun nu lain
+1) Pagawean anu dilakonan ku manehna nganggo usaha sorangan.
+
+Question 424: Eta lalaki kawas ksatria
+Options:
+0) Eta lalaki kawas sae pisan
+1) Eta lalaki kawas jahat pisan.
+
+Question 425: Eta lalaki kawas penyihir.
+Options:
+0) Eta lalaki kawas sae pisan
+1) Eta lalaki kawas jahat pisan.
+
+Question 426: Manehna mangrupakeun pamingpin anu haneut hate
+Options:
+0) Manehna mangrupakeun pamingpin anu ngartikeun
+1) Manehna mangrupakeun pamingpin anu teu ngartikeun.
+
+Question 427: Manehna mangrupakeun pamingpin anu tiis hate.
+Options:
+0) Manehna mangrupakeun pamingpin anu ngartikeun
+1) Manehna mangrupakeun pamingpin anu teu ngartikeun.
+
+Question 428: Budak eta mah lurus haté
+Options:
+0) Budak eta mah baik
+1) Budak eta mah sombong.
+
+Question 429: Budak eta mah gedé sungut.
+Options:
+0) Budak eta mah baik
+1) Budak eta mah sombong.
+
+Question 430: Ushana nalika pandemi teh kawas jalan tol
+Options:
+0) Usahana nalika pandemi teh kawas lancar pisan
+1) Usahana nalika pandemi teh kawas hese pisan.
+
+Question 431: Ushana nalika pandemi teh kawas jalanna kura-kura.
+Options:
+0) Usahana nalika pandemi teh kawas lancar pisan
+1) Usahana nalika pandemi teh kawas hese pisan.
+
+Question 432: Eta jelema teh kawas buku tebel
+Options:
+0) Eta jelema teh kawas berilmu
+1) Eta jelema teh kawas teu ngarti nanaon.
+
+Question 433: Eta jelema teh kawas kertas kosong.
+Options:
+0) Eta jelema teh kawas berilmu
+1) Eta jelema teh kawas teu ngarti nanaon.
+
+Question 434: Manehna ngarasa kawas raja leutik
+Options:
+0) Manehna ngarasa kawas boga kuasa
+1) Manehna ngarasa kawas teu boga kuasa.
+
+Question 435: Manehna ngarasa kawas sampah masarakat.
+Options:
+0) Manehna ngarasa kawas boga kuasa
+1) Manehna ngarasa kawas teu boga kuasa.
+
+Question 436: Lamun diperlukeun, manehna senang pikeun turun lengeun
+Options:
+0) Lamun diperlukeun, manehna senang pikeun ngabantu
+1) Lamun diperlukeun, manehna senang pikeun cicing wae.
+
+Question 437: Lamun diperlukeun, manehna senang pikeun pangku lengeun.
+Options:
+0) Lamun diperlukeun, manehna senang pikeun ngabantu
+1) Lamun diperlukeun, manehna senang pikeun cicing wae.
+
+Question 438: Artis eta téh keur naék
+Options:
+0) Artis eta téh keur kawentar
+1) Artis eta téh keur boga masalah.
+
+Question 439: Artis eta téh keur jatoh ka jurang.
+Options:
+0) Artis eta téh keur kawentar
+1) Artis eta téh keur boga masalah.
+
+Question 440: Kecap-kecapna kawas kembang
+Options:
+0) Kecap-kecapna kawas indah
+1) Kecap-kecapna kawas mikeun nyeri hate.
+
+Question 441: Kecap-kecapna kawas pinuh ku cucuk.
+Options:
+0) Kecap-kecapna kawas indah
+1) Kecap-kecapna kawas mikeun nyeri hate.
+
+Question 442: Ceuk tatanggana, manehna teh beungeut kandel
+Options:
+0) Ceuk tatanggana, manehna teh baik
+1) Ceuk tatanggana, manehna teh pelit.
+
+Question 443: Ceuk tatanggana, manehna teh hate leutik.
+Options:
+0) Ceuk tatanggana, manehna teh baik
+1) Ceuk tatanggana, manehna teh pelit.
+
+Question 444: Babaturan kuring nyaéta jalma anu ringan leungeun
+Options:
+0) Babaturan kuring nyaéta jalma anu senang mere
+1) Babaturan kuring nyaéta jalma anu nyuri.
+
+Question 445: Babaturan kuring nyaéta jalma anu panjang leungeun.
+Options:
+0) Babaturan kuring nyaéta jalma anu senang mere
+1) Babaturan kuring nyaéta jalma anu nyuri.
+
+Question 446: Beungeutna katingali kawas caang panonpoé
+Options:
+0) Beungeutna katingali kawas bahagia
+1) Beungeutna katingali kawas loba masalah.
+
+Question 447: Beungeutna katingali kawas wengi poék.
+Options:
+0) Beungeutna katingali kawas bahagia
+1) Beungeutna katingali kawas loba masalah.
+
+Question 448: Manehna mangrupikeun kutu buku
+Options:
+0) Manehna mangrupikeun senang maca buku
+1) Manehna mangrupikeun loba omong.
+
+Question 449: Manehna mangrupikeun tong kosong.
+Options:
+0) Manehna mangrupikeun senang maca buku
+1) Manehna mangrupikeun loba omong.
+
+Question 450: Tanaga manehnya kawas beruang
+Options:
+0) Tanaga manehnya kawas kuat pisan
+1) Tanaga manehnya kawas lemah.
+
+Question 451: Tanaga manehnya kawas semut.
+Options:
+0) Tanaga manehnya kawas kuat pisan
+1) Tanaga manehnya kawas lemah.
+
+Question 452: Hate manusia kadang kawas lapangan
+Options:
+0) Hate manusia kadang luas
+1) Hate manusia kadang tinggi pisan.
+
+Question 453: Hate manusia kadang kawas langit.
+Options:
+0) Hate manusia kadang luas
+1) Hate manusia kadang tinggi pisan.
+
+Question 454: Eta budak hiji mah mangrupakeun tulang tonggong
+Options:
+0) Eta budak hiji mah mangrupakeun unggulan
+1) Eta budak hiji mah mangrupakeun masalah.
+
+Question 455: Eta budak hiji mah mangrupakeun beungbeurat kulawarga.
+Options:
+0) Eta budak hiji mah mangrupakeun unggulan
+1) Eta budak hiji mah mangrupakeun masalah.
+
+Question 456: Penampilanna dianggap bintang lapangan
+Options:
+0) Penampilanna kawas idola
+1) Penampilanna kawas teu dianggep.
+
+Question 457: Penampilanna dianggap sabelah panon.
+Options:
+0) Penampilanna kawas idola
+1) Penampilanna kawas teu dianggep.
+
+Question 458: Kulawargana nyaéta darah biru
+Options:
+0) Kulawargana nyaéta bangsawan
+1) Kulawargana nyaéta jalmi biasa.
+
+Question 459: Kulawargana nyaéta darah rakyat.
+Options:
+0) Kulawargana nyaéta bangsawan
+1) Kulawargana nyaéta jalmi biasa.
+
+Question 460: Panonna kawas elang
+Options:
+0) Panonna teh tajeum
+1) Panonna teh jelek.
+
+Question 461: Panonna kawas beurit.
+Options:
+0) Panonna teh tajeum
+1) Panonna teh jelek.
+
+Question 462: Sorana siga ngaum singa
+Options:
+0) Sorana siga gede pisan
+1) Sorana siga alit.
+
+Question 463: Sorana siga kicau manuk.
+Options:
+0) Sorana siga gede pisan
+1) Sorana siga alit.
+
+Question 464: Anjeunna junun nampi padamelan ti banting tulang
+Options:
+0) Anjeunna junun nampi padamelan ti usaha sorangan
+1) Anjeunna junun nampi padamelan ti jalma lian.
+
+Question 465: Anjeunna junun nampi padamelan ti orang dalem.
+Options:
+0) Anjeunna junun nampi padamelan ti usaha sorangan
+1) Anjeunna junun nampi padamelan ti jalma lian.
+
+Question 466: Mulutna meuni enteng
+Options:
+0) Mulutna meuni gampil ngomong
+1) Mulutna meuni hese ngomong.
+
+Question 467: Mulutna meuni beurat.
+Options:
+0) Mulutna meuni gampil ngomong
+1) Mulutna meuni hese ngomong.
+
+Question 468: Di kelas, manehna murid anu ringan sirah
+Options:
+0) Di kelas, manehna murid anu pinter
+1) Di kelas, manehna murid anu bodo.
+
+Question 469: Di kelas, manehna murid anu beurat sirah.
+Options:
+0) Di kelas, manehna murid anu pinter
+1) Di kelas, manehna murid anu bodo.
+
+Question 470: Kota ieu karasa kawas imah
+Options:
+0) Kota ieu karasa kawas nyaman
+1) Kota ieu karasa kawas teu genah.
+
+Question 471: Kota ieu karasa kawas penjara.
+Options:
+0) Kota ieu karasa kawas nyaman
+1) Kota ieu karasa kawas teu genah.
+
+Question 472: Nalika ditanya manehna buka mulut
+Options:
+0) Nalika ditanya manehna nyarios
+1) Nalika ditanya manehna pura-pura teu terang.
+
+Question 473: Nalika ditanya manehna nutup panon.
+Options:
+0) Nalika ditanya manehna nyarios
+1) Nalika ditanya manehna pura-pura teu terang.
+
+Question 474: Di dunya ieu aya jalma anu sarupa malaikat
+Options:
+0) Di dunya ieu aya jalma anu baik pisan
+1) Di dunya ieu aya jalma anu jahat pisan.
+
+Question 475: Di dunya ieu aya jalma anu sarupa setan.
+Options:
+0) Di dunya ieu aya jalma anu baik pisan
+1) Di dunya ieu aya jalma anu jahat pisan.
+
+Question 476: Kadaharan eta réstoran karasaeun sapertos masakan di istana
+Options:
+0) Kadaharan eta réstoran karasaeun sapertos masakan di lezat
+1) Kadaharan eta réstoran karasaeun sapertos masakan di teu karasa nanaon.
+
+Question 477: Kadaharan eta réstoran karasaeun sapertos masakan di rumah sakit.
+Options:
+0) Kadaharan eta réstoran karasaeun sapertos masakan di lezat
+1) Kadaharan eta réstoran karasaeun sapertos masakan di teu karasa nanaon.
+
+Question 478: Haténa bener-bener salega sagara
+Options:
+0) Haténa bener-bener baik
+1) Haténa bener-bener jahat.
+
+Question 479: Haténa bener-bener teuas kawas batu.
+Options:
+0) Haténa bener-bener baik
+1) Haténa bener-bener jahat.
+"
+8,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 480: Manehna naroskeun patarosan anu seuket siga peso
+Options:
+0) Manehna naroskeun patarosan anu penting
+1) Manehna naroskeun patarosan anu asal ngucap.
+
+Question 481: Manehna naroskeun patarosan anu deet siga solokan.
+Options:
+0) Manehna naroskeun patarosan anu penting
+1) Manehna naroskeun patarosan anu asal ngucap.
+
+Question 482: Imahna karasa kawas istana
+Options:
+0) Imahna karasa kawas nyaman
+1) Imahna karasa kawas teu ngenaheun.
+
+Question 483: Imahna karasa kawas penjara.
+Options:
+0) Imahna karasa kawas nyaman
+1) Imahna karasa kawas teu ngenaheun.
+
+Question 484: Manehna ngaréngsékeun tugasna kalayan sarébu léngkah
+Options:
+0) Manehna ngaréngsékeun tugasna kalayan cepet
+1) Manehna ngaréngsékeun tugasna kalayan lila.
+
+Question 485: Manehna ngaréngsékeun tugasna kalayan lengkah kuya.
+Options:
+0) Manehna ngaréngsékeun tugasna kalayan cepet
+1) Manehna ngaréngsékeun tugasna kalayan lila.
+
+Question 486: Manehna ningali pantulanna dina eunteung kawas putri raja
+Options:
+0) Manehna ningali pantulanna dina eunteung kawas cantik pisan
+1) Manehna ningali pantulanna dina eunteung kawas biasa wae.
+
+Question 487: Manehna ningali pantulanna dina eunteung kawas jalmi biasa.
+Options:
+0) Manehna ningali pantulanna dina eunteung kawas cantik pisan
+1) Manehna ningali pantulanna dina eunteung kawas biasa wae.
+
+Question 488: Padamelannana karasaeun kawas warna-warni pelangi
+Options:
+0) Padamelannana karasaeun kawas ngeunah
+1) Padamelannana karasaeun kawas teu ngeunah.
+
+Question 489: Padamelannana karasaeun kawas nincak paku.
+Options:
+0) Padamelannana karasaeun kawas ngeunah
+1) Padamelannana karasaeun kawas teu ngeunah.
+
+Question 490: Luncatna dina pertandingan siga luncat bajing
+Options:
+0) Luncatna dina pertandingan siga gampil
+1) Luncatna dina pertandingan siga hese.
+
+Question 491: Luncatna dina pertandingan siga luncat kebo.
+Options:
+0) Luncatna dina pertandingan siga gampil
+1) Luncatna dina pertandingan siga hese.
+
+Question 492: Usaha anu manehna lakukeun kawas naek tangga
+Options:
+0) Usaha anu manehna lakukeun kawas gampil
+1) Usaha anu manehna lakukeun kawas hese.
+
+Question 493: Usaha anu manehna lakukeun kawas naek bukit.
+Options:
+0) Usaha anu manehna lakukeun kawas gampil
+1) Usaha anu manehna lakukeun kawas hese.
+
+Question 494: Poe ieu manehnya hudang kalayan wajah anu berseri
+Options:
+0) Poe ieu manehnya hudang kalayan wajah anu bahagia
+1) Poe ieu manehnya hudang kalayan wajah anu loba masalah.
+
+Question 495: Poe ieu manehnya hudang kalayan wajah anu katekuk.
+Options:
+0) Poe ieu manehnya hudang kalayan wajah anu bahagia
+1) Poe ieu manehnya hudang kalayan wajah anu loba masalah.
+
+Question 496: Warna baju manehnya katingali caang sapertos beurang
+Options:
+0) Warna baju manehnya katingali bahagia
+1) Warna baju manehnya katingali teu bahagia.
+
+Question 497: Warna baju manehnya katingali poek sapertos peuting.
+Options:
+0) Warna baju manehnya katingali bahagia
+1) Warna baju manehnya katingali teu bahagia.
+
+Question 498: Hirupna karasaeun di surga
+Options:
+0) Hirupna karasaeun di ngeunah
+1) Hirupna karasaeun di loba cobaan.
+
+Question 499: Hirupna karasaeun di naraka.
+Options:
+0) Hirupna karasaeun di ngeunah
+1) Hirupna karasaeun di loba cobaan.
+
+Question 500: Hawana Jakarta upami tos siang mah sapertos seuneu naraka
+Options:
+0) Hawana Jakarta upami tos siang mah panas
+1) Hawana Jakarta upami tos siang mah tiris.
+
+Question 501: Hawana Jakarta upami tos siang mah sapertos ibun dina dangdaunan.
+Options:
+0) Hawana Jakarta upami tos siang mah panas
+1) Hawana Jakarta upami tos siang mah tiris.
+
+Question 502: Rarayna siga kembang anu kakarak mekar
+Options:
+0) Rarayna katingali ngora
+1) Rarayna katingali kolot.
+
+Question 503: Rarayna siga tangkal kolot anu layu.
+Options:
+0) Rarayna katingali ngora
+1) Rarayna katingali kolot.
+
+Question 504: Ngapalkeun materi kuliah mah kawas ngukir dina kai
+Options:
+0) Ngapalkeun materi kuliah mah gampil
+1) Ngapalkeun materi kuliah mah sesah.
+
+Question 505: Ngapalkeun materi kuliah mah kawas ngukir dina cai.
+Options:
+0) Ngapalkeun materi kuliah mah gampil
+1) Ngapalkeun materi kuliah mah sesah.
+
+Question 506: Milarian padamelan salami Covid-19 siga ngalétak ujung irung sorangan
+Options:
+0) Milarian padamelan teh sesah
+1) Milarian padamelan teh gampil.
+
+Question 507: Milarian padamelan salami Covid-19 siga nyekelan tonggong babaturan.
+Options:
+0) Milarian padamelan teh sesah
+1) Milarian padamelan teh gampil.
+
+Question 508: Kasatiaan dina jaman ayeuna sapertos milarian maung sumatera
+Options:
+0) Kasatiaan dina jaman ayeuna langka
+1) Kasatiaan dina jaman ayeuna biasa wae, seueur kajadian.
+
+Question 509: Kasatiaan dina jaman ayeuna sapertos ningali hayam broiler di pasar.
+Options:
+0) Kasatiaan dina jaman ayeuna langka
+1) Kasatiaan dina jaman ayeuna biasa wae, seueur kajadian.
+
+Question 510: Jualan online mah meunang kauntunganna téh siga ngagali emas di Pongkor
+Options:
+0) Jualan online shop teh kauntunganna seueur
+1) Jualan online shop teh kauntunganna sakedik.
+
+Question 511: Jualan online mah meunang kauntunganna téh siga ngala céré ti selokan.
+Options:
+0) Jualan online shop teh kauntunganna seueur
+1) Jualan online shop teh kauntunganna sakedik.
+
+Question 512: Ceuk batur gé hirup sareng pamajikan mah ibarat keur dijajah Walanda
+Options:
+0) Hirup sareng pamajikan mah kaampeuh
+1) Hirup sareng pamajikan mah bébas.
+
+Question 513: Ceuk batur gé hirup sareng pamajikan mah ibarat budak leutik ulin kaditu-kadieu.
+Options:
+0) Hirup sareng pamajikan mah kaampeuh
+1) Hirup sareng pamajikan mah bébas.
+
+Question 514: Omongan lalaki téh ibarat sarang madu
+Options:
+0) Omongan lalaki téh alus
+1) Omongan lalaki téh pait,goréng.
+
+Question 515: Omongan lalaki téh ibarat empedu sasatoan.
+Options:
+0) Omongan lalaki téh alus
+1) Omongan lalaki téh pait,goréng.
+
+Question 516: Barudak jaman ayeuna mah bajuna siga leupeut daun kalapa
+Options:
+0) Barudak jaman ayeuna mah bajuna merecet
+1) Barudak jaman ayeuna mah bajuna logor.
+
+Question 517: Barudak jaman ayeuna mah bajuna siga calana nu euweuh talian.
+Options:
+0) Barudak jaman ayeuna mah bajuna merecet
+1) Barudak jaman ayeuna mah bajuna logor.
+
+Question 518: Kamajuan téhnologi di Indonésia kawas kareta Shinkansen
+Options:
+0) Kamajuan téhnologi di Indonési gancang
+1) Kamajuan téhnologi di Indonési lalaunan,telat.
+
+Question 519: Kamajuan téhnologi di Indonésia kawas kéong keur lumpat.
+Options:
+0) Kamajuan téhnologi di Indonési gancang
+1) Kamajuan téhnologi di Indonési lalaunan,telat.
+
+Question 520: Ayeuna jumlah motor di jalan téh siga sireum anu ngedeukeutan gula
+Options:
+0) Ayeuna jumlah motor di jalan teh seeur
+1) Ayeuna jumlah motor di jalan teh saeutik.
+
+Question 521: Ayeuna jumlah motor di jalan téh siga eusi dompét dina ahir bulan.
+Options:
+0) Ayeuna jumlah motor di jalan teh seeur
+1) Ayeuna jumlah motor di jalan teh saeutik.
+
+Question 522: Rumaja jaman kiwari mah rasa nasionalismena siga Palung Mariana di Samudra Pasifik
+Options:
+0) Rasa nasionalisme rumaja tinggi
+1) Rasa nasionalisme rumaja rendah.
+
+Question 523: Rumaja jaman kiwari mah rasa nasionalismena siga jerona balong keur lauk.
+Options:
+0) Rasa nasionalisme rumaja tinggi
+1) Rasa nasionalisme rumaja rendah.
+
+Question 524: Nagihan ijeuman téh ibarat kaluar tina labirin
+Options:
+0) Nagihan utang teh susah
+1) Nagihan utang teh mudah.
+
+Question 525: Nagihan ijeuman téh ibarat masak cai dugi ka ngagolak.
+Options:
+0) Nagihan utang teh susah
+1) Nagihan utang teh mudah.
+
+Question 526: Nabung lamun rutin bisa nyieun dompét anjeun sapertos atlit sumo
+Options:
+0) Nabung lamun rutin mah bisa ngajadikeun beunghar
+1) Nabung lamun rutin mah bisa ngajadikeun malarat.
+
+Question 527: Nabung lamun rutin bisa nyieun dompét anjeun sapertos Dobby di Harry Potter.
+Options:
+0) Nabung lamun rutin mah bisa ngajadikeun beunghar
+1) Nabung lamun rutin mah bisa ngajadikeun malarat.
+
+Question 528: Upami anjeun gaduh murangkalih di handapeun umur lima, suasana bumina sapertos buku anu ngajéjér di perpustakaan
+Options:
+0) Upami gaduh balita bumina rapih
+1) Upami gaduh balita bumina pabalatak.
+
+Question 529: Upami anjeun gaduh murangkalih di handapeun umur lima, suasana bumina sapertos kapal rusak.
+Options:
+0) Upami gaduh balita bumina rapih
+1) Upami gaduh balita bumina pabalatak.
+
+Question 530: Kamar kos abdi téh sapertos liang beurit dina taneuh
+Options:
+0) Kamar kos meuni rupek
+1) Kamar kos meuni lega.
+
+Question 531: Kamar kos abdi téh sapertos lapangan keur barudak maén bal.
+Options:
+0) Kamar kos meuni rupek
+1) Kamar kos meuni lega.
+
+Question 532: Migawé pagawéan kalompok mah karasana siga lumpat di kolam renang
+Options:
+0) Migawé pagawéan kalompok mah beurat
+1) Migawé pagawéan kalompok mah hampang.
+
+Question 533: Migawé pagawéan kalompok mah karasana siga mawa kapas sakarung.
+Options:
+0) Migawé pagawéan kalompok mah beurat
+1) Migawé pagawéan kalompok mah hampang.
+
+Question 534: Kawin jeung idola téh kawas ngala cai make rakét
+Options:
+0) Kawin jeung idola pimanaeun
+1) Kawin jeung idola tiasa waé.
+
+Question 535: Kawin jeung idola téh kawas meunang lauk dina balong anu leutik.
+Options:
+0) Kawin jeung idola pimanaeun
+1) Kawin jeung idola tiasa waé.
+
+Question 536: Jalmi anu jujur mah biasana jiga kembang taraté dina cai
+Options:
+0) Jalmi anu jujur kalem
+1) Jalmi anu jujur riweuh.
+
+Question 537: Jalmi anu jujur mah biasana jiga embé di kandang keur lapar.
+Options:
+0) Jalmi anu jujur kalem
+1) Jalmi anu jujur riweuh.
+
+Question 538: Keur kuring mah disuntik vaksin kawas durian ragrag kana sirah
+Options:
+0) Disuntik rasana nyeri
+1) Disuntik rasana teu nyeri.
+
+Question 539: Keur kuring mah disuntik vaksin kawas digégél sireum.
+Options:
+0) Disuntik rasana nyeri
+1) Disuntik rasana teu nyeri.
+"
+9,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 540: Komén netizen mah siga dikirimkeun surat phk ti kantor
+Options:
+0) Komén netizen meuni sedih
+1) Komén netizen meuni bungah.
+
+Question 541: Komén netizen mah siga dikirimkeun surat cinta ti kabogoh.
+Options:
+0) Komén netizen meuni sedih
+1) Komén netizen meuni bungah.
+
+Question 542: Hukum Indonésia mah siga bujur seéng paranti sangu
+Options:
+0) Hukum Indonesia teh kotor
+1) Hukum Indonesia teh beresih.
+
+Question 543: Hukum Indonésia mah siga bangkuang dina jero taneuh.
+Options:
+0) Hukum Indonesia teh kotor
+1) Hukum Indonesia teh beresih.
+
+Question 544: Ngumpulkeun biaya kawinan jaman ayeuna mah siga urang kudu ngajual ginjal
+Options:
+0) Biaya kawinan teh awis
+1) Biaya kawinan teh mirah.
+
+Question 545: Ngumpulkeun biaya kawinan jaman ayeuna mah siga urang meuli dahareun di warteg.
+Options:
+0) Biaya kawinan teh awis
+1) Biaya kawinan teh mirah.
+
+Question 546: Upami urang ningali jurig tengah peuting mah siga kurupuk kéna kua baso
+Options:
+0) Upami ningali jurig sieun
+1) Upami ningali jurig berani.
+
+Question 547: Upami urang ningali jurig tengah peuting mah siga pawangna komodo.
+Options:
+0) Upami ningali jurig sieun
+1) Upami ningali jurig berani.
+
+Question 548: Dosén abdi di kampus baheula siga indung tirina Cinderélla
+Options:
+0) Dosen abdi di kampus baheula meuni galak
+1) Dosen abdi di kampus baheula meuni bageur.
+
+Question 549: Dosén abdi di kampus baheula siga bidadari di surga.
+Options:
+0) Dosen abdi di kampus baheula meuni galak
+1) Dosen abdi di kampus baheula meuni bageur.
+
+Question 550: Pamadegan batur keur urang mah siga kembang malati kaluar tina sungut
+Options:
+0) Pamadegan batur keur urang hadé
+1) Pamadegan batur keur urang buruk.
+
+Question 551: Pamadegan batur keur urang mah siga bisa oray nyiduh tina sungut.
+Options:
+0) Pamadegan batur keur urang hadé
+1) Pamadegan batur keur urang buruk.
+
+Question 552: Lalampahan ka kantor rasana siga nempo puncakna gunung ti handap
+Options:
+0) Lalampahan ka kantor tebih
+1) Lalampahan ka kantor deukeut.
+
+Question 553: Lalampahan ka kantor rasana siga dago jeung biwir.
+Options:
+0) Lalampahan ka kantor tebih
+1) Lalampahan ka kantor deukeut.
+
+Question 554: Pergaulan anu bébas bisa nyieun harga diri kawas obralan calana lébaran
+Options:
+0) Pergaulan anu bébas bisa nyieun harga diri murahan
+1) Pergaulan anu bébas bisa nyieun harga diri dipihormat.
+
+Question 555: Pergaulan anu bébas bisa nyieun harga diri kawas inten anu leutik tapi dipilarian ku jalma réa.
+Options:
+0) Pergaulan anu bébas bisa nyieun harga diri murahan
+1) Pergaulan anu bébas bisa nyieun harga diri dipihormat.
+
+Question 556: Getol nabung tapi getol ogé ngahutangna mah ibarat miceun uyah ka laut
+Options:
+0) Getol nabung tapi getol ogé ngahutangna mah teu aya manpaatna
+1) Getol nabung tapi getol ogé ngahutangna mah aya mangpaatna.
+
+Question 557: Getol nabung tapi getol ogé ngahutangna mah ibarat lilin dina poék lampu.
+Options:
+0) Getol nabung tapi getol ogé ngahutangna mah teu aya manpaatna
+1) Getol nabung tapi getol ogé ngahutangna mah aya mangpaatna.
+
+Question 558: Jalmi suksés digawé kawas sireum néangan dahareun
+Options:
+0) Jalmi suksés kudu getol
+1) Jalmi suksés kudu kedul.
+
+Question 559: Jalmi suksés digawé kawas panda nu saré sapopoé.
+Options:
+0) Jalmi suksés kudu getol
+1) Jalmi suksés kudu kedul.
+
+Question 560: Guru téh ibarat lilin anu réla ngaduruk dirina sorangan pikeun meré caang
+Options:
+0) Guru teh gawena tulus
+1) Guru teh gawena pamrih.
+
+Question 561: Guru téh ibarat tukang dagang ka nu meuli.
+Options:
+0) Guru teh gawena tulus
+1) Guru teh gawena pamrih.
+
+Question 562: Nuduh batur ku awon téh kawas jalma nu nyiduh ka langit
+Options:
+0) Nuduh batur ku awon ngajelékkeun diri sorangan
+1) Nuduh batur ku awon nebarkeun kahadean ka diri sorangan.
+
+Question 563: Nuduh batur ku awon téh kawas nyebarkeun binih kembang sapanjang jalan.
+Options:
+0) Nuduh batur ku awon ngajelékkeun diri sorangan
+1) Nuduh batur ku awon nebarkeun kahadean ka diri sorangan.
+
+Question 564: Pernikahan mah ti jaman baheula gé asaan pasti aya anu siga mayit dibéré formalin
+Options:
+0) Pernikahan mah aya nu awét
+1) Pernikahan mah aya nu teu awét.
+
+Question 565: Pernikahan mah ti jaman baheula gé asaan pasti aya anu siga batré hp urut batur.
+Options:
+0) Pernikahan mah aya nu awét
+1) Pernikahan mah aya nu teu awét.
+
+Question 566: Tulisan manéh keur di sakola mah siga cékér hayam
+Options:
+0) Tulisan manéh keur di sakola mah goreng
+1) Tulisan manéh keur di sakola mah alus.
+
+Question 567: Tulisan manéh keur di sakola mah siga huruf anu aya di komputer.
+Options:
+0) Tulisan manéh keur di sakola mah goreng
+1) Tulisan manéh keur di sakola mah alus.
+
+Question 568: Umur manusa mah siga buukna jenglot
+Options:
+0) Umur manusa panjang
+1) Umur manusa pondok.
+
+Question 569: Umur manusa mah siga tangkal togé.
+Options:
+0) Umur manusa panjang
+1) Umur manusa pondok.
+
+Question 570: Pikiran babaturan urang mah kawas nu geus ulin di lumpur
+Options:
+0) Pikiran babaturan kotor
+1) Pikiran babaturan beresih.
+
+Question 571: Pikiran babaturan urang mah kawas nu karek beres mandi.
+Options:
+0) Pikiran babaturan kotor
+1) Pikiran babaturan beresih.
+
+Question 572: Ngejar kareta api di stasiun mah siga diudag anjing édan
+Options:
+0) Ngejar kareta mah engal-engal
+1) Ngejar kareta mah santai.
+
+Question 573: Ngejar kareta api di stasiun mah siga nu eweh gaweaneun.
+Options:
+0) Ngejar kareta mah engal-engal
+1) Ngejar kareta mah santai.
+
+Question 574: Buukna dirumbay siga sapu ijuk
+Options:
+0) Buukna teh kasar
+1) Buukna teh alus.
+
+Question 575: Buukna dirumbay siga sutra nu mahal.
+Options:
+0) Buukna teh kasar
+1) Buukna teh alus.
+
+Question 576: Ngadagoan kasuksésan datang ka kahirupan mah ibarat ngadagoan tangkal jati tumuwuh nepi ka badag
+Options:
+0) Kasuksésan datang ka karihupan teh lami
+1) Kasuksésan datang ka karihupan teh gancang.
+
+Question 577: Ngadagoan kasuksésan datang ka kahirupan mah ibarat ngadagoan mi instan asak.
+Options:
+0) Kasuksésan datang ka karihupan teh lami
+1) Kasuksésan datang ka karihupan teh gancang.
+
+Question 578: Pangalaman hirup bisa ngajadikeun sipat manusa kawas sumbu nu gampang kaduruk
+Options:
+0) Pangalaman hirup bisa ngajadikeun aambekan
+1) Pangalaman hirup bisa ngajadikeun sabar.
+
+Question 579: Pangalaman hirup bisa ngajadikeun sipat manusa kawas maung keur nungguan mangsa ti kajauhan.
+Options:
+0) Pangalaman hirup bisa ngajadikeun aambekan
+1) Pangalaman hirup bisa ngajadikeun sabar.
+
+Question 580: Upami keur lebaran di Bogor mah suasanana kos astana anyar
+Options:
+0) Bogor keur lebaran mah jempling
+1) Bogor keur lebaran mah réa.
+
+Question 581: Upami keur lebaran di Bogor mah suasanana kos ulin ka pasar peuting.
+Options:
+0) Bogor keur lebaran mah jempling
+1) Bogor keur lebaran mah réa.
+
+Question 582: Méntal manusa siga tembok imah baheula nu gampang muruhpuy
+Options:
+0) Mental manusa teh rapuh
+1) Mental manusa teh kuat.
+
+Question 583: Méntal manusa siga inten nu teu gampang peupeus.
+Options:
+0) Mental manusa teh rapuh
+1) Mental manusa teh kuat.
+
+Question 584: Duit bisa ngarobah jalma kawas Qarun anu dikubur ku hartana sorangan
+Options:
+0) Duit bisa ngarobah jalma jadi sarakah
+1) Duit bisa ngarobah jalma jadi bersukur.
+
+Question 585: Duit bisa ngarobah jalma kawas dermawan sanajan manéhna kakurangan.
+Options:
+0) Duit bisa ngarobah jalma jadi sarakah
+1) Duit bisa ngarobah jalma jadi bersukur.
+
+Question 586: Nasib jalma bisa béda-béda ibaratna mah meunang jackpot sapeuting jeput
+Options:
+0) Nasib jalma bisa béda-béda aya nu mujur
+1) Nasib jalma bisa béda-béda aya nu sial.
+
+Question 587: Nasib jalma bisa béda-béda ibaratna mah aya tai cakcak ragrag kana tarang.
+Options:
+0) Nasib jalma bisa béda-béda aya nu mujur
+1) Nasib jalma bisa béda-béda aya nu sial.
+
+Question 588: Ngabuka usaha anyar keur pandémik sapertos balayar dina badai
+Options:
+0) Ngabuka usaha anyar keur pandémik risikona gede
+1) Ngabuka usaha anyar keur pandémik teu aya risiko.
+
+Question 589: Ngabuka usaha anyar keur pandémik sapertos naék gunung anu teu lungkawing.
+Options:
+0) Ngabuka usaha anyar keur pandémik risikona gede
+1) Ngabuka usaha anyar keur pandémik teu aya risiko.
+
+Question 590: Seueur teuing pangaweruh bisa ngajadikeun manusa sapertos kantong semar keur ngajuju mangsana
+Options:
+0) Seueur pangaweruh bisa ngajadikeun manusa pinter
+1) Seueur pangaweruh bisa ngajadikeun manusa bodo.
+
+Question 591: Seueur teuing pangaweruh bisa ngajadikeun manusa sapertos ngojay di balong nu pinuh ku piranha.
+Options:
+0) Seueur pangaweruh bisa ngajadikeun manusa pinter
+1) Seueur pangaweruh bisa ngajadikeun manusa bodo.
+
+Question 592: Nu kaambu dina angkutan umum sapertos sangu nu geus leueur
+Options:
+0) Nu kaambu dina angkutan umum bau
+1) Nu kaambu dina angkutan umum seungit.
+
+Question 593: Nu kaambu dina angkutan umum sapertos keur aya di toko minyak seungit.
+Options:
+0) Nu kaambu dina angkutan umum bau
+1) Nu kaambu dina angkutan umum seungit.
+
+Question 594: Balik deui sareng mantan sapertos ningali final badminton
+Options:
+0) Balik sareng mantan mah seru
+1) Balik sareng mantan mah bosen.
+
+Question 595: Balik deui sareng mantan sapertos nganggo baju anu sami dina unggal dinten.
+Options:
+0) Balik sareng mantan mah seru
+1) Balik sareng mantan mah bosen.
+
+Question 596: Hubungan jarak jauh ibarat arum jeram di sungai
+Options:
+0) Hubungan jarak jauh pinuh ku rintangan
+1) Hubungan jarak jauh teu aya rintanganana.
+
+Question 597: Hubungan jarak jauh ibarat numpakan kano di talaga.
+Options:
+0) Hubungan jarak jauh pinuh ku rintangan
+1) Hubungan jarak jauh teu aya rintanganana.
+
+Question 598: Panghina ti batur mah siga kusir keur mecut kuda
+Options:
+0) Panghina nyieun leuwih getol
+1) Panghina nyieun nelangsa.
+
+Question 599: Panghina ti batur mah siga racun sianida dina kadaharan.
+Options:
+0) Panghina nyieun leuwih getol
+1) Panghina nyieun nelangsa.
+"

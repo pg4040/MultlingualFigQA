@@ -1,0 +1,1856 @@
+Prompt,Response
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 0: दोस्ती एक फलदार वृक्ष है।
+Options:
+0) दोस्ती मददगार होती है।
+1) दोस्ती नुकसान दायक होती है।
+
+Question 1: दोस्ती एक जहरीला वृक्ष है।
+Options:
+0) दोस्ती मददगार होती है।
+1) दोस्ती नुकसान दायक होती है।
+
+Question 2: कालिदास भारत के शेख्चिली हैं।
+Options:
+0) कालिदास मुर्ख हैं।
+1) कालिदास बुद्धिमान हैं।
+
+Question 3: कालिदास भारत के शेक्सपियर हैं।
+Options:
+0) कालिदास मुर्ख हैं।
+1) कालिदास बुद्धिमान हैं।
+
+Question 4: यह खबर उनके दिल में फूलों की खुशबु लाई।
+Options:
+0) ख़ुशी की खबर लाई।
+1) दुःख की खबर लाई।
+
+Question 5: यह खबर उनके दिल में तीर की तरह चुभ गई।
+Options:
+0) ख़ुशी की खबरलाई।
+1) दुःख की खबर लाई।
+
+Question 6: उदयसिंह परिवार के कलंक हैं।
+Options:
+0) उदयसिंह परिवार को समाज में नीचा दिखाते हैं।
+1) उदयसिंह परिवार को समाज में ऊँचे दर्जे पर लेजाते हैं।
+
+Question 7: उदयसिंह परिवार के सितारे हैं।
+Options:
+0) उदयसिंह परिवार को समाज में नीचा दिखाते हैं।
+1) उदयसिंह परिवार को समाज में ऊँचे दर्जे पर लेजाते हैं।
+
+Question 8: जीवन एक सत्य है।
+Options:
+0) जीवन हकीकत है।
+1) जीवन एक मिथ्या है।
+
+Question 9: जीवन एक सपना है।
+Options:
+0) जीवन हकीकत है।
+1) जीवन एक मिथ्या है।
+
+Question 10: जीवन काँटों की सेज नहीं है।
+Options:
+0) जीवन में खुशिओं भी होती हैं।
+1) जीवन में दुःख भी आते हैं।
+
+Question 11: जीवन फूलों की सेज नहीं है।
+Options:
+0) जीवन में खुशिओं भी होती हैं।
+1) जीवन में दुःख भी आते हैं।
+
+Question 12: बदला एक प्रकार का सभ्य न्याय है।
+Options:
+0) बदला लेना अच्छा है।
+1) बदला लेना अच्छा नहीं है।
+
+Question 13: बदला एक प्रकार का जंगली न्याय है।
+Options:
+0) बदला लेना अच्छा है।
+1) बदला लेना अच्छा नहीं है।
+
+Question 14: बचपन जीवन का अंधकार है।
+Options:
+0) बचपन जीवन का कठिन समय होता है।
+1) बचपन जीवन का सबसे सही होता है।
+","0, 0
+1, 1
+2, 1
+3, 1
+4, 0
+5, 1
+6, 0
+7, 1
+8, 0
+9, 1
+10, 0
+11, 1
+12, 0
+13, 1
+14, 1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 0: Nyalinya seperti anak kecil yang tersesat.
+Options:
+0) Dia penakut.
+1) Dia pemberani.
+
+Question 1: Nyalinya seperti prajurit terdepan di medan perang.
+Options:
+0) Dia penakut.
+1) Dia pemberani.
+
+Question 2: Berbicara dengan Kinan seperti bicara dengan balita.
+Options:
+0) Pengetahuannya kurang.
+1) Pengetahuannya luas.
+
+Question 3: Berbicara dengan Kinan seperti mengikuti kuliah kuliah dari dosen ternama.
+Options:
+0) Pengetahuannya kurang.
+1) Pengetahuannya luas.
+
+Question 4: Anak itu tampil bak putri malu yang layu.
+Options:
+0) Anak itu tampil dengan malu-malu.
+1) Anak itu tampil dengan percaya diri.
+
+Question 5: Anak itu tampil bak bunga mawar di taman.
+Options:
+0) Anak itu tampil dengan malu-malu.
+1) Anak itu tampil dengan percaya diri.
+
+Question 6: Suara Sari dapat mengalahkan suara ombak.
+Options:
+0) Suara Sari sangat kencang.
+1) Suara Sari sangat pelan.
+
+Question 7: Suara Sari lenyap terbawa angin.
+Options:
+0) Suara Sari sangat kencang.
+1) Suara Sari sangat pelan.
+
+Question 8: Cara makannya bagai tamu restoran bintang 5.
+Options:
+0) Cara makannya rapi.
+1) Cara makannya berantakan.
+
+Question 9: Cara makannya bagai anak kecil di toko es krim.
+Options:
+0) Cara makannya rapi.
+1) Cara makannya berantakan.
+
+Question 10: Pekerjaan ayah semudah membalikkan telapak tangan.
+Options:
+0) Pekerjaan ayah sangat mudah.
+1) Pekerjaan ayah sangat sulit.
+
+Question 11: Pekerjaan ayah semudah memasukkan benang ke dalam jarum.
+Options:
+0) Pekerjaan ayah sangat mudah.
+1) Pekerjaan ayah sangat sulit.
+
+Question 12: Siswa SD itu membawa tas layaknya orang yang mau kabur dari rumah.
+Options:
+0) Tasnya besar.
+1) Tasnya kecil.
+
+Question 13: Siswa SD itu membawa tas layaknya orang yang akan pergi ke mal.
+Options:
+0) Tasnya besar.
+1) Tasnya kecil.
+
+Question 14: Dia melahap makanan seolah belum makan tiga hari.
+Options:
+0) Dia sangat lapar.
+1) Dia sangat kenyang.
+
+Question 15: Dia melahap makanan seolah habis menghadiri tiga kondangan.
+Options:
+0) Dia sangat lapar.
+1) Dia sangat kenyang.
+
+Question 16: Ia berjalan layaknya siput.
+Options:
+0) Dia berjalan dengan lambat.
+1) Dia berjalan dengan cepat.
+
+Question 17: Ia berjalan layaknya macan.
+Options:
+0) Dia berjalan dengan lambat.
+1) Dia berjalan dengan cepat.
+
+Question 18: Kehadirannya bagaikan petir di siang bolong.
+Options:
+0) Kehadirannya adalah musibah.
+1) Kehadirannya adalah anugerah.
+
+Question 19: Kehadirannya bagaikan bintang di langit malam.
+Options:
+0) Kehadirannya adalah musibah.
+1) Kehadirannya adalah anugerah.
+
+Question 20: Dia menjalani hidup bak burung di angkasa.
+Options:
+0) Hidupnya bebas.
+1) Hidupnya terkekang.
+
+Question 21: Dia menjalani hidup bak singa di kebun binatang.
+Options:
+0) Hidupnya bebas.
+1) Hidupnya terkekang.
+
+Question 22: Situasi kelas A seramai KRL di jam kerja.
+Options:
+0) Siswa-siswi kelas A berpartisipasi dengan aktif.
+1) Siswa-siswi kelas A berpartisipasi dengan pasif.
+
+Question 23: Situasi kelas A seramai kuburan di malam hari.
+Options:
+0) Siswa-siswi kelas A berpartisipasi dengan aktif.
+1) Siswa-siswi kelas A berpartisipasi dengan pasif.
+
+Question 24: Adik menginginkan rambut seperti dora.
+Options:
+0) Adik ingin memiliki rambut pendek.
+1) Adik ingin memiliki rambut panjang.
+
+Question 25: Adik menginginkan rambut seperti rapunzel.
+Options:
+0) Adik ingin memiliki rambut pendek.
+1) Adik ingin memiliki rambut panjang.
+
+Question 26: Curhatannya sepanjang skripsi mahasiswa kedokteran.
+Options:
+0) Ceritanya panjang.
+1) Ceritanya pendek.
+
+Question 27: Curhatannya sepanjang iklan badut di jalanan.
+Options:
+0) Ceritanya panjang.
+1) Ceritanya pendek.
+
+Question 28: Tulisan tangannya bak tulisan dokter.
+Options:
+0) Tulisannya berantakan.
+1) Tulisannya rapi.
+
+Question 29: Tulisan tangannya bak ketikan komputer canggih.
+Options:
+0) Tulisannya berantakan.
+1) Tulisannya rapi.
+
+Question 30: Memintanya membereskan kamar sama seperti menyuruh kucing terbang.
+Options:
+0) Perintah itu mustahil dilakukan.
+1) Perintah itu selalu dilakukan.
+
+Question 31: Memintanya membereskan kamar sama seperti berbincang dengan google assistant.
+Options:
+0) Perintah itu mustahil dilakukan.
+1) Perintah itu selalu dilakukan.
+
+Question 32: Dia menyelesaikan pekerjaannya secepat memasak mi instan.
+Options:
+0) Dia bekerja dengan cekatan.
+1) Dia bekerja dengan lambat.
+
+Question 33: Dia menyelesaikan pekerjaannya secepat mengurus paspor yang hilang.
+Options:
+0) Dia bekerja dengan cekatan.
+1) Dia bekerja dengan lambat.
+
+Question 34: Kelas bersama Pak Faisal seperti sedang berada di kandang singa.
+Options:
+0) Suasana kelas sangat menegangkan.
+1) Suasana kelas sangat bersahabat.
+
+Question 35: Kelas bersama Pak Faisal seperti sedang bermain dengan anak tetangga.
+Options:
+0) Suasana kelas sangat menegangkan.
+1) Suasana kelas sangat bersahabat.
+
+Question 36: Orang asing yang kau temui sewaktu-waktu bisa menjadi rumah untuk pulang.
+Options:
+0) Orang asing bisa menjadi teman.
+1) Orang asing bisa menjadi musuh.
+
+Question 37: Orang asing yang kau temui sewaktu-waktu bisa menjadi jurang di ujung jalan.
+Options:
+0) Orang asing bisa menjadi teman.
+1) Orang asing bisa menjadi musuh.
+
+Question 38: Saat kelas berlangsung, mereka berbincang bak petir bersahut-sahutan di tengah hujan.
+Options:
+0) Mereka berbicara dengan suara kencang.
+1) Mereka berbicara dengan suara pelan.
+
+Question 39: Saat kelas berlangsung, mereka berbincang bak berbisik pada dedaunan.
+Options:
+0) Mereka berbicara dengan suara kencang.
+1) Mereka berbicara dengan suara pelan.
+
+Question 40: Perempuan itu sangat suka berkumpul dengan bintang-bintang.
+Options:
+0) Perempuan itu suka bersosialisasi.
+1) Perempuan itu suka menyendiri.
+
+Question 41: Perempuan itu sangat suka memeluk keheningan malam.
+Options:
+0) Perempuan itu suka bersosialisasi.
+1) Perempuan itu suka menyendiri.
+
+Question 42: Saat aku terpuruk, dia berlagak layaknya fans yang mendukung idolanya.
+Options:
+0) Dia peduli.
+1) Dia tidak peduli.
+
+Question 43: Saat aku terpuruk, dia berlagak layaknya orang asing di keramaian ibu kota.
+Options:
+0) Dia peduli.
+1) Dia tidak peduli.
+
+Question 44: Ayahku bersikap seolah bisa menyapa seluruh dunia.
+Options:
+0) Ayahnya sangat ramah.
+1) Ayahnya sangat kaku.
+
+Question 45: Ayahku bersikap seolah dia adalah robot yang sudah usang.
+Options:
+0) Ayahnya sangat ramah.
+1) Ayahnya sangat kaku.
+
+Question 46: Dia tampak seperti mahasiswa yang gagal ujian.
+Options:
+0) Dia sangat sedih.
+1) Dia sangat senang.
+
+Question 47: Dia tampak seperti habis memenangkan lotre.
+Options:
+0) Dia sangat sedih.
+1) Dia sangat senang.
+
+Question 48: Menurutnya, merantau adalah petualangan mencari jati diri.
+Options:
+0) Menurutnya, merantau itu mendebarkan.
+1) Menurutnya, merantau itu menyesakkan.
+
+Question 49: Menurutnya, merantau adalah perang yang tak berujung.
+Options:
+0) Menurutnya, merantau itu mendebarkan.
+1) Menurutnya, merantau itu menyesakkan.
+
+Question 50: Rara berpakaian seolah akan mengikuti pemotretan di sebuah majalah.
+Options:
+0) Rara tampak rapi.
+1) Rara tampak lusuh.
+
+Question 51: Rara berpakaian seolah akan mengambil paket di depan rumah.
+Options:
+0) Rara tampak rapi.
+1) Rara tampak lusuh.
+
+Question 52: Cara bicaranya bak putri Solo.
+Options:
+0) Dia bicara dengan lemah lembut.
+1) Dia bicara dengan kasar.
+
+Question 53: Cara bicaranya bak preman di pasar.
+Options:
+0) Dia bicara dengan lemah lembut.
+1) Dia bicara dengan kasar.
+
+Question 54: Saat ditanya, mahasiswa itu menjawab seperti orang yang ketahuan mencuri.
+Options:
+0) Mahasiswa itu menjawab dengan gelagapan.
+1) Mahasiswa itu menjawab dengan tenang.
+
+Question 55: Saat ditanya, mahasiswa itu menjawab seperti sudah mengantongi kunci jawaban di kepalanya.
+Options:
+0) Mahasiswa itu menjawab dengan gelagapan.
+1) Mahasiswa itu menjawab dengan tenang.
+
+Question 56: Kamar kosnya bagaikan rumah yang habis dimasuki pencuri.
+Options:
+0) Kamar kosnya berantakan.
+1) Kamar kosnya rapi.
+
+Question 57: Kamar kosnya bagaikan rumah dengan selusin ART.
+Options:
+0) Kamar kosnya berantakan.
+1) Kamar kosnya rapi.
+
+Question 58: Rumahnya seluas GBK.
+Options:
+0) Rumahnya luas.
+1) Rumahnya sempit.
+
+Question 59: Rumahnya seluas jalan tikus.
+Options:
+0) Rumahnya luas.
+1) Rumahnya sempit.
+","0, 1
+1, 1
+2, 1
+3, 0
+4, 0
+5, 1
+6, 1
+7, 0
+8, 0
+9, 1
+10, 0
+11, 1
+12, 0
+13, 1
+14, 0
+15, 1
+16, 0
+17, 1
+18, 1
+19, 0
+20, 0
+21, 1
+22, 1
+23, 0
+24, 1
+25, 0
+26, 0
+27, 1
+28, 1
+29, 0
+30, 0
+31, 1
+32, 0
+33, 1
+34, 0
+35, 1
+36, 0
+37, 1
+38, 1
+39, 0
+40, 1
+41, 0
+42, 0
+43, 1
+44, 0
+45, 1
+46, 0
+47, 1
+48, 0
+49, 1
+50, 0
+51, 1
+52, 0
+53, 1
+54, 0
+55, 1
+56, 0
+57, 1
+58, 0
+59, 1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 0: Nyawang esemmu sing rupane kaya ngemut glali
+Options:
+0) Nyawang esemmu sing manis
+1) Nyawang esemmu sing pahit
+
+Question 1: Nyawang esemmu sing rupane kaya nyruput ampas kopi
+Options:
+0) Nyawang esemmu sing manis
+1) Nyawang esemmu sing pahit
+
+Question 2: Suarane bocahe kuwi kaya sutra
+Options:
+0) Suarane bocah kuwi merdu
+1) Suarane bocah kuwi elek
+
+Question 3: Suarane bocahe kuwi kaya bledek
+Options:
+0) Suarane bocah kuwi merdu
+1) Suarane bocah kuwi elek
+
+Question 4: Lakmu mlaku jan kaya diuber maling
+Options:
+0) Lakmu mlaku cepet
+1) Lakmu mlaku suwi
+
+Question 5: Lakmu mlaku jan kaya nyeret bata
+Options:
+0) Lakmu mlaku cepet
+1) Lakmu mlaku suwi
+
+Question 6: Dekwingi aku nyang omahmu jan kaya pasar malem
+Options:
+0) Dek wingi aku nyang omahmu sing rame
+1) Dek wingi aku nyang omahmu sing sepi
+
+Question 7: Dekwingi aku nyang omahmu jan kaya omah demit
+Options:
+0) Dek wingi aku nyang omahmu sing rame
+1) Dek wingi aku nyang omahmu sing sepi
+
+Question 8: Ngawiti dina senen iku seabot nyunggi batako
+Options:
+0) Ngawiti dina senen iku abot banget
+1) Ngawiti dina senen iku enteng
+
+Question 9: Ngawiti dina senen iku seabot nyunggi kapuk
+Options:
+0) Ngawiti dina senen iku abot banget
+1) Ngawiti dina senen iku enteng
+
+Question 10: Winginane aku ketemu Mbak Dewi, rupane kaya cak ning
+Options:
+0) Winginane aku ketemu Mbak Dewi, wajahe ayu
+1) Winginane aku ketemu Mbak Dewi, wajahe elek
+
+Question 11: Winginane aku ketemu Mbak Dewi, rupane kaya kuntilanak
+Options:
+0) Winginane aku ketemu Mbak Dewi, wajahe ayu
+1) Winginane aku ketemu Mbak Dewi, wajahe elek
+
+Question 12: Poh, ambune klambine Bu Nita kaya kebon mlathi
+Options:
+0) Ambune klambine Bu Nita wangi
+1) Ambune klambine Bu Nita mambu ora enak
+
+Question 13: Poh, ambune klambine Bu Nita kaya peceren
+Options:
+0) Ambune klambine Bu Nita wangi
+1) Ambune klambine Bu Nita mambu ora enak
+
+Question 14: Suasanane pasar kliwon jan kaya wong tawuran
+Options:
+0) Suasanane pasar kliwon jan kaya rame
+1) Suasanane pasar kliwon jan kaya sepi
+
+Question 15: Suasanane pasar kliwon jan kaya kuburan
+Options:
+0) Suasanane pasar kliwon jan kaya rame
+1) Suasanane pasar kliwon jan kaya sepi
+
+Question 16: Lekmu numpak mobil kaya keong
+Options:
+0) Lekmu numpak mobil alon
+1) Lekmu numpak mobil cepet
+
+Question 17: Lekmu numpak mobil kaya alap-alap
+Options:
+0) Lekmu numpak mobil alon
+1) Lekmu numpak mobil cepet
+
+Question 18: Lungguh ning kursi iku rasane kaya bantal
+Options:
+0) Lungguh ning kursi iku rasane empuk
+1) Lungguh ning kursi iku rasane atos
+
+Question 19: Lungguh ning kursi iku rasane kaya watu
+Options:
+0) Lungguh ning kursi iku rasane empuk
+1) Lungguh ning kursi iku rasane atos
+
+Question 20: Udane maeng isuk kaya disok
+Options:
+0) Udane maeng isuk deres
+1) Udane maeng isuk gerimis
+
+Question 21: Udane maeng isuk kaya kletik
+Options:
+0) Udane maeng isuk deres
+1) Udane maeng isuk gerimis
+
+Question 22: Bar sepedahan tekan nggunung boyok rasane kaya dilindes trek
+Options:
+0) Bar sepedahan tekan nggunung boyok rasane keju kabeh
+1) Bar sepedahan tekan nggunung boyok rasane penak
+
+Question 23: Bar sepedahan tekan nggunung boyok rasane kaya dibalsemi sedinaan
+Options:
+0) Bar sepedahan tekan nggunung boyok rasane keju kabeh
+1) Bar sepedahan tekan nggunung boyok rasane penak
+
+Question 24: Ra umum, duwurmen adike Anas sak wit klapa
+Options:
+0) Adike Anas duwur banget
+1) Adike Anas cendek
+
+Question 25: Ra umum, duwurmen adike Anas sak wit ceplukan
+Options:
+0) Adike Anas duwur banget
+1) Adike Anas cendek
+
+Question 26: Padange lampu kamarku kaya sokle
+Options:
+0) Lampu kamarku padang
+1) Lampu kamarku peteng
+
+Question 27: Padange lampu kamarku kaya ublik
+Options:
+0) Lampu kamarku padang
+1) Lampu kamarku peteng
+
+Question 28: Mas Edi lak mlayu jan kaya kancil
+Options:
+0) Mas Edi lak mlayu cepet
+1) Mas Edi lak mlayu rindik
+
+Question 29: Mas Edi lak mlayu jan kaya semut
+Options:
+0) Mas Edi lak mlayu cepet
+1) Mas Edi lak mlayu rindik
+
+Question 30: Untune Dik Sri mbiji timun
+Options:
+0) Untine Dik Sri tata
+1) Untine Dik Sri gedi-gedi ting mbedesal
+
+Question 31: Untune Dik Sri ngungkal gerang
+Options:
+0) Untine Dik Sri tata
+1) Untine Dik Sri gedi-gedi ting mbedesal
+
+Question 32: Polahe bocah cilik kuwi kaya kitiran
+Options:
+0) Bocah cilik kuwi ora isa meneng
+1) Bocah cilik kuwi tura-turu ae
+
+Question 33: Polahe bocah cilik kuwi kaya kebo
+Options:
+0) Bocah cilik kuwi ora isa meneng
+1) Bocah cilik kuwi tura-turu ae
+
+Question 34: Pasuryane Mas Tono kaya Arjuna
+Options:
+0) Pasuryane Mas Tono ganteng
+1) Pasuryane Mas Tono elek
+
+Question 35: Pasuryane Mas Tono kaya Rahwana
+Options:
+0) Pasuryane Mas Tono ganteng
+1) Pasuryane Mas Tono elek
+
+Question 36: Pipine Rida aluse kaya dalan aspalan
+Options:
+0) Pipine Rida alus
+1) Pipine Rida kasar kakehan kukul
+
+Question 37: Pipine Rida aluse kaya dalan makadhaman
+Options:
+0) Pipine Rida alus
+1) Pipine Rida kasar kakehan kukul
+
+Question 38: Hawane awan iki kaya dolan menyang gurun
+Options:
+0) Hawane awan iki panas
+1) Hawane awan iki adhem
+
+Question 39: Hawane awan iki kaya dolan menyang kutub
+Options:
+0) Hawane awan iki panas
+1) Hawane awan iki adhem
+
+Question 40: Nyawang dedege Kartolo kok kaya kendel ngringkel
+Options:
+0) Kartolo kuwi wani
+1) Kartolo kuwi weden
+
+Question 41: Nyawang dedege Kartolo kok kaya dhadang ora godak
+Options:
+0) Kartolo kuwi wani
+1) Kartolo kuwi weden
+
+Question 42: Kahanan omahe Pak Sardi sing lagi wae oleh bantuwan kaya udan tangis
+Options:
+0) Kahanan omahe Pak Sardi kang lagi susah
+1) Kahanan omahe Pak Sardi kang lagi seneng
+
+Question 43: Kahanan omahe Pak Sardi sing lagi wae oleh bantuwan kaya udan dhuwit
+Options:
+0) Kahanan omahe Pak Sardi kang lagi susah
+1) Kahanan omahe Pak Sardi kang lagi seneng
+
+Question 44: Nek gawe wedang kopi Painem kaya disoki juruh
+Options:
+0) Nek gawe wedang kopi Painem legi
+1) Nek gawe wedang kopi Painem pahit
+
+Question 45: Nek gawe wedang kopi Painem kaya disoki suruh
+Options:
+0) Nek gawe wedang kopi Painem legi
+1) Nek gawe wedang kopi Painem pahit
+
+Question 46: Baguse Paijo katulung saka irunge sing kaya irunge petruk
+Options:
+0) Baguse Paijo katulung irunge sing mancung
+1) Baguse Paijo katulung irunge sing pesek
+
+Question 47: Baguse Paijo katulung saka irunge sing kaya irunge semar
+Options:
+0) Baguse Paijo katulung irunge sing mancung
+1) Baguse Paijo katulung irunge sing pesek
+
+Question 48: Pak Hasan ora gelem menehi sumbangan pancen sipate iku kaya cina craki
+Options:
+0) Pak Hasan ora gelem menehi sumbangan pancen sipate iku medhit
+1) Pak Hasan ora gelem menehi sumbangan pancen sipate iku loman
+
+Question 49: Pak Hasan ora gelem menehi sumbangan pancen sipate iku kaya blaba uda
+Options:
+0) Pak Hasan ora gelem menehi sumbangan pancen sipate iku medhit
+1) Pak Hasan ora gelem menehi sumbangan pancen sipate iku loman
+
+Question 50: Anggone nyambut gawe Allia kaya banteng ketaton
+Options:
+0) Anggone nyambut gawe Allia Cepet banget
+1) Anggone nyambut gawe Allia alon banget
+
+Question 51: Anggone nyambut gawe Allia kaya macan luwe
+Options:
+0) Anggone nyambut gawe Allia Cepet banget
+1) Anggone nyambut gawe Allia alon banget
+
+Question 52: Nalika sesrawungan Pak Jemani lan Paiman kaya banyu karo lenga
+Options:
+0) Nalika sesrawungan Pak Jemani lan Paiman ora bisa akur
+1) Nalika sesrawungan Pak Jemani lan Paiman akur banget
+
+Question 53: Nalika sesrawungan Pak Jemani lan Paiman kaya mimi lan mituna
+Options:
+0) Nalika sesrawungan Pak Jemani lan Paiman ora bisa akur
+1) Nalika sesrawungan Pak Jemani lan Paiman akur banget
+
+Question 54: Tulisane Sarti jumejer ana papan tulis kaya awangun ketumbar
+Options:
+0) Tulisane Sarti jumejer ana papan tulis apik banget
+1) Tulisane Sarti jumejer ana papan tulis elek banget
+
+Question 55: Tulisane Sarti jumejer ana papan tulis kaya cekere pitik
+Options:
+0) Tulisane Sarti jumejer ana papan tulis apik banget
+1) Tulisane Sarti jumejer ana papan tulis elek banget
+
+Question 56: Rambute Selfi wiwit cilik pancen kaya brintik linggis
+Options:
+0) Rambute Selfi wiwit cilik pancen lurus
+1) Rambute Selfi wiwit cilik pancen kriting
+
+Question 57: Rambute Selfi wiwit cilik pancen kaya kembang jagung
+Options:
+0) Rambute Selfi wiwit cilik pancen lurus
+1) Rambute Selfi wiwit cilik pancen kriting
+
+Question 58: Kain batik sing dituku nalika menyang pasar Klewer iku kandele kaya kulit bawang
+Options:
+0) Kain batik sing dituku menyang pasar klewer tipis banget
+1) Kain batik sing dituku menyang pasar klewer kandel banget
+
+Question 59: Kain batik sing dituku nalika menyang pasar Klewer iku kandele kaya kulit babat
+Options:
+0) Kain batik sing dituku menyang pasar klewer tipis banget
+1) Kain batik sing dituku menyang pasar klewer kandel banget
+","1, 1
+1, 1
+0, 0
+1, 0
+0, 0
+1, 1
+0, 1
+1, 0
+0, 1
+1, 0
+0, 0
+1, 1
+0, 0
+1, 1
+0, 1
+1, 1
+0, 1
+1, 0
+0, 0
+1, 1
+0, 1
+1, 1
+0, 0
+1, 0
+0, 1
+1, 1
+0, 1
+1, 0
+0, 0
+1, 1
+0, 0
+1, 1
+0, 0
+1, 1
+0, 1
+1, 1
+0, 1
+1, 0
+0, 1
+1, 1
+0, 1
+1, 0
+0, 0
+1, 1
+0, 1
+1, 0
+0, 1
+1, 0
+0, 0
+1, 1
+0, 0
+1, 1
+0, 0
+1, 1
+0, 0
+1, 1
+0, 1
+1, 0
+0, 0
+1, 1
+0, 1
+1, 0
+0, 0
+1, 1
+0, 0
+1, 1
+0, 1
+1, 0
+0, 1
+1, 0
+0, 0
+1, 1
+0, 1
+1, 1
+0, 0
+1, 1
+0, 0
+1, 1
+0, 1
+1, 0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 0: ಆ ಸ್ಥಳವು ಆಸ್ಪತ್ರೆ ರೀತಿ ಶುಚಿಯಾಗಿದೆ.
+Options:
+0) ಆ ಸ್ಥಳವು ಶುಚಿಯಾಗಿದೆ
+1) ಆ ಸ್ಥಳವು ಶುಚಿಯಾಗಿಲ್ಲ
+
+Question 1: ಆ ಸ್ಥಳವು ಮೀನಿನ ಮಾರುಕಟ್ಟೆ ರೀತಿ ಶುಚಿಯಾಗಿದೆ.
+Options:
+0) ಆ ಸ್ಥಳವು ಶುಚಿಯಾಗಿದೆ
+1) ಆ ಸ್ಥಳವು ಶುಚಿಯಾಗಿಲ್ಲ
+
+Question 2: ಆ ಪ್ರದೇಶ ಯುದ್ಧ ಭೂಮಿಯಷ್ಟು ಹಿಂಸೆಯಿಂದ ಕೂಡಿದೆ.
+Options:
+0) ಆ ಪ್ರದೇಶ ಹಿಂಸೆಯಿಂದ ಕೂಡಿದೆ
+1) ಆ ಪ್ರದೇಶ ಹಿಂಸೆಯಿಂದ ಕೂಡಿಲ್ಲ
+
+Question 3: ಆ ಪ್ರದೇಶ ದೇವಸ್ಥಾನದಷ್ಟು ಹಿಂಸೆಯಿಂದ ಕೂಡಿದೆ.
+Options:
+0) ಆ ಪ್ರದೇಶ ಹಿಂಸೆಯಿಂದ ಕೂಡಿದೆ
+1) ಆ ಪ್ರದೇಶ ಹಿಂಸೆಯಿಂದ ಕೂಡಿಲ್ಲ
+
+Question 4: ಅವರ ಬಾಂಧವ್ಯ ಸ್ನೇಹಿತರ ಹಾಗೆ ಗಟ್ಟಿಯಿದೆ.
+Options:
+0) ಅವರ ಬಾಂಧವ್ಯ ಗಟ್ಟಿ ಇದೆ
+1) ಅವರ ಬಾಂಧವ್ಯ ಗಟ್ಟಿ ಇಲ್ಲ
+
+Question 5: ಅವರ ಬಾಂಧವ್ಯ ಶತ್ರುಗಳು ಹಾಗೆ ಗಟ್ಟಿಯಿದೆ.
+Options:
+0) ಅವರ ಬಾಂಧವ್ಯ ಗಟ್ಟಿ ಇದೆ
+1) ಅವರ ಬಾಂಧವ್ಯ ಗಟ್ಟಿ ಇಲ್ಲ
+
+Question 6: ಆ ಜಾಗವು ದೇವಸ್ಥಾನದಷ್ಟು ನಿಶ್ಯಬ್ದವಾಗಿದೆ.
+Options:
+0) ಆ ಜಾಗವು ನಿಶಬ್ದವಾಗಿದೆ
+1) ಆ ಜಾಗವು ನಿಶಬ್ದವಾಗಿಲ್ಲ
+
+Question 7: ಆ ಜಾಗವು ಟ್ರಾಫಿಕ್ ಜಾಮ್ನಷ್ಟು ನಿಶ್ಯಬ್ದವಾಗಿದೆ.
+Options:
+0) ಆ ಜಾಗವು ನಿಶಬ್ದವಾಗಿದೆ
+1) ಆ ಜಾಗವು ನಿಶಬ್ದವಾಗಿಲ್ಲ
+
+Question 8: ಅವನು ವೃದ್ಧನಷ್ಟು ದುರ್ಬಲನಿದ್ದಾನೆ
+Options:
+0) ಅವನು ದುರ್ಬಲನಾಗಿದ್ದಾನೆ
+1) ಅವನು ದುರ್ಬಲನಾಗಿಲ್ಲ
+
+Question 9: ಅವನು ಯುವಕನಷ್ಟು ದುರ್ಬಲನಿದ್ದಾನೆ
+Options:
+0) ಅವನು ದುರ್ಬಲನಾಗಿದ್ದಾನೆ
+1) ಅವನು ದುರ್ಬಲನಾಗಿಲ್ಲ
+","0, 0
+1, 0
+2, 0
+3, 0
+4, 0
+5, 0
+6, 0
+7, 0
+8, 0
+9, 0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 0: hirup kawas kurung batok
+Options:
+0) hirup kawas kakekang
+1) hirup kawas bebas.
+
+Question 1: hirup kawas murag bulu bitis.
+Options:
+0) hirup kawas kakekang
+1) hirup kawas bebas.
+
+Question 2: jadi jalma teh kudu hampang birit
+Options:
+0) jadi jalma teh kudu rajin
+1) jadi jalma teh kudu kedul.
+
+Question 3: jadi jalma teh kudu beurat birit.
+Options:
+0) jadi jalma teh kudu rajin
+1) jadi jalma teh kudu kedul.
+
+Question 4: Mamat lumpatna siga uncal
+Options:
+0) mamat lumpat siga gancang
+1) mamat lumpat siga laun.
+
+Question 5: Mamat lumpatna siga kuya.
+Options:
+0) mamat lumpat siga gancang
+1) mamat lumpat siga laun.
+
+Question 6: hirup teh kudu boga pamadeugan
+Options:
+0) hirup teh kudu boga pendirian
+1) hirup teh kudu boga plin-plan.
+
+Question 7: hirup teh kudu boga kaditu kadieu.
+Options:
+0) hirup teh kudu boga pendirian
+1) hirup teh kudu boga plin-plan.
+
+Question 8: si amat mah sok ngeduk cikur kedah mitutur
+Options:
+0) jadi jalma kudu jujur
+1) jadi jalma kudu boong.
+
+Question 9: si amat mah sok luncat licin.
+Options:
+0) jadi jalma kudu jujur
+1) jadi jalma kudu boong.
+
+Question 10: ceuk ema jadi jalmi teh kedah sing someah hade ka semah
+Options:
+0) ceuk ema jadi jalmi teh kedah ramah
+1) ceuk ema jadi jalmi teh kedah judes.
+
+Question 11: ceuk ema jadi jalmi teh kedah sing goreng bagug.
+Options:
+0) ceuk ema jadi jalmi teh kedah ramah
+1) ceuk ema jadi jalmi teh kedah judes.
+
+Question 12: si eta mah ateul biwir
+Options:
+0) si eta mah ngomong wae
+1) si eta mah cicing wae.
+
+Question 13: si eta mah kawas gaang katincak.
+Options:
+0) si eta mah ngomong wae
+1) si eta mah cicing wae.
+
+Question 14: lamun mikir kudu pondok lengkah
+Options:
+0) lamun mikir kudu teu mikir panjang
+1) lamun mikir kudu mikir jauh.
+
+Question 15: lamun mikir kudu panjang lengkah.
+Options:
+0) lamun mikir kudu teu mikir panjang
+1) lamun mikir kudu mikir jauh.
+
+Question 16: budak eta mah epes meer
+Options:
+0) budak eta mah babarian ceurik
+1) budak eta mah wanian.
+
+Question 17: budak eta mah wanteran.
+Options:
+0) budak eta mah babarian ceurik
+1) budak eta mah wanian.
+
+Question 18: jelema lamun geus kandel kulit bengeut
+Options:
+0) jelema lamun geus teu gaduh kaera
+1) jelema lamun geus eraan kudu diantepkeun.
+
+Question 19: jelema lamun geus isinan kudu diantepkeun.
+Options:
+0) jelema lamun geus teu gaduh kaera
+1) jelema lamun geus eraan kudu diantepkeun.
+
+Question 20: si Udin jadi jalma teh meni buntut kasiran
+Options:
+0) si Udin jadi jalma teh meni koret, pedit
+1) si Udin jadi jalma teh meni reseup babagi.
+
+Question 21: si Udin jadi jalma teh meni berehan.
+Options:
+0) si Udin jadi jalma teh meni koret, pedit
+1) si Udin jadi jalma teh meni reseup babagi.
+
+Question 22: Iis mah amis daging
+Options:
+0) Iis mah gampang kana panyakit
+1) Iis mah teu gampang kana panyakit.
+
+Question 23: Iis mah pahang tulang.
+Options:
+0) Iis mah gampang kana panyakit
+1) Iis mah teu gampang kana panyakit.
+
+Question 24: sasa teh biasana sok jadi amis budi
+Options:
+0) sasa teh biasana ramah
+1) sasa teh biasana judes.
+
+Question 25: sasa teh biasana sok jadi haseum budi.
+Options:
+0) sasa teh biasana ramah
+1) sasa teh biasana judes.
+
+Question 26: lamun bade nginjem duit kudu make duit panas
+Options:
+0) lamun bade nginjem duit kudu make duit anu teu menang dipake biasana lain anu pribadi
+1) lamun bade nginjem duit kudu make duit anu pribadi moal waka dipake.
+
+Question 27: lamun bade nginjem duit kudu make duit tiis.
+Options:
+0) lamun bade nginjem duit kudu make duit anu teu menang dipake biasana lain anu pribadi
+1) lamun bade nginjem duit kudu make duit anu pribadi moal waka dipake.
+
+Question 28: jalma ayeuna teh sok gurat cai
+Options:
+0) jalma ayeuna teh sok babari ngarobah omongan atawa janji
+1) jalma ayeuna teh sok pageuh kana omongan atawa janji.
+
+Question 29: jalma ayeuna teh sok gurat batu.
+Options:
+0) jalma ayeuna teh sok babari ngarobah omongan atawa janji
+1) jalma ayeuna teh sok pageuh kana omongan atawa janji.
+
+Question 30: lamun bisnis mah pasti jadi kandel dompet
+Options:
+0) lamun bisnis mah pasti jadi loba duit
+1) lamun bisnis mah pasti jadi kacida teu boga duit.
+
+Question 31: lamun bisnis mah pasti jadi kokoro nyoso.
+Options:
+0) lamun bisnis mah pasti jadi loba duit
+1) lamun bisnis mah pasti jadi kacida teu boga duit.
+
+Question 32: nanaon ge teu menang kaleleuwihan bisi tamplok bacoteun
+Options:
+0) nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean
+1) nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean nepi ka poho ka diri sorangan.
+
+Question 33: nanaon ge teu menang kaleleuwihan bisi tamplok batokeun.
+Options:
+0) nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean
+1) nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean nepi ka poho ka diri sorangan.
+
+Question 34: jadi jelema teh kadang bisa jadi yuni kembang
+Options:
+0) jadi jelema teh kadang bisa jadi pikareseupeun
+1) jadi jelema teh kadang bisa jadi pikasebeleun.
+
+Question 35: jadi jelema teh kadang bisa jadi yuni tai.
+Options:
+0) jadi jelema teh kadang bisa jadi pikareseupeun
+1) jadi jelema teh kadang bisa jadi pikasebeleun.
+
+Question 36: jelema teh kabagi jadi dua, nyaeta anu wening galih
+Options:
+0) jelema teh kabagi jadi dua, nyaeta anu bersih hate
+1) jelema teh kabagi jadi dua, nyaeta anu goreng hate iri, dengki.
+
+Question 37: jelema teh kabagi jadi dua, nyaeta anu sulit ati.
+Options:
+0) jelema teh kabagi jadi dua, nyaeta anu bersih hate
+1) jelema teh kabagi jadi dua, nyaeta anu goreng hate iri, dengki.
+
+Question 38: kudu hati hati milih pasangan bisi jadi potol jarum
+Options:
+0) kudu hati hati milih pasangan bisi jadi awewe anu beak hartana
+1) kudu hati hati milih pasangan bisi jadi lalaki anu beak hartana.
+
+Question 39: kudu hati hati milih pasangan bisi jadi potol teko.
+Options:
+0) kudu hati hati milih pasangan bisi jadi awewe anu beak hartana
+1) kudu hati hati milih pasangan bisi jadi lalaki anu beak hartana.
+
+Question 40: si Bina mah anak emas
+Options:
+0) si Bina mah anak anu dipikanyaah
+1) si Bina mah anak tere.
+
+Question 41: si Bina mah anak sampeuran.
+Options:
+0) si Bina mah anak anu dipikanyaah
+1) si Bina mah anak tere.
+
+Question 42: budak teh kudu asak warah
+Options:
+0) budak teh kudu alus didikana
+1) budak teh kudu kurang didikan.
+
+Question 43: budak teh kudu atah adol.
+Options:
+0) budak teh kudu alus didikana
+1) budak teh kudu kurang didikan.
+
+Question 44: tong jadi budak anu bodo katotoloyo
+Options:
+0) tong jadi budak anu bodo tapi tara daek nanya
+1) tong jadi budak anu bodo tapi daek tatanya.
+
+Question 45: tong jadi budak anu bodo alewoh.
+Options:
+0) tong jadi budak anu bodo tapi tara daek nanya
+1) tong jadi budak anu bodo tapi daek tatanya.
+
+Question 46: ari jadi salaki teh kudu banting tulang
+Options:
+0) ari jadi salaki teh kudu digawe popohoan
+1) ari jadi salaki teh kudu teu bisa digawe.
+
+Question 47: ari jadi salaki teh kudu badag cagap.
+Options:
+0) ari jadi salaki teh kudu digawe popohoan
+1) ari jadi salaki teh kudu teu bisa digawe.
+
+Question 48: si Dewi mah jadi gadis teh meni handap asor
+Options:
+0) si Dewi mah jadi gadis teh meni teu sombong
+1) si Dewi mah jadi gadis teh meni sombong.
+
+Question 49: si Dewi mah jadi gadis teh meni gede hulu.
+Options:
+0) si Dewi mah jadi gadis teh meni teu sombong
+1) si Dewi mah jadi gadis teh meni sombong.
+
+Question 50: ceunah lamun jadi awewe teh kudu siga putri raja
+Options:
+0) ceunah lamun jadi awewe teh kudu anggun
+1) ceunah lamun jadi awewe teh kudu buruk rupa.
+
+Question 51: ceunah lamun jadi awewe teh kudu siga mak lampir.
+Options:
+0) ceunah lamun jadi awewe teh kudu anggun
+1) ceunah lamun jadi awewe teh kudu buruk rupa.
+
+Question 52: poe ieu teh cuaca siga bisa ngagoreng lauk dinu aspal
+Options:
+0) poe ieu teh cuaca siga panas pisan
+1) poe ieu teh cuaca siga hujan angin.
+
+Question 53: poe ieu teh cuaca siga hujan angin dordar gelap.
+Options:
+0) poe ieu teh cuaca siga panas pisan
+1) poe ieu teh cuaca siga hujan angin.
+
+Question 54: hujan teh meuni siga ngajak geulut
+Options:
+0) hujan teh meuni badag jeung gandeng
+1) hujan teh meuni sepi jeung geunaheun.
+
+Question 55: hujan teh meuni siga tiis ceuli.
+Options:
+0) hujan teh meuni badag jeung gandeng
+1) hujan teh meuni sepi jeung geunaheun.
+
+Question 56: si eta mah kuatannya, teu siga lempeuh yuni
+Options:
+0) si eta mah kuatannya, teu gampang geuring
+1) si eta mah kuatannya, teu sehat.
+
+Question 57: si eta mah kuatannya, teu siga jagjag waringkas.
+Options:
+0) si eta mah kuatannya, teu gampang geuring
+1) si eta mah kuatannya, teu sehat.
+
+Question 58: ai budak keneh mah antep kudu jadi kembang buruan
+Options:
+0) ai budak keneh mah antep kudu jadi budak nu reseup kaluar
+1) ai budak keneh mah antep kudu jadi tong dikurung.
+
+Question 59: ai budak keneh mah antep kudu jadi kurung batok.
+Options:
+0) ai budak keneh mah antep kudu jadi budak nu reseup kaluar
+1) ai budak keneh mah antep kudu jadi tong dikurung.
+","1, 1
+1, 1
+0, 1
+1, 1
+1, 0
+1, 0
+0, 0
+0, 1
+1, 1
+0, 0
+1, 1
+1, 1
+1, 0
+0, 0
+1, 1
+1, 1
+0, 1
+0, 1
+1, 1
+0, 1
+1, 0
+0, 1
+1, 1
+1, 1
+1, 0
+1, 0
+1, 0
+1, 0
+1, 1
+1, 1
+1, 0
+1, 0
+1, 1
+1, 1
+1, 0
+1, 0
+1, 0
+1, 0
+0, 1
+1, 1
+0, 1
+1, 1
+1, 0
+1, 0
+0, 0
+1, 0
+0, 0
+1, 0
+0, 1
+1, 1
+0, 1
+1, 1
+0, 0
+1, 0
+0, 0
+1, 0
+0, 1
+1, 1
+0, 1
+1, 1
+0, 0
+1, 0
+0, 0
+1, 0
+0, 1
+1, 1
+0, 1
+1, 1
+0, 0
+1, 0
+0, 0
+1, 0
+0, 1
+1, 1
+0, 1
+1, 1
+0, 0
+1, 0
+0, 0
+1, 0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 0: Watoto ni malaika
+Options:
+0) Watoto daima hawana hatia
+1) Yeye daima ni mwenye dhambi
+
+Question 1: Yeye ni mnyama.
+Options:
+0) Watoto daima hawana hatia
+1) Yeye daima ni mwenye dhambi
+
+Question 2: Maneno yake ni kama kisu
+Options:
+0) Maneno yako yanaumiza
+1) Maneno yake yanafariji
+
+Question 3: Maneno yake ni kama kinanda
+Options:
+0) Maneno yako yanaumiza
+1) Maneno yake yanafariji
+
+Question 4: Tabasamu lake huangaza chumba kizima
+Options:
+0) Ana tabasamu zuri
+1) Tabasamu lake linatisha
+
+Question 5: Tabasamu lake lilijaa  vitisho  kama shomoro mdogo aliyeshika shoka
+Options:
+0) Ana tabasamu zuri
+1) Tabasamu lake linatisha
+
+Question 6: Nipo katika dimbwi la furaha
+Options:
+0) Nina furaha kubwa sana
+1) Nina huzuni nyingi sana
+
+Question 7: Ninazama katika bahari ya huzuni
+Options:
+0) Nina furaha kubwa sana
+1) Nina huzuni nyingi sana
+
+Question 8: Penzi lao limepamba moto""
+Options:
+0) Wale wanapendana sana
+1) Wale hawapendani sana
+
+Question 9: Penzi lao ni kama moto wa kibatari kwenye upepo""
+Options:
+0) Wale wanapendana sana
+1) Wale hawapendani sana
+
+Question 10: Wali huu una ladha kama umepikwa  hotelini
+Options:
+0) Chakula ni kitamu
+1) Chakula ni kibaya
+
+Question 11: Wali huu unaladha kama umepikwa bwenini
+Options:
+0) Chakula ni kitamu
+1) Chakula ni kibaya
+
+Question 12: Mtihani ulikuwa kama kipande cha keki
+Options:
+0) Mtihani ulikuwa rahisi sana
+1) Mtihani ulikua mgumu
+
+Question 13: Mtihani ulikuwa kama ugali wa jela
+Options:
+0) Mtihani ulikuwa rahisi sana
+1) Mtihani ulikua mgumu
+
+Question 14: Mzamiru alitoa pasi rula
+Options:
+0) Mchezaji alitoa pasi nzuri
+1) Mchezaji alitoa pasi mbaya
+
+Question 15: Feisal alitoa pasi mkaa
+Options:
+0) Mchezaji alitoa pasi nzuri
+1) Mchezaji alitoa pasi mbaya
+
+Question 16: Vijana ndio taifa la kesho
+Options:
+0) Vijana ndio watakaoleta maendeleo huko mbeleni
+1) Vijana hawahusiki na maendeleo ya taifa ya baadae
+
+Question 17: Vijana wataozesha taifa
+Options:
+0) Vijana ndio watakaoleta maendeleo huko mbeleni
+1) Vijana wataliharibu taifa.
+
+Question 18: Sauti yako ni muziki masikioni mwangu
+Options:
+0) Sauti yako ni inanipa faraja na raha niisikiapo
+1) Sauti yako ni kero kwangu
+
+Question 19: Sauti yako ni kama chiriku
+Options:
+0) Sauti yako ni inanipa faraja na raha niisikiapo
+1) Sauti yako ni kero kwangu
+
+Question 20: Mapenzi ni kikohozi
+Options:
+0) Mapenzi hayafichiki
+1) Mapenzi yanafichika
+
+Question 21: Mapenzi ni kama punje ya unga kwenye mchele
+Options:
+0) Mapenzi hayafichiki
+1) Mapenzi yanafichika
+
+Question 22: Ujana ni moshi
+Options:
+0) Ujana huja na kuondoka haraka
+1) Ujana hukaa kwa mda mrefu
+
+Question 23: Ujana ni safari ndefu
+Options:
+0) Ujana huja na kuondoka haraka
+1) Ujana hukaa kwa mda mrefu
+
+Question 24: Maisha ni kama uji
+Options:
+0) Maisha si marahisi yanahitaji kupambana
+1) Maisha ni marahisi
+
+Question 25: Maisha sio mchezo, ni vita
+Options:
+0) Maisha si marahisi yanahitaji kupambana
+1) Maisha ni marahisi
+
+Question 26: Kauli yake ilinikata maini
+Options:
+0) Kauli yake ilinifanya nijiskie vibaya
+1) Kauli yake ilinifurahisha
+
+Question 27: Kauli yake ilikua kama maji baridi kooni
+Options:
+0) Kauli yake ilinifanya nijiskie vibaya
+1) Kauli yake ilinifurahisha
+
+Question 28: Awamu hii kutakua na michuano ya kukata na shoka
+Options:
+0) Awamu hii kutakua na michuano migumu
+1) Awamu hii kutakua na michuano mirahisi
+
+Question 29: Awamu hii kutakua na michuano lelemama
+Options:
+0) Awamu hii kutakua na michuano migumu
+1) Awamu hii kutakua na michuano mirahisi
+
+Question 30: Sandra, wewe ndio nuru ya macho yangu
+Options:
+0) Sandra, wewe ndiye unayenipa furaha
+1) Sandra, wewe siye unayenipa furaha
+
+Question 31: Sandra, wewe ni kama shubiri kinywani mwangu
+Options:
+0) Sandra, wewe ndiye unayenipa furaha
+1) Sandra, wewe siye unayenipa furaha
+
+Question 32: Tofauti na dhana iliyokuwepo, mama ndiye nguzo  ya familia
+Options:
+0) Tofauti na dhana iliyokuwepo, mama ndiye mtu anayeishikilia familia kwa pamoja
+1) Mama siye anayeishikilia familia kwa pamoja
+
+Question 33: Tofauti na dhana iliyokuwepo, mama ndiye kunguni wa familia
+Options:
+0) Tofauti na dhana iliyokuwepo, mama ndiye mtu anayeishikilia familia kwa pamoja
+1) Mama siye anayeishikilia familia kwa pamoja
+
+Question 34: Ndoa zitakua hadimu siku za usoni
+Options:
+0) Ndoa zitakua hadimu siku si nyingi
+1) Ndoa hazitakua hadimu siku za hapa karibuni
+
+Question 35: Kutakua na ndoa kama siafu siku za usoni
+Options:
+0) Ndoa zitakua hadimu siku si nyingi
+1) Ndoa hazitakua hadimu siku za hapa karibuni
+
+Question 36: Mapenzi ni vita
+Options:
+0) Mapenzi ni kitu kigumu
+1) Mapenzi ni kitu kirahisi
+
+Question 37: Mapenzi ni keki
+Options:
+0) Mapenzi ni kitu kigumu
+1) Mapenzi ni kitu kirahisi
+
+Question 38: Bahati ya mwenzio usiilalie mlango wazi
+Options:
+0) Bahati ikimkuta mwenzio usisubiri ikufikie na wewe
+1) Bahari ikimkuta mwenzio subiri ikufikie na wewe
+
+Question 39: Bahati ya mwenzio ilalie mlango wazi
+Options:
+0) Bahati ikimkuta mwenzio usisubiri ikufikie na wewe
+1) Bahari ikimkuta mwenzio subiri ikufikie na wewe
+
+Question 40: Kijana huyu ana roho ya dhahabu
+Options:
+0) Kijana huyu ana roho nzuri sana
+1) Kijana huyu ana roho mbaya sana
+
+Question 41: Kijana huyo ana roho ya kutu
+Options:
+0) Kijana huyu ana roho nzuri sana
+1) Kijana huyu ana roho mbaya sana
+
+Question 42: Maisha yake ni kama dira
+Options:
+0) Maisha yake yana muelekeo
+1) Maisha yake hayana muelekeo
+
+Question 43: Maisha yake ni kama kuku akiyekatwa kichwa
+Options:
+0) Maisha yake yana muelekeo
+1) Maisha yake hayana muelekeo
+
+Question 44: Mwendo wake ni mithili ya twiga
+Options:
+0) Mwendo wake ni wa maringo
+1) Mwendo wake si wa maringo
+
+Question 45: Mwendo wake ni wa bata
+Options:
+0) Mwendo wake ni wa maringo
+1) Mwendo wake si wa maringo
+
+Question 46: Wema ni hazina
+Options:
+0) Ukitendea watu mema yatakurudia
+1) Ukitendea watu mema hayatakurudia
+
+Question 47: Wema sio kitenesi
+Options:
+0) Ukitendea watu mema yatakurudia
+1) Ukitendea watu mema hayatakurudia
+
+Question 48: Macho yake yalikua kama mto wkati wa masika.
+Options:
+0) Alitokwa na machozi mengi ya uchungu
+1) Hakutokwa na machozi mengi ya uchungu
+
+Question 49: Macho yake yalikua kama mto wkati wa kiangazi.
+Options:
+0) Alitokwa na machozi mengi ya uchungu
+1) Hakutokwa na machozi mengi ya uchungu
+
+Question 50: Alihisi ngoma kifuani kwake
+Options:
+0) Mapigo yake ya moyo yalienda kwa kasi mno
+1) Mapingo yake ya moyo yalienda taratibu
+
+Question 51: Alihisi kifua chake kimeganda kama barafu
+Options:
+0) Mapigo yake ya moyo yalienda kwa kasi mno
+1) Mapingo yake ya moyo yalienda taratibu
+
+Question 52: Alipora mkoba wangu na kutimua vumbi
+Options:
+0) Alipora mkoba wangu na kukimbia
+1) Alipora mkoba wangu na kuanza kutembea taratibu
+
+Question 53: Alipora mkoba wangu na kutembea kama konokono
+Options:
+0) Alipora mkoba wangu na kukimbia
+1) Alipora mkoba wangu na kuanza kutembea taratibu
+
+Question 54: Walibishana hadi wakashikana mashati
+Options:
+0) Walibishana hadi wakapigana
+1) Walibishana lakini hawakupigana
+
+Question 55: Walibishana kitakatifu
+Options:
+0) Walibishana hadi wakapigana
+1) Walibishana lakini hawakupigana
+
+Question 56: Upele humuota asiye na kucha
+Options:
+0) Bahati  hukumkuta asiye na uwezo wa kuitumia
+1) Bahati humkuta mwenye uwezo wa kuitumia
+
+Question 57: Jasho humtoka mwenye mwili
+Options:
+0) Bahati  hukumkuta asiye na uwezo wa kuitumia
+1) Bahati humkuta mwenye uwezo wa kuitumia
+
+Question 58: Aisha, funga bakuli lako!
+Options:
+0) Aisha, funga mdomo wako
+1) Aisha, endelea tu kuongea sana
+
+Question 59: Aisha, endelea tu kupiga mdomo
+Options:
+0) Aisha, funga mdomo wako
+1) Aisha, endelea tu kuongea sana
+","0, 1
+1, 1
+2, 0
+3, 1
+4, 0
+5, 1
+6, 0
+7, 1
+8, 0
+9, 0
+10, 0
+11, 1
+12, 1
+13, 1
+14, 0
+15, 1
+16, 0
+17, 1
+18, 0
+19, 1
+20, 1
+21, 0
+22, 0
+23, 1
+24, 0
+25, 0
+26, 0
+27, 1
+28, 0
+29, 0
+30, 0
+31, 0
+32, 0
+33, 1
+34, 0
+35, 1
+36, 0
+37, 1
+38, 0
+39, 1
+40, 0
+41, 1
+42, 0
+43, 1
+44, 0
+45, 1
+46, 0
+47, 1
+48, 0
+49, 1
+50, 0
+51, 0
+52, 0
+53, 1
+54, 0
+55, 1
+56, 0
+57, 1
+58, 0
+59, 1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 0: Òkèlè ẹ̀bà mẹ́ẹ̀ẹ́dọ́gbọ̀n ni ọmọ náà jẹ lánàá
+Options:
+0) Ọmọ náà jẹ oúnjẹ púpọ̀
+1) Ọmọ náà kò jẹ oúnjẹ púpọ̀
+
+Question 1: Òkèlè ẹ̀bà kan ni ọmọ náà jẹ lánàá
+Options:
+0) Ọmọ náà jẹ oúnjẹ púpọ̀
+1) Ọmọ náà kò jẹ oúnjẹ púpọ̀
+
+Question 2: Ó burú bí i àjẹ́ apọmọjẹ
+Options:
+0) Ó máa ń rẹ́rìn-ín
+1) Ó níkà gan
+
+Question 3: Ó burú bí i ọlọ́kàn rere
+Options:
+0) Ó máa ń rẹ́rìn-ín
+1) Ó níkà gan
+
+Question 4: Òrùn náà ń fẹyín síta bí i ọmọ jòjòló
+Options:
+0) Ilẹ̀ mọ́ kedere
+1) Òkùnkún bolẹ̀ kan.
+
+Question 5: Òrùn náà kì í tan rárá
+Options:
+0) Ilẹ̀ mọ́ kedere
+1) Òkùnkún bolẹ̀ kan.
+
+Question 6: Ọpọlọ Tàlàbí dọ́ta bí i ọmọ òmùgọ̀ tí wọ́n rán láta tó lo ra Ọsàn
+Options:
+0) Orí Tàlàbí pé púpọ̀
+1) Orí Tàlàbí kò pé rárá
+
+Question 7: Ọpọlọ Tàlàbí ṣiṣẹ́ pépé bí i ọmọ tó mọ iṣẹ́ jẹ́
+Options:
+0) Orí Tàlàbí pé púpọ̀
+1) Orí Tàlàbí kò pé rárá
+
+Question 8: Ọmọbìnrin náà rí bí i ẹyẹ ọ̀kín
+Options:
+0) Ọmọbìnrin náà rẹwà
+1) Ọmọbìnrin náà burẹ́wà
+
+Question 9: Ọmọbìnrin náà rí bí i àkìtàn
+Options:
+0) Ọmọbìnrin náà rẹwà
+1) Ọmọbìnrin náà burẹ́wà
+
+Question 10: Àwọn ará ìlú ri pé Ẹkùn ni Ṣẹ́gun
+Options:
+0) Ṣẹ́gun ní ìgboyà
+1) Ọ̀lẹ ni Ṣẹ́gun
+
+Question 11: Àwọn ará ìlú ri pé Ìgbín ni Ṣẹ́gun
+Options:
+0) Ṣẹ́gun ní ìgboyà
+1) Ọ̀lẹ ni Ṣẹ́gun
+
+Question 12: Àwòko ni Àdìgún nínu orin kíkọ
+Options:
+0) Àdìgún mọ ọrin kọ
+1) Àdìgún kò mọ orin kọ.
+
+Question 13: Ọlọ́fin dídí ni Àdìgún nínú orin kíkọ
+Options:
+0) Àdìgún mọ ọrin kọ
+1) Àdìgún kò mọ orin kọ.
+
+Question 14: Ọmọ náà fò bí i ìgalà lánàá
+Options:
+0) Ara ọmọ náà balẹ̀
+1) Ara ọmọ náà kò balẹ̀ rárá
+
+Question 15: Ọmọ náà fò bí i ẹni tí kò lẹ́sẹ̀ lánàá
+Options:
+0) Ara ọmọ náà balẹ̀
+1) Ara ọmọ náà kò balẹ̀ rárá
+
+Question 16: Ẹlẹ́dẹ̀ ni Ìṣọlá nínu ilé rẹ̀
+Options:
+0) Ìṣọ̀lá ní ìmọ́tótó
+1) Ìṣọ̀lá ní ọ̀bùn
+
+Question 17: Ìṣọ̀lá má ń tún ilé rẹ̀ ṣe ní gbogbo nìgbà
+Options:
+0) Ìṣọ̀lá ní ìmọ́tótó
+1) Ìṣọ̀lá ní ọ̀bùn
+
+Question 18: Ìyá náà rí fàkìyà bí i àpáta Olúmọ
+Options:
+0) Ìyá náà tóbi / rọ̀bọ̀
+1) Ìyá nàá kò tóbi / rọ̀bọ̀
+
+Question 19: Ìyá náà rí bí i ọmọge ọ̀ṣọ́rọ́
+Options:
+0) Ìyá náà tóbi / rọ̀bọ̀
+1) Ìyá nàá kò tóbi / rọ̀bọ̀
+","0, 0
+1, 0
+2, 1
+3, 0
+4, 1
+5, 0
+6, 0
+7, 0
+8, 1
+9, 1
+10, 0
+11, 1
+12, 0
+13, 0
+14, 0
+15, 1
+16, 1
+17, 1
+18, 0
+19, 0"

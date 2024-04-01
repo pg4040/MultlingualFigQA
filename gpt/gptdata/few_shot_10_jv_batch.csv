@@ -1,0 +1,3841 @@
+Index,String
+0,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+
+ INPUT:
+Question 0: Nyawang esemmu sing rupane kaya ngemut glali
+Options:
+0) Nyawang esemmu sing manis
+1) Nyawang esemmu sing pahit
+
+Question 1: Nyawang esemmu sing rupane kaya nyruput ampas kopi
+Options:
+0) Nyawang esemmu sing manis
+1) Nyawang esemmu sing pahit
+
+Question 2: Suarane bocahe kuwi kaya sutra
+Options:
+0) Suarane bocah kuwi merdu
+1) Suarane bocah kuwi elek
+
+Question 3: Suarane bocahe kuwi kaya bledek
+Options:
+0) Suarane bocah kuwi merdu
+1) Suarane bocah kuwi elek
+
+Question 4: Lakmu mlaku jan kaya diuber maling
+Options:
+0) Lakmu mlaku cepet
+1) Lakmu mlaku suwi
+
+Question 5: Lakmu mlaku jan kaya nyeret bata
+Options:
+0) Lakmu mlaku cepet
+1) Lakmu mlaku suwi
+
+Question 6: Dekwingi aku nyang omahmu jan kaya pasar malem
+Options:
+0) Dek wingi aku nyang omahmu sing rame
+1) Dek wingi aku nyang omahmu sing sepi
+
+Question 7: Dekwingi aku nyang omahmu jan kaya omah demit
+Options:
+0) Dek wingi aku nyang omahmu sing rame
+1) Dek wingi aku nyang omahmu sing sepi
+
+Question 8: Ngawiti dina senen iku seabot nyunggi batako
+Options:
+0) Ngawiti dina senen iku abot banget
+1) Ngawiti dina senen iku enteng
+
+Question 9: Ngawiti dina senen iku seabot nyunggi kapuk
+Options:
+0) Ngawiti dina senen iku abot banget
+1) Ngawiti dina senen iku enteng
+
+Question 10: Winginane aku ketemu Mbak Dewi, rupane kaya cak ning
+Options:
+0) Winginane aku ketemu Mbak Dewi, wajahe ayu
+1) Winginane aku ketemu Mbak Dewi, wajahe elek
+
+Question 11: Winginane aku ketemu Mbak Dewi, rupane kaya kuntilanak
+Options:
+0) Winginane aku ketemu Mbak Dewi, wajahe ayu
+1) Winginane aku ketemu Mbak Dewi, wajahe elek
+
+Question 12: Poh, ambune klambine Bu Nita kaya kebon mlathi
+Options:
+0) Ambune klambine Bu Nita wangi
+1) Ambune klambine Bu Nita mambu ora enak
+
+Question 13: Poh, ambune klambine Bu Nita kaya peceren
+Options:
+0) Ambune klambine Bu Nita wangi
+1) Ambune klambine Bu Nita mambu ora enak
+
+Question 14: Suasanane pasar kliwon jan kaya wong tawuran
+Options:
+0) Suasanane pasar kliwon jan kaya rame
+1) Suasanane pasar kliwon jan kaya sepi
+
+Question 15: Suasanane pasar kliwon jan kaya kuburan
+Options:
+0) Suasanane pasar kliwon jan kaya rame
+1) Suasanane pasar kliwon jan kaya sepi
+
+Question 16: Lekmu numpak mobil kaya keong
+Options:
+0) Lekmu numpak mobil alon
+1) Lekmu numpak mobil cepet
+
+Question 17: Lekmu numpak mobil kaya alap-alap
+Options:
+0) Lekmu numpak mobil alon
+1) Lekmu numpak mobil cepet
+
+Question 18: Lungguh ning kursi iku rasane kaya bantal
+Options:
+0) Lungguh ning kursi iku rasane empuk
+1) Lungguh ning kursi iku rasane atos
+
+Question 19: Lungguh ning kursi iku rasane kaya watu
+Options:
+0) Lungguh ning kursi iku rasane empuk
+1) Lungguh ning kursi iku rasane atos
+
+Question 20: Udane maeng isuk kaya disok
+Options:
+0) Udane maeng isuk deres
+1) Udane maeng isuk gerimis
+
+Question 21: Udane maeng isuk kaya kletik
+Options:
+0) Udane maeng isuk deres
+1) Udane maeng isuk gerimis
+
+Question 22: Bar sepedahan tekan nggunung boyok rasane kaya dilindes trek
+Options:
+0) Bar sepedahan tekan nggunung boyok rasane keju kabeh
+1) Bar sepedahan tekan nggunung boyok rasane penak
+
+Question 23: Bar sepedahan tekan nggunung boyok rasane kaya dibalsemi sedinaan
+Options:
+0) Bar sepedahan tekan nggunung boyok rasane keju kabeh
+1) Bar sepedahan tekan nggunung boyok rasane penak
+
+Question 24: Ra umum, duwurmen adike Anas sak wit klapa
+Options:
+0) Adike Anas duwur banget
+1) Adike Anas cendek
+
+Question 25: Ra umum, duwurmen adike Anas sak wit ceplukan
+Options:
+0) Adike Anas duwur banget
+1) Adike Anas cendek
+
+Question 26: Padange lampu kamarku kaya sokle
+Options:
+0) Lampu kamarku padang
+1) Lampu kamarku peteng
+
+Question 27: Padange lampu kamarku kaya ublik
+Options:
+0) Lampu kamarku padang
+1) Lampu kamarku peteng
+
+Question 28: Mas Edi lak mlayu jan kaya kancil
+Options:
+0) Mas Edi lak mlayu cepet
+1) Mas Edi lak mlayu rindik
+
+Question 29: Mas Edi lak mlayu jan kaya semut
+Options:
+0) Mas Edi lak mlayu cepet
+1) Mas Edi lak mlayu rindik
+
+Question 30: Untune Dik Sri mbiji timun
+Options:
+0) Untine Dik Sri tata
+1) Untine Dik Sri gedi-gedi ting mbedesal
+
+Question 31: Untune Dik Sri ngungkal gerang
+Options:
+0) Untine Dik Sri tata
+1) Untine Dik Sri gedi-gedi ting mbedesal
+
+Question 32: Polahe bocah cilik kuwi kaya kitiran
+Options:
+0) Bocah cilik kuwi ora isa meneng
+1) Bocah cilik kuwi tura-turu ae
+
+Question 33: Polahe bocah cilik kuwi kaya kebo
+Options:
+0) Bocah cilik kuwi ora isa meneng
+1) Bocah cilik kuwi tura-turu ae
+
+Question 34: Pasuryane Mas Tono kaya Arjuna
+Options:
+0) Pasuryane Mas Tono ganteng
+1) Pasuryane Mas Tono elek
+
+Question 35: Pasuryane Mas Tono kaya Rahwana
+Options:
+0) Pasuryane Mas Tono ganteng
+1) Pasuryane Mas Tono elek
+
+Question 36: Pipine Rida aluse kaya dalan aspalan
+Options:
+0) Pipine Rida alus
+1) Pipine Rida kasar kakehan kukul
+
+Question 37: Pipine Rida aluse kaya dalan makadhaman
+Options:
+0) Pipine Rida alus
+1) Pipine Rida kasar kakehan kukul
+
+Question 38: Hawane awan iki kaya dolan menyang gurun
+Options:
+0) Hawane awan iki panas
+1) Hawane awan iki adhem
+
+Question 39: Hawane awan iki kaya dolan menyang kutub
+Options:
+0) Hawane awan iki panas
+1) Hawane awan iki adhem
+"
+1,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+
+ INPUT:
+Question 40: Nyawang dedege Kartolo kok kaya kendel ngringkel
+Options:
+0) Kartolo kuwi wani
+1) Kartolo kuwi weden
+
+Question 41: Nyawang dedege Kartolo kok kaya dhadang ora godak
+Options:
+0) Kartolo kuwi wani
+1) Kartolo kuwi weden
+
+Question 42: Kahanan omahe Pak Sardi sing lagi wae oleh bantuwan kaya udan tangis
+Options:
+0) Kahanan omahe Pak Sardi kang lagi susah
+1) Kahanan omahe Pak Sardi kang lagi seneng
+
+Question 43: Kahanan omahe Pak Sardi sing lagi wae oleh bantuwan kaya udan dhuwit
+Options:
+0) Kahanan omahe Pak Sardi kang lagi susah
+1) Kahanan omahe Pak Sardi kang lagi seneng
+
+Question 44: Nek gawe wedang kopi Painem kaya disoki juruh
+Options:
+0) Nek gawe wedang kopi Painem legi
+1) Nek gawe wedang kopi Painem pahit
+
+Question 45: Nek gawe wedang kopi Painem kaya disoki suruh
+Options:
+0) Nek gawe wedang kopi Painem legi
+1) Nek gawe wedang kopi Painem pahit
+
+Question 46: Baguse Paijo katulung saka irunge sing kaya irunge petruk
+Options:
+0) Baguse Paijo katulung irunge sing mancung
+1) Baguse Paijo katulung irunge sing pesek
+
+Question 47: Baguse Paijo katulung saka irunge sing kaya irunge semar
+Options:
+0) Baguse Paijo katulung irunge sing mancung
+1) Baguse Paijo katulung irunge sing pesek
+
+Question 48: Pak Hasan ora gelem menehi sumbangan pancen sipate iku kaya cina craki
+Options:
+0) Pak Hasan ora gelem menehi sumbangan pancen sipate iku medhit
+1) Pak Hasan ora gelem menehi sumbangan pancen sipate iku loman
+
+Question 49: Pak Hasan ora gelem menehi sumbangan pancen sipate iku kaya blaba uda
+Options:
+0) Pak Hasan ora gelem menehi sumbangan pancen sipate iku medhit
+1) Pak Hasan ora gelem menehi sumbangan pancen sipate iku loman
+
+Question 50: Anggone nyambut gawe Allia kaya banteng ketaton
+Options:
+0) Anggone nyambut gawe Allia Cepet banget
+1) Anggone nyambut gawe Allia alon banget
+
+Question 51: Anggone nyambut gawe Allia kaya macan luwe
+Options:
+0) Anggone nyambut gawe Allia Cepet banget
+1) Anggone nyambut gawe Allia alon banget
+
+Question 52: Nalika sesrawungan Pak Jemani lan Paiman kaya banyu karo lenga
+Options:
+0) Nalika sesrawungan Pak Jemani lan Paiman ora bisa akur
+1) Nalika sesrawungan Pak Jemani lan Paiman akur banget
+
+Question 53: Nalika sesrawungan Pak Jemani lan Paiman kaya mimi lan mituna
+Options:
+0) Nalika sesrawungan Pak Jemani lan Paiman ora bisa akur
+1) Nalika sesrawungan Pak Jemani lan Paiman akur banget
+
+Question 54: Tulisane Sarti jumejer ana papan tulis kaya awangun ketumbar
+Options:
+0) Tulisane Sarti jumejer ana papan tulis apik banget
+1) Tulisane Sarti jumejer ana papan tulis elek banget
+
+Question 55: Tulisane Sarti jumejer ana papan tulis kaya cekere pitik
+Options:
+0) Tulisane Sarti jumejer ana papan tulis apik banget
+1) Tulisane Sarti jumejer ana papan tulis elek banget
+
+Question 56: Rambute Selfi wiwit cilik pancen kaya brintik linggis
+Options:
+0) Rambute Selfi wiwit cilik pancen lurus
+1) Rambute Selfi wiwit cilik pancen kriting
+
+Question 57: Rambute Selfi wiwit cilik pancen kaya kembang jagung
+Options:
+0) Rambute Selfi wiwit cilik pancen lurus
+1) Rambute Selfi wiwit cilik pancen kriting
+
+Question 58: Kain batik sing dituku nalika menyang pasar Klewer iku kandele kaya kulit bawang
+Options:
+0) Kain batik sing dituku menyang pasar klewer tipis banget
+1) Kain batik sing dituku menyang pasar klewer kandel banget
+
+Question 59: Kain batik sing dituku nalika menyang pasar Klewer iku kandele kaya kulit babat
+Options:
+0) Kain batik sing dituku menyang pasar klewer tipis banget
+1) Kain batik sing dituku menyang pasar klewer kandel banget
+
+Question 60: Isih esuk kahanane Mbak Marmi kaya Ulat peteng
+Options:
+0) Isih esuk khanane mbak Marmi Katon mrengut
+1) Isih esuk khanane mbak Marmi Katon sumeh
+
+Question 61: Isih esuk kahanane Mbak Marmi kaya ulat manis
+Options:
+0) Isih esuk khanane mbak Marmi Katon mrengut
+1) Isih esuk khanane mbak Marmi Katon sumeh
+
+Question 62: Roti donat lek nggawe Narti kaya atose debog
+Options:
+0) Roti donat lek nggawe Narti empuk banget
+1) Roti donat lek nggawe Narti atos banget
+
+Question 63: Roti donat lek nggawe Narti kaya lemese pikulan
+Options:
+0) Roti donat lek nggawe Narti empuk banget
+1) Roti donat lek nggawe Narti atos banget
+
+Question 64: Omahe sing dibangun ambane kaya pagupon dara
+Options:
+0) Omahe sing di bangun amba banget
+1) Omahe sing di bangun ciwut
+
+Question 65: Omahe sing dibangun ambane kaya leng semut
+Options:
+0) Omahe sing di bangun amba banget
+1) Omahe sing di bangun ciwut
+
+Question 66: Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale kaya mental wesi
+Options:
+0) Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale kendel
+1) Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale weden
+
+Question 67: Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale kaya mental tempe
+Options:
+0) Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale kendel
+1) Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale weden
+
+Question 68: Sawise mulih saka griya sakit pasuryane Siti isih kaya abang dluwang
+Options:
+0) Sawise mulih saka griya sakit pasuryane Siti pucet banget
+1) Sawise mulih saka griya sakit pasuryane Siti cerah banget
+
+Question 69: Sawise mulih saka griya sakit pasuryane Siti isih kaya abang godhong katirah
+Options:
+0) Sawise mulih saka griya sakit pasuryane Siti pucet banget
+1) Sawise mulih saka griya sakit pasuryane Siti cerah banget
+
+Question 70: Lungane Pakdhe menyang Surabaya enggale suwe kaya banyu sinaring
+Options:
+0) Lungane Pakdhe menyang Surabaya cepet banget
+1) Lungane Pakdhe menyang Surabaya suwi banget
+
+Question 71: Lungane Pakdhe menyang Surabaya enggale suwe kaya madu sinaring
+Options:
+0) Lungane Pakdhe menyang Surabaya cepet banget
+1) Lungane Pakdhe menyang Surabaya suwi banget
+
+Question 72: Rasane pelem kaya asem jawa
+Options:
+0) Rasane pelem kecut
+1) Rasane pelem legi
+
+Question 73: Rasane pelem kaya gula jawa
+Options:
+0) Rasane pelem kecut
+1) Rasane pelem legi
+
+Question 74: Swarane sing nembang kaya kutut manggung
+Options:
+0) Swarane sing nembang apik banget
+1) Swarane sing nembang elek banget
+
+Question 75: Swarane sing nembang kaya knalpot bolong
+Options:
+0) Swarane sing nembang apik banget
+1) Swarane sing nembang elek banget
+
+Question 76: Bathuke Icha nyela cendhani
+Options:
+0) Bathuke Ica Rata
+1) Bathuke Ica amba banget
+
+Question 77: Bathuke Icha nonong
+Options:
+0) Bathuke Ica Rata
+1) Bathuke Ica amba banget
+
+Question 78: Yen nyawang mripate Sari kaya ndamar kanginan
+Options:
+0) Yen nyawang mripate Sari blalak-blalak
+1) Yen nyawang mripate Sari sipit
+
+Question 79: Yen nyawang mripate Sari kaya liyep lindri
+Options:
+0) Yen nyawang mripate Sari blalak-blalak
+1) Yen nyawang mripate Sari sipit
+"
+2,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+
+ INPUT:
+Question 80: Banyune kolam renang kaya banyu leri
+Options:
+0) Banyune kolam renang bening
+1) Banyune kolam renang buthek
+
+Question 81: Banyune kolam renang kaya banyu aki
+Options:
+0) Banyune kolam renang bening
+1) Banyune kolam renang buthek
+
+Question 82: Anggone mlaku bis mini kaya tuma kathok
+Options:
+0) Anggone mlaku bis mini klular klulur
+1) Anggone mlaku bis mini trengginas
+
+Question 83: Anggone mlaku bis mini kaya sikatan nyamber lawang
+Options:
+0) Anggone mlaku bis mini klular klulur
+1) Anggone mlaku bis mini trengginas
+
+Question 84: Lemah sing disumbangake kanggo lapangan desa ambane kaya amba godhong kelor
+Options:
+0) Lemah sing disumbangake kanggo lapangan desa ciyut banget
+1) Lemah sing disumbangake kanggo lapangan desa amba banget
+
+Question 85: Lemah sing disumbangake kanggo lapangan desa ambane kaya amba godhong tales
+Options:
+0) Lemah sing disumbangake kanggo lapangan desa ciyut banget
+1) Lemah sing disumbangake kanggo lapangan desa amba banget
+
+Question 86: Awake Surya nalika isih sekolah mbiyen kaya kuru semangka
+Options:
+0) Awake Surya nalika isih sekolah mbiyen lemu banget
+1) Awake Surya nalika isih sekolah mbiyen kuru banget
+
+Question 87: Awake Surya nalika isih sekolah mbiyen kaya lemu kurma
+Options:
+0) Awake Surya nalika isih sekolah mbiyen lemu banget
+1) Awake Surya nalika isih sekolah mbiyen kuru banget
+
+Question 88: Yen lungguh ana nggarep dhewe patrape kaya Dewi Sembadra
+Options:
+0) Yen lungguh ana ngarep dhewe patrape anteng banget
+1) Yen lungguh ana ngarep dhewe patrape pecicilan
+
+Question 89: Yen lungguh ana nggarep dhewe patrape kaya Buta Cakil
+Options:
+0) Yen lungguh ana ngarep dhewe patrape anteng banget
+1) Yen lungguh ana ngarep dhewe patrape pecicilan
+
+Question 90: Pratandha arep udan amarga medhunge kaya ndumuk irung
+Options:
+0) Pratandha arep udan amarga mendhunge peteng banget
+1) Pratandha arep udan amarga mendhunge padhang jingglang
+
+Question 91: Pratandha arep udan amarga medhunge kaya nyumet dimar
+Options:
+0) Pratandha arep udan amarga mendhunge peteng banget
+1) Pratandha arep udan amarga mendhunge padhang jingglang
+
+Question 92: Regane lombok abang sundhul langit
+Options:
+0) Regane lombok abang larang
+1) Regane lombok abang murah
+
+Question 93: Regane lombok abang kembang gogrog
+Options:
+0) Regane lombok abang larang
+1) Regane lombok abang murah
+
+Question 94: Pondhasine omah kaya wit tela
+Options:
+0) Pondhasine omah gampang rubuh
+1) Pondhasine omah kuwat jejeg
+
+Question 95: Pondhasine omah kaya ting listrik
+Options:
+0) Pondhasine omah gampang rubuh
+1) Pondhasine omah kuwat jejeg
+
+Question 96: Rambute polisi kae kaya bathok klapa
+Options:
+0) Rambute polisi kae gundhul
+1) Rambute polisi kae kethel
+
+Question 97: Rambute polisi kae kaya ulu kucing
+Options:
+0) Rambute polisi kae gundhul
+1) Rambute polisi kae kethel
+
+Question 98: Nalika dina Minggu, yen bisa nindakake pakaryan ngajari manuk beo nyanyi
+Options:
+0) Nalika dina Minggu, yen bisa nindakake pakaryan sing ana mupangate
+1) Nalika dina Minggu, yen bisa nindakake pakaryan sing sia-sia ora ana mupangate
+
+Question 99: Nalika dina Minggu, yen bisa nindakake pakaryan bebek nglangi
+Options:
+0) Nalika dina Minggu, yen bisa nindakake pakaryan sing ana mupangate
+1) Nalika dina Minggu, yen bisa nindakake pakaryan sing sia-sia ora ana mupangate
+
+Question 100: Uripku karo uripe wis kaya langit
+Options:
+0) Uripku karo uripe bedo banget kaya perbandingan langit
+1) Uripku karo uripe bedo banget bumi
+
+Question 101: Uripku karo uripe wis kaya bumi
+Options:
+0) Uripku karo uripe bedo banget kaya perbandingan langit
+1) Uripku karo uripe bedo banget bumi
+
+Question 102: Obahe wis kaya welut
+Options:
+0) Obahe cepet banget
+1) Obahe lambat banget
+
+Question 103: Obahe wis kaya siput
+Options:
+0) Obahe cepet banget
+1) Obahe lambat banget
+
+Question 104: Kutho iki hawane kaya kutub
+Options:
+0) Kutho iki hawane adem banget
+1) Kutho iki hawane panas banget
+
+Question 105: Kutho iki hawane kaya gurun
+Options:
+0) Kutho iki hawane adem banget
+1) Kutho iki hawane panas banget
+
+Question 106: Urip nang kutho gedhe iku kaya urip nang suarga
+Options:
+0) Urip nang kutho gedhe iku kaya urip ning panggon sing nyaman
+1) Urip nang kutho gedhe iku kaya urip ning panggon sing sumpek
+
+Question 107: Urip nang kutho gedhe iku kaya urip nang neraka
+Options:
+0) Urip nang kutho gedhe iku kaya urip ning panggon sing nyaman
+1) Urip nang kutho gedhe iku kaya urip ning panggon sing sumpek
+
+Question 108: Wis suwi ngerantau, rasane wong iku tambah andhap asor
+Options:
+0) Wes suwi ngerantau, wong iku tambah rendah hati
+1) Wes suwi ngerantau, wong iku tambah besar kepala
+
+Question 109: Wis suwi ngerantau, rasane wong iku tambah gumedhe
+Options:
+0) Wes suwi ngerantau, wong iku tambah rendah hati
+1) Wes suwi ngerantau, wong iku tambah besar kepala
+
+Question 110: Mahasiswa iku nduweni julukan otak udang
+Options:
+0) Mahasiswa iku nduweni julukan wong sing bodho
+1) Mahasiswa iku nduweni julukan wong sing pinter
+
+Question 111: Mahasiswa iku nduweni julukan otak encer
+Options:
+0) Mahasiswa iku nduweni julukan wong sing bodho
+1) Mahasiswa iku nduweni julukan wong sing pinter
+
+Question 112: Omah iku kaya istana
+Options:
+0) Omah iku apik banget
+1) Omah iku elek banget
+
+Question 113: Omah iku kaya gedheg
+Options:
+0) Omah iku apik banget
+1) Omah iku elek banget
+
+Question 114: Wis ngerti entuk biji elek, Abdi tetep gedhe ati
+Options:
+0) Wes ngerti entuk biji elek, Abdi tetep sombong
+1) Wes ngerti entuk biji elek, Abdi tetep rendah diri
+
+Question 115: Wis ngerti entuk biji elek, Abdi tetep cilik ati
+Options:
+0) Wes ngerti entuk biji elek, Abdi tetep sombong
+1) Wes ngerti entuk biji elek, Abdi tetep rendah diri
+
+Question 116: Awan iku bentukane kaya wedhus gembel
+Options:
+0) Awan iku bentukane kaya resik banget
+1) Awan iku bentukane kaya reged banget
+
+Question 117: Awan iku bentukane kaya wedhus putih
+Options:
+0) Awan iku bentukane kaya resik banget
+1) Awan iku bentukane kaya reged banget
+
+Question 118: Persidangan nang film kuwi rasane kaya gedhe sisih
+Options:
+0) Persidangan nang film kuwi rasane kaya ora adil
+1) Persidangan nang film kuwi rasane kaya adil
+
+Question 119: Persidangan nang film kuwi rasane kaya gedhe padha
+Options:
+0) Persidangan nang film kuwi rasane kaya ora adil
+1) Persidangan nang film kuwi rasane kaya adil
+"
+3,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+
+ INPUT:
+Question 120: Wong iku mangane kaya durung mangan 3 dino
+Options:
+0) Wong iku mangane kaya wong luwe
+1) Wong iku mangane kaya wong wareg
+
+Question 121: Wong iku mangane kaya wong wis wareg
+Options:
+0) Wong iku mangane kaya wong luwe
+1) Wong iku mangane kaya wong wareg
+
+Question 122: Aldo yen nggarap tugas kaya mesin
+Options:
+0) Aldo yen nggarap tugas cepet banget
+1) Aldo yen nggarap tugas lambat banget
+
+Question 123: Aldo yen nggarap tugas kaya siput
+Options:
+0) Aldo yen nggarap tugas cepet banget
+1) Aldo yen nggarap tugas lambat banget
+
+Question 124: Prajurit nang film iku ngelakoni perang wis kaya singa
+Options:
+0) Prajurit nang film iku ngelakoni perang wani banget
+1) Prajurit nang film iku ngelakoni perang wedi banget
+
+Question 125: Prajurit nang film iku ngelakoni perang wis kaya kura
+Options:
+0) Prajurit nang film iku ngelakoni perang wani banget
+1) Prajurit nang film iku ngelakoni perang wedi banget
+
+Question 126: Wis suwi kerja nang negara liya, wong iku nduweni watak kaya watu
+Options:
+0) Wis suwi kerja nang negara liya, wong iku nduweni watak keras banget
+1) Wis suwi kerja nang negara liya, wong iku nduweni watak lembek
+
+Question 127: Wis suwi kerja nang negara liya, wong iku nduweni watak kaya tahu
+Options:
+0) Wis suwi kerja nang negara liya, wong iku nduweni watak keras banget
+1) Wis suwi kerja nang negara liya, wong iku nduweni watak lembek
+
+Question 128: Didelok saka kelakuane, anake Pak Budi iku kaya putri solo
+Options:
+0) Didelok saka kelakuane, anake Pak Budi iku lemah lembut
+1) Didelok saka kelakuane, anake Pak Budi iku kasar
+
+Question 129: Didelok saka kelakuane, anake Pak Budi iku kaya preman
+Options:
+0) Didelok saka kelakuane, anake Pak Budi iku lemah lembut
+1) Didelok saka kelakuane, anake Pak Budi iku kasar
+
+Question 130: Pernikahane pasangan iku kaya Romeo lan Juliet
+Options:
+0) Pernikahane pasangan iku kaya akur banget
+1) Pernikahane pasangan iku kaya ora akur
+
+Question 131: Pernikahane pasangan iku kaya asu lan kucing
+Options:
+0) Pernikahane pasangan iku kaya akur banget
+1) Pernikahane pasangan iku kaya ora akur
+
+Question 132: Pak Sutrisno iku tansaya dhuwur pendidikane tambah kaya pari
+Options:
+0) Pak Sutrisno iku tansaya dhuwur pendidikane tambah rendah hati seperti padi
+1) Pak Sutrisno iku tansaya dhuwur pendidikane tambah sombong seperti tong kosong
+
+Question 133: Pak Sutrisno iku tansaya dhuwur pendidikane tambah kaya tong kosong
+Options:
+0) Pak Sutrisno iku tansaya dhuwur pendidikane tambah rendah hati seperti padi
+1) Pak Sutrisno iku tansaya dhuwur pendidikane tambah sombong seperti tong kosong
+
+Question 134: Adhiku yen ngomong kaya Werkudara
+Options:
+0) Adhiku yen ngomong kaya kasar banget
+1) Adhiku yen ngomong kaya lemah lembut
+
+Question 135: Adhiku yen ngomong kaya Puntadewa
+Options:
+0) Adhiku yen ngomong kaya kasar banget
+1) Adhiku yen ngomong kaya lemah lembut
+
+Question 136: Kesabarane ibu nang anak-anake kaya samudra
+Options:
+0) Kesabarane ibu nang anak-anake jembar banget
+1) Kesabarane ibu nang anak-anake sempit banget
+
+Question 137: Kesabarane ibu nang anak-anake kaya godhong kelor
+Options:
+0) Kesabarane ibu nang anak-anake jembar banget
+1) Kesabarane ibu nang anak-anake sempit banget
+
+Question 138: Yen lara, awake dewe wis kaya inti bumi
+Options:
+0) Yen lara, awake dewe wis kaya panas banget
+1) Yen lara, awake dewe wis kaya adem banget
+
+Question 139: Yen lara, awake dewe wis kaya kutub
+Options:
+0) Yen lara, awake dewe wis kaya panas banget
+1) Yen lara, awake dewe wis kaya adem banget
+
+Question 140: Wajahe mbak e iku kaya srengenge
+Options:
+0) Wajahe mbak e iku cerah
+1) Wajahe mbak e iku murung
+
+Question 141: Wajahe mbak e iku kaya mendung
+Options:
+0) Wajahe mbak e iku cerah
+1) Wajahe mbak e iku murung
+
+Question 142: Kulite cah kuwi kaya salju
+Options:
+0) Kulite cah kuwi putih
+1) Kulite cah kuwi ireng
+
+Question 143: Kulite cah kuwi kaya areng
+Options:
+0) Kulite cah kuwi putih
+1) Kulite cah kuwi ireng
+
+Question 144: Lapangan iku bentukane kaya segara
+Options:
+0) Lapangan iku bentukane kaya ombo banget
+1) Lapangan iku bentukane kaya sempit
+
+Question 145: Lapangan iku bentukane kaya kolam
+Options:
+0) Lapangan iku bentukane kaya ombo banget
+1) Lapangan iku bentukane kaya sempit
+
+Question 146: Mlayune wis kaya kancil
+Options:
+0) Mlayune wis kaya cepet banget
+1) Mlayune wis kaya alon banget
+
+Question 147: Mlayune wis kaya kura
+Options:
+0) Mlayune wis kaya cepet banget
+1) Mlayune wis kaya alon banget
+
+Question 148: Saben lebaran omah iki kaya pasar
+Options:
+0) Saben lebaran omah iki rame banget
+1) Saben lebaran omah iki sepi banget
+
+Question 149: Saben lebaran omah iki kaya kuburan
+Options:
+0) Saben lebaran omah iki rame banget
+1) Saben lebaran omah iki sepi banget
+
+Question 150: Bangunan iki rasane kaya wit ringin
+Options:
+0) Bangunan iki rasane kaya pohon beringin
+1) Bangunan iki rasane kaya pohon ketela
+
+Question 151: Bangunan iki rasane kaya wit tela
+Options:
+0) Bangunan iki rasane kaya pohon beringin
+1) Bangunan iki rasane kaya pohon ketela
+
+Question 152: Simbah suarane kaya udan
+Options:
+0) Simbah suarane merdu kaya udah
+1) Simbah suarane gembredek kaya gluduk
+
+Question 153: Simbah suarane kaya gluduk
+Options:
+0) Simbah suarane merdu kaya udah
+1) Simbah suarane gembredek kaya gluduk
+
+Question 154: Cah iku yen dikandhani kaya watu
+Options:
+0) Cah iku yen dikandhani angel banget, keras kepala
+1) Cah iku yen dikandhani manut
+
+Question 155: Cah iku yen dikandhani kaya banyu
+Options:
+0) Cah iku yen dikandhani angel banget, keras kepala
+1) Cah iku yen dikandhani manut
+
+Question 156: Panganan iki rasane kaya bintang lima, nanging regane bintang lima
+Options:
+0) Panganan iki rasane kaya bintang lima, tapi regane larange banget
+1) Panganan iki rasane kaya bintang lima, tapi regane murah banget
+
+Question 157: Panganan iki rasane kaya bintang lima, nanging regane kaki lima
+Options:
+0) Panganan iki rasane kaya bintang lima, tapi regane larange banget
+1) Panganan iki rasane kaya bintang lima, tapi regane murah banget
+
+Question 158: Nardi iki piye carane sikatan, untune wis kaya emas 24 karat
+Options:
+0) Nardi iki piye carane sikatan, untune wis kaya kuning banget
+1) Nardi iki piye carane sikatan, untune wis kaya putih banget
+
+Question 159: Nardi iki piye carane sikatan, untune wis kaya gamping
+Options:
+0) Nardi iki piye carane sikatan, untune wis kaya kuning banget
+1) Nardi iki piye carane sikatan, untune wis kaya putih banget
+"
+4,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+
+ INPUT:
+Question 160: Pak Danu yen kena masalah berubah dadi singa
+Options:
+0) Pak Danu yen kena masalah berubah dadi beringas kaya singa
+1) Pak Danu yen kena masalah berubah dadi kalem kaya kucing
+
+Question 161: Pak Danu yen kena masalah berubah dadi kucing
+Options:
+0) Pak Danu yen kena masalah berubah dadi beringas kaya singa
+1) Pak Danu yen kena masalah berubah dadi kalem kaya kucing
+
+Question 162: Mbak e nduweni awak kaya gitar spanyol
+Options:
+0) Mbak e nduweni awak dhuwur langsing
+1) Mbak e nduweni awak pendek lemu
+
+Question 163: Mbak e nduweni awak kaya guci
+Options:
+0) Mbak e nduweni awak dhuwur langsing
+1) Mbak e nduweni awak pendek lemu
+
+Question 164: Wis dididik, diajari sampe sukses, bocah kuwi kaya kacang
+Options:
+0) Wis dididik, diajari sampe sukses, bocah kuwi kaya lali asal muasale
+1) Wis dididik, diajari sampe sukses, bocah kuwi kaya iling asale
+
+Question 165: Wis dididik, diajari sampe sukses, bocah kuwi kaya penyu
+Options:
+0) Wis dididik, diajari sampe sukses, bocah kuwi kaya lali asal muasale
+1) Wis dididik, diajari sampe sukses, bocah kuwi kaya iling asale
+
+Question 166: Ibu yen nesu kaya Gunung Merapi
+Options:
+0) Ibu yen nesu kaya arep mbledos
+1) Ibu yen nesu kaya kalem
+
+Question 167: Ibu yen nesu kaya segara
+Options:
+0) Ibu yen nesu kaya arep mbledos
+1) Ibu yen nesu kaya kalem
+
+Question 168: Mobil iku ghoib
+Options:
+0) Mobil iku langka banget, gaono wujude
+1) Mobil iku gampang banget ditemu
+
+Question 169: Mobil iku pasaran
+Options:
+0) Mobil iku langka banget, gaono wujude
+1) Mobil iku gampang banget ditemu
+
+Question 170: Deni yen wis nari kaya godhong ceblok
+Options:
+0) Deni yen wis nari luwes banget kaya godhong ceblok
+1) Deni yen wis nari kaku banget kaya robot
+
+Question 171: Deni yen wis nari kaya robot
+Options:
+0) Deni yen wis nari luwes banget kaya godhong ceblok
+1) Deni yen wis nari kaku banget kaya robot
+
+Question 172: Kowe apa wis mangan? Kok polahmu kaya banteng nesu
+Options:
+0) Kowe apa wis mangan? Kok polahmu kaya beringas
+1) Kowe apa wis mangan? Kok polahmu kaya lemes banget
+
+Question 173: Kowe apa wis mangan? Kok polahmu kaya kucing luwe
+Options:
+0) Kowe apa wis mangan? Kok polahmu kaya beringas
+1) Kowe apa wis mangan? Kok polahmu kaya lemes banget
+
+Question 174: Wong yen wis gedhe iku ojo kaya katak ning njero tempurung
+Options:
+0) Wong yen wis gedhe iku aja meneng wae
+1) Wong yen wis gedhe iku bebas
+
+Question 175: Wong yen wis gedhe iku kaya walet
+Options:
+0) Wong yen wis gedhe iku aja meneng wae
+1) Wong yen wis gedhe iku bebas
+
+Question 176: Motor iku yen ditumpaki wis kaya jet
+Options:
+0) Motor iku yen ditumpaki cepet banget
+1) Motor iku yen ditumpaki alon banget
+
+Question 177: Motor iku yen ditumpaki wis kaya dokar
+Options:
+0) Motor iku yen ditumpaki cepet banget
+1) Motor iku yen ditumpaki alon banget
+
+Question 178: Ndek sekolah, Andi iku bintang kelas
+Options:
+0) Ndek sekolah, Andi iku juara kelas
+1) Ndek sekolah, Andi iku ranking paling ngisor
+
+Question 179: Ndek sekolah, Andi iku juru kunci kelas
+Options:
+0) Ndek sekolah, Andi iku juara kelas
+1) Ndek sekolah, Andi iku ranking paling ngisor
+
+Question 180: Aldi lan Doni iku sahabat sing wis kaya rante
+Options:
+0) Aldi lan Doni iku sahabat sing wis kokoh banget kaya rante
+1) Aldi lan Doni iku sahabat sing wis rapuh lan tipis kaya senar
+
+Question 181: Aldi lan Doni iku sahabat sing wis kaya senar
+Options:
+0) Aldi lan Doni iku sahabat sing wis kokoh banget kaya rante
+1) Aldi lan Doni iku sahabat sing wis rapuh lan tipis kaya senar
+
+Question 182: Pengawas ujian iku nduweni mata kaya elang
+Options:
+0) Pengawas ujian iku nduweni mata awas banget kaya elang
+1) Pengawas ujian iku nduweni mata rabun kaya lawa
+
+Question 183: Pengawas ujian iku nduweni mata kaya lawa
+Options:
+0) Pengawas ujian iku nduweni mata awas banget kaya elang
+1) Pengawas ujian iku nduweni mata rabun kaya lawa
+
+Question 184: Wong iku kulite kaya kulit bayi
+Options:
+0) Wong iku kulite kaya lembut kaya kulit bayi
+1) Wong iku kulite kaya kasar kaya kulit boyo
+
+Question 185: Wong iku kulite kaya kulit boyo
+Options:
+0) Wong iku kulite kaya lembut kaya kulit bayi
+1) Wong iku kulite kaya kasar kaya kulit boyo
+
+Question 186: Masa depane cah kuwi kaya siang
+Options:
+0) Masa depane cah kuwi kaya cerah banget
+1) Masa depane cah kuwi kaya peteng
+
+Question 187: Masa depane cah kuwi kaya malam
+Options:
+0) Masa depane cah kuwi kaya cerah banget
+1) Masa depane cah kuwi kaya peteng
+
+Question 188: Sikapmu kaya srengenge
+Options:
+0) Sikapmu ramah banget kaya srengenge
+1) Sikapmu adem banget kaya es
+
+Question 189: Sikapmu kaya es batu
+Options:
+0) Sikapmu ramah banget kaya srengenge
+1) Sikapmu adem banget kaya es
+
+Question 190: Adike Doni perawakane kaya gajah
+Options:
+0) Adike Doni perawakane gede banget kaya gajah
+1) Adike Doni perawakane cilik banget kaya semut
+
+Question 191: Adike Doni perawakane kaya semut
+Options:
+0) Adike Doni perawakane gede banget kaya gajah
+1) Adike Doni perawakane cilik banget kaya semut
+
+Question 192: Yen didelok, Pak Guru iku sikape kaya banyu nang godhong talas
+Options:
+0) Yen didelok, Pak Guru iku sikape gampang berubah
+1) Yen didelok, Pak Guru iku sikape teguh
+
+Question 193: Yen didelok, Pak Guru iku sikape kaya watu
+Options:
+0) Yen didelok, Pak Guru iku sikape gampang berubah
+1) Yen didelok, Pak Guru iku sikape teguh
+
+Question 194: Guyune kaya gula jawa
+Options:
+0) Guyune manis kaya gula
+1) Guyune pait kaya kopi
+
+Question 195: Guyune kaya kopi
+Options:
+0) Guyune manis kaya gula
+1) Guyune pait kaya kopi
+
+Question 196: Pasangan iku yen didelok kaya banyu lan minyak
+Options:
+0) Pasangan iku yen didelok kaya ora cocok
+1) Pasangan iku yen didelok kaya cocok banget
+
+Question 197: Pasangan iku yen didelok kaya alas lan udan
+Options:
+0) Pasangan iku yen didelok kaya ora cocok
+1) Pasangan iku yen didelok kaya cocok banget
+
+Question 198: Rambute kaya kain sutra
+Options:
+0) Rambute alus lan lurus kaya kain sutra
+1) Rambute bergelombang keriting kaya kain wol
+
+Question 199: Rambute kaya kain wol
+Options:
+0) Rambute alus lan lurus kaya kain sutra
+1) Rambute bergelombang keriting kaya kain wol
+"
+5,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+
+ INPUT:
+Question 200: Urip iki kaya mampir ngombe
+Options:
+0) Urip iki senajan sedilut
+1) Urip iki senajan suwe
+
+Question 201: Urip iki kaya mlaku adoh
+Options:
+0) Urip iki senajan sedilut
+1) Urip iki senajan suwe
+
+Question 202: Bocah kuwi nemu omah umpama tumbu oleh tutup
+Options:
+0) Bocah kuwi nemu omah cocok
+1) Bocah kuwi nemu omah ora cocok
+
+Question 203: Bocah kuwi nemu omah umpama kuthuk marani sunduk
+Options:
+0) Bocah kuwi nemu omah cocok
+1) Bocah kuwi nemu omah ora cocok
+
+Question 204: Rasa ombenan alkohol kuwi umpama pait madu
+Options:
+0) Rasa ombenan alkohol kuwi legi banget
+1) Rasa ombenan alkohol kuwi pait banget
+
+Question 205: Rasa ombenan alkohol kuwi umpama legi racun
+Options:
+0) Rasa ombenan alkohol kuwi legi banget
+1) Rasa ombenan alkohol kuwi pait banget
+
+Question 206: Bocah kembar iku raine kaya bhumi karo langit
+Options:
+0) Bocah kembar iku raine bedho
+1) Bocah kembar iku raine padha
+
+Question 207: Bocah kembar iku raine kaya pring diparuh
+Options:
+0) Bocah kembar iku raine bedho
+1) Bocah kembar iku raine padha
+
+Question 208: Pancen dadi polisi kuwi kaya cebol nggayuh lintang
+Options:
+0) Pancen dadi polisi kuwi angel
+1) Pancen dadi polisi kuwi gampang
+
+Question 209: Pancen dadi polisi kuwi kaya nemu mas ing omah dewe
+Options:
+0) Pancen dadi polisi kuwi angel
+1) Pancen dadi polisi kuwi gampang
+
+Question 210: Dadi anak pak lurah uripe kaya kalungan mas
+Options:
+0) Dadi anak pak lurah uripe kepenak
+1) Dadi anak pak lurah uripe sara
+
+Question 211: Dadi anak pak lurah uripe kaya kalungan wesi
+Options:
+0) Dadi anak pak lurah uripe kepenak
+1) Dadi anak pak lurah uripe sara
+
+Question 212: Isuk iki Jogja hawane kaya banyu umup
+Options:
+0) Isuk iki Jogja hawane panas
+1) Isuk iki Jogja hawane adem
+
+Question 213: Isuk iki Jogja hawane kaya es ning gunung
+Options:
+0) Isuk iki Jogja hawane panas
+1) Isuk iki Jogja hawane adem
+
+Question 214: Bapak guru ngewenehi tugas kaya arep nggawe candi
+Options:
+0) Bapak guru ngewenehi tugas dhadhakan
+1) Bapak guru ngewenehi tugas mipil
+
+Question 215: Bapak guru ngewenehi tugas kaya nandur pari
+Options:
+0) Bapak guru ngewenehi tugas dhadhakan
+1) Bapak guru ngewenehi tugas mipil
+
+Question 216: Menungso kuwi umur e umpama arca sewu tahun
+Options:
+0) Menungso kuwi umur e dawa
+1) Menungso kuwi umur e cendhek
+
+Question 217: Menungso kuwi umur e umpama capung sedina
+Options:
+0) Menungso kuwi umur e dawa
+1) Menungso kuwi umur e cendhek
+
+Question 218: Mlayune atlet kuwi kaya keong mlayu
+Options:
+0) Mlayune atlet kuwi alon
+1) Mlayune atlet kuwi banter
+
+Question 219: Mlayune atlet kuwi kaya macan mlaku
+Options:
+0) Mlayune atlet kuwi alon
+1) Mlayune atlet kuwi banter
+
+Question 220: Adhiku pengen duwe omah sing kaya alas wit sewu
+Options:
+0) Adhiku pengen duwe omah sing gedhe
+1) Adhiku pengen duwe omah sing cilik
+
+Question 221: Adhiku pengen duwe omah sing kaya pagupon dara
+Options:
+0) Adhiku pengen duwe omah sing gedhe
+1) Adhiku pengen duwe omah sing cilik
+
+Question 222: Gani kesohor amarga swarane kaya pithik kluruk
+Options:
+0) Gani kesohor amarga swarane banter
+1) Gani kesohor amarga swarane alon
+
+Question 223: Gani kesohor amarga swarane kaya kucing turu
+Options:
+0) Gani kesohor amarga swarane banter
+1) Gani kesohor amarga swarane alon
+
+Question 224: Drijine Marni rupane kaya mucuk ri
+Options:
+0) Drijine Marni rupane lancip
+1) Drijine Marni rupane ora lancip
+
+Question 225: Drijine Marni rupane kaya mucuk pring
+Options:
+0) Drijine Marni rupane lancip
+1) Drijine Marni rupane ora lancip
+
+Question 226: Jare Dinda, kalebu ing jurusan teknik kuwi kaya cecak nguntal boyo
+Options:
+0) Jare Dinda, kalebu ing jurusan teknik kuwi mimpi sing angel kawujud
+1) Jare Dinda, kalebu ing jurusan teknik kuwi mimpi sing gampang kawujud
+
+Question 227: Jare Dinda, kalebu ing jurusan teknik kuwi kaya ndulang mas ning tambak
+Options:
+0) Jare Dinda, kalebu ing jurusan teknik kuwi mimpi sing angel kawujud
+1) Jare Dinda, kalebu ing jurusan teknik kuwi mimpi sing gampang kawujud
+
+Question 228: Senajan sugih, Pak Tomo kerjane kaya diuber utang
+Options:
+0) Senajan sugih, Pak Tomo kerjane sregep
+1) Senajan sugih, Pak Tomo kerjane males
+
+Question 229: Senajan sugih, Pak Tomo kerjane kaya duwe inten sekarung
+Options:
+0) Senajan sugih, Pak Tomo kerjane sregep
+1) Senajan sugih, Pak Tomo kerjane males
+
+Question 230: Nek ketemu tonggo, bocah kuwi pancen kaya ngemut inten
+Options:
+0) Nek ketemu tonggo, bocah kuwi pancen kemaki
+1) Nek ketemu tonggo, bocah kuwi pancen sumeh
+
+Question 231: Nek ketemu tonggo, bocah kuwi pancen kaya temu dulur
+Options:
+0) Nek ketemu tonggo, bocah kuwi pancen kemaki
+1) Nek ketemu tonggo, bocah kuwi pancen sumeh
+
+Question 232: Penyanyi iku pancen swarane kaya tembang sinom
+Options:
+0) Sinden iku pancen swarane apik
+1) Sinden iku pancen swarane elek
+
+Question 233: Penyanyi iku pancen swarane kaya kumbang nyinom
+Options:
+0) Sinden iku pancen swarane apik
+1) Sinden iku pancen swarane elek
+
+Question 234: Banyu ing Surabaya umpama embun ning ndhuwur kaca
+Options:
+0) Banyu ing Surabaya bening
+1) Banyu ing Surabaya buthek
+
+Question 235: Banyu ing Surabaya umpama embun kacampur awu
+Options:
+0) Banyu ing Surabaya bening
+1) Banyu ing Surabaya buthek
+
+Question 236: Hendra kuwi omongane kaya abang-abang lambe
+Options:
+0) Hendra kuwi omongane ngapusi
+1) Hendra kuwi omongane temenan
+
+Question 237: Hendra kuwi omongane kaya kacekel tangan sepisan
+Options:
+0) Hendra kuwi omongane ngapusi
+1) Hendra kuwi omongane temenan
+
+Question 238: Masakane Bu Mardi rasane kaya dhaharan sultan
+Options:
+0) Masakane Bu Mardi rasane enak
+1) Masakane Bu Mardi rasane ora enak
+
+Question 239: Masakane Bu Mardi rasane kaya panganan wong lara
+Options:
+0) Masakane Bu Mardi rasane enak
+1) Masakane Bu Mardi rasane ora enak
+"
+6,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+
+ INPUT:
+Question 240: Saben dina toko kuwi kaya gula dirubung semut
+Options:
+0) Saben dina toko kuwi rame
+1) Saben dina toko kuwi sepi
+
+Question 241: Saben dina toko kuwi kaya kuburan wayah bengi
+Options:
+0) Saben dina toko kuwi rame
+1) Saben dina toko kuwi sepi
+
+Question 242: Ning panggung, penari srimpi kae obahe umpama kembang kesenggol angin
+Options:
+0) Ning panggung, penari srimpi kae obahe anggun
+1) Ning panggung, penari srimpi kae obahe kaku
+
+Question 243: Ning panggung, penari srimpi kae obahe umpama kayu mati
+Options:
+0) Ning panggung, penari srimpi kae obahe anggun
+1) Ning panggung, penari srimpi kae obahe kaku
+
+Question 244: Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise kaya wulan tumuju tanggal sepisan
+Options:
+0) Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise kandhel
+1) Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise arang-arang
+
+Question 245: Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise kaya merang sawah
+Options:
+0) Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise kandhel
+1) Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise arang-arang
+
+Question 246: Umar bali sekolah mlakune kaya macan luwe
+Options:
+0) Umar bali sekolah mlakune alon-alon
+1) Umar bali sekolah mlakune kesusu
+
+Question 247: Umar bali sekolah mlakune kaya macan nguber kidang
+Options:
+0) Umar bali sekolah mlakune alon-alon
+1) Umar bali sekolah mlakune kesusu
+
+Question 248: Lakune bocah kuwi ning keluargane umpama kidang kencana ning tengah alas
+Options:
+0) Lakune bocah kuwi ning keluargane kalem
+1) Lakune bocah kuwi ning keluargane teges
+
+Question 249: Lakune bocah kuwi ning keluargane umpama buta kala ning alengka
+Options:
+0) Lakune bocah kuwi ning keluargane kalem
+1) Lakune bocah kuwi ning keluargane teges
+
+Question 250: Mimpi dadi presiden pancen kaya Petruk arep dadi ratu
+Options:
+0) Mimpi dadi presiden pancen ora mungkin
+1) Mimpi dadi presiden pancen mungkin
+
+Question 251: Mimpi dadi presiden pancen kaya Semar mbangun kayangan
+Options:
+0) Mimpi dadi presiden pancen ora mungkin
+1) Mimpi dadi presiden pancen mungkin
+
+Question 252: Sinau sejarah ning sekolah umpama ngenteni babon ngendhok
+Options:
+0) Sinau sejarah ning sekolah marai bosen
+1) Sinau sejarah ning sekolah marai seneng
+
+Question 253: Sinau sejarah ning sekolah umpama dolanan ning pasar malem
+Options:
+0) Sinau sejarah ning sekolah marai bosen
+1) Sinau sejarah ning sekolah marai seneng
+
+Question 254: Kerja ning kantor pemerintah kaya numpak gethek ning Kali Brantas
+Options:
+0) Kerja ning kantor pemerintah akeh tantangan
+1) Kerja ning kantor pemerintah ora ono tantangan
+
+Question 255: Kerja ning kantor pemerintah kaya numpak gethek ning Bengawan Solo
+Options:
+0) Kerja ning kantor pemerintah akeh tantangan
+1) Kerja ning kantor pemerintah ora ono tantangan
+
+Question 256: Ning TV saiki akeh pejabat sing umpama duwe ajining godhong garing
+Options:
+0) Ning TV saiki akeh pejabat sing ora duwe wibawa
+1) Ning TV saiki akeh pejabat sing duwe wibawa
+
+Question 257: Ning TV saiki akeh pejabat sing umpama lelaku ratu adil
+Options:
+0) Ning TV saiki akeh pejabat sing ora duwe wibawa
+1) Ning TV saiki akeh pejabat sing duwe wibawa
+
+Question 258: Nalika zaman semono, rega beras kaya tuku emas kang disepuh
+Options:
+0) Nalika zaman semono, rega beras larang
+1) Nalika zaman semono, rega beras murah
+
+Question 259: Nalika zaman semono, rega beras kaya tuku kerikil
+Options:
+0) Nalika zaman semono, rega beras larang
+1) Nalika zaman semono, rega beras murah
+
+Question 260: Sejatine, urip ning mancanegara kaya mecahke kendhil isi banyu
+Options:
+0) Sejatine, urip ning mancanegara sia-sia
+1) Sejatine, urip ning mancanegara nguntungake
+
+Question 261: Sejatine, urip ning mancanegara kaya ngisi banyu ning kendhil
+Options:
+0) Sejatine, urip ning mancanegara sia-sia
+1) Sejatine, urip ning mancanegara nguntungake
+
+Question 262: Carita kae marai ati rasa kaya dicacah gaman
+Options:
+0) Carita kae marai ati rasa duka
+1) Carita kae marai ati rasa bungah
+
+Question 263: Carita kae marai ati rasa kaya disiram banyu kembang
+Options:
+0) Carita kae marai ati rasa duka
+1) Carita kae marai ati rasa bungah
+
+Question 264: Urip ning jobo kutha san saya umpama udan watu geni
+Options:
+0) Urip ning jobo kutha san saya tinemu apes
+1) Urip ning jobo kutha san saya nyenengake
+
+Question 265: Urip ning jobo kutha san saya umpama udan banyu
+Options:
+0) Urip ning jobo kutha san saya tinemu apes
+1) Urip ning jobo kutha san saya nyenengake
+
+Question 266: Mimpi sing mau bengi kaya kembang turu
+Options:
+0) Mimpi sing mau bengi apik
+1) Mimpi sing mau bengi elek
+
+Question 267: Mimpi sing mau bengi kaya diuber demit
+Options:
+0) Mimpi sing mau bengi apik
+1) Mimpi sing mau bengi elek
+
+Question 268: Angin ning pantura pancen padha karo banteng playon
+Options:
+0) Angin ning pantura pancen banter
+1) Angin ning pantura pancen sumilir
+
+Question 269: Angin ning pantura pancen padha karo umbul-umbul keterak bayu
+Options:
+0) Angin ning pantura pancen banter
+1) Angin ning pantura pancen sumilir
+
+Question 270: Ning kuthaku, wong kang mbangun pabrik kaya jamur wayah udan
+Options:
+0) Ning kuthaku, wong kang mbangun pabrik akeh
+1) Ning kuthaku, wong kang mbangun pabrik sitik
+
+Question 271: Ning kuthaku, wong kang mbangun pabrik kaya ngitung driji tangan siji
+Options:
+0) Ning kuthaku, wong kang mbangun pabrik akeh
+1) Ning kuthaku, wong kang mbangun pabrik sitik
+
+Question 272: Ngelakoni kerja ning pabrik kuwi umpama nguyahi segara
+Options:
+0) Ngelakoni kerja ning pabrik kuwi sia-sia
+1) Ngelakoni kerja ning pabrik kuwi ngasilake
+
+Question 273: Ngelakoni kerja ning pabrik kuwi umpama nandur lombok ning tegalan
+Options:
+0) Ngelakoni kerja ning pabrik kuwi sia-sia
+1) Ngelakoni kerja ning pabrik kuwi ngasilake
+
+Question 274: Dadi anak bontot ning keluarga iki padha kaya nggendong watu sak gunung
+Options:
+0) Dadi anak bontot ning keluarga iki abot
+1) Dadi anak bontot ning keluarga iki enteng
+
+Question 275: Dadi anak bontot ning keluarga iki padha kaya nggendong kapas sak genggem
+Options:
+0) Dadi anak bontot ning keluarga iki abot
+1) Dadi anak bontot ning keluarga iki enteng
+
+Question 276: Ngelakoni urip dadi santri ana wae ceritane senajan umpama surya wayah sore
+Options:
+0) Ngelakoni urip dadi santri ana wae ceritane senajan nentremake
+1) Ngelakoni urip dadi santri ana wae ceritane senajan gawe usrek
+
+Question 277: Ngelakoni urip dadi santri ana wae ceritane senajan umpama kesasar ning alas roban
+Options:
+0) Ngelakoni urip dadi santri ana wae ceritane senajan nentremake
+1) Ngelakoni urip dadi santri ana wae ceritane senajan gawe usrek
+
+Question 278: Bapake yen kerja sampe kaya adol tangan karo sikil
+Options:
+0) Bapake yen kerja sampe pol-polan
+1) Bapake yen kerja sampe males-malesan
+
+Question 279: Bapake yen kerja sampe kaya adol omongan
+Options:
+0) Bapake yen kerja sampe pol-polan
+1) Bapake yen kerja sampe males-malesan
+"
+7,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+
+ INPUT:
+Question 280: Nuruti dhawuhe wong tuwa dadi umpama nggenggem bara geni
+Options:
+0) Nuruti dhawuh e wong tuwa dadi ragu-ragu
+1) Nuruti dhawuh e wong tuwa dadi kukuh
+
+Question 281: Nuruti dhawuhe wong tuwa dadi umpama nggenggem tembaga wesi
+Options:
+0) Nuruti dhawuh e wong tuwa dadi ragu-ragu
+1) Nuruti dhawuh e wong tuwa dadi kukuh
+
+Question 282: Tenangane wong kuwi kaya ngangkat kebo limo
+Options:
+0) Tenangane wong kuwi kuat banget
+1) Tenangane wong kuwi lemes banget
+
+Question 283: Tenangane wong kuwi kaya kambrukan wulu
+Options:
+0) Tenangane wong kuwi kuat banget
+1) Tenangane wong kuwi lemes banget
+
+Question 284: Enteke dhuwit gajiku umpama ngetutke miline banyu
+Options:
+0) Enteke dhuwit gajiku boros
+1) Enteke dhuwit gajiku irit
+
+Question 285: Enteke dhuwit gajiku umpama dipendhem nggo mangsa ketelu
+Options:
+0) Enteke dhuwit gajiku boros
+1) Enteke dhuwit gajiku irit
+
+Question 286: Urip ning perkampungan Jakarta kaya tinemu sadulur tunggal getih
+Options:
+0) Urip ning perkampungan Jakarta guyub
+1) Urip ning perkampungan Jakarta akeh gelut
+
+Question 287: Urip ning perkampungan Jakarta kaya ngorbanake getih
+Options:
+0) Urip ning perkampungan Jakarta guyub
+1) Urip ning perkampungan Jakarta akeh gelut
+
+Question 288: Nek gawe pegawe kantor iki, keputusan mau isuk kaya gong tinabuh
+Options:
+0) Nek gawe pegawe kantor iki, keputusan mau isuk pengaruhe gedhe
+1) Nek gawe pegawe kantor iki, keputusan mau isuk pengaruhe cilik
+
+Question 289: Nek gawe pegawe kantor iki, keputusan mau isuk kaya nabuh kenong
+Options:
+0) Nek gawe pegawe kantor iki, keputusan mau isuk pengaruhe gedhe
+1) Nek gawe pegawe kantor iki, keputusan mau isuk pengaruhe cilik
+
+Question 290: Keputusan sing digawe Bu Dwi wis kaya kayu jati ngadeg-jejeg
+Options:
+0) Keputusan sing digawe Bu Dwi wis teguh
+1) Keputusan sing digawe Bu Dwi wis ora teguh
+
+Question 291: Keputusan sing digawe Bu Dwi wis kaya wedi ning pinggir segara
+Options:
+0) Keputusan sing digawe Bu Dwi wis teguh
+1) Keputusan sing digawe Bu Dwi wis ora teguh
+
+Question 292: Lia lan adhine kaya kopi dibanjur susu
+Options:
+0) Lia lan adhine rukun
+1) Lia lan adhine musuhan
+
+Question 293: Lia lan adhine kaya lenga karo banyu
+Options:
+0) Lia lan adhine rukun
+1) Lia lan adhine musuhan
+
+Question 294: Didikan keluargane umpama prajurit Jepang arep tempur
+Options:
+0) Didikan keluargane disiplin
+1) Didikan keluargane sekarepe dewe
+
+Question 295: Didikan keluargane umpama cul-culane kuthuk
+Options:
+0) Didikan keluargane disiplin
+1) Didikan keluargane sekarepe dewe
+
+Question 296: Bener jare wong kene yen Bu Lurah tumindake kaya pucuk kertas nyeset driji
+Options:
+0) Bener jare wong kene yen Bu Lurah tumindake nglarani ati
+1) Bener jare wong kene yen Bu Lurah tumindake nyenengke ati
+
+Question 297: Bener jare wong kene yen Bu Lurah tumindake kaya nyiram madu
+Options:
+0) Bener jare wong kene yen Bu Lurah tumindake nglarani ati
+1) Bener jare wong kene yen Bu Lurah tumindake nyenengke ati
+
+Question 298: Doni karo Yanti pancen kaya Rama Sinta ing pewayangan
+Options:
+0) Doni karo Yanti pancen cocok sesandhingan
+1) Doni karo Yanti pancen ora cocok sesandhingan
+
+Question 299: Doni karo Yanti pancen kaya Rahwana Sinta ing pewayangan
+Options:
+0) Doni karo Yanti pancen cocok sesandhingan
+1) Doni karo Yanti pancen ora cocok sesandhingan
+
+Question 300: Nyawang esemmu rasane kaya angin semilir
+Options:
+0) Nyawang esemmu rasane adem
+1) Nyawang esemmu rasane panas
+
+Question 301: Nyawang esemmu rasane kaya panase neraka
+Options:
+0) Nyawang esemmu rasane adem
+1) Nyawang esemmu rasane panas
+
+Question 302: Sepur iku suarane kaya manuk pentet
+Options:
+0) Sepur iku suarane mbrebegi
+1) Sepur iku suarane sepi
+
+Question 303: Sepur iku suarane kaya manuk dares
+Options:
+0) Sepur iku suarane mbrebegi
+1) Sepur iku suarane sepi
+
+Question 304: Awakmu iku kaya wesi
+Options:
+0) Awakmu iku atos
+1) Awakmu iku empuk
+
+Question 305: Awakmu iku kaya kapuk
+Options:
+0) Awakmu iku atos
+1) Awakmu iku empuk
+
+Question 306: Kucing kuwi obah kaya sepur
+Options:
+0) Kucing kuwi obahe cepet
+1) Kucing kuwi obahe alon
+
+Question 307: Kucing kuwi obah kaya becak
+Options:
+0) Kucing kuwi obahe cepet
+1) Kucing kuwi obahe alon
+
+Question 308: Sinden dangdut suarane kaya manuk kutilang
+Options:
+0) Sinden dangdut suarane merdu
+1) Sinden dangdut suarane elek
+
+Question 309: Sinden dangdut suarane kaya bebek
+Options:
+0) Sinden dangdut suarane merdu
+1) Sinden dangdut suarane elek
+
+Question 310: Kelekmu mambu kaya telek pithik
+Options:
+0) Kelekmu mambu bosok
+1) Kelekmu mambu wangi
+
+Question 311: Kelekmu mambu kaya kembang melati
+Options:
+0) Kelekmu mambu bosok
+1) Kelekmu mambu wangi
+
+Question 312: Manuk dara mabur kaya montor mabur
+Options:
+0) Manuk dara mabure cepet
+1) Manuk dara mabure alon
+
+Question 313: Manuk dara mabur kaya keong
+Options:
+0) Manuk dara mabure cepet
+1) Manuk dara mabure alon
+
+Question 314: Ngenteni awakmu teka rasane kaya sewu tahun
+Options:
+0) Ngenteni awakmu rasane suwi
+1) Ngenteni awakmu rasane cepet
+
+Question 315: Ngenteni awakmu teka rasane kaya limang detik
+Options:
+0) Ngenteni awakmu rasane suwi
+1) Ngenteni awakmu rasane cepet
+
+Question 316: Gawe kowe percaya iku kaya malik dlamaan tangan
+Options:
+0) Gawe kowe percaya iku gampang
+1) Gawe kowe percaya iku angel
+
+Question 317: Gawe kowe percaya iku kaya munggah gunung lawu
+Options:
+0) Gawe kowe percaya iku gampang
+1) Gawe kowe percaya iku angel
+
+Question 318: Sega warung iku rasane kaya mangan watu
+Options:
+0) Sega ing warung iku rasane atos
+1) Sega ing warung iku rasane pulen
+
+Question 319: Sega warung iku rasane kaya mangan bubur
+Options:
+0) Sega ing warung iku rasane atos
+1) Sega ing warung iku rasane pulen
+"
+8,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+
+ INPUT:
+Question 320: Berita iku ditampa kaya ngeleg obat
+Options:
+0) Berita iku ditampa hal sing angel
+1) Berita iku ditampa hal sing gampang
+
+Question 321: Berita iku ditampa kaya ngeleg idu
+Options:
+0) Berita iku ditampa hal sing angel
+1) Berita iku ditampa hal sing gampang
+
+Question 322: Wong iku leh mlaku kaya numpak montor mabur
+Options:
+0) Wong iku leh mlaku cepet banget
+1) Wong iku leh mlaku alon banget
+
+Question 323: Wong iku leh mlaku kaya numpak keong
+Options:
+0) Wong iku leh mlaku cepet banget
+1) Wong iku leh mlaku alon banget
+
+Question 324: Rupane wingi kaya peteng wayah bengi
+Options:
+0) Rupane wingi peteng
+1) Rupane wingi ceta
+
+Question 325: Rupane wingi kaya srengenge tengah hari
+Options:
+0) Rupane wingi peteng
+1) Rupane wingi ceta
+
+Question 326: Omongane bu guru kaya landhep pedang
+Options:
+0) Omongane bu guru landhep
+1) Omongane bu guru alus
+
+Question 327: Omongane bu guru kaya kethul karet
+Options:
+0) Omongane bu guru landhep
+1) Omongane bu guru alus
+
+Question 328: Wayah esuk hawane kaya es
+Options:
+0) Wayah esuk hawane adem
+1) Wayah esuk hawane panas
+
+Question 329: Wayah esuk hawane kaya geni
+Options:
+0) Wayah esuk hawane adem
+1) Wayah esuk hawane panas
+
+Question 330: Banjir sasi wingi duwure kaya tugu monas
+Options:
+0) Banjir sasi wingi duwur banget
+1) Banjir sasi wingi cekak banget
+
+Question 331: Banjir sasi wingi duwure kaya tungkak
+Options:
+0) Banjir sasi wingi duwur banget
+1) Banjir sasi wingi cekak banget
+
+Question 332: Omongane isa kaya korek gas
+Options:
+0) Omongane iso marai ribut
+1) Omongane iso marai ayem
+
+Question 333: Omongane isa kaya banyu adem
+Options:
+0) Omongane iso marai ribut
+1) Omongane iso marai ayem
+
+Question 334: Temok omah iku dicet werna areng
+Options:
+0) Tembok omah iku dicet werna peteng
+1) Tembok omah iku dicet werna terang
+
+Question 335: Temok omah iku dicet werna pupur
+Options:
+0) Tembok omah iku dicet werna peteng
+1) Tembok omah iku dicet werna terang
+
+Question 336: Bantal iki rasane kaya kapuk
+Options:
+0) Bantal iki rasane alus
+1) Bantal iki rasane athos
+
+Question 337: Bantal iki rasane kaya watu
+Options:
+0) Bantal iki rasane alus
+1) Bantal iki rasane athos
+
+Question 338: Apel iku rasane kaya asem
+Options:
+0) Apel iku rasane asem
+1) Apel iku rasane legi
+
+Question 339: Apel iku rasane kaya tebu
+Options:
+0) Apel iku rasane asem
+1) Apel iku rasane legi
+
+Question 340: Mangsa ngarep wong iku ibarat padhang esuk
+Options:
+0) Mangsa ngarep wong iku kebak pangarep
+1) Mangsa ngarep wong iku kebak kuciwo
+
+Question 341: Mangsa ngarep wong iku ibarat mangsa surup
+Options:
+0) Mangsa ngarep wong iku kebak pangarep
+1) Mangsa ngarep wong iku kebak kuciwo
+
+Question 342: Mripatku yen yah mene dinggo ndelok kaya bening kaca
+Options:
+0) Mripatku yen yah mene dinggo ndelok kaya cetha
+1) Mripatku yen yah mene dinggo ndelok kaya kabur
+
+Question 343: Mripatku yen yah mene dinggo ndelok kaya buthek banyu
+Options:
+0) Mripatku yen yah mene dinggo ndelok kaya cetha
+1) Mripatku yen yah mene dinggo ndelok kaya kabur
+
+Question 344: Werno wulu kucing iku kaya areng
+Options:
+0) Werna wulu kucing iku ireng
+1) Werna wulu kucing iku putih
+
+Question 345: Werno wulu kucing iku kaya salju
+Options:
+0) Werna wulu kucing iku ireng
+1) Werna wulu kucing iku putih
+
+Question 346: Cah loro iku kelet kaya tluth
+Options:
+0) Cah loro iku keletan
+1) Cah loro iku pisahan
+
+Question 347: Cah loro iku pisahan kaya padu
+Options:
+0) Cah loro iku keletan
+1) Cah loro iku pisahan
+
+Question 348: Fahmi mangan sega kaya ora mangan limang dina
+Options:
+0) Fahmi mangan sega kaya wong keluwen
+1) Fahmi mangan sega kaya wong kewaregen
+
+Question 349: Fahmi mangan sega kaya kewaregen bubar prasmanan
+Options:
+0) Fahmi mangan sega kaya wong keluwen
+1) Fahmi mangan sega kaya wong kewaregen
+
+Question 350: Keluargaku saben dina mangan telo
+Options:
+0) Keluargaku saben dina mangan apa anane
+1) Keluargaku saben dina mangan apa wae ana
+
+Question 351: Keluargaku saben dina mangan iwak
+Options:
+0) Keluargaku saben dina mangan apa anane
+1) Keluargaku saben dina mangan apa wae ana
+
+Question 352: Raihan mambune kaya kembang
+Options:
+0) Raihan mambune wangi
+1) Raihan mambune bosok
+
+Question 353: Raihan mambune kaya mayit
+Options:
+0) Raihan mambune wangi
+1) Raihan mambune bosok
+
+Question 354: Omahe Jokowi ambane kaya laut kidul
+Options:
+0) Omahe Jokowi amba banget
+1) Omahe Jokowi sempit banget
+
+Question 355: Omahe Jokowi ambane kaya gang tikus
+Options:
+0) Omahe Jokowi amba banget
+1) Omahe Jokowi sempit banget
+
+Question 356: Kowe takdongakne kaya penyu laut
+Options:
+0) Kowe takdongakne dawa umure
+1) Kowe takdongakne cekak umure
+
+Question 357: Kowe takdongakne kaya jengklong
+Options:
+0) Kowe takdongakne dawa umure
+1) Kowe takdongakne cekak umure
+
+Question 358: Ambune awakmu wes kaya wedhus
+Options:
+0) Ambune awakmu prengus
+1) Ambune awakmu wangi
+
+Question 359: Ambune awakmu wes kaya kembang melati
+Options:
+0) Ambune awakmu prengus
+1) Ambune awakmu wangi
+"
+9,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+
+ INPUT:
+Question 360: Tresnaku marang sliramu iku kaya gajah
+Options:
+0) Tresnaku marang sliramu iku gede
+1) Tresnaku marang sliramu iku cilik
+
+Question 361: Tresnaku marang sliramu iku kaya semut
+Options:
+0) Tresnaku marang sliramu iku gede
+1) Tresnaku marang sliramu iku cilik
+
+Question 362: Banyu omah iki rasane kaya banyu es
+Options:
+0) Banyu omah iki rasane adem
+1) Banyu omah iki rasane anget
+
+Question 363: Banyu omah iki rasane kaya wedhang ronde
+Options:
+0) Banyu omah iki rasane adem
+1) Banyu omah iki rasane anget
+
+Question 364: Nyawang esemme mantan rasane kaya tebu
+Options:
+0) Nyawang esemme mantan rasane legi
+1) Nyawang esemme mantan rasane pait
+
+Question 365: Nyawang esemme mantan rasane kaya godhong kates
+Options:
+0) Nyawang esemme mantan rasane legi
+1) Nyawang esemme mantan rasane pait
+
+Question 366: Omah iku kaya digawe saka emas
+Options:
+0) Omah iku kaya mewah
+1) Omah iku kaya murah
+
+Question 367: Omah iku kaya digawe saka kayu
+Options:
+0) Omah iku kaya mewah
+1) Omah iku kaya murah
+
+Question 368: Montor iku digawe seka wesi
+Options:
+0) Montor iku kuat
+1) Montor iku ringkih
+
+Question 369: Montor iku digawe seka kayu
+Options:
+0) Montor iku kuat
+1) Montor iku ringkih
+
+Question 370: Rasane panganan iki kaya iwak pithik
+Options:
+0) Rasane panganan iki gurih
+1) Rasane panganan iki raono rasane
+
+Question 371: Rasane panganan iki kaya tempe godhog
+Options:
+0) Rasane panganan iki gurih
+1) Rasane panganan iki raono rasane
+
+Question 372: Tresnaku marang awakmu seamba laut biru
+Options:
+0) Tresnaku marang awakmu amba
+1) Tresnaku marang awakmu sempit
+
+Question 373: Tresnaku marang awakmu sesempit bolongan dom
+Options:
+0) Tresnaku marang awakmu amba
+1) Tresnaku marang awakmu sempit
+
+Question 374: Ngenteni Surya adus iku kaya satus tahun
+Options:
+0) Ngenteni Surya adus iku suwi
+1) Ngenteni Surya adus iku cepet
+
+Question 375: Ngenteni Surya adus iku kaya limang menit
+Options:
+0) Ngenteni Surya adus iku suwi
+1) Ngenteni Surya adus iku cepet
+
+Question 376: Febri jajan kaya tanggal nom
+Options:
+0) Febri jajan kaya wong sugih
+1) Febri jajan kaya wong kere
+
+Question 377: Febri jajan kaya tanggal tuwa
+Options:
+0) Febri jajan kaya wong sugih
+1) Febri jajan kaya wong kere
+
+Question 378: Jaka urip ing omah tembok
+Options:
+0) Jaka urip ing panggonan kang cukup
+1) Jaka urip ing panggonan kan kurang
+
+Question 379: Jaka urip ing omah kardus
+Options:
+0) Jaka urip ing panggonan kang cukup
+1) Jaka urip ing panggonan kan kurang
+
+Question 380: Adi rewel merga wetenge muni
+Options:
+0) Adi rewel merga keluwen
+1) Adi rewel merga kewaregen
+
+Question 381: Adi rewel merga wetenge wareg
+Options:
+0) Adi rewel merga keluwen
+1) Adi rewel merga kewaregen
+
+Question 382: Gambar iku kaya langit kebak bintang
+Options:
+0) Gambar iku apik banget
+1) Gambar iku elek banget
+
+Question 383: Gambar iku kaya langit kemeluk
+Options:
+0) Gambar iku apik banget
+1) Gambar iku elek banget
+
+Question 384: Wong kaya kowe iku kaya pasir pantai
+Options:
+0) Wong kaya kowe iku ono akeh
+1) Wong kaya kowe iku langka
+
+Question 385: Wong kaya kowe iku kaya watu akik
+Options:
+0) Wong kaya kowe iku ono akeh
+1) Wong kaya kowe iku langka
+
+Question 386: Polisi iku sifate kaya asu galak
+Options:
+0) Polisi iku sifate kasar
+1) Polisi iku sifate alus
+
+Question 387: Polisi iku sifate kaya anak kucing
+Options:
+0) Polisi iku sifate kasar
+1) Polisi iku sifate alus
+
+Question 388: Raimu tak sawang-sawang kaya Luna Maya
+Options:
+0) Raimu taksawang-sawang ayu
+1) Raimu taksawang-sawang medeni
+
+Question 389: Raimu tak sawang-sawang kaya Mak Lampir
+Options:
+0) Raimu taksawang-sawang ayu
+1) Raimu taksawang-sawang medeni
+
+Question 390: Bapak tuku kacang kaya dompete kandel
+Options:
+0) Bapak tuku kacang kaya duite akeh
+1) Bapak tuku kacang kaya duite sithik
+
+Question 391: Bapak tuku kacang kaya dompete tipis
+Options:
+0) Bapak tuku kacang kaya duite akeh
+1) Bapak tuku kacang kaya duite sithik
+
+Question 392: Meja kerjane bapak digawe saka kayu jati
+Options:
+0) Meja kerjane bapak kuwat
+1) Meja kerjane bapak ringkih
+
+Question 393: Meja kerjane bapak digawe saka gedebog gedhang
+Options:
+0) Meja kerjane bapak kuwat
+1) Meja kerjane bapak ringkih
+
+Question 394: Omahe kancaku kaya keraton
+Options:
+0) Omahe kancaku mewah
+1) Omahe kancaku pas-pasan
+
+Question 395: Omahe kancaku kaya kos kosan
+Options:
+0) Omahe kancaku mewah
+1) Omahe kancaku pas-pasan
+
+Question 396: Parkiran omahe paklik kaya lapangan bal-balan
+Options:
+0) Parkiran omahe paklik amba nemen
+1) Parkiran omahe paklik sempit
+
+Question 397: Parkiran omahe paklik kaya teras omah
+Options:
+0) Parkiran omahe paklik amba nemen
+1) Parkiran omahe paklik sempit
+
+Question 398: Dina iki aku ibarat nemu duit
+Options:
+0) Dina iki aku begja
+1) Dina iki aku apes
+
+Question 399: Dina iki aku ibarat kebanan
+Options:
+0) Dina iki aku begja
+1) Dina iki aku apes
+"
+10,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+
+ INPUT:
+Question 400: Kanggo dheweke, uripe kaya ndeleng pemandangan sing apik
+Options:
+0) Uripe seneng
+1) Uripe sengsara
+
+Question 401: Kanggo dheweke, uripe kaya ing bar wesi
+Options:
+0) Uripe seneng
+1) Uripe sengsara
+
+Question 402: Dheweke nulungi ibune sing wis tuwa kaya mikul beras sepuluh sak
+Options:
+0) Dheweke nulungi ibune sing wis tuwa iku abot
+1) Dheweke nulungi ibune sing wis tuwa iku entheng
+
+Question 403: Dheweke nulungi ibune sing wis tuwa kaya nggowo kresek isi krupuk
+Options:
+0) Dheweke nulungi ibune sing wis tuwa iku abot
+1) Dheweke nulungi ibune sing wis tuwa iku entheng
+
+Question 404: Dheweke yen kerjo kaya jaran nalika mlayu
+Options:
+0) Dheweke yen kerjo cepet
+1) Dheweke yen kerjo alon
+
+Question 405: Dheweke yen kerjo kaya keong nalika mlayu
+Options:
+0) Dheweke yen kerjo cepet
+1) Dheweke yen kerjo alon
+
+Question 406: Nalika turu swarane ngorok kaya knalpot mobil lawas lan lungse
+Options:
+0) Swarane ngorok banter
+1) Swarane ngorok alon-alon
+
+Question 407: Nalika turu swarane ngorok kaya maling mlaku
+Options:
+0) Swarane ngorok banter
+1) Swarane ngorok alon-alon
+
+Question 408: Ujian uripe wong kuwi ibarat udan deres gak mandek-mandek
+Options:
+0) Ujian uripe enek terus
+1) Ujian uripe jarang-jarang
+
+Question 409: Ujian uripe wong kuwi ibarat sirah botak jarang rambute
+Options:
+0) Ujian uripe enek terus
+1) Ujian uripe jarang-jarang
+
+Question 410: Ibu nggawa koper gedhene sak omah
+Options:
+0) Kopere gedhe
+1) Kopere cilik
+
+Question 411: Ibu nggawa koper gedhene sak kotak petelot
+Options:
+0) Kopere gedhe
+1) Kopere cilik
+
+Question 412: Pikirane kaya rel sepur
+Options:
+0) Mikire dawa
+1) Mikire cendhak
+
+Question 413: Pikirane kaya slerekane kathok
+Options:
+0) Mikire dawa
+1) Mikire cendhak
+
+Question 414: Karir artis iku kaya gabus dilebokake ing banyu
+Options:
+0) Karir artis iku Munggah
+1) Karir artis iku ndelep
+
+Question 415: Karir artis iku kaya watu dilebokake ing banyu
+Options:
+0) Karir artis iku Munggah
+1) Karir artis iku ndelep
+
+Question 416: Omahe kaya kraton raja
+Options:
+0) Omahe Mewah
+1) Omahe kumuh
+
+Question 417: Omahe kaya omah soko karton lan triplek
+Options:
+0) Omahe Mewah
+1) Omahe kumuh
+
+Question 418: Pendukunge Pak Rangga dadi bupati kayata busa ing samodra
+Options:
+0) Pendukunge Pak Rangga dadi bupati Akeh
+1) Pendukunge Pak Rangga dadi bupati sitik
+
+Question 419: Pendukunge Pak Rangga dadi bupati kayata jamaah sholat subuh ing masjid
+Options:
+0) Pendukunge Pak Rangga dadi bupati Akeh
+1) Pendukunge Pak Rangga dadi bupati sitik
+
+Question 420: Manggon ing omah iki kaya swarga
+Options:
+0) Manggon ing omah iki Seneng
+1) Manggon ing omah iki nandhang sangsara
+
+Question 421: Manggon ing omah iki kaya neraka
+Options:
+0) Manggon ing omah iki Seneng
+1) Manggon ing omah iki nandhang sangsara
+
+Question 422: Swasana desa iki kaya pasar
+Options:
+0) Swasana desa iki Ramai
+1) Swasana desa iki Sepi
+
+Question 423: Swasana desa iki kaya kuburan
+Options:
+0) Swasana desa iki Ramai
+1) Swasana desa iki Sepi
+
+Question 424: Swarane masku nek nyanyi koyo swarane Didi kempot
+Options:
+0) Swarane masku nek nyanyi merdu
+1) Swarane masku nek nyanyi cempreng
+
+Question 425: Swarane masku nek nyanyi koyo tutup panci njeblok
+Options:
+0) Swarane masku nek nyanyi merdu
+1) Swarane masku nek nyanyi cempreng
+
+Question 426: Kulite wong wedok iku kaya kulit bayi
+Options:
+0) Kulite wong wedok iku Halus
+1) Kulite wong wedok iku kasar
+
+Question 427: Kulite wong wedok iku kaya kulit salak
+Options:
+0) Kulite wong wedok iku Halus
+1) Kulite wong wedok iku kasar
+
+Question 428: Dina iki hawa ing njaba krasa kaya ing kutub lor
+Options:
+0) Dina iki hawa ing njaba krasa adem
+1) Dina iki hawa ing njaba krasa panas
+
+Question 429: Dina iki hawa ing njaba krasa kaya ana ing gurun wedi
+Options:
+0) Dina iki hawa ing njaba krasa adem
+1) Dina iki hawa ing njaba krasa panas
+
+Question 430: Semangate nandhang pacoban urip iku kaya raja singa ing tengah alas
+Options:
+0) Semangate nandhang pacoban urip iku Wani
+1) Semangate nandhang pacoban urip iku Wedi
+
+Question 431: Semangate nandhang pacoban urip iku kaya kura-kura sing kerep ndhelik ing cangkang
+Options:
+0) Semangate nandhang pacoban urip iku Wani
+1) Semangate nandhang pacoban urip iku Wedi
+
+Question 432: Nalika ngrampungake masalah dheweke kaya ombak ing tengah samodra
+Options:
+0) Nalika ngrampungake masalah dheweke Ora Tenang
+1) Nalika ngrampungake masalah dheweke kuwat, tenang kebak kawicaksanan
+
+Question 433: Nalika ngrampungake masalah dheweke kaya gunung
+Options:
+0) Nalika ngrampungake masalah dheweke Ora Tenang
+1) Nalika ngrampungake masalah dheweke kuwat, tenang kebak kawicaksanan
+
+Question 434: Ponakanku yen sekolah kaya kidang sing pinter lan lincah
+Options:
+0) Ponakanku yen sekolah aktif
+1) Ponakanku yen sekolah pasif menengae
+
+Question 435: Ponakanku yen sekolah kaya tumpukan kayu
+Options:
+0) Ponakanku yen sekolah aktif
+1) Ponakanku yen sekolah pasif menengae
+
+Question 436: Sabare kaya samodra
+Options:
+0) Sabare Jembar
+1) Sabare Ciyut
+
+Question 437: Sabare kaya bolongan sedotan
+Options:
+0) Sabare Jembar
+1) Sabare Ciyut
+
+Question 438: Mentale kaya baja
+Options:
+0) Mentale kuwat
+1) Mentale ora kuwat
+
+Question 439: Mentale kaya tempe
+Options:
+0) Mentale kuwat
+1) Mentale ora kuwat
+"
+11,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+
+ INPUT:
+Question 440: Esemmu koyo rembulan sing madhangi wengi kang peteng ndhedhet
+Options:
+0) Esemmu apik
+1) Esemmu kecut
+
+Question 441: Esemmu koyo jeruk durung mateng nanging wis dipetik
+Options:
+0) Esemmu apik
+1) Esemmu kecut
+
+Question 442: Mbak Siti mbagi wektune kaya bebek sing baris
+Options:
+0) Mbak Siti mbagi wektune teratur
+1) Mbak Siti mbagi wektune ora teratur
+
+Question 443: Mbak Siti mbagi wektune kaya macet kenderaan ing ibu kota
+Options:
+0) Mbak Siti mbagi wektune teratur
+1) Mbak Siti mbagi wektune ora teratur
+
+Question 444: Yen nyuarake panemune kaya nggeroman macan
+Options:
+0) Yen nyuarake panemune banter
+1) Yen nyuarake panemune ora banter
+
+Question 445: Yen nyuarake panemune kaya buntut tikus sing kecepit ing lawang
+Options:
+0) Yen nyuarake panemune banter
+1) Yen nyuarake panemune ora banter
+
+Question 446: Ukuran awak bocah iku kaya gajah
+Options:
+0) Gedhe
+1) cilik
+
+Question 447: Ukuran awak bocah iku kaya semut
+Options:
+0) Gedhe
+1) cilik
+
+Question 448: Rambute bocah iku kaya kain sutra
+Options:
+0) Rambute bocah iku Lembut
+1) Rambute bocah iku kaku
+
+Question 449: Rambute bocah iku kaya sapu aren
+Options:
+0) Rambute bocah iku Lembut
+1) Rambute bocah iku kaku
+
+Question 450: Kekancan kita ibarat rante
+Options:
+0) Kekancan kita kuat
+1) Kekancan kita rapuh
+
+Question 451: Kekancan kita ibarat kayu padat sing kerep kena banyu
+Options:
+0) Kekancan kita kuat
+1) Kekancan kita rapuh
+
+Question 452: Tresnaku marang sliramu sejeroning samudra Hindia
+Options:
+0) Tresnaku marang sliramu jeru
+1) Tresnaku marang sliramu cethek
+
+Question 453: Tresnaku marang sliramu jerone kaya kolam bocah
+Options:
+0) Tresnaku marang sliramu jeru
+1) Tresnaku marang sliramu cethek
+
+Question 454: Mlayune kaya macan tutul nguber mangsane
+Options:
+0) Mlayune cepet
+1) Mlayune alon
+
+Question 455: Mlayune kaya keong kebon
+Options:
+0) Mlayune cepet
+1) Mlayune alon
+
+Question 456: Awake kaya bal basket
+Options:
+0) Awake gedi
+1) Awake dowo kuru
+
+Question 457: Awake kaya cagak daya
+Options:
+0) Awake gedi
+1) Awake dowo kuru
+
+Question 458: Anake pasangan kuwi kaya cacahe anggota pemaine sepak bola
+Options:
+0) Anake pasangan kuwi akeh banget nganti akeh
+1) Anake pasangan kuwi akeh banget nganti sithik
+
+Question 459: Anake pasangan kuwi kaya cacahing wiji rambutan
+Options:
+0) Anake pasangan kuwi akeh banget nganti akeh
+1) Anake pasangan kuwi akeh banget nganti sithik
+
+Question 460: Adikku yen ndek omah kaya manuk beo
+Options:
+0) Adikku yen ndek omah cerewet
+1) Adikku yen ndek omah gak enek suarane
+
+Question 461: Adikku yen ndek omah kaya wong loro untu
+Options:
+0) Adikku yen ndek omah cerewet
+1) Adikku yen ndek omah gak enek suarane
+
+Question 462: Uripe bocah kuwi kaya manuk sing mabur bebas ing langit
+Options:
+0) Uripe bocah kuwi bebas
+1) Uripe bocah kuwi dikekang
+
+Question 463: Uripe bocah kuwi kaya manuk ing kandhang
+Options:
+0) Uripe bocah kuwi bebas
+1) Uripe bocah kuwi dikekang
+
+Question 464: Omongan tanggaku kaya driji kenek peso sing landhep
+Options:
+0) Omongan tanggaku perih
+1) Omongan tanggaku nyenengne
+
+Question 465: Omongan tanggaku kaya teh sing diombe yen udan
+Options:
+0) Omongan tanggaku perih
+1) Omongan tanggaku nyenengne
+
+Question 466: Kendaraane mlaku kaya angin
+Options:
+0) Kendaraane mlaku cepet
+1) Kendaraane mlaku alon
+
+Question 467: Kendaraane mlaku kaya macan luwe
+Options:
+0) Kendaraane mlaku cepet
+1) Kendaraane mlaku alon
+
+Question 468: Wong wedok iku kaya polahe semut
+Options:
+0) Wong wedok iku sregep
+1) Wong wedok iku males
+
+Question 469: Wong wedok iku kaya polahe kebo
+Options:
+0) Wong wedok iku sregep
+1) Wong wedok iku males
+
+Question 470: Yen nggawakne oleh-oleh kaya abote watu
+Options:
+0) Yen nggawakne oleh-oleh abot
+1) Yen nggawakne oleh-oleh entheng
+
+Question 471: Yen nggawakne oleh-oleh kaya entheng kapas
+Options:
+0) Yen nggawakne oleh-oleh abot
+1) Yen nggawakne oleh-oleh entheng
+
+Question 472: Hubungan katresnan kita kaya crita Romeo lan Juliet
+Options:
+0) Hubungan katresnan kita romantis
+1) Hubungan katresnan kita tukaran wae
+
+Question 473: Hubungan katresnan kita kaya asu lan kucing
+Options:
+0) Hubungan katresnan kita romantis
+1) Hubungan katresnan kita tukaran wae
+
+Question 474: Raine koncoku kaya aspal dalan gedhe
+Options:
+0) Raine koncoku mulus
+1) Raine koncoku kasar
+
+Question 475: Raine koncoku kaya dalane deso ora roto akeh krikile
+Options:
+0) Raine koncoku mulus
+1) Raine koncoku kasar
+
+Question 476: Hubungan seduluranku karo mbakyuku iku ibarat manungsa karo oksigen
+Options:
+0) Hubungan seduluranku karo mbakyuku pasti mbutuhne
+1) Hubungan seduluranku karo mbakyuku gak iso nyatu
+
+Question 477: Hubungan seduluranku karo mbakyuku iku ibarat banyu lan lengo
+Options:
+0) Hubungan seduluranku karo mbakyuku pasti mbutuhne
+1) Hubungan seduluranku karo mbakyuku gak iso nyatu
+
+Question 478: Dalan-dalan ing desaku lampune kaya ing pasar malam
+Options:
+0) Dalan-dalan ing desaku lampune padhang
+1) Dalan-dalan ing desaku lampune remang-remang
+
+Question 479: Dalan-dalan ing desaku lampune kaya ing warung-warunge cah enom
+Options:
+0) Dalan-dalan ing desaku lampune padhang
+1) Dalan-dalan ing desaku lampune remang-remang
+"
+12,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+
+ INPUT:
+Question 480: Bapake koncoku iku kaya raden werkudara
+Options:
+0) Bapake koncoku iku gagah
+1) Bapake koncoku iku medeni
+
+Question 481: Bapake koncoku iku kaya buto ijo
+Options:
+0) Bapake koncoku iku gagah
+1) Bapake koncoku iku medeni
+
+Question 482: Bapak tirine sifate kaya Gatot Kaca
+Options:
+0) Bapak tirine sifat apik
+1) Bapak tirine sifat jahat
+
+Question 483: Bapak tirine sifate kaya Sengkuni
+Options:
+0) Bapak tirine sifat apik
+1) Bapak tirine sifat jahat
+
+Question 484: Nalika ngawasi ujian, pandelenge guru iku kaya manuk garudha ngarah mangsane
+Options:
+0) Nalika ngawasi ujian, pandelenge guru iku fokus ngamati muride
+1) Nalika ngawasi ujian, pandelenge guru iku ora fokus mergo ngantuk
+
+Question 485: Nalika ngawasi ujian, pandelenge guru iku kaya bocah cilik ditembangake
+Options:
+0) Nalika ngawasi ujian, pandelenge guru iku fokus ngamati muride
+1) Nalika ngawasi ujian, pandelenge guru iku ora fokus mergo ngantuk
+
+Question 486: Masku nalika ngumbara kaya kebo seng ileng mulih menyang kandhange
+Options:
+0) Masku nalika ngumbara tetep ileng lan balik ana asale
+1) Masku nalika ngumbara lali karo asale
+
+Question 487: Masku nalika ngumbara kaya kacang lali karo kulitnya
+Options:
+0) Masku nalika ngumbara tetep ileng lan balik ana asale
+1) Masku nalika ngumbara lali karo asale
+
+Question 488: Wong kuwi sifate kaya bathok bolu isi madu
+Options:
+0) Wong kuwi sifate Nggambarake wong saka kelas ngisor, nanging sugih ing kawruh
+1) Wong kuwi sifate wong sing akeh omong nanging ora gelem nyambut gawe lan kemeruh
+
+Question 489: Wong kuwi sifate kaya drum kosong menehi swara banter
+Options:
+0) Wong kuwi sifate Nggambarake wong saka kelas ngisor, nanging sugih ing kawruh
+1) Wong kuwi sifate wong sing akeh omong nanging ora gelem nyambut gawe lan kemeruh
+
+Question 490: Dheweke nek nari kaya ombak ular-ular.
+Options:
+0) Dheweke nek nari luwes
+1) Dheweke nek nari kaku
+
+Question 491: Dheweke nek nari kaya robot diuripake bateraine
+Options:
+0) Dheweke nek nari luwes
+1) Dheweke nek nari kaku
+
+Question 492: Aku lan kowe kaya pinang dibelah loro
+Options:
+0) Aku lan kowe kembar
+1) Aku lan kowe bedho
+
+Question 493: Aku lan kowe kaya awan lan wengi
+Options:
+0) Aku lan kowe kembar
+1) Aku lan kowe bedho
+
+Question 494: Dheweke mlumpat kaya kangguru
+Options:
+0) Dheweke mlumpat dhuwur banget
+1) Dheweke mlumpat cendhek
+
+Question 495: Dheweke mlumpat kaya kelinci
+Options:
+0) Dheweke mlumpat dhuwur banget
+1) Dheweke mlumpat cendhek
+
+Question 496: Awake kaya inti bumi
+Options:
+0) Awake panas
+1) Awake adem
+
+Question 497: Awake kaya es batu
+Options:
+0) Awake panas
+1) Awake adem
+
+Question 498: Atine ibarat watu sing ora bakal goyah senajan kahalang ombak gedhe
+Options:
+0) Atine mantep lan kuat
+1) Atine iso rapuh lan gampang pecah.
+
+Question 499: Atine ibarat koco
+Options:
+0) Atine mantep lan kuat
+1) Atine iso rapuh lan gampang pecah.
+
+Question 500: Roke mbak Ayu dowone kaya telung kilan
+Options:
+0) Roke mbak Ayu dowone cekak
+1) Roke mbak Ayu dowone landhung
+
+Question 501: Roke mbak Ayu dowone kaya nyapu dalan
+Options:
+0) Roke mbak Ayu dowone cekak
+1) Roke mbak Ayu dowone landhung
+
+Question 502: Perasaane wong lanang iku dijodohne tonggone dewe kaya ketiban duren
+Options:
+0) Perasaane bungah
+1) Perasaane susah
+
+Question 503: Perasaane wong lanang iku dijodohne tonggone dewe kaya ketiban ondo
+Options:
+0) Perasaane bungah
+1) Perasaane susah
+
+Question 504: Kamare mas Andi kaya kandang kewan
+Options:
+0) Kamare mas Andi kemproh
+1) Kamare mas Andi resikan
+
+Question 505: Kamare mas Andi kaya kamar hotel
+Options:
+0) Kamare mas Andi kemproh
+1) Kamare mas Andi resikan
+
+Question 506: Udan awan ini kaya banyu langsung diguyur soko dhuwur
+Options:
+0) Udane deres
+1) Udane gerimis
+
+Question 507: Udan awan ini kaya sitok-sitok banyune jeblok
+Options:
+0) Udane deres
+1) Udane gerimis
+
+Question 508: Semangate urip wong kuwi ibarat terus ngibadah ngiro urip muk sampe sesok
+Options:
+0) Semangate mempeng
+1) Semangate kesed
+
+Question 509: Semangate urip wong kuwi ibarat enthong mlungker ndek njero godhong gedhang
+Options:
+0) Semangate mempeng
+1) Semangate kesed
+
+Question 510: Wong lanang iku nemui bapake pacare kaya Werkudhara
+Options:
+0) Wong lanang iku nemui bapake pacare kendhel
+1) Wong lanang iku nemui bapake pacare jireh
+
+Question 511: Wong lanang iku nemui bapake pacare kaya Petruk
+Options:
+0) Wong lanang iku nemui bapake pacare kendhel
+1) Wong lanang iku nemui bapake pacare jireh
+
+Question 512: Nek gaekne susu nggo anake kaya banyu
+Options:
+0) Susune cuwer
+1) Susune kenthel
+
+Question 513: Nek gaekne susu nggo anake kaya santen soko kambil tuwek
+Options:
+0) Susune cuwer
+1) Susune kenthel
+
+Question 514: Areke nek gae janji kaya merpati
+Options:
+0) blangko
+1) goroh
+
+Question 515: Areke nek gae janji kaya ndelok gajah numpak becak
+Options:
+0) blangko
+1) goroh
+
+Question 516: Bondone wong tuane ibarat pitung turunan gak entek-entek
+Options:
+0) sugih
+1) mlarat
+
+Question 517: Bondone wong tuane ibarat muk klambi lan kathok ndek awak
+Options:
+0) sugih
+1) mlarat
+
+Question 518: Cah enom mburi omahku kuwi yen ngetokne duwit dipikir kanggone
+Options:
+0) gemi
+1) ngebreh
+
+Question 519: Cah enom mburi omahku kuwi ngentek-ngentekne duwit
+Options:
+0) gemi
+1) ngebreh
+"
+13,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+
+ INPUT:
+Question 520: Nek gae alasan kaya ketemu setan awan-awan
+Options:
+0) Nek gae alasan aneh
+1) Nek gae alasan lumrah
+
+Question 521: Nek gae alasan kaya wong kesel mergo sedinoan nyambut gae
+Options:
+0) Nek gae alasan aneh
+1) Nek gae alasan lumrah
+
+Question 522: Bocah-bocah kuwi polahe kaya wong manten disandingne
+Options:
+0) Bocah-bocah kuwi polahe antheng
+1) Bocah-bocah kuwi polahe ronggeh
+
+Question 523: Bocah-bocah kuwi polahe kaya wong ndek pasar
+Options:
+0) Bocah-bocah kuwi polahe antheng
+1) Bocah-bocah kuwi polahe ronggeh
+
+Question 524: Mbiyen bapakku ngluluhne atine ibukku kaya golek dom ndek tengah jerami
+Options:
+0) angel
+1) gampang
+
+Question 525: Mbiyen bapakku ngluluhne atine ibukku kaya numpak motor metik ra sah mlebu gigi nek ditumpaki
+Options:
+0) angel
+1) gampang
+
+Question 526: Mbakyuku nek ngekei klambi kaya buka plastik soko toko
+Options:
+0) Mbakyuku nek ngekei klambi anyar
+1) Mbakyuku nek ngekei klambi lawas
+
+Question 527: Mbakyuku nek ngekei klambi kaya wes nate digae
+Options:
+0) Mbakyuku nek ngekei klambi anyar
+1) Mbakyuku nek ngekei klambi lawas
+
+Question 528: Banyune jeding kaya sendhang ndek kali
+Options:
+0) Banyune jeding bening
+1) Banyune jeding buthek
+
+Question 529: Banyune jeding kaya banyu kopi
+Options:
+0) Banyune jeding bening
+1) Banyune jeding buthek
+
+Question 530: Watake masku kaya parutan
+Options:
+0) Watake masku kasar
+1) Watake masku alus
+
+Question 531: Watake masku kaya kulit bayi
+Options:
+0) Watake masku kasar
+1) Watake masku alus
+
+Question 532: Atine Ani seperti ambane segoro
+Options:
+0) Atine Ani jembar
+1) Atine Ani ciyut
+
+Question 533: Atine Ani seperti ambane gang
+Options:
+0) Atine Ani jembar
+1) Atine Ani ciyut
+
+Question 534: Budheku wonge ibarat blonjo susuk seked ripis mesti dijaluk maneh
+Options:
+0) Budheku wonge cethil
+1) Budheku wonge lumo
+
+Question 535: Budheku wonge ibarat wong seng ra eman bondho seneng ngekei wong-wong ra nduwe
+Options:
+0) Budheku wonge cethil
+1) Budheku wonge lumo
+
+Question 536: Dalane ngarep omah kaya gulo jowo kenek banyu
+Options:
+0) Dalane ngarep omah jemek
+1) Dalane ngarep omah kesed
+
+Question 537: Dalane ngarep omah kaya koco dilap kain teles
+Options:
+0) Dalane ngarep omah jemek
+1) Dalane ngarep omah kesed
+
+Question 538: Nek nduwe cita-cita sakduwur langit
+Options:
+0) Nek nduwe cita-cita duwur banget
+1) Nek nduwe cita-cita ora duwur ( biasa-biasa ae
+
+Question 539: Nek nduwe cita-cita sakduwur cagak listrik
+Options:
+0) Nek nduwe cita-cita duwur banget
+1) Nek nduwe cita-cita ora duwur ( biasa-biasa ae
+
+Question 540: Lemari neng njero omahe sakgede lapangan bal-balan
+Options:
+0) Lemari neng njero omahe gedhi
+1) Lemari neng njero omahe cilik
+
+Question 541: Lemari neng njero omahe sakgede kerdus mie
+Options:
+0) Lemari neng njero omahe gedhi
+1) Lemari neng njero omahe cilik
+
+Question 542: Dadi guru saiki iku ibarat mlaku munggah gunung
+Options:
+0) Dadi guru saiki iku ibarat soro
+1) Dadi guru saiki iku ibarat penak
+
+Question 543: Dadi guru saiki iku ibarat mlaku-mlaku santai
+Options:
+0) Dadi guru saiki iku ibarat soro
+1) Dadi guru saiki iku ibarat penak
+
+Question 544: Sakpeduluran iku podo koyo pitik nek dipyuri beras
+Options:
+0) Sakpeduluran iku podo nyedak
+1) Sakpeduluran iku podo ngadoh
+
+Question 545: Sakpeduluran iku podo koyo semut kenek srengenge matahari
+Options:
+0) Sakpeduluran iku podo nyedak
+1) Sakpeduluran iku podo ngadoh
+
+Question 546: Lampu ndek omahe kaya wong nduwe tanggapan
+Options:
+0) Lampu ndek omahe padhang
+1) Lampu ndek omahe peteng
+
+Question 547: Lampu ndek omahe kaya dalanan kuburan
+Options:
+0) Lampu ndek omahe padhang
+1) Lampu ndek omahe peteng
+
+Question 548: Soale ujian dikerjakne ibarat ditingal merem entuk satus
+Options:
+0) Soale ujian gampang
+1) Soale ujian angel
+
+Question 549: Soale ujian dikerjakne ibarat nglebokne benang wengi-wengi
+Options:
+0) Soale ujian gampang
+1) Soale ujian angel
+
+Question 550: Irunge iso dicenteli panci
+Options:
+0) Irunge bangir
+1) Irunge pesek
+
+Question 551: Irunge dicantoli koco moto mlorot terus
+Options:
+0) Irunge bangir
+1) Irunge pesek
+
+Question 552: Usahane kaya numpak motor kene lampu abang ndek prapatan
+Options:
+0) Usahane mandheg
+1) Usahane mlaku
+
+Question 553: Usahane kaya numpak motor kene lampu ijo
+Options:
+0) Usahane mandheg
+1) Usahane mlaku
+
+Question 554: Warna kulite kaya woh juwet
+Options:
+0) Warna kulite ireng
+1) Warna kulite putih
+
+Question 555: Warna kulite kaya susu
+Options:
+0) Warna kulite ireng
+1) Warna kulite putih
+
+Question 556: Awake gedhine sakdrum
+Options:
+0) Awake lemu
+1) Awake kuru
+
+Question 557: Awake gedhine sak cagak omah
+Options:
+0) Awake lemu
+1) Awake kuru
+
+Question 558: Bocah kuwi nek enek wong anyar kaya wani maju kenalan dewe
+Options:
+0) Bocah kuwi saen
+1) Bocah kuwi isinan
+
+Question 559: Bocah kuwi nek enek wong anyar kaya ndelik ra wani metu
+Options:
+0) Bocah kuwi saen
+1) Bocah kuwi isinan
+"
+14,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+
+ INPUT:
+Question 560: Awake kaya gathot koco
+Options:
+0) Awake kuat
+1) Awake ringkeh
+
+Question 561: Awake kaya wong loro
+Options:
+0) Awake kuat
+1) Awake ringkeh
+
+Question 562: Hawane saiki kaya gae jaket rangkep limo
+Options:
+0) Hawane saiki sumuk
+1) Hawane saiki isis
+
+Question 563: Hawane saiki kaya dikipasi wong sepuluh
+Options:
+0) Hawane saiki sumuk
+1) Hawane saiki isis
+
+Question 564: Warnane rambute kaya kembang jambu
+Options:
+0) Warna rambute putih
+1) Warna rambute ireng
+
+Question 565: Warnane rambute kaya areng
+Options:
+0) Warna rambute putih
+1) Warna rambute ireng
+
+Question 566: Bapake kaya pejabat penting
+Options:
+0) Bapake sibuk banget
+1) Bapake ora sibuk
+
+Question 567: Bapake kaya wong ra nduwe penggawean
+Options:
+0) Bapake sibuk banget
+1) Bapake ora sibuk
+
+Question 568: Kerjane kaya mesin seng gak pernah mati
+Options:
+0) Kerjane kuat
+1) Kerjane lemah
+
+Question 569: Kerjane kaya jam kentekkan baterai
+Options:
+0) Kerjane kuat
+1) Kerjane lemah
+
+Question 570: Awake dewe kaya payung lan udan
+Options:
+0) Awake dewe sering bareng
+1) Awake dewe tukaran
+
+Question 571: Awake dewe kaya kucing karo asu.
+Options:
+0) Awake dewe sering bareng
+1) Awake dewe tukaran
+
+Question 572: Guyunanne kaya badut lagek atraksi
+Options:
+0) Guyonane lucu
+1) Guyonane garing
+
+Question 573: Guyunanne kaya ghodhong wes kuning
+Options:
+0) Guyonane lucu
+1) Guyonane garing
+
+Question 574: Pas wonge milih lungo soko uripku rasane kaya kiamat
+Options:
+0) Pas wonge milih lungo soko uripku rasane susah
+1) Pas wonge milih lungo soko uripku rasane bungah
+
+Question 575: Pas wonge milih lungo soko uripku rasane kaya entuk duwit 100 milyar
+Options:
+0) Pas wonge milih lungo soko uripku rasane susah
+1) Pas wonge milih lungo soko uripku rasane bungah
+
+Question 576: Raut wajahe kaya kembang ndek taman seng mekar
+Options:
+0) Wajahe sumringah
+1) Wajahe pucet
+
+Question 577: Raut wajahe kaya kembang layu
+Options:
+0) Wajahe sumringah
+1) Wajahe pucet
+
+Question 578: Senyume kaya gula jawa
+Options:
+0) Senyumane manis
+1) Senyumane kecut
+
+Question 579: Senyume kaya pencit
+Options:
+0) Senyumane manis
+1) Senyumane kecut
+
+Question 580: Suarane pak Budi kaya singo ngaum ndek jero alas
+Options:
+0) Suarane pak Budi medeni
+1) Suarane pak Budi alus
+
+Question 581: Suarane pak Budi kaya bocah ngaji
+Options:
+0) Suarane pak Budi medeni
+1) Suarane pak Budi alus
+
+Question 582: Ilmune wong kuwi ibarat banyu sing ombak ora jero
+Options:
+0) Ilmune dangkal
+1) Ilmune luas
+
+Question 583: Ilmune wong kuwi ibarat ombone segoro
+Options:
+0) Ilmune dangkal
+1) Ilmune luas
+
+Question 584: Klambine sewangi kembang melati
+Options:
+0) Klambine wangi
+1) Klambine mambu
+
+Question 585: Klambine sewangi kringet
+Options:
+0) Klambine wangi
+1) Klambine mambu
+
+Question 586: Keteguhane ngadepi kenyataan kaya watu karang
+Options:
+0) Keteguhane ngadepi kenyataan kuat
+1) Keteguhane ngadepi kenyataan rapuh
+
+Question 587: Keteguhane ngadepi kenyataan kaya krupuk
+Options:
+0) Keteguhane ngadepi kenyataan kuat
+1) Keteguhane ngadepi kenyataan rapuh
+
+Question 588: Jidate kaya lapangan bal-balan
+Options:
+0) Jidate ombo
+1) Jidate ciut
+
+Question 589: Jidate kaya kulit kacang seng mengkeret
+Options:
+0) Jidate ombo
+1) Jidate ciut
+
+Question 590: Ganang yen nesu kaya macan ngamuk
+Options:
+0) Ganang yen nesu ngamuk bengok-bengok
+1) Ganang yen nesu meneng ae
+
+Question 591: Ganang yen nesu kaya patung
+Options:
+0) Ganang yen nesu ngamuk bengok-bengok
+1) Ganang yen nesu meneng ae
+
+Question 592: Nek ngguyu kaya mak lampir
+Options:
+0) Nek ngguyu banter tur mlengking
+1) Nek ngguyu diempet
+
+Question 593: Nek ngguyu kaya kebelet
+Options:
+0) Nek ngguyu banter tur mlengking
+1) Nek ngguyu diempet
+
+Question 594: Wedhange kaya obat loro untu
+Options:
+0) Wedhange pahit
+1) Wedhange manis
+
+Question 595: Wedhange kaya kolak gedhang
+Options:
+0) Wedhange pahit
+1) Wedhange manis
+
+Question 596: Nek mangan ngentekne sego sakwakul
+Options:
+0) Nek mangan akeh
+1) Nek mangan sithik
+
+Question 597: Nek mangan muk pirang pulukan
+Options:
+0) Nek mangan akeh
+1) Nek mangan sithik
+
+Question 598: Awake kaya gedung duwur
+Options:
+0) Awake kuat
+1) Awake ringkih
+
+Question 599: Awake kaya kripik
+Options:
+0) Awake kuat
+1) Awake ringkih
+"

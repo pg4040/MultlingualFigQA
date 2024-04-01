@@ -1,0 +1,6589 @@
+Prompt,Response
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 0: Watoto ni malaika
+Options:
+0) Watoto daima hawana hatia
+1) Yeye daima ni mwenye dhambi
+
+Question 1: Yeye ni mnyama.
+Options:
+0) Watoto daima hawana hatia
+1) Yeye daima ni mwenye dhambi
+
+Question 2: Maneno yake ni kama kisu
+Options:
+0) Maneno yako yanaumiza
+1) Maneno yake yanafariji
+
+Question 3: Maneno yake ni kama kinanda
+Options:
+0) Maneno yako yanaumiza
+1) Maneno yake yanafariji
+
+Question 4: Tabasamu lake huangaza chumba kizima
+Options:
+0) Ana tabasamu zuri
+1) Tabasamu lake linatisha
+
+Question 5: Tabasamu lake lilijaa  vitisho  kama shomoro mdogo aliyeshika shoka
+Options:
+0) Ana tabasamu zuri
+1) Tabasamu lake linatisha
+
+Question 6: Nipo katika dimbwi la furaha
+Options:
+0) Nina furaha kubwa sana
+1) Nina huzuni nyingi sana
+
+Question 7: Ninazama katika bahari ya huzuni
+Options:
+0) Nina furaha kubwa sana
+1) Nina huzuni nyingi sana
+
+Question 8: Penzi lao limepamba moto""
+Options:
+0) Wale wanapendana sana
+1) Wale hawapendani sana
+
+Question 9: Penzi lao ni kama moto wa kibatari kwenye upepo""
+Options:
+0) Wale wanapendana sana
+1) Wale hawapendani sana
+
+Question 10: Wali huu una ladha kama umepikwa  hotelini
+Options:
+0) Chakula ni kitamu
+1) Chakula ni kibaya
+
+Question 11: Wali huu unaladha kama umepikwa bwenini
+Options:
+0) Chakula ni kitamu
+1) Chakula ni kibaya
+
+Question 12: Mtihani ulikuwa kama kipande cha keki
+Options:
+0) Mtihani ulikuwa rahisi sana
+1) Mtihani ulikua mgumu
+
+Question 13: Mtihani ulikuwa kama ugali wa jela
+Options:
+0) Mtihani ulikuwa rahisi sana
+1) Mtihani ulikua mgumu
+
+Question 14: Mzamiru alitoa pasi rula
+Options:
+0) Mchezaji alitoa pasi nzuri
+1) Mchezaji alitoa pasi mbaya
+
+Question 15: Feisal alitoa pasi mkaa
+Options:
+0) Mchezaji alitoa pasi nzuri
+1) Mchezaji alitoa pasi mbaya
+
+Question 16: Vijana ndio taifa la kesho
+Options:
+0) Vijana ndio watakaoleta maendeleo huko mbeleni
+1) Vijana hawahusiki na maendeleo ya taifa ya baadae
+
+Question 17: Vijana wataozesha taifa
+Options:
+0) Vijana ndio watakaoleta maendeleo huko mbeleni
+1) Vijana wataliharibu taifa.
+
+Question 18: Sauti yako ni muziki masikioni mwangu
+Options:
+0) Sauti yako ni inanipa faraja na raha niisikiapo
+1) Sauti yako ni kero kwangu
+
+Question 19: Sauti yako ni kama chiriku
+Options:
+0) Sauti yako ni inanipa faraja na raha niisikiapo
+1) Sauti yako ni kero kwangu
+
+Question 20: Mapenzi ni kikohozi
+Options:
+0) Mapenzi hayafichiki
+1) Mapenzi yanafichika
+
+Question 21: Mapenzi ni kama punje ya unga kwenye mchele
+Options:
+0) Mapenzi hayafichiki
+1) Mapenzi yanafichika
+
+Question 22: Ujana ni moshi
+Options:
+0) Ujana huja na kuondoka haraka
+1) Ujana hukaa kwa mda mrefu
+
+Question 23: Ujana ni safari ndefu
+Options:
+0) Ujana huja na kuondoka haraka
+1) Ujana hukaa kwa mda mrefu
+
+Question 24: Maisha ni kama uji
+Options:
+0) Maisha si marahisi yanahitaji kupambana
+1) Maisha ni marahisi
+
+Question 25: Maisha sio mchezo, ni vita
+Options:
+0) Maisha si marahisi yanahitaji kupambana
+1) Maisha ni marahisi
+
+Question 26: Kauli yake ilinikata maini
+Options:
+0) Kauli yake ilinifanya nijiskie vibaya
+1) Kauli yake ilinifurahisha
+
+Question 27: Kauli yake ilikua kama maji baridi kooni
+Options:
+0) Kauli yake ilinifanya nijiskie vibaya
+1) Kauli yake ilinifurahisha
+
+Question 28: Awamu hii kutakua na michuano ya kukata na shoka
+Options:
+0) Awamu hii kutakua na michuano migumu
+1) Awamu hii kutakua na michuano mirahisi
+
+Question 29: Awamu hii kutakua na michuano lelemama
+Options:
+0) Awamu hii kutakua na michuano migumu
+1) Awamu hii kutakua na michuano mirahisi
+
+Question 30: Sandra, wewe ndio nuru ya macho yangu
+Options:
+0) Sandra, wewe ndiye unayenipa furaha
+1) Sandra, wewe siye unayenipa furaha
+
+Question 31: Sandra, wewe ni kama shubiri kinywani mwangu
+Options:
+0) Sandra, wewe ndiye unayenipa furaha
+1) Sandra, wewe siye unayenipa furaha
+
+Question 32: Tofauti na dhana iliyokuwepo, mama ndiye nguzo  ya familia
+Options:
+0) Tofauti na dhana iliyokuwepo, mama ndiye mtu anayeishikilia familia kwa pamoja
+1) Mama siye anayeishikilia familia kwa pamoja
+
+Question 33: Tofauti na dhana iliyokuwepo, mama ndiye kunguni wa familia
+Options:
+0) Tofauti na dhana iliyokuwepo, mama ndiye mtu anayeishikilia familia kwa pamoja
+1) Mama siye anayeishikilia familia kwa pamoja
+
+Question 34: Ndoa zitakua hadimu siku za usoni
+Options:
+0) Ndoa zitakua hadimu siku si nyingi
+1) Ndoa hazitakua hadimu siku za hapa karibuni
+
+Question 35: Kutakua na ndoa kama siafu siku za usoni
+Options:
+0) Ndoa zitakua hadimu siku si nyingi
+1) Ndoa hazitakua hadimu siku za hapa karibuni
+
+Question 36: Mapenzi ni vita
+Options:
+0) Mapenzi ni kitu kigumu
+1) Mapenzi ni kitu kirahisi
+
+Question 37: Mapenzi ni keki
+Options:
+0) Mapenzi ni kitu kigumu
+1) Mapenzi ni kitu kirahisi
+
+Question 38: Bahati ya mwenzio usiilalie mlango wazi
+Options:
+0) Bahati ikimkuta mwenzio usisubiri ikufikie na wewe
+1) Bahari ikimkuta mwenzio subiri ikufikie na wewe
+
+Question 39: Bahati ya mwenzio ilalie mlango wazi
+Options:
+0) Bahati ikimkuta mwenzio usisubiri ikufikie na wewe
+1) Bahari ikimkuta mwenzio subiri ikufikie na wewe
+
+Question 40: Kijana huyu ana roho ya dhahabu
+Options:
+0) Kijana huyu ana roho nzuri sana
+1) Kijana huyu ana roho mbaya sana
+
+Question 41: Kijana huyo ana roho ya kutu
+Options:
+0) Kijana huyu ana roho nzuri sana
+1) Kijana huyu ana roho mbaya sana
+
+Question 42: Maisha yake ni kama dira
+Options:
+0) Maisha yake yana muelekeo
+1) Maisha yake hayana muelekeo
+
+Question 43: Maisha yake ni kama kuku akiyekatwa kichwa
+Options:
+0) Maisha yake yana muelekeo
+1) Maisha yake hayana muelekeo
+
+Question 44: Mwendo wake ni mithili ya twiga
+Options:
+0) Mwendo wake ni wa maringo
+1) Mwendo wake si wa maringo
+
+Question 45: Mwendo wake ni wa bata
+Options:
+0) Mwendo wake ni wa maringo
+1) Mwendo wake si wa maringo
+
+Question 46: Wema ni hazina
+Options:
+0) Ukitendea watu mema yatakurudia
+1) Ukitendea watu mema hayatakurudia
+
+Question 47: Wema sio kitenesi
+Options:
+0) Ukitendea watu mema yatakurudia
+1) Ukitendea watu mema hayatakurudia
+
+Question 48: Macho yake yalikua kama mto wkati wa masika.
+Options:
+0) Alitokwa na machozi mengi ya uchungu
+1) Hakutokwa na machozi mengi ya uchungu
+
+Question 49: Macho yake yalikua kama mto wkati wa kiangazi.
+Options:
+0) Alitokwa na machozi mengi ya uchungu
+1) Hakutokwa na machozi mengi ya uchungu
+
+Question 50: Alihisi ngoma kifuani kwake
+Options:
+0) Mapigo yake ya moyo yalienda kwa kasi mno
+1) Mapingo yake ya moyo yalienda taratibu
+
+Question 51: Alihisi kifua chake kimeganda kama barafu
+Options:
+0) Mapigo yake ya moyo yalienda kwa kasi mno
+1) Mapingo yake ya moyo yalienda taratibu
+
+Question 52: Alipora mkoba wangu na kutimua vumbi
+Options:
+0) Alipora mkoba wangu na kukimbia
+1) Alipora mkoba wangu na kuanza kutembea taratibu
+
+Question 53: Alipora mkoba wangu na kutembea kama konokono
+Options:
+0) Alipora mkoba wangu na kukimbia
+1) Alipora mkoba wangu na kuanza kutembea taratibu
+
+Question 54: Walibishana hadi wakashikana mashati
+Options:
+0) Walibishana hadi wakapigana
+1) Walibishana lakini hawakupigana
+
+Question 55: Walibishana kitakatifu
+Options:
+0) Walibishana hadi wakapigana
+1) Walibishana lakini hawakupigana
+
+Question 56: Upele humuota asiye na kucha
+Options:
+0) Bahati  hukumkuta asiye na uwezo wa kuitumia
+1) Bahati humkuta mwenye uwezo wa kuitumia
+
+Question 57: Jasho humtoka mwenye mwili
+Options:
+0) Bahati  hukumkuta asiye na uwezo wa kuitumia
+1) Bahati humkuta mwenye uwezo wa kuitumia
+
+Question 58: Aisha, funga bakuli lako!
+Options:
+0) Aisha, funga mdomo wako
+1) Aisha, endelea tu kuongea sana
+
+Question 59: Aisha, endelea tu kupiga mdomo
+Options:
+0) Aisha, funga mdomo wako
+1) Aisha, endelea tu kuongea sana
+","0, 1
+1, 1
+2, 0
+3, 1
+4, 0
+5, 1
+6, 0
+7, 1
+8, 0
+9, 1
+10, 0
+11, 1
+12, 1
+13, 1
+14, 1
+15, 1
+16, 0
+17, 0
+18, 0
+19, 1
+20, 1
+21, 0
+22, 0
+23, 1
+24, 0
+25, 0
+26, 0
+27, 1
+28, 0
+29, 1
+30, 0
+31, 1
+32, 0
+33, 1
+34, 0
+35, 1
+36, 0
+37, 1
+38, 0
+39, 1
+40, 0
+41, 1
+42, 0
+43, 1
+44, 0
+45, 1
+46, 0
+47, 0
+48, 0
+49, 1
+50, 0
+51, 1
+52, 0
+53, 1
+54, 0
+55, 1
+56, 0
+57, 1
+58, 0
+59, 1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 60: Hakuna marefu yasiyokuwa na ncha
+Options:
+0) Hakuna jambo lisilokua na mwisho
+1) Kila jambo lina mwisho
+
+Question 61: Zimwi likujualo halikuli likakwisha
+Options:
+0) Hakuna jambo lisilokua na mwisho
+1) Hakuna jambo lenye mwisho
+
+Question 62: Hassani hufanya mambo yake kama kobe
+Options:
+0) Hassani hufanya mambo yake taratibu
+1) Hassani hufanya mambo yake kwa haraka
+
+Question 63: Hassani hufanya mambo yake kama anakimbizwa
+Options:
+0) Hassani hufanya mambo yake taratibu
+1) Hassani hufanya mambo yake kwa haraka
+
+Question 64: Tatizo lako unapenda sana kutafuniwa
+Options:
+0) Tatizo lako unapenda sana kusaidiwa kufanya mambo yako
+1) Tatizo lako haupendi kabisa kusaidiwa kufanya mambo yako
+
+Question 65: Tatizo lako unapenda kufa mwenyewe
+Options:
+0) Tatizo lako unapenda sana kusaidiwa kufanya mambo yako
+1) Tatizo lako haupendi kabisa kusaidiwa kufanya mambo yako
+
+Question 66: Mtihani ulikua mgumu hadi kichwa kikaanza kuchemka
+Options:
+0) Mtihani ulikua mgumu hadi kichwa kikaanza kuniuma
+1) Mtihani haukua mgumu
+
+Question 67: Hata kama ulikua umejaza matope kichwani ungeweza kufanya mtihani ule
+Options:
+0) Mtihani ulikua mgumu hadi kichwa kikaanza kuniuma
+1) Mtihani haukua mgumu
+
+Question 68: Harufu ya miguu yake ilitosha kuua mbu
+Options:
+0) Harufu ya miguu yake ilikua kali mno
+1) Harufu ya miguu yake haikua kali
+
+Question 69: Harufu ya miguu yake ingefaa kutengenezea manukato
+Options:
+0) Harufu ya miguu yake ilikua kali mno
+1) Harufu ya miguu yake haikua kali
+
+Question 70: Maneno yake yalitosha kujaza bahari
+Options:
+0) Maneno yake yalikua mengi mno
+1) Maneno yake hayakua mengi
+
+Question 71: Maneno yake hayakuchukua hata sekunde
+Options:
+0) Maneno yake yalikua mengi mno
+1) Maneno yake hayakua mengi
+
+Question 72: Babu yangu alikua ni mtu wa miraba minne
+Options:
+0) Babu yangu alikua ni mtu mwenye mwili mkubwa
+1) Babu yangu hakua mtu mwenye mwili mkubwa
+
+Question 73: Babu yangu alikua kama punje ya haradali
+Options:
+0) Babu yangu alikua ni mtu mwenye mwili mkubwa
+1) Babu yangu hakua mtu mwenye mwili mkubwa
+
+Question 74: Wao hupenda kuweka mambo yao gizani
+Options:
+0) Wao hupenda kuweka siri mambo yao
+1) Wao hupenda kuweka wazi mambo
+
+Question 75: Wanapenda kumwaga mchele kwenye kuku wengi
+Options:
+0) Wao hupenda kuweka siri mambo yao
+1) Wao hupenda kuweka wazi mambo
+
+Question 76: Mchumia juani hulia kivulini
+Options:
+0) Atafutae kwa shida ataishi kwa starehe
+1) Atafutae kwa shida hataishi kwa starehe
+
+Question 77: Mchumia juani hulia juani
+Options:
+0) Atafutae kwa shida ataishi kwa starehe
+1) Atafutae kwa shida hataishi kwa starehe
+
+Question 78: Maisha yake yote ni kama miiba.
+Options:
+0) Maisha yake yote amekua akipata maumivu sana
+1) Maisha yake yote hajawahi pata maumivu
+
+Question 79: Maisha yake yote ni kama mkate na chai.
+Options:
+0) Maisha yake yote amekua akipata maumivu sana
+1) Maisha yake yote hajawahi pata maumivu
+
+Question 80: Muda sio rafiki.
+Options:
+0) Muda uliobaki sio mwingi/ Muda hautakusubiria
+1) Muda uliobaki ni mwingi/ Muda utakusubiria
+
+Question 81: Muda ni rafiki.
+Options:
+0) Muda uliobaki sio mwingi/ Muda hautakusubiria
+1) Muda uliobaki ni mwingi/ Muda utakusubiria
+
+Question 82: Harusi yao ilipamba moto
+Options:
+0) Harusi yao ilikua ya kifani
+1) Harusi yao ilipooza
+
+Question 83: Harusi yao ilikua kama msiba
+Options:
+0) Harusi yao ilikua ya kifani
+1) Harusi yao ilipooza
+
+Question 84: Maneno yake yalimtokea puani
+Options:
+0) Alijutia maneno yake
+1) Hakujutia maneno yake
+
+Question 85: Nilienda kumdai fedha zangu lakini bado aliendelea kuniletea siasa
+Options:
+0) Nilienda kumdai fedha zangu lakini bado aliendelea kunizungusha
+1) Nilienda kumdai fedha zangu na akanilipa
+
+Question 86: Nilienda kumdai fedha zangu na hakunilitea siasa
+Options:
+0) Nilienda kumdai fedha zangu lakini bado aliendelea kunizungusha
+1) Nilienda kumdai fedha zangu na akanilipa
+
+Question 87: Utavuna ulichopanda
+Options:
+0) Utapata kulingana na juhudi unazoweka
+1) Hautapata kulingana na juhudi unazoweka
+
+Question 88: Unaweza panda nazi ukavuna koroma
+Options:
+0) Utapata kulingana na juhudi unazoweka
+1) Hautapata kulingana na juhudi unazoweka
+
+Question 89: Neno la Mungu ni nuru tosha
+Options:
+0) Neno la Mungu linatosha kukuongoza vyema
+1) Neno la Mungu halitoshi kukuongoza
+
+Question 90: Neno la Mungu ni gari bila mafuta
+Options:
+0) Neno la Mungu linatosha kukuongoza vyema
+1) Neno la Mungu halitoshi kukuongoza
+
+Question 91: Mvua ilimiminika kwa fujo
+Options:
+0) Mvua ilinyesha kwa wingi
+1) Mvua haikunyesha kwa wingi
+
+Question 92: Mvua ilikonyeza tu
+Options:
+0) Mvua ilinyesha kwa wingi
+1) Mvua haikunyesha kwa wingi
+
+Question 93: Ujana maji ya moto
+Options:
+0) Ujana una changamoto nyingi
+1) Ujana hauna changamoto nyingi
+
+Question 94: Ujana ni kama maji
+Options:
+0) Ujana una changamoto nyingi
+1) Ujana hauna changamoto nyingi
+
+Question 95: Alitokwa na machozi ya damu baada ya kujulishwa kuhusu kifo cha mama yake
+Options:
+0) Aliiumia sana baada ya kujulishwa kuhusu kifo cha mama yake
+1) Hakuumia sana baada ya kujulishwa kuhusu kifo cha mama yake
+
+Question 96: Habari za kifo cha mama yake zilikua kama wimbo wa gitaa kwake
+Options:
+0) Aliiumia sana baada ya kujulishwa kuhusu kifo cha mama yake
+1) Hakuumia sana baada ya kujulishwa kuhusu kifo cha mama yake
+
+Question 97: Msanii ni kioo cha jamii
+Options:
+0) Afanyayo msanii hutokana na jamii inayomzunguka
+1) Afanyayo msanii hayatokani na jamii inayomzunguka
+
+Question 98: Msanii ni kioo cha chumbani kwake
+Options:
+0) Afanyayo msanii hutokana na jamii inayomzunguka
+1) Afanyayo msanii hayatokani na jamii inayomzunguka
+
+Question 99: George Foreman alikua na ngumi ya chuma
+Options:
+0) George Foreman alikua na ngumi nzito mno
+1) George Foreman hakua na ngumi nzito
+
+Question 100: George Foreman alikua na ngumi ya kike
+Options:
+0) George Foreman alikua na ngumi nzito mno
+1) George Foreman hakua na ngumi nzito
+
+Question 101: Alionekana yupo tofauti na wengine kama kuku mgeni
+Options:
+0) Alionekana yupo tofauti na wengine
+1) Alionekana yupo sawa na wengine
+
+Question 102: Alionekana yupo sawa na wengine kama pundamilia.
+Options:
+0) Alionekana yupo tofauti na wengine
+1) Alionekana yupo sawa na wengine
+
+Question 103: Upepo ulipita ukimnong’oneza
+Options:
+0) Upepo ulipita ukitoa sauti kubwa
+1) Hakuusikia upepo wakati unapita
+
+Question 104: Upepo ulipita ukifoka
+Options:
+0) Aliusikia upepo wakati unapita
+1) Upepo ulipita ukitoa sauti kubwa
+
+Question 105: Mama yao ana mdomo mchafu sana
+Options:
+0) Mama yao ana maneno mabaya
+1) Mama yao ana maneno mazuri
+
+Question 106: Mama yao ana maneno mazuri kama biblia
+Options:
+0) Mama yao ana maneno mabaya
+1) Mama yao ana maneno mazuri
+
+Question 107: Usipende kua vuguvugu
+Options:
+0) Usipende kutokua na msimamo
+1) Usipende kua na msimamo
+
+Question 108: Penda kua vuguvugu
+Options:
+0) Usipende kutokua na msimamo
+1) Usipende kua na msimamo
+
+Question 109: Aliahidi kuwa atachangia kisha akaingia mitini.
+Options:
+0) Aliahidi kuwa atachangia halafu hakuchanga
+1) Aliahidi kuwa atachangia na akachanga
+
+Question 110: Aliahidi kuwa atachangia na akawa mzungu
+Options:
+0) Aliahidi kuwa atachangia halafu hakuchanga
+1) Aliahidi kuwa atachangia na akachanga
+
+Question 111: Yule hana kifua.
+Options:
+0) Anajua kutunza siri
+1) Yeye hawezi kutunza siri
+
+Question 112: Yeye ana kifua.
+Options:
+0) Anajua kutunza siri
+1) Yeye hawezi kutunza siri
+
+Question 113: Ana upara kama jagwa la Sahara
+Options:
+0) Hana nywele
+1) Ana nywele nyingi
+
+Question 114: Nywele zake nyingi kama nyasi za uwanja wa mpira.
+Options:
+0) Hana nywele
+1) Ana nywele nyingi
+
+Question 115: Kukopa ni harusi
+Options:
+0) Kukopa ni raha sana
+1) Kulipa ni tabu sana
+
+Question 116: Kulipa ni matanga
+Options:
+0) Kukopa ni raha sana
+1) Kulipa ni tabu sana
+
+Question 117: Yule ana damu nyeusi
+Options:
+0) Kijana ana roho mbaya
+1) Kijana ana roho nzuri
+
+Question 118: Kijana ana roho nzuri kama mwalimu.
+Options:
+0) Kijana ana roho mbaya
+1) Kijana ana roho nzuri
+
+Question 119: Ali ni sungura
+Options:
+0) Ali ni mjanja sana
+1) Ali ni mpole sana.
+","60,1
+61,1
+62,0
+63,1
+64,0
+65,0
+66,1
+67,0
+68,0
+69,1
+70,0
+71,1
+72,0
+73,1
+74,0
+75,0
+76,1
+77,0
+78,0
+79,1
+80,0
+81,1
+82,0
+83,0
+84,0
+85,0
+86,1
+87,0
+88,0
+89,0
+90,1
+91,0
+92,1
+93,0
+94,1
+95,0
+96,1
+97,0
+98,1
+99,0
+100,1
+101,0
+102,1
+103,1
+104,0
+105,0
+106,1
+107,0
+108,1
+109,0
+110,1
+111,1
+112,0
+113,0
+114,1
+115,0
+116,1
+117,0
+118,1
+119,0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 120: Ali mpole kama kondoo.
+Options:
+0) Ali ni mjanja sana
+1) Ali ni mpole sana.
+
+Question 121: Binadamu ni kama kinyonga
+Options:
+0) Binadamu hawatabiriki
+1) Binadamu wanatabirika
+
+Question 122: Binadamu wanatabirika kama macho ya mwizi.
+Options:
+0) Binadamu hawatabiriki
+1) Binadamu wanatabirika
+
+Question 123: Anafanya kazi kama nyuki
+Options:
+0) Yeye anafanya shughuli nyingi
+1) Yeye anafanya shughuli chache
+
+Question 124: Anafanya kazi kama jongoo
+Options:
+0) Yeye anafanya shughuli nyingi
+1) Yeye anafanya shughuli chache
+
+Question 125: Taa inatoa mwanga kama moto mkubwa  usiku wa manane
+Options:
+0) Taa ina mwanga mkali sana
+1) Taa haitoi mwanga kabisa
+
+Question 126: Taa inatoa mwanga kama tobo kubwa jeusi katikati ya vakyumu.
+Options:
+0) Taa ina mwanga mkali sana
+1) Taa haitoi mwanga kabisa
+
+Question 127: Suti ilikua kubwa kama bomu la Nyuklia
+Options:
+0) Sauti ilikuwa kubwa
+1) Sauti ilikuwa kimya
+
+Question 128: Sauti ilikua ndogo kama wimbo wa taratibu.
+Options:
+0) Sauti ilikuwa kubwa
+1) Sauti ilikuwa kimya
+
+Question 129: Silaha ilikua ngumu kama chuma
+Options:
+0) Silaha ilikuwa ngumu
+1) Silaha ilikuwa dhaifu
+
+Question 130: Silaha ilikua dhaifu kama plastiki.
+Options:
+0) Silaha ilikuwa ngumu
+1) Silaha ilikuwa dhaifu
+
+Question 131: Mdoli unatunzwa vizuri kama mtoto
+Options:
+0) Anatunza vizuri mdoli wake
+1) Hatunzi vizuri mdoli wake
+
+Question 132: Mdoli unatunzwa vibaya kama takataka
+Options:
+0) Anatunza vizuri mdoli wake
+1) Hatunzi vizuri mdoli wake
+
+Question 133: Kioo kilipasuka na kuonekena kama utandu wa buibui
+Options:
+0) Ilipasuka katika vipande vipande vingi
+1) Ilipasuka katika vipande viwili tu
+
+Question 134: Sahani ilipasuka na kuonekena kama nusu mwezi wa angani
+Options:
+0) Ilipasuka katika vipande vipande vingi
+1) Ilipasuka katika vipande viwili tu
+
+Question 135: Yeye anavutia kama mungu wa kigiriki
+Options:
+0) Yeye  anavutia
+1) Yeye ni mbaya na havutii
+
+Question 136: Yeye anaonekana kama jokeri
+Options:
+0) Yeye  anavutia
+1) Yeye ni mbaya na havutii
+
+Question 137: Filamu hii ina kina cha ziwa Tanganyika
+Options:
+0) Filamu imebeba maana kubwa sana
+1) Filamu imebeba maudhui madogo sana.
+
+Question 138: Filamu hii ina kina cha dimbwi.
+Options:
+0) Filamu imebeba maana kubwa sana
+1) Filamu imebeba maudhui madogo sana.
+
+Question 139: Chumba kina nafasi kubwa kama shamba
+Options:
+0) Chumba kina nafasi kubwa iliyobaki
+1) Chumba kina nafasi ndogo iliyobaki
+
+Question 140: Chumba kina nafasi ndogo iliyobaki kama jiji.
+Options:
+0) Chumba kina nafasi kubwa iliyobaki
+1) Chumba kina nafasi ndogo iliyobaki
+
+Question 141: Pombe ilimfanya ajisikie kama kifo
+Options:
+0) Pombe ilimfanya ajisikie vibaya
+1) Pombe ilimfurahisha sana
+
+Question 142: Pombe ilimfanya ajisikie kama amelamba asali
+Options:
+0) Pombe ilimfanya ajisikie vibaya
+1) Pombe ilimfurahisha sana
+
+Question 143: Muziki ulikua mzuri na laini kama Unyoya.
+Options:
+0) Muziki ulisikika ulikua laini na mzuri.
+1) Muziki uliosikika ulikua mbaya.
+
+Question 144: Muziki ulikua mbaya na mgumu kama mkate wa juzi.
+Options:
+0) Muziki ulisikika ulikua laini na mzuri.
+1) Muziki uliosikika ulikua mbaya.
+
+Question 145: Kwake, Kutengeneza pesa ilikuwa kama Oksijeni
+Options:
+0) Kutengeneza pesa kulimfanya aishi
+1) Kutengeneza pesa kulimuua taratibu
+
+Question 146: Kwake, Kutengeneza pesa ilikua kama kujipiga kitanzi.
+Options:
+0) Kutengeneza pesa kulimfanya aishi
+1) Kutengeneza pesa kulimuua taratibu
+
+Question 147: Kijana alikua kimya kama mtoto mdogo
+Options:
+0) Kijana alikua kimya sana
+1) Kijana alikua na kelele sana
+
+Question 148: Kijana alipiga kelele kama garimoshi
+Options:
+0) Kijana alikua kimya sana
+1) Kijana alikua na kelele sana
+
+Question 149: Pesa ni sabuni ya roho.
+Options:
+0) Pesa ni nzuri
+1) pesa ni mbaya
+
+Question 150: Pesa ni muuaji.
+Options:
+0) Pesa ni nzuri
+1) pesa ni mbaya
+
+Question 151: Inanukia vizuri kama juisi ya embe lililotoka mtini
+Options:
+0) Inanukia vizuri
+1) Inanukia Vibaya
+
+Question 152: Inanukia vibaya kama tairi linaloungua
+Options:
+0) Inanukia vizuri
+1) Inanukia Vibaya
+
+Question 153: Alikuwa na utajiri wa mfalme suleiman
+Options:
+0) Alikuwa tajiri
+1) Alikuwa masikini
+
+Question 154: Alikuwa na utajiri wa Kibarua
+Options:
+0) Alikuwa tajiri
+1) Alikuwa masikini
+
+Question 155: Kuna baridi kali kama vile tumetupwa Antaktika
+Options:
+0) Kuna baridi sana
+1) Kuna joto sana
+
+Question 156: Hali ya hewa ni kama vile tumemwagiwa Lava
+Options:
+0) Kuna baridi sana
+1) Kuna joto sana
+
+Question 157: Kiuno chake kina upana wa kijiti
+Options:
+0) Kiuno chake ni chembamba
+1) Kiuno chake ni kipana
+
+Question 158: Kiuno chake kina upana wa mbuyu.
+Options:
+0) Kiuno chake ni chembamba
+1) Kiuno chake ni kipana
+
+Question 159: Aliruka juu kama Panzi
+Options:
+0) Mrukaji aliruka juu sana
+1) Mrukaji hakuruka juu sana
+
+Question 160: Aliruka juu kama kobe
+Options:
+0) Mrukaji aliruka juu sana
+1) Mrukaji hakuruka juu sana
+
+Question 161: Filamu ilikuwa inatisha kama kinyago.
+Options:
+0) Filamu ilikuwa inatisha
+1) Filamu ilikuwa haitishi
+
+Question 162: Filamu ilikuwa inatisha kama mdoli mzuri.
+Options:
+0) Filamu ilikuwa inatisha
+1) Filamu ilikuwa haitishi
+
+Question 163: Tatizo lilikuwa dogo kama panya
+Options:
+0) Tatizo lilikuwa dogo
+1) Tatizo lilikuwa kubwa
+
+Question 164: Tatizo lilikuwa kubwa kama tembo
+Options:
+0) Tatizo lilikuwa dogo
+1) Tatizo lilikuwa kubwa
+
+Question 165: kazi ilikuwa rahisi kama kumsukuma mlevi.
+Options:
+0) Kazi ilikuwa rahisi sana
+1) Kazi ilikuwa ngumu
+
+Question 166: Kazi ilikuwa ngumu kama kusukuma ukuta
+Options:
+0) Kazi ilikuwa rahisi sana
+1) Kazi ilikuwa ngumu
+
+Question 167: Amani ni kama mwanadamu kupaa
+Options:
+0) Haiwezekani kuwa na amani
+1) Inawezekana kuwa na amani
+
+Question 168: Amani ni kama mwanadanu kutembea
+Options:
+0) Haiwezekani kuwa na amani
+1) Inawezekana kuwa na amani
+
+Question 169: Aliibeba kama mama aliyembeba mtoto wake
+Options:
+0) Aliibeba kwa uangalifu na kujivunia
+1) Aliibeba kwa kinyaa na tahadhari
+
+Question 170: Aliibeba kama kinyesi
+Options:
+0) Aliibeba kwa uangalifu na kujivunia
+1) Aliibeba kwa kinyaa na tahadhari
+
+Question 171: Nina njaa kali kama Simba
+Options:
+0) Nina njaa kali
+1) Sina njaa
+
+Question 172: Sina njaa kama Chatu aliyemeza windo lake.
+Options:
+0) Nina njaa kali
+1) Sina njaa
+
+Question 173: Matarajio yao yaliyeyuka kama barafu.
+Options:
+0) Matarajio yao hayakutimia
+1) Matarajio yao yalitimia
+
+Question 174: Matarajio yao yalipitiliza kama saa ya mshale.
+Options:
+0) Matarajio yao hayakutimia
+1) Matarajio yao yalitimia
+
+Question 175: Mawazo yake yalikuwa imara kama Zege
+Options:
+0) Alikuwa na uhakika na mawazo yake
+1) Alikuwa hana uhakika na mawazo yake
+
+Question 176: Mawazo yakeyalikuwa dhaifu kama glasi.
+Options:
+0) Alikuwa na uhakika na mawazo yake
+1) Alikuwa hana uhakika na mawazo yake
+
+Question 177: Maisha yake ni kama peni isiyo na wino
+Options:
+0) Maisha yake hayana mwelekeo
+1) Maisha yake yana mwelekeo
+
+Question 178: Maisha yake ni kama bajeti ya nchi
+Options:
+0) Maisha yake hayana mwelekeo
+1) Maisha yake yana mwelekeo
+
+Question 179: Upendo ni dunia.
+Options:
+0) Upendo ni muhimu
+1) Upendo hauna umuhimu
+","120,1
+121,0
+122,1
+123,0
+124,0
+125,0
+126,0
+127,0
+128,0
+129,0
+130,1
+131,0
+132,1
+133,0
+134,0
+135,0
+136,1
+137,0
+138,1
+139,0
+140,1
+141,0
+142,1
+143,0
+144,1
+145,0
+146,1
+147,0
+148,1
+149,0
+150,1
+151,0
+152,1
+153,0
+154,1
+155,0
+156,1
+157,1
+158,0
+159,0
+160,1
+161,0
+162,0
+163,0
+164,0
+165,0
+166,1
+167,1
+168,0
+169,0
+170,1
+171,0
+172,1
+173,0
+174,1
+175,0
+176,1
+177,0
+178,0
+179,0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 180: Upendo ni kama kumwaga maji baharini
+Options:
+0) Upendo ni muhimu
+1) Upendo hauna umuhimu
+
+Question 181: Siku ya mashindano alikimbia kama chui
+Options:
+0) Alikimbia spidi kubwa kwenye mashindano
+1) Alikimbia polepole kwenye mashindano
+
+Question 182: Siku ya mashindano alikimbia kama kinyonga
+Options:
+0) Alikimbia spidi kubwa kwenye mashindano
+1) Alikimbia polepole kwenye mashindano
+
+Question 183: Furaha ni dawa
+Options:
+0) Furaha huponya maumivu
+1) Furaha haiponyi maumivu
+
+Question 184: Furaha si dawa
+Options:
+0) Furaha huponya maumivu
+1) Furaha haiponyi maumivu
+
+Question 185: Wafanyakazi wanafanya kazi kama mchwa
+Options:
+0) Wfanyakazi wanafanya kazi kwa ushirikiano
+1) Wafanyakazi wanafanya kazi bila ushirikiano
+
+Question 186: Wafanyakazi wanafanya kazi kibinafsi kama duma
+Options:
+0) Wfanyakazi wanafanya kazi kwa ushirikiano
+1) Wafanyakazi wanafanya kazi bila ushirikiano
+
+Question 187: Elimu ni bahari
+Options:
+0) Elimu haina mwisho
+1) Elimu ina mwisho
+
+Question 188: Elimu ni mto
+Options:
+0) Elimu haina mwisho
+1) Elimu ina mwisho
+
+Question 189: Rafiki angu ni ua jekundu
+Options:
+0) Rafiki yangu ni mzuri
+1) Rafiki yangu ni mbaya
+
+Question 190: Rafiki angu ni ua jeusi
+Options:
+0) Rafiki yangu ni mzuri
+1) Rafiki yangu ni mbaya
+
+Question 191: Maongezi yalikua mafupi kama kipande cha sigara
+Options:
+0) Maongezi yalikuwa mafupi
+1) Maongezi yalikuwa marefu
+
+Question 192: Maongezi yalikuwa marefu kama kesi ya mbowe.
+Options:
+0) Maongezi yalikuwa mafupi
+1) Maongezi yalikuwa marefu
+
+Question 193: Kijana anapenda dini kama mchungaji
+Options:
+0) Kijana anapenda dini
+1) Kijana hapendi dini
+
+Question 194: Kijana hapendi dini kama hetani
+Options:
+0) Kijana anapenda dini
+1) Kijana hapendi dini
+
+Question 195: Mchezaji yule ana mapafu ya mbwa
+Options:
+0) Mchezaji yule ana pumzi sana
+1) Mchezaji yule hana pumzi sana
+
+Question 196: Mchezaji yule hana mapafu ya mbwa
+Options:
+0) Mchezaji yule ana pumzi sana
+1) Mchezaji yule hana pumzi sana
+
+Question 197: Rafiki yangu ana kumbukumbu kama  maktaba.
+Options:
+0) Rafiki yangu ana kumbukumbu
+1) Rafiki yangu hana kumbukumbu
+
+Question 198: Rafiki yangu ana ubongo wa mende.
+Options:
+0) Rafiki yangu ana kumbukumbu
+1) Rafiki yangu hana kumbukumbu
+
+Question 199: Kijana ni maji kwenye mtungi
+Options:
+0) Kijana ni mtulivu sana
+1) Kijana han utulivu
+
+Question 200: Kijana ni kama amepakwa upupu
+Options:
+0) Kijana ni mtulivu sana
+1) Kijana han utulivu
+
+Question 201: Mwalimu alipanda mbegu ya hekima
+Options:
+0) Mwakimu alitufundisha hekima
+1) Mwalimu hakutufundisha hekima
+
+Question 202: Mwalimu hakupanda mbegu ya hekima
+Options:
+0) Mwakimu alitufundisha hekima
+1) Mwalimu hakutufundisha hekima
+
+Question 203: Maisha yamenipiga chenga
+Options:
+0) Maisha yangu ni mazuri
+1) Maisha yangu ni mabaya
+
+Question 204: Maisha nimeyapiga bao
+Options:
+0) Maisha yangu ni mazuri
+1) Maisha yangu ni mabaya
+
+Question 205: Gari hili ni roketi
+Options:
+0) Gari hili lina spidi
+1) Gari hili halina spidi
+
+Question 206: Gari hili ni konokono
+Options:
+0) Gari hili lina spidi
+1) Gari hili halina spidi
+
+Question 207: Watu wamefurika katika sherehe
+Options:
+0) Watu wengi wamefika katika sherehe
+1) Watu wachache sana wamefika katika sherehe
+
+Question 208: Watu wamepelea katika sherehe
+Options:
+0) Watu wengi wamefika katika sherehe
+1) Watu wachache sana wamefika katika sherehe
+
+Question 209: Alikuja na jeshi la watoto
+Options:
+0) Alikuja na watoto wengi
+1) Alikuja na watoto wachache
+
+Question 210: Alikuja na kikundi cha watoto
+Options:
+0) Alikuja na watoto wengi
+1) Alikuja na watoto wachache
+
+Question 211: Ahadi ni deni
+Options:
+0) Ahadi lazima itimizwe
+1) Ahadi sio lazima upewe
+
+Question 212: Ahadi ni zawadi
+Options:
+0) Ahadi lazima itimizwe
+1) Ahadi sio lazima upewe
+
+Question 213: Nimevunja minyororo ya deni
+Options:
+0) Nimelipa deni langu
+1) Sijalipa deni langu
+
+Question 214: Bado nipo katika kifungo cha deni
+Options:
+0) Nimelipa deni langu
+1) Sijalipa deni langu
+
+Question 215: Kichwa chake kipo mawinguni
+Options:
+0) Yeye ni mrefu
+1) Yeye ni mfupi
+
+Question 216: Yeye ni mkia wa mbuzi
+Options:
+0) Yeye ni mrefu
+1) Yeye ni mfupi
+
+Question 217: Nyumbani kwangu ni kama oveni
+Options:
+0) Nyumbani kwangu kuna joto
+1) Nyumbani kwangu kuna baridi
+
+Question 218: Nyumbani kwangu ni kama friji
+Options:
+0) Nyumbani kwangu kuna joto
+1) Nyumbani kwangu kuna baridi
+
+Question 219: Maneno yake yanachoma moyo wangu
+Options:
+0) Maneno yake yanaumiza hisia zangu
+1) Maneno yake yanafariji hisia zangu
+
+Question 220: Maneno yake yanafariji moyo wangu
+Options:
+0) Maneno yake yanaumiza hisia zangu
+1) Maneno yake yanafariji hisia zangu
+
+Question 221: Sisi hatupikiki chungu kimoja
+Options:
+0) Mimi na mdogo wangu hatupatani
+1) Mimi na mdogo wangu tunapatana
+
+Question 222: Mimi na mdogo wangu ni pete na kidole
+Options:
+0) Mimi na mdogo wangu hatupatani
+1) Mimi na mdogo wangu tunapatana
+
+Question 223: Yeye ni kiazi
+Options:
+0) Yeye ni mzembe
+1) Yeye sio mzembe
+
+Question 224: Yeye ni kichwa
+Options:
+0) Yeye ni mzembe
+1) Yeye sio mzembe
+
+Question 225: Rafiki yangu ananipaka wanja
+Options:
+0) Rafiki yangu ananipa sifa nzuri
+1) Rafiki yangu ananipa sifa mbaya
+
+Question 226: Rafiki yangu ananipaka pilipili
+Options:
+0) Rafiki yangu ananipa sifa nzuri
+1) Rafiki yangu ananipa sifa mbaya
+
+Question 227: Mama ni kitanda
+Options:
+0) Mama hachoki kunibeba
+1) Mama anachoka kunibeba
+
+Question 228: Mama si kitanda
+Options:
+0) Mama hachoki kunibeba
+1) Mama anachoka kunibeba
+
+Question 229: Alfred alienda kupima akakutwa na umeme
+Options:
+0) Alfred alienda kupima akakutwa na ukimwi
+1) Alfred alienda kupima lakini hakukutwa na ukimwi
+
+Question 230: Alfred alienda kupima lakini hakukutwa na umeme
+Options:
+0) Alfred alienda kupima akakutwa na ukimwi
+1) Alfred alienda kupima lakini hakukutwa na ukimwi
+
+Question 231: Jamaa alitoka baruti
+Options:
+0) Jamaa alikimbia kwa kasi
+1) Jamaa alizubaa alivyokutana na vibaka
+
+Question 232: Jamaa alisimama kama mlingoti alivyokutana na vibaka
+Options:
+0) Jamaa alikimbia kwa kasi
+1) Jamaa alizubaa alivyokutana na vibaka
+
+Question 233: Yule mbunge ni bendera hufuata upepo
+Options:
+0) Yule mbunge hana msimamo
+1) Yule mbunge ana msimamo
+
+Question 234: Yule mbunge ana msimamo wa shaba
+Options:
+0) Yule mbunge hana msimamo
+1) Yule mbunge ana msimamo
+
+Question 235: Maisha yamekua pasua kichwa
+Options:
+0) Maisha yamekuwa magumu
+1) Maisha yamekua marahisi
+
+Question 236: Maisha yamekua malaini
+Options:
+0) Maisha yamekuwa magumu
+1) Maisha yamekua marahisi
+
+Question 237: Kulipa uovu ni kujipalia makaa ya moto
+Options:
+0) Kulipa uovu si sahihi
+1) Kulipa uovu ni sahihi
+
+Question 238: Kulipa uovu ni kujipalilia matunda
+Options:
+0) Kulipa uovu si sahihi
+1) Kulipa uovu ni sahihi
+
+Question 239: Rafiki yake anapenda sana njia za panya
+Options:
+0) Rafiki yake anapenda njia haramu
+1) Rafiki yake hapendi njia haramu
+","180,0
+181,0
+182,1
+183,0
+184,1
+185,0
+186,1
+187,0
+188,1
+189,0
+190,1
+191,1
+192,0
+193,0
+194,1
+195,0
+196,1
+197,0
+198,1
+199,0
+200,1
+201,0
+202,1
+203,0
+204,1
+205,0
+206,1
+207,0
+208,1
+209,1
+210,0
+211,0
+212,1
+213,0
+214,1
+215,0
+216,1
+217,0
+218,1
+219,0
+220,1
+221,1
+222,0
+223,0
+224,1
+225,0
+226,1
+227,0
+228,1
+229,0
+230,1
+231,0
+232,1
+233,0
+234,1
+235,0
+236,1
+237,0
+238,1
+239,0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 240: Rafiki yake amekunywa maji ya bendera
+Options:
+0) Rafiki yake anapenda njia haramu
+1) Rafiki yake hapendi njia haramu
+
+Question 241: Wanachuo wanapenda kupiga maji
+Options:
+0) Wanachuo wanapenda kunywa pombe
+1) Wanachuo hawapendi kunywa pombe
+
+Question 242: Wanachuo hawapendi kupiga maji
+Options:
+0) Wanachuo wanapenda kunywa pombe
+1) Wanachuo hawapendi kunywa pombe
+
+Question 243: Wanafiki watakupaka mafuta
+Options:
+0) Wanafiki watakupa sifa za uongo
+1) Wanafiki watakupa sifa za ukweli
+
+Question 244: Wanafiki hawatakupaka mafuta
+Options:
+0) Wanafiki watakupa sifa za uongo
+1) Wanafiki watakupa sifa za ukweli
+
+Question 245: Hupenda kuweka mambo yake kwenye mstari
+Options:
+0) Hupenda kufanya mambo yake kufuata utaratibu
+1) Hupenda kufanya mambo yake bila kufuata utaratibu
+
+Question 246: Hupenda kupindisha mambo yake
+Options:
+0) Hupenda kufanya mambo yake kufuata utaratibu
+1) Hupenda kufanya mambo yake bila kufuata utaratibu
+
+Question 247: Mvua ilinyesha mgongoni mwake wakati wa mazoezi
+Options:
+0) Alitokwa jasho jingi wakati wa mazoezi
+1) Hakutokwa na jasho jingi wakati wa mazoezi
+
+Question 248: Ukame ulitanda mgongoni mwake wakati wa mazoezi
+Options:
+0) Alitokwa jasho jingi wakati wa mazoezi
+1) Hakutokwa na jasho jingi wakati wa mazoezi
+
+Question 249: Wanapenda kuambatana utadhani siafu
+Options:
+0) Wanapenda kuwa pamoja
+1) Hawapendi kuwa pamoja
+
+Question 250: Hawapendi kuambatana kama siafu
+Options:
+0) Wanapenda kuwa pamoja
+1) Hawapendi kuwa pamoja
+
+Question 251: Hii kesi tumeivalia njuga
+Options:
+0) Hii kesi tutaishughulikia kisawasawa
+1) Hii kesi tumeishindwa
+
+Question 252: Hii kesi tumeivulia shati
+Options:
+0) Hii kesi tutaishughulikia kisawasawa
+1) Hii kesi tumeishindwa
+
+Question 253: Akili zako nawe kama mbogo
+Options:
+0) Hauna akili
+1) Una akili sana
+
+Question 254: Akili zako kama mbweha
+Options:
+0) Hauna akili
+1) Una akili sana
+
+Question 255: Hawezi kuolewa, bado ni kifaranga
+Options:
+0) Yeye ni mtoto mdogo
+1) Yeye ni mtu mzima
+
+Question 256: Anaweza kuolewa, ameshakuwa msupu
+Options:
+0) Yeye ni mtoto mdogo
+1) Yeye ni mtu mzima
+
+Question 257: Mwanafunzi huyu ana kichwa kigumu
+Options:
+0) Mwanafunzi haelewi kirahisi
+1) Mwanafunzi anaelewa kiurahisi
+
+Question 258: Mwanafunzi huyu ana kichwa chepesi
+Options:
+0) Mwanafunzi haelewi kirahisi
+1) Mwanafunzi anaelewa kiurahisi
+
+Question 259: Haya mambo nimeyanawia mikono
+Options:
+0) Haya mambo nimeyaacha
+1) Haya mambo ninayafuatilia
+
+Question 260: Haya mambo nimeyafungia mkanda
+Options:
+0) Haya mambo nimeyaacha
+1) Haya mambo ninayafuatilia
+
+Question 261: Nguo zake kila siku ni pamba kali
+Options:
+0) Nguo zake kila siku ni nzuri
+1) Nguo zake kila siku ni mbaya
+
+Question 262: Nguo zake kila siku ni matambara
+Options:
+0) Nguo zake kila siku ni nzuri
+1) Nguo zake kila siku ni mbaya
+
+Question 263: Hali yangu ni kama natembea juu ya miiba
+Options:
+0) Hali yangu ni mbaya
+1) Hali yangu ni nzuri
+
+Question 264: Hali yangu ni mtelezo tu
+Options:
+0) Hali yangu ni mbaya
+1) Hali yangu ni nzuri
+
+Question 265: Abuu ni mwanangu
+Options:
+0) Abuu ni rafiki yangu wa karibu
+1) Abuu sio rafiki yangu wa karibu
+
+Question 266: Abuu sio mwanangu
+Options:
+0) Abuu ni rafiki yangu wa karibu
+1) Abuu sio rafiki yangu wa karibu
+
+Question 267: Aliingiwa na ubaridi baada ya kushtuka kuwa yuko mwenyewe barabarani
+Options:
+0) Alipata wasiwasi alipojua yupo mwenyewe barabarani
+1) Hakupata wasiwasi alipojua yupo mwenyewe barabarani
+
+Question 268: Hakuingiwa na ubaridi hata aliposhtuka kuwa yuko mwenyewe barabarani
+Options:
+0) Alipata wasiwasi alipojua yupo mwenyewe barabarani
+1) Hakupata wasiwasi alipojua yupo mwenyewe barabarani
+
+Question 269: Jamaa ni fisi
+Options:
+0) Jamaa ni mlafi
+1) Jamaa si mlafi
+
+Question 270: Jamaa sio fisi
+Options:
+0) Jamaa ni mlafi
+1) Jamaa si mlafi
+
+Question 271: Ukimkuta kwenye uwanja wa mbio, kama farasi
+Options:
+0) Anakimbia kwa spidi kubwa sana
+1) Anakimbia kwa spidi ndogo sana
+
+Question 272: Ukimkuta kwenye uwanja wa mbio, kama kobe
+Options:
+0) Anakimbia kwa spidi kubwa sana
+1) Anakimbia kwa spidi ndogo sana
+
+Question 273: Yeye ni unyoya
+Options:
+0) Yeye ni mwepesi
+1) Yeye ni mzito
+
+Question 274: Yeye ni jabali
+Options:
+0) Yeye ni mwepesi
+1) Yeye ni mzito
+
+Question 275: Alinivuta kama sumaku
+Options:
+0) Alinivuta kwa nguvu
+1) Alinisukuma kwa nguvu
+
+Question 276: Alinisukuma kama kimbunga
+Options:
+0) Alinivuta kwa nguvu
+1) Alinisukuma kwa nguvu
+
+Question 277: Yeye ni kuku
+Options:
+0) Yeye ni muoga
+1) Yeye sio muoga
+
+Question 278: Yeye ni chui
+Options:
+0) Yeye ni muoga
+1) Yeye sio muoga
+
+Question 279: Tulipiga shoka mali zote
+Options:
+0) Tuligawana mwali zote
+1) Hatukugawana mali zote
+
+Question 280: Hatukupiga shoka mali
+Options:
+0) Tuligawana mwali zote
+1) Hatukugawana mali zote
+
+Question 281: Mke wake ni mkaa
+Options:
+0) Mke wake ni mweusi
+1) Mke wake ni mweupe
+
+Question 282: Mke wake ni theluji
+Options:
+0) Mke wake ni mweusi
+1) Mke wake ni mweupe
+
+Question 283: Sauti yake ni hariri
+Options:
+0) Sauti yake ni nyororo
+1) Sauti yake si nyororo
+
+Question 284: Sauti yake ni kama chura
+Options:
+0) Sauti yake ni nyororo
+1) Sauti yake si nyororo
+
+Question 285: Kaka yangu ni nyumbu
+Options:
+0) Kaka yangu ni mkaidi
+1) Kaka yangu ni mtiifu
+
+Question 286: Kaka yangu si nyumbu
+Options:
+0) Kaka yangu ni mkaidi
+1) Kaka yangu ni mtiifu
+
+Question 287: Rafiki yangu ni bundi
+Options:
+0) Rafiki yangu anakesha usiku
+1) Rafiki yangu hakeshi usiku
+
+Question 288: Rafiki yangu ni popo
+Options:
+0) Rafiki yangu anakesha usiku
+1) Rafiki yangu hakeshi usiku
+
+Question 289: Ilikuwa na spidi ya maji ya mtaro
+Options:
+0) Ilikuwa taratibu
+1) Ilikuwa fasta
+
+Question 290: Ilikuwa na spidi ya risasi
+Options:
+0) Ilikuwa taratibu
+1) Ilikuwa fasta
+
+Question 291: Sisi ni kama ardhi na mbingu
+Options:
+0) Sisi tumetengena sana
+1) Sisi tupo karibu sana
+
+Question 292: Sisi ni kama chupi na tako
+Options:
+0) Sisi tumetengena sana
+1) Sisi tupo karibu sana
+
+Question 293: Juma ana sikio la mbuzi
+Options:
+0) Alikuwa hasikii anachoambiwa
+1) Alikuwa akisikia anachoambiwa
+
+Question 294: Juma ana sikio la tembo
+Options:
+0) Alikuwa hasikii anachoambiwa
+1) Alikuwa akisikia anachoambiwa
+
+Question 295: Maji ya bombani ni kaburi la baniani
+Options:
+0) Maji ya bombani ni adimu
+1) Maji ya bombani si adimu
+
+Question 296: Maji ya bombani ni kaburi la baniani
+Options:
+0) Maji ya bombani ni adimu
+1) Maji ya bombani si adimu
+
+Question 297: Mapenzi ni asali
+Options:
+0) Mapenzi ni matamu
+1) Mapenzi ni machungu
+
+Question 298: Mapenzi ni shubiri
+Options:
+0) Mapenzi ni matamu
+1) Mapenzi ni machungu
+
+Question 299: Yeye ni mnyama
+Options:
+0) Yuko na roho mbaya
+1) Yuko na roho ya utu
+","240,1
+241,0
+242,1
+243,0
+244,1
+245,0
+246,1
+247,0
+248,0
+249,0
+250,1
+251,0
+252,1
+253,1
+254,1
+255,0
+256,0
+257,0
+258,1
+259,0
+260,0
+261,0
+262,1
+263,0
+264,1
+265,0
+266,1
+267,0
+268,1
+269,0
+270,1
+271,0
+272,1
+273,0
+274,1
+275,0
+276,0
+277,0
+278,1
+279,0
+280,1
+281,0
+282,1
+283,0
+284,1
+285,0
+286,1
+287,0
+288,0
+289,1
+290,0
+291,1
+292,0
+293,0
+294,1
+295,0
+296,1
+297,0
+298,1
+299,0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 300: Yeye ni malaika
+Options:
+0) Yuko na roho mbaya
+1) Yuko na roho ya utu
+
+Question 301: Msichana alikuwa kipepeo
+Options:
+0) Alikuwa mrembo sana
+1) Alikuwa si mrembo sana
+
+Question 302: Msichana alikuwa kienyeji
+Options:
+0) Alikuwa mrembo sana
+1) Alikuwa si mrembo sana
+
+Question 303: Kenya ni paradiso
+Options:
+0) Ni mahali pazuri sana
+1) Ni mahali pabaya sana
+
+Question 304: Kenya ni jehanamu
+Options:
+0) Ni mahali pazuri sana
+1) Ni mahali pabaya sana
+
+Question 305: Moyo wake ni mkubwa
+Options:
+0) Ni mtu mwema
+1) Ni mtu mbaya sana
+
+Question 306: Moyo wake ni mdogo
+Options:
+0) Ni mtu mwema
+1) Ni mtu mbaya sana
+
+Question 307: Kazi yangu ni shida
+Options:
+0) Sipendi kazi yangu
+1) Naipenda kazi yangu
+
+Question 308: Kazi yangu ni raha
+Options:
+0) Sipendi kazi yangu
+1) Naipenda kazi yangu
+
+Question 309: Nina wazimu juu yake
+Options:
+0) Ninampenda sana
+1) Simpendi kabisa
+
+Question 310: Nina kijicho juu yake
+Options:
+0) Ninampenda sana
+1) Simpendi kabisa
+
+Question 311: Mradi huo ni mchanga
+Options:
+0) Kitu kipya sana
+1) Kitu kizee
+
+Question 312: Mradi huo ni mkongwe
+Options:
+0) Kitu kipya sana
+1) Kitu kizee
+
+Question 313: Ana roho ya simba
+Options:
+0) Ni jasiri sana
+1) Ni mnyonge sana
+
+Question 314: Ni mpole kama kobe
+Options:
+0) Ni jasiri sana
+1) Ni mnyonge sana
+
+Question 315: Wewe ni nyota yangu
+Options:
+0) nakutegemea sana kwa maisha yangu
+1) Sikutegemei kwa lolote
+
+Question 316: Wewe ni giza yangu
+Options:
+0) nakutegemea sana kwa maisha yangu
+1) Sikutegemei kwa lolote
+
+Question 317: Kukopa arusi
+Options:
+0) Unapoazima kitu ni rahisi kufanaya hivyo
+1) Unapoazimwa kufanyia mtu jambo ni vigumu
+
+Question 318: kulipa matanga
+Options:
+0) Unapoazima kitu ni rahisi kufanaya hivyo
+1) Unapoazimwa kufanyia mtu jambo ni vigumu
+
+Question 319: Mgeni ni kuku mweupe
+Options:
+0) ana tabia njema
+1) ana tabia mbaya
+
+Question 320: Mgeni ni kuku mweusi
+Options:
+0) ana tabia njema
+1) ana tabia mbaya
+
+Question 321: Rafiki yake ni sungura
+Options:
+0) Ni mjanja sana
+1) Yeye si mjanja
+
+Question 322: Rafiki yake ni kondoo
+Options:
+0) Ni mjanja sana
+1) Yeye si mjanja
+
+Question 323: Yeye ni mrefu kama twiga
+Options:
+0) ana kimo kirefu sana
+1) ana kimo kifupi sana
+
+Question 324: Yeye ni mfupi kama mbilikimo
+Options:
+0) ana kimo kirefu sana
+1) ana kimo kifupi sana
+
+Question 325: Aliwachwa mataani na yule ndugu
+Options:
+0) aliwachwa na upweke
+1) alipatana naye
+
+Question 326: Alipatana naye hadharani
+Options:
+0) aliwachwa na upweke
+1) alipatana naye
+
+Question 327: Yeye ni chui
+Options:
+0) ana mbio sana
+1) ana mwendo wa polepole
+
+Question 328: yeye ni kobe
+Options:
+0) ana mbio sana
+1) ana mwendo wa polepole
+
+Question 329: Kuna panya kati yetu
+Options:
+0) anatoa siri zetu nje
+1) siri zetu zipo imara
+
+Question 330: kuna pamba kati yetu
+Options:
+0) anatoa siri zetu nje
+1) siri zetu zipo imara
+
+Question 331: Kicheko ni dawa
+Options:
+0) anahisi vizuri
+1) anahisi vibaya
+
+Question 332: Kununa ni sumu
+Options:
+0) anahisi vizuri
+1) anahisi vibaya
+
+Question 333: Hiki chumba ni jela
+Options:
+0) ina maana kuwa chumba kina upweke
+1) chumbani kuna furaha
+
+Question 334: Hiki chumba ni paradiso
+Options:
+0) ina maana kuwa chumba kina upweke
+1) chumbani kuna furaha
+
+Question 335: Ali ana roho ya dhahabu
+Options:
+0) ana roho njema
+1) ana roho mbaya
+
+Question 336: Ali ana roho ya fisi
+Options:
+0) ana roho njema
+1) ana roho mbaya
+
+Question 337: maneno yako yanakata kama kisu
+Options:
+0) maongezi yake ni mabaya
+1) maongezi yake ni mema
+
+Question 338: maneno yako ni nyororo kama pamba
+Options:
+0) maongezi yake ni mabaya
+1) maongezi yake ni mema
+
+Question 339: mapenzi yetu ni mazuri kama maua
+Options:
+0) mapenzi yetu ni mazito na yenye msingi
+1) mapenzi yetu hayana msingi na ni mepesi
+
+Question 340: mapenzi yetu ni mepesi kama kamasi
+Options:
+0) mapenzi yetu ni mazito na yenye msingi
+1) mapenzi yetu hayana msingi na ni mepesi
+
+Question 341: Brenda alitembea kama tausi
+Options:
+0) Alitembea kwa mwendo wa maringo
+1) alitembea kwa mwendo usiopendeza sana
+
+Question 342: Brenda alitembea kama kuku
+Options:
+0) Alitembea kwa mwendo wa maringo
+1) alitembea kwa mwendo usiopendeza sana
+
+Question 343: Naweza kula farasi
+Options:
+0) ina maana kuwa ana njaa nyingi
+1) hana nia ya kula sana
+
+Question 344: Ntakula kinyonga
+Options:
+0) ina maana kuwa ana njaa nyingi
+1) hana nia ya kula sana
+
+Question 345: kuna baridi kama maji ya jokofu
+Options:
+0) kuna baridi
+1) kuna joto
+
+Question 346: kuna joto kama kwa shetani
+Options:
+0) kuna baridi
+1) kuna joto
+
+Question 347: ametulia kama maji mtungini
+Options:
+0) hana wasiwasi wowote
+1) amejawa na mambo mengi
+
+Question 348: ana mambo mengi kama sungura
+Options:
+0) hana wasiwasi wowote
+1) amejawa na mambo mengi
+
+Question 349: bwana ni jabali langu
+Options:
+0) bwana ndiye mwokozi wangu
+1) bwana si mwokozi wangu
+
+Question 350: bwana si jabali langu
+Options:
+0) bwana ndiye mwokozi wangu
+1) bwana si mwokozi wangu
+
+Question 351: mama wa kambo amekuwa mkali kama mamba
+Options:
+0) amekuwa mkali sana
+1) amekuwa mwepesi
+
+Question 352: mama wa kambo amekuwa mwepesi kama karatasi
+Options:
+0) amekuwa mkali sana
+1) amekuwa mwepesi
+
+Question 353: Anita ndiye nuru ya familia yao
+Options:
+0) Ndiye nguzo katika familia yao
+1) Ndiye anavuta mkia kwenye familia yao kwenye maendeleo
+
+Question 354: Anita ndiye giza ya familia yao
+Options:
+0) Ndiye nguzo katika familia yao
+1) Ndiye anavuta mkia kwenye familia yao kwenye maendeleo
+
+Question 355: Masomo yamekuwa mawe
+Options:
+0) yamekuwa magumu kuelewa
+1) yamekuwa rahisi kuelewa
+
+Question 356: masomo yamekuwa karatasi
+Options:
+0) yamekuwa magumu kuelewa
+1) yamekuwa rahisi kuelewa
+
+Question 357: anga ilikuwa na makaa meupe
+Options:
+0) kulikuwa na mawingu angani
+1) hakukuwa na mawingu yoyote angani
+
+Question 358: anga ilikuwa wazi
+Options:
+0) kulikuwa na mawingu angani
+1) hakukuwa na mawingu yoyote angani
+
+Question 359: Tuliskia manunguniko ya mto
+Options:
+0) Kulikuwa na sauti kali ya mto
+1) Mto ulikuwa umetulia
+","300,1
+301,0
+302,1
+303,0
+304,1
+305,0
+306,1
+307,0
+308,1
+309,0
+310,1
+311,1
+312,0
+313,0
+314,1
+315,0
+316,1
+317,1
+318,0
+319,0
+320,1
+321,0
+322,1
+323,0
+324,1
+325,0
+326,1
+327,0
+328,1
+329,0
+330,1
+331,0
+332,1
+333,0
+334,1
+335,0
+336,1
+337,0
+338,1
+339,0
+340,1
+341,0
+342,1
+343,0
+344,1
+345,0
+346,1
+347,0
+348,1
+349,0
+350,1
+351,0
+352,1
+353,0
+354,1
+355,0
+356,1
+357,0
+358,1
+359,0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 360: Tuliskia utulivu wa mto
+Options:
+0) Kulikuwa na sauti kali ya mto
+1) Mto ulikuwa umetulia
+
+Question 361: aliota ndoto ya milele
+Options:
+0) Aliaga dunia
+1) yuko salama kabisa
+
+Question 362: Yuko buhari wa afya
+Options:
+0) aliiaga dunia
+1) yuko salama kabisa
+
+Question 363: ana maua ya uzima
+Options:
+0) yuko katika ujana wake
+1) yuko uzeeni
+
+Question 364: hana maua ya uzima
+Options:
+0) yuko katika ujana wake
+1) yuko uzeeni
+
+Question 365: zaidi ya dunia ni bluu tu
+Options:
+0) inaashiria rangi ya bahari
+1) inaashiria rangi ya msitu
+
+Question 366: zaidi ya dunia ni kijani kibichi
+Options:
+0) inaashiria rangi ya bahari
+1) inaashiria rangi ya msitu
+
+Question 367: alionja asali kwenye mdomo wake
+Options:
+0) alimpiga busu mpenzi wake
+1) hakumbusu mpenzi wake
+
+Question 368: hakuonja asali kwenye mdomo wake
+Options:
+0) alimpiga busu mpenzi wake
+1) hakumbusu mpenzi wake
+
+Question 369: mito ya uchungu ilimtirirka
+Options:
+0) alibubujikwa na machozi mengi
+1) alibubujikwa na machozi ya furaha
+
+Question 370: mito ya furaha ilimtirika
+Options:
+0) alibubujikwa na machozi mengi
+1) alibubujikwa na machozi ya furaha
+
+Question 371: ndovu za mwili wake zilimtongoza
+Options:
+0) anapendeza kwa maumbile yake
+1) hapendezi sana
+
+Question 372: ndovu za mwili wake hazikuvutia
+Options:
+0) anapendeza kwa maumbile yake
+1) hapendezi sana
+
+Question 373: alihisi ngoma kifuani
+Options:
+0) alihisi uzito wa mambo fulani
+1) hakuhisi uzito wowote
+
+Question 374: hakuhisi ngoma kifuani
+Options:
+0) alihisi uzito wa mambo fulani
+1) hakuhisi uzito wowote
+
+Question 375: zumaridi mbili zilingaa machoni pake
+Options:
+0) macho yake yanavutia
+1) macho yake hayapendezi sana
+
+Question 376: zumaridi mbili hazikungaa machoni mwake
+Options:
+0) macho yake yanavutia
+1) macho yake hayapendezi sana
+
+Question 377: macho yake yalikuwa visima vya bluu
+Options:
+0) inaashiria rangi ya macho ilikuwa bluu
+1) inaashiria macho yake hayakuwa ya rangi ya bluu
+
+Question 378: macho yake hayakuwa visima vya bluu
+Options:
+0) inaashiria rangi ya macho ilikuwa bluu
+1) inaashiria macho yake hayakuwa ya rangi ya bluu
+
+Question 379: kinywa chake kilikuwa tunda jipya
+Options:
+0) alikuwa mchochezi
+1) alikuwa mtulivu
+
+Question 380: kinywa chake kilikuwa kinyamavu
+Options:
+0) alikuwa mchochezi
+1) alikuwa mtulivu
+
+Question 381: upendo ni jeuri
+Options:
+0) upendo hauna chaguo
+1) upendo uko na chaguo
+
+Question 382: upendo si jeuri
+Options:
+0) upendo hauna chaguo
+1) upendo uko na chaguo
+
+Question 383: sauti yako ni muziki maskioni mwangu
+Options:
+0) sauti yake ilikuwa inapendeza
+1) sauti yake haipendezi sana
+
+Question 384: sauti yako si muziki maskioni mwangu
+Options:
+0) sauti yake ilikuwa inapendeza
+1) sauti yake haipendezi sana
+
+Question 385: macho yake ni yakuti samawi
+Options:
+0) macho yake ni rangi ya bluu na angavu
+1) macho yake si ya rangi ya bluu na angavu
+
+Question 386: macho yake si makuti samawi
+Options:
+0) macho yake ni rangi ya bluu na angavu
+1) macho yake si ya rangi ya bluu na angavu
+
+Question 387: mikono yake ni bandari salama
+Options:
+0) ni mtu mwenye kukaribishana vizuri
+1) hapendi wageni
+
+Question 388: mikono yake si ya bandari salama
+Options:
+0) ni mtu mwenye kukaribishana vizuri
+1) hapendi wageni
+
+Question 389: mawazo yangu ni kama mama mwenda wazimu
+Options:
+0) nina mawazo chungu nzima
+1) nimetulia vyema bila mawazo mengi
+
+Question 390: mawazo yangu si kama mama mwenda wazimu
+Options:
+0) nina mawazo chungu nzima
+1) nimetulia vyema bila mawazo mengi
+
+Question 391: wanafunzi wake ni shina la mizeituni
+Options:
+0) ni watundu na wasio wakakamavu
+1) wako na bidii na wenye mitindo miema
+
+Question 392: wanafunzi wake ni mchwa
+Options:
+0) ni watundu na wasio wakakamavu
+1) wako na bidii na wenye mitindo miema
+
+Question 393: ngozi yako ni hariri
+Options:
+0) ngozi yake ina harufu nzuri
+1) ngozi yake imechakaa
+
+Question 394: ngozi yake si hariri
+Options:
+0) ngozi yake ina harufu nzuri
+1) ngozi yake imechakaa
+
+Question 395: sauti yake ni zeri
+Options:
+0) sauti yake inapendeza
+1) haipendezi
+
+Question 396: sauti yake si zeri
+Options:
+0) sauti yake inapendeza
+1) haipendezi
+
+Question 397: alikuwa na mishipa ya chuma
+Options:
+0) Yuko na nguvu sana
+1) hana nguvu sana
+
+Question 398: alikuwa na mishipa miepesi
+Options:
+0) Yuko na nguvu sana
+1) hana nguvu sana
+
+Question 399: mwezi wa fedha uliangaza angani
+Options:
+0) alipata pesa nyingi
+1) alikuwa hana pesa
+
+Question 400: mwezi wa fedha haukuangaza angani
+Options:
+0) alipata pesa nyingi
+1) alikuwa hana pesa
+
+Question 401: ili jiji ni kimbunga cha machafuko
+Options:
+0) ili jiji lina matukio mabaya
+1) ili jiji limetulia vyema
+
+Question 402: ili jiji si kimbunga cha machafuko
+Options:
+0) ili jiji lina matukio mabaya
+1) ili jiji limetulia vyema
+
+Question 403: Taa yangu imechoka
+Options:
+0) inamaanisha kuwa ameanza kuzeeka
+1) bado yu kijana
+
+Question 404: taa yangu inangara
+Options:
+0) inamaanisha kuwa ameanza kuzeeka
+1) bado yu kijana
+
+Question 405: kwa kinu cha mapenzi
+Options:
+0) yuko na mapenzi mengi
+1) yuko na mapenzi machache
+
+Question 406: kwa mapenzi madogo
+Options:
+0) yuko na mapenzi mengi
+1) yuko na mapenzi machache
+
+Question 407: mwili wake una milima mieupe
+Options:
+0) Yeye ana umbo zuri
+1) yeye hana umbo zuri
+
+Question 408: mwili wake hauna milima mieupe
+Options:
+0) Yeye ana umbo zuri
+1) yeye hana umbo zuri
+
+Question 409: macho yako ni nchi ya umeme na machozi
+Options:
+0) macho yako yanapendeza
+1) macho yako hayapendezi
+
+Question 410: macho yako ni nchi kavu
+Options:
+0) macho yako yanapendeza
+1) macho yako hayapendezi
+
+Question 411: mapigo hayo ni makombo
+Options:
+0) mapigo hayo ni mengi
+1) mapigo hayo ni machache
+
+Question 412: mapigo hayo ni duni
+Options:
+0) mapigo hayo ni mengi
+1) mapigo hayo ni machache
+
+Question 413: mikono yako ni kibembelezi changu
+Options:
+0) unanijali sana
+1) haunijali kwa vyovyote
+
+Question 414: mikono yako ni kisikitio changu
+Options:
+0) unanijali sana
+1) haunijali kwa vyovyote
+
+Question 415: yeye ni maziwa ya kuku
+Options:
+0) ameadimika sana
+1) anapatikana kwa urahisi
+
+Question 416: yeye si maziwa ya kuku
+Options:
+0) ameadimika sana
+1) anapatikana kwa urahisi
+
+Question 417: anampenda kama chanda na pete
+Options:
+0) anampenda sana
+1) hampendi kabisa
+
+Question 418: anamchukia kama mwizi
+Options:
+0) anampenda sana
+1) hampendi kabisa
+
+Question 419: Ali ni sindano
+Options:
+0) yeye ni mwembamba sana
+1) yeye ni mnene sana
+","360,1
+361,1
+362,1
+363,0
+364,1
+365,0
+366,1
+367,0
+368,1
+369,0
+370,1
+371,0
+372,1
+373,0
+374,1
+375,0
+376,1
+377,0
+378,1
+379,0
+380,1
+381,1
+382,0
+383,0
+384,1
+385,0
+386,1
+387,0
+388,1
+389,0
+390,1
+391,1
+392,0
+393,0
+394,1
+395,0
+396,1
+397,0
+398,1
+399,1
+400,0
+401,0
+402,1
+403,0
+404,1
+405,1
+406,0
+407,0
+408,1
+409,0
+410,1
+411,0
+412,1
+413,0
+414,1
+415,0
+416,1
+417,0
+418,1
+419,0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 420: Ali ni kifaru
+Options:
+0) yeye ni mwembamba sana
+1) yeye ni mnene sana
+
+Question 421: yeye ni makaa
+Options:
+0) yuko na rangi nyeusi sana
+1) yuko na rangi nyeupe
+
+Question 422: yeye ni theluji
+Options:
+0) yuko na rangi nyeusi sana
+1) yuko na rangi nyeupe
+
+Question 423: baba yake amekuwa jeshi
+Options:
+0) ni mkali sana
+1) ni mpole sana
+
+Question 424: baba yake amekuwa mtulivu
+Options:
+0) ni mkali sana
+1) ni mpole sana
+
+Question 425: dadake amekuwa singa
+Options:
+0) yuko na nywele refu rembo
+1) yuko na nywele fupi
+
+Question 426: dadake amekuwa kipara
+Options:
+0) yuko na nywele refu rembo
+1) yuko na nywele fupi
+
+Question 427: mtoto wako amekuwa tumbili
+Options:
+0) amekuwa mtundu
+1) amekuwa mnyenyekevu
+
+Question 428: mtoto wako amekuwa njiwa
+Options:
+0) amekuwa mtundu
+1) amekuwa mnyenyekevu
+
+Question 429: Mwelusi ni mtumwa
+Options:
+0) yeye ni mvumilivu
+1) yuko na haraka sana
+
+Question 430: Mwelusi si mtumwa
+Options:
+0) yeye ni mvumilivu
+1) yuko na haraka sana
+
+Question 431: Yeye amekuwa fisi
+Options:
+0) ni mlafi
+1) si mlafi
+
+Question 432: yeye si fisi
+Options:
+0) ni mlafi sana
+1) si mlafi
+
+Question 433: mpenzi wangu ni njiwa
+Options:
+0) ni mwaminifu
+1) ni mwongo
+
+Question 434: mpenzi wangu si njiwa
+Options:
+0) ni mwaminifu
+1) ni mwongo
+
+Question 435: Fundi yule ni mchwa
+Options:
+0) yuko na bidii
+1) yuko na uvivu
+
+Question 436: fundi yule ni kinyonga
+Options:
+0) yuko na bidii
+1) yuko na uvivu
+
+Question 437: mwaniki ni kifaru
+Options:
+0) ana nguvu nyingi
+1) hana nguvu nyingi
+
+Question 438: mwaniki si kifaru
+Options:
+0) ana nguvu nyingi
+1) hana nguvu nyingi
+
+Question 439: yeye ni kupe
+Options:
+0) yuko na uzembe
+1) yuko na bidii
+
+Question 440: yeye si kupe
+Options:
+0) yuko na uzembe
+1) yuko na bidii
+
+Question 441: rafiki yake ni abunuasi
+Options:
+0) ni mjanja na mwongo
+1) si mjanja na mwongo
+
+Question 442: rafiki yake si abunuasi
+Options:
+0) ni mjanja na mwongo
+1) si mjanja na mwongo
+
+Question 443: yule mama ni chiriku
+Options:
+0) anaongea sana
+1) ni mtulivu
+
+Question 444: yule mama si chiriku
+Options:
+0) anaongea sana
+1) ni mtulivu
+
+Question 445: chumba kile kimekuwa kaburi
+Options:
+0) kimenyamaza sana
+1) kina kelele nyingi
+
+Question 446: chumba kile kimekuwa klabu
+Options:
+0) kimenyamaza sana
+1) kina kelele nyingi
+
+Question 447: jaji yule aliweka mambo wazi mchana
+Options:
+0) aliongea kwa uwazi
+1) alificha mambo
+
+Question 448: jaji yule amekuwa giza
+Options:
+0) aliongea kwa uwazi
+1) alificha mambo
+
+Question 449: amekuwa tasa baada ya kupata mtoto
+Options:
+0) ana furaha nyingi
+1) ana hasira tele
+
+Question 450: amekuwa mkizi baada ya kufeli mtihani
+Options:
+0) ana furaha nyingi
+1) ana hasira tele
+
+Question 451: amekuwa mtende baada ya kupata hela
+Options:
+0) amepata kibahati
+1) hajapata bahati
+
+Question 452: hajakuwa mtende
+Options:
+0) amepata kibahati
+1) hajapata bahati
+
+Question 453: mapenzi yao yamekuwa gundi
+Options:
+0) mapenzi yao yamenawiri
+1) mapenzi yao hayajatulia
+
+Question 454: mapenzi yao yamelowa maji
+Options:
+0) mapenzi yao yamenawiri
+1) mapenzi yao hayajatulia
+
+Question 455: chakula kile ni ruhani
+Options:
+0) kinanukia vizuri
+1) kinanukia vibaya
+
+Question 456: chakula kile ni taka
+Options:
+0) kinanukia vizuri
+1) kinanukia vibaya
+
+Question 457: chakula kinaonja asali
+Options:
+0) ni kitamu
+1) si kitamu
+
+Question 458: chakula kinaonja maganda
+Options:
+0) ni kitamu
+1) si kitamu
+
+Question 459: dawa ile ya tumbo ni shubri
+Options:
+0) ni chungu sana
+1) ni tamu
+
+Question 460: dawa ile ya tumbo ni asali
+Options:
+0) ni chungu sana
+1) ni tamu
+
+Question 461: gunia lile la makaa ni nanga
+Options:
+0) ni zito sana
+1) ni nyepesi sana
+
+Question 462: gunia lile ni unyoya
+Options:
+0) ni zito sana
+1) ni nyepesi sana
+
+Question 463: meli ile ni uwanja wa ahera
+Options:
+0) ni kubwa sana
+1) ni ndogo sana
+
+Question 464: gari lile ni tundu la sindano
+Options:
+0) ni kubwa sana
+1) ni ndogo sana
+
+Question 465: baada ya kufeli mtihani amekuwa filauni
+Options:
+0) mwenye majuto sana
+1) ana furaha
+
+Question 466: baada ya kupita mtihani amekuwa mvuvi
+Options:
+0) mwenye majuto sana
+1) ana furaha
+
+Question 467: msanii yule ni kasuku
+Options:
+0) anaiga sauti fulani
+1) hafuati sauti yoyote
+
+Question 468: msanii yule si kasuku
+Options:
+0) anaiga sauti fulani
+1) hafuati sauti yoyote
+
+Question 469: wakulima wamekuwa tai baada ya kupalilia
+Options:
+0) wana matumaini ya kuvuna
+1) hawana matumaini yoyote
+
+Question 470: wakulima wamekuwa bundi
+Options:
+0) wana matumaini ya kuvuna
+1) hawana matumaini yoyote
+
+Question 471: aliangua kicheko kama radi
+Options:
+0) alicheka kwa sauti ya juu
+1) alicheka kwa sauti ya chini
+
+Question 472: hakuangua kicheko kama radi
+Options:
+0) alicheka kwa sauti ya juu
+1) alicheka kwa sauti ya chini
+
+Question 473: siku hizi rafiki yangu amekuwa kinyonga
+Options:
+0) amekuwa kigeugeu
+1) anaaminika
+
+Question 474: siku hizi rafiki yangu ni mtumwa
+Options:
+0) amekuwa kigeugeu
+1) anaaminika
+
+Question 475: mama wa kambo amekuwa joka la mdimu
+Options:
+0) ana wivu sana
+1) ana upendo
+
+Question 476: mama wa kambo amekuwa maua
+Options:
+0) ana wivu sana
+1) ana upendo
+
+Question 477: watoto wake wamekuwa kumbikumbi
+Options:
+0) wanafuatana kila waendapo
+1) hawafuatani kila mahali
+
+Question 478: watoto wake hawajakuwa kumbikumbi
+Options:
+0) wanafuatana kila waendapo
+1) hawafuatani kila mahali
+
+Question 479: bibi yake amekuwa malaika
+Options:
+0) yuko na sauti nyororo
+1) yuko na sauti mbaya
+","420,0
+421,0
+422,1
+423,0
+424,1
+425,0
+426,1
+427,0
+428,1
+429,0
+430,1
+431,0
+432,1
+433,0
+434,1
+435,0
+436,1
+437,0
+438,1
+439,0
+440,1
+441,0
+442,1
+443,0
+444,1
+445,0
+446,1
+447,0
+448,1
+449,0
+450,1
+451,0
+452,1
+453,0
+454,1
+455,0
+456,1
+457,0
+458,1
+459,1
+460,0
+461,0
+462,1
+463,1
+464,0
+465,0
+466,1
+467,0
+468,1
+469,0
+470,1
+471,0
+472,1
+473,0
+474,1
+475,0
+476,1
+477,0
+478,1
+479,0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 480: adui yake amekuwa tembo
+Options:
+0) yuko na sauti nyororo
+1) yuko na sauti mbaya
+
+Question 481: ndungu yake amekuwa nyati
+Options:
+0) amekuwa mshaulifu
+1) si mshaulifu
+
+Question 482: ndugu yake hajakuwa nyati
+Options:
+0) amekuwa mshaulifu
+1) si mshaulifu
+
+Question 483: yule kijakazi amekuwa mbwa koko
+Options:
+0) anazurura ovyo
+1) anatulia mahala pamoja
+
+Question 484: yule kijakazi hajakuwa mbwa koko
+Options:
+0) anazurura ovyo
+1) anatulia mahala pamoja
+
+Question 485: askari yule amekuwa kiriba
+Options:
+0) ana tumbo nene
+1) ana tumbo la kawaida
+
+Question 486: askari yule hajakuwa kiriba
+Options:
+0) ana tumbo nene
+1) ana tumbo la kawaida
+
+Question 487: msanii yule ni nyota
+Options:
+0) amebobea kwenye usanii
+1) hajabobea sana
+
+Question 488: msanii yule si nyota
+Options:
+0) amebobea kwenye usanii
+1) hajabobea sana
+
+Question 489: mkewe amekuwa ndege wa mapema
+Options:
+0) anaamka mapema kufanya kazi
+1) haamki mapema
+
+Question 490: mkewe hajakuwa ndege wa mapema
+Options:
+0) anaamka mapema kufanya kazi
+1) haamki mapema
+
+Question 491: maisha ni barabara kuu
+Options:
+0) maisha ni mapana
+1) maisha ni mafupi
+
+Question 492: maisha si barabara kuu
+Options:
+0) maisha ni mapana
+1) maisha ni mafupi
+
+Question 493: alikuwa mbwa mwenye mfupa
+Options:
+0) alikuwa na mapato mengi
+1) alikuwa hana lolote
+
+Question 494: hakuwa mbwa mwenye mfupa
+Options:
+0) alikuwa na mapato mengi
+1) alikuwa hana lolote
+
+Question 495: bwana yule ni mchungaji mwema
+Options:
+0) ni mwalimu mzuri
+1) si mwalimu mwema
+
+Question 496: bwana yule si mchungaji mwema
+Options:
+0) ni mwalimu mzuri
+1) si mwalimu mwema
+
+Question 497: askari wetu walikuwa simba vitani
+Options:
+0) walikuwa wakali sana
+1) walikuwa ovyo
+
+Question 498: askari wetu walikuwa kunguru vitani
+Options:
+0) walikuwa wakali sana
+1) walikuwa ovyo
+
+Question 499: Picha hii ni nyota.
+Options:
+0) Picha hii ni halisi.
+1) Picha hii si halisi.
+
+Question 500: Picha hii ni ndoto.
+Options:
+0) Picha hii ni halisi.
+1) Picha hii si halisi.
+
+Question 501: Filamu hii ni msitu mkubwa.
+Options:
+0) Filamu hii ina siri nyingi.
+1) Filamu hii ina uwazi.
+
+Question 502: Filamu hii ni kitabu wazi.
+Options:
+0) Filamu hii ina siri nyingi.
+1) Filamu hii ina uwazi.
+
+Question 503: Msichana huyo ni malaika anapoimba.
+Options:
+0) Anaimba vizuri sana.
+1) Anaimba vibaya sana.
+
+Question 504: Msichana huyo ni treni inayotoka kwenye reli anapoimba.
+Options:
+0) Anaimba vizuri sana.
+1) Anaimba vibaya sana.
+
+Question 505: Mradi huu ni kama mvua iliyosubiriwa kwa muda mrefu.
+Options:
+0) Mradi huu ni baraka.
+1) Mradi huu ni janga.
+
+Question 506: Mradi huu ni kama jinamizi.
+Options:
+0) Mradi huu ni baraka.
+1) Mradi huu ni janga.
+
+Question 507: Maneno yake ni dawa.
+Options:
+0) Maneno yake yanaponya.
+1) Maneno yake yanaangamiza.
+
+Question 508: Maneno yake ni sumu.
+Options:
+0) Maneno yake yanaponya.
+1) Maneno yake yanaangamiza.
+
+Question 509: Rafiki yangu ni chiruki.
+Options:
+0) Rafiki yangu anaongea sana.
+1) Rafiki yangu yuko kimya sana.
+
+Question 510: Rafiki yangu ni maji mtungini.
+Options:
+0) Rafiki yangu anaongea sana.
+1) Rafiki yangu yuko kimya sana.
+
+Question 511: Nduguye ni msamaria mwema.
+Options:
+0) Nduguye ni mkarimu sana.
+1) Nduguye ni mbinafsi sana.
+
+Question 512: Nduguye ni mbweha.
+Options:
+0) Nduguye ni mkarimu sana.
+1) Nduguye ni mbinafsi sana.
+
+Question 513: Mgeni huyo ni kama jua la kutua.
+Options:
+0) Mgeni alitarajiwa kuja.
+1) Mgeni alikuja ghafla.
+
+Question 514: Mgeni huyo ni kama ajali.
+Options:
+0) Mgeni alitarajiwa kuja.
+1) Mgeni alikuja ghafla.
+
+Question 515: Mwalimu wangu ana moyo wa dhahabu.
+Options:
+0) Yeye ni mwenye fadhili.
+1) Yeye ni mkatili.
+
+Question 516: Mwalimu wangu ana moyo wa jiwe.
+Options:
+0) Yeye ni mwenye fadhili.
+1) Yeye ni mkatili.
+
+Question 517: Nyumbani kwetu ni ndege aliye huru.
+Options:
+0) Nyumbani kuna uhuru.
+1) Nyumbani hakuna uhuru.
+
+Question 518: Nyumbani kwetu ni jela.
+Options:
+0) Nyumbani kuna uhuru.
+1) Nyumbani hakuna uhuru.
+
+Question 519: Maneno yake huwa asali kila anapozungumza.
+Options:
+0) Maneno yake ni matamu.
+1) Maneno yake ni machungu.
+
+Question 520: Maneno yake huwa shubiri kila anapozungumza.
+Options:
+0) Maneno yake ni matamu.
+1) Maneno yake ni machungu.
+
+Question 521: Sauti yake ni kama kunong'ona.
+Options:
+0) Sauti yake iko chini sana.
+1) Sauti yake iko juu sana.
+
+Question 522: Sauti yake ni kama dhoruba ya radi.
+Options:
+0) Sauti yake iko chini sana.
+1) Sauti yake iko juu sana.
+
+Question 523: Wimbo huu ni kama umaskini.
+Options:
+0) Wimbo huu ni wa kawaida.
+1) Wimbo huu ni nadra.
+
+Question 524: Wimbo huu ni kama waradi ya samawati
+Options:
+0) Wimbo huu ni wa kawaida.
+1) Wimbo huu ni nadra.
+
+Question 525: Mwanariadha yule ni duma.
+Options:
+0) Mwanariadha yule ana mbio sana.
+1) Mwanariadha yule anakimbia polepole sana.
+
+Question 526: Mwanariadha yule ni kobe
+Options:
+0) Mwanariadha yule ana mbio sana.
+1) Mwanariadha yule anakimbia polepole sana.
+
+Question 527: Chakula kilikuwa barafu.
+Options:
+0) Chakula ni baridi sana.
+1) Chakula ni moto sana.
+
+Question 528: Chakula kilikuwa kuzimu.
+Options:
+0) Chakula ni baridi sana.
+1) Chakula ni moto sana.
+
+Question 529: Mchezaji huyu ni twiga.
+Options:
+0) Mchezaji huyu ni mrefu.
+1) Mchezajii huyu ni mfupi.
+
+Question 530: Mchezaji huyo ni nyundo.
+Options:
+0) Mchezaji huyu ni mrefu.
+1) Mchezajii huyu ni mfupi.
+
+Question 531: Jana alikuwa mfalme.
+Options:
+0) Jana alikuwa na furaha.
+1) Jana alikuwa na huzuni.
+
+Question 532: Jana alikuwa mboni ya macho ya huzuni nyuma ya sanda.
+Options:
+0) Jana alikuwa na furaha.
+1) Jana alikuwa na huzuni.
+
+Question 533: Safari ilikuwa ni matembezi katika hifadhi.
+Options:
+0) Safari hiyo ilikuwa rahisi sana.
+1) Safari hiyo ilikuwa ngumu sana.
+
+Question 534: Safari ilikuwa ni uzito kwenye mabega yangu.
+Options:
+0) Safari hiyo ilikuwa rahisi sana.
+1) Safari hiyo ilikuwa ngumu sana.
+
+Question 535: Yule ni mkweli kama injili.
+Options:
+0) Yule ni mkweli.
+1) Yule ni mwongo.
+
+Question 536: Yule ni mkweli kama mwanasiasa wakati wa kampeni.
+Options:
+0) Yule ni mkweli.
+1) Yule ni mwongo.
+
+Question 537: Wimbo huu ni mwanga wa jua.
+Options:
+0) Wimbo huu unanifanya nichangamke.
+1) Wimbo huu unachosha.
+
+Question 538: Wimbo huu ni kama kuangalia rangi ikikauka.
+Options:
+0) Wimbo huu unanifanya nichangamke.
+1) Wimbo huu unachosha.
+
+Question 539: Mtoto wake ni Musa.
+Options:
+0) Mtoto wake ni mtiifu.
+1) Mtoto wake ni mkaidi.
+","480,1
+481,0
+482,1
+483,0
+484,1
+485,0
+486,1
+487,0
+488,1
+489,0
+490,1
+491,0
+492,1
+493,0
+494,1
+495,0
+496,1
+497,0
+498,1
+499,0
+500,1
+501,0
+502,1
+503,0
+504,1
+505,0
+506,1
+507,0
+508,1
+509,0
+510,1
+511,0
+512,1
+513,0
+514,1
+515,0
+516,1
+517,0
+518,1
+519,0
+520,1
+521,0
+522,1
+523,0
+524,1
+525,0
+526,1
+527,0
+528,1
+529,0
+530,1
+531,0
+532,1
+533,0
+534,1
+535,0
+536,1
+537,0
+538,1
+539,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 540: Mtoto wake ni Adamu na Eva.
+Options:
+0) Mtoto wake ni mtiifu.
+1) Mtoto wake ni mkaidi.
+
+Question 541: Ana moyo wa simba.
+Options:
+0) Yeye ni jasiri.
+1) Yeye ni mwoga.
+
+Question 542: Ana moyo wa kuku.
+Options:
+0) Yeye ni jasiri.
+1) Yeye ni mwoga.
+
+Question 543: Kitabu hiki ni dhahabu.
+Options:
+0) Kitabu hiki ni kizuri.
+1) Kitabu hiki ni kibaya.
+
+Question 544: Kitabu hiki ni yai bovu.
+Options:
+0) Kitabu hiki ni kizuri.
+1) Kitabu hiki ni kibaya.
+
+Question 545: Rafiki yangu ni mfalme Solomoni.
+Options:
+0) Yeye ni tajiri kupindukia.
+1) Yeye ni maskini.
+
+Question 546: Rafiki yangu ni panya wa kanisa.
+Options:
+0) Yeye ni tajiri kupindukia.
+1) Yeye ni maskini.
+
+Question 547: Swali ya hesabu katika mtihani ilikuwa mboga.
+Options:
+0) Mtihani ilikuwa rahisi.
+1) Mtihani ilikuwa ngumu.
+
+Question 548: Swali ya hesabu katika mtihani ilikuwa mawe.
+Options:
+0) Mtihani ilikuwa rahisi.
+1) Mtihani ilikuwa ngumu.
+
+Question 549: Panga hii ni wembe.
+Options:
+0) Panga hii ni kali.
+1) Panga hii ni butu.
+
+Question 550: Panga hii ni sehemu ya nyuma ya kisu.
+Options:
+0) Panga hii ni kali.
+1) Panga hii ni butu.
+
+Question 551: Upendo wao ulikuwa divai nzuri.
+Options:
+0) Upendo wao una umoja na amani.
+1) Upendo wao una utengano na vita.
+
+Question 552: Upendo wao ulikuwa uwanja wa vita.
+Options:
+0) Upendo wao una umoja na amani.
+1) Upendo wao una utengano na vita.
+
+Question 553: Pesa ni sabuni ya roho.
+Options:
+0) Pesa hufurahisha.
+1) Pesa huleta huzuni.
+
+Question 554: Pesa ni adui mkubwa.
+Options:
+0) Pesa hufurahisha.
+1) Pesa huleta huzuni.
+
+Question 555: Mtoto huyo ni tausi.
+Options:
+0) Yeye anajivunia.
+1) Yeye aliona aibu.
+
+Question 556: Mtoto huyo ni kama kijana aliyenaswa akitoroka nje ya nyumba.
+Options:
+0) Yeye anajivunia.
+1) Yeye aliona aibu.
+
+Question 557: Mvulana huyo alikuwa sungura.
+Options:
+0) Ana akili kweli.
+1) Ni mjinga kweli.
+
+Question 558: Mvulana huyo alikuwa kondoo.
+Options:
+0) Ana akili kweli.
+1) Ni mjinga kweli.
+
+Question 559: Mama yake ni simba.
+Options:
+0) Mama yake ni mkali.
+1) Mama yake ni mpole.
+
+Question 560: Mama yake ni mwana-kondoo.
+Options:
+0) Mama yake ni mkali.
+1) Mama yake ni mpole.
+
+Question 561: Jirani yangu ni malaika.
+Options:
+0) Alikuwa mwenye huruma.
+1) Hakuwa mwenye huruma.
+
+Question 562: Jirani yangu ni shetani.
+Options:
+0) Alikuwa mwenye huruma.
+1) Hakuwa mwenye huruma.
+
+Question 563: Mwenzake ni mchwa.
+Options:
+0) Yeye ni mwenye bidii.
+1) Yeye mvivu.
+
+Question 564: Mwenzake ni chura chini ya kisima.
+Options:
+0) Yeye ni mwenye bidii.
+1) Yeye mvivu.
+
+Question 565: Somo la hesabu ni mchana wa mwanga.
+Options:
+0) Somo hilo linaeleweka.
+1) Somo hilo halieleweki.
+
+Question 566: Somo la hesabu ni usiku wa giza.
+Options:
+0) Somo hilo linaeleweka.
+1) Somo hilo halieleweki.
+
+Question 567: Kijana yule ni mtumwa.
+Options:
+0) Yeye ni mvumilivi.
+1) Yeye si mvumilivu.
+
+Question 568: Kijana yule ni mtoto mchanga aliye na njaa.
+Options:
+0) Yeye ni mvumilivi.
+1) Yeye si mvumilivu.
+
+Question 569: Nguo zake ni kama marashi ya karafuu.
+Options:
+0) Nguo zake zinanuka vizuri.
+1) Nguo zake zina uvundo.
+
+Question 570: Nguo zake ni kama kidonda.
+Options:
+0) Nguo zake zinanuka vizuri.
+1) Nguo zake zina uvundo.
+
+Question 571: Yule ni mboni ya jicho langu.
+Options:
+0) Nampenda sana.
+1) Namchukia sana.
+
+Question 572: Yule ni sumu.
+Options:
+0) Nampenda sana.
+1) Namchukia sana.
+
+Question 573: Mwanasoka yule ni nyota.
+Options:
+0) Yule amekamilika.
+1) Yule sio kamili.
+
+Question 574: Mwanasoka yule ni mwezi mpevu.
+Options:
+0) Yule amekamilika.
+1) Yule sio kamili.
+
+Question 575: Kitabu hiki ni kipya kama mwanzo wa siku.
+Options:
+0) Kitabu hiki ni kipya.
+1) Kitabu hiki ni cha zamani.
+
+Question 576: Kitabu hiki ni kipya kama milima.
+Options:
+0) Kitabu hiki ni kipya.
+1) Kitabu hiki ni cha zamani.
+
+Question 577: Urafiki wao ni kama wa chanda na pete.
+Options:
+0) Urafiki wao ni wa amani na upendo.
+1) Urafiki wao ni wa vita na vurugu.
+
+Question 578: Urafiki wao ni kama wa mbwa na paka.
+Options:
+0) Urafiki wao ni wa amani na upendo.
+1) Urafiki wao ni wa vita na vurugu.
+
+Question 579: Yeye ni filimbi.
+Options:
+0) Yeye ni safi.
+1) Yeye ni chafu.
+
+Question 580: Yeye ni nguruwe.
+Options:
+0) Yeye ni safi.
+1) Yeye ni chafu.
+
+Question 581: Mama wa kambo amekuwa njiwa.
+Options:
+0) Mama wa kambo ni mzuri.
+1) Mama wa kambo ni mbaya.
+
+Question 582: Mama wa kambo amekuwa mamba.
+Options:
+0) Mama wa kambo ni mzuri.
+1) Mama wa kambo ni mbaya.
+
+Question 583: Mambo yake ni kioo.
+Options:
+0) Mambo yake ni wazi sana.
+1) Mambo yake ni fiche sana.
+
+Question 584: Mambo yake ni giza.
+Options:
+0) Mambo yake ni wazi sana.
+1) Mambo yake ni fiche sana.
+
+Question 585: Mtoto yule ni bahari.
+Options:
+0) Yule ni mtulivu.
+1) Yule ni mwenye hamaki.
+
+Question 586: Mtoto yule ni mkizi.
+Options:
+0) Yule ni mtulivu.
+1) Yule ni mwenye hamaki.
+
+Question 587: Siku ya leo ni kama chemichemi.
+Options:
+0) Mvua inanyesha sana leo.
+1) Jua linachoma sana leo.
+
+Question 588: Siku ya leo ni kama Kalahari.
+Options:
+0) Mvua inanyesha sana leo.
+1) Jua linachoma sana leo.
+
+Question 589: Mwajiriwa yule ni mtume.
+Options:
+0) Yule ni muaminifu.
+1) Yule ni msaliti.
+
+Question 590: Mwajiriwa yule ni Yuda Iskariote.
+Options:
+0) Yule ni muaminifu.
+1) Yule ni msaliti.
+
+Question 591: Maumivu ni shoka linalokata moyo wangu.
+Options:
+0) Maumivu yangu ni chungu sana.
+1) Maumivu yangu si chungu.
+
+Question 592: Maumivu ni muziki mzuri kwa roho yangu.
+Options:
+0) Maumivu yangu ni chungu sana.
+1) Maumivu yangu si chungu.
+
+Question 593: Chai hii ni baridi kama kifo.
+Options:
+0) Chai hii ni baridi sana.
+1) Chai hii ni moto sana.
+
+Question 594: Chai hii baridi kama volkano.
+Options:
+0) Chai hii ni baridi sana.
+1) Chai hii ni moto sana.
+
+Question 595: Mjomba amefurahi kama ndege katika chemchemi.
+Options:
+0) Mjomba amefurahi sana.
+1) Mjomba amekasirika sana.
+
+Question 596: Mjomba amekasirika kama fahali mwenye kitambaa usoni.
+Options:
+0) Mjomba amefurahi sana.
+1) Mjomba amekasirika sana.
+
+Question 597: Uhusiano wao ni kama mapema ya majira ya joto.
+Options:
+0) Uhusiano wao umejaa amani.
+1) Uhusiano wao umejaa mzozo.
+
+Question 598: Uhusiano wao ni kama kimbunga.
+Options:
+0) Uhusiano wao umejaa amani.
+1) Uhusiano wao umejaa mzozo.
+
+Question 599: Kalamu hizi ni kama mbaazi mbili kwenye ganda.
+Options:
+0) Kalamu hizi zinafanana.
+1) Kalamu hizi ni tofauti.
+","540,1
+541,0
+542,1
+543,1
+544,1
+545,0
+546,1
+547,1
+548,1
+549,0
+550,1
+551,0
+552,1
+553,0
+554,1
+555,1
+556,1
+557,1
+558,0
+559,0
+560,1
+561,1
+562,1
+563,0
+564,1
+565,0
+566,1
+567,0
+568,1
+569,0
+570,1
+571,0
+572,1
+573,0
+574,1
+575,1
+576,1
+577,1
+578,1
+579,0
+580,1
+581,1
+582,1
+583,0
+584,1
+585,1
+586,1
+587,1
+588,1
+589,0
+590,1
+591,0
+592,1
+593,0
+594,1
+595,0
+596,1
+597,0
+598,1
+599,0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 600: Kalamu hizi ni kama majira ya baridi na majira ya joto.
+Options:
+0) Kalamu hizi zinafanana.
+1) Kalamu hizi ni tofauti.
+
+Question 601: Maisha ni sherehe.
+Options:
+0) Ilikuwa na furaha na kijamii.
+1) Ilikuwa na huzuni na changamoto.
+
+Question 602: Maisha ni uwanja wa vita.
+Options:
+0) Ilikuwa na furaha na kijamii.
+1) Ilikuwa na huzuni na changamoto.
+
+Question 603: Wao ni mbwa.
+Options:
+0) Wao ni waaminifu.
+1) Wao ni wasaliti.
+
+Question 604: Wao ni panya.
+Options:
+0) Wao ni waaminifu.
+1) Wao ni wasaliti.
+
+Question 605: Viatu vya baba ni manukato.
+Options:
+0) Viatu vyake vina harufu nzuri.
+1) Viatu vyake vina harufu mbaya.
+
+Question 606: Viatu vya baba ni takataka.
+Options:
+0) Viatu vyake vina harufu nzuri.'
+1) Viatu vyake vina harufu mbaya.
+
+Question 607: Usiku wa leo anga ni blanketi la nyota.
+Options:
+0) Usiku wa leo anga ina nyota nyingi.
+1) Usiku wa leo anga ni tupu, haina nyota.
+
+Question 608: Usiku wa leo anga ni kanisa siku ya juma.
+Options:
+0) Usiku wa leo anga ina nyota nyingi.
+1) Usiku wa leo anga ni tupu, haina nyota.
+
+Question 609: Msichani yule ni waridi kati ya miiba.
+Options:
+0) Yeye ni mkarimu na mwenye upendo.
+1) Yeye si mkarimu na mwenye upendo.
+
+Question 610: Msichana yule ni mwiba kati ya waridi.
+Options:
+0) Yeye ni mkarimu na mwenye upendo.
+1) Yeye si mkarimu na mwenye upendo.
+
+Question 611: Kiti hiki ni mwamba katika dhoruba.
+Options:
+0) Kiti hiki kina nguvu.
+1) Kiti hiki ni dhaifu.
+
+Question 612: Kiti hiki ni mtoto wa paka.
+Options:
+0) Kiti hiki kina nguvu.
+1) Kiti hiki ni dhaifu.
+
+Question 613: Sherehe hiyo ilikuwa mbuga ya wanyama.
+Options:
+0) Ilikuwa na watu wengi na kelele nyingi.
+1) Ilikuwa kimya.
+
+Question 614: Sherehe hiyo ilikuwa wimbo uliosahaulika.
+Options:
+0) Ilikuwa na watu wengi na kelele nyingi.
+1) Ilikuwa kimya.
+
+Question 615: Mtihani ulikuwa upepo.
+Options:
+0) Mtihani ulikuwa rahisi.
+1) Mtihani ulikuwa ngumu.
+
+Question 616: Mtihani ulikuwa gunia tupu kusimama wima.
+Options:
+0) Mtihani ulikuwa rahisi.
+1) Mtihani ulikuwa ngumu.
+
+Question 617: Hadithi hiyo ni kama kilio cha mtoto kuzaliwa.
+Options:
+0) Hadithi hiyo ni ya mwanzo.
+1) Hadithi hiyo ni ya mwisho.
+
+Question 618: Hadithi hiyo ni kama kifo.
+Options:
+0) Hadithi hiyo ni ya mwanzo.
+1) Hadithi hiyo ni ya mwisho.
+
+Question 619: Miti hii ni kama jua.
+Options:
+0) Miti hii inazaa matunda.
+1) Miti hii haizalishi matunda.
+
+Question 620: Miti hii ni kama mvua ya msimu wa baridi.
+Options:
+0) Miti hii inazaa matunda.
+1) Miti hii haizalishi matunda.
+
+Question 621: Kijana yule ni fisi.
+Options:
+0) Kijana yule alikula kwa pupa.
+1) Kijana yule alikula bila haraka.
+
+Question 622: Kijana yule ni panya.
+Options:
+0) Kijana yule alikula kwa pupa.
+1) Kijana yule alikula bila haraka.
+
+Question 623: Mtoto huyu ni sahani.
+Options:
+0) Mambo yake ni wazi sana.
+1) Mambo yake si wazi.
+
+Question 624: Mtoto huyu ni nyoka kwenye nyasi.
+Options:
+0) Mambo yake ni wazi sana.
+1) Mambo yake si wazi.
+
+Question 625: Yule msichana ni mtulivi kama mashamba ya Mbinguni.
+Options:
+0) Huwa haguswi na mambo kupita kiasi.
+1) Huwa anaguswa na mambo kupita kiasi.
+
+Question 626: Yule msichana ni malkia wa drama.
+Options:
+0) Huwa haguswi na mambo kupita kiasi.
+1) Huwa anaguswa na mambo kupita kiasi.
+
+Question 627: Nyumba hii ni kama dunia.
+Options:
+0) Nyumba hii ni imara.
+1) Nyumba hii si imara.
+
+Question 628: Nyumba hii ni kama mawimbi ya bahari.
+Options:
+0) Nyumba hii ni imara.
+1) Nyumba hii si imara.
+
+Question 629: Simu hii ni kama ng’ombe.
+Options:
+0) Simu hii ni muhimu.
+1) Simu hii haina maana.
+
+Question 630: Simu hii ni kama bunduki bila kichochezi.
+Options:
+0) Simu hii ni muhimu.
+1) Simu hii haina maana.
+
+Question 631: Mtu huyu ni kama jua na mwezi.
+Options:
+0) Mtu huyu anajulikana.
+1) Mtu huyu ni wa ajabu.
+
+Question 632: Mtu huyu ni kama kama harusi bila bwana harusi.
+Options:
+0) Mtu huyu anajulikana.
+1) Mtu huyu ni wa ajabu.
+
+Question 633: Yeye ni sauti ya mama.
+Options:
+0) Amejaa upendo.
+1) Amejaa chuki.
+
+Question 634: Yeye ni kifo.
+Options:
+0) Amejaa upendo.
+1) Amejaa chuki.
+
+Question 635: Mwanafunzi huyu ni nta.
+Options:
+0) Mwanafunzi huyu ni mwenye heshima
+1) Mwanafunzi huyu ni mfidhuli.
+
+Question 636: Mwanafunzi huyu ni dubu.
+Options:
+0) Mwanafunzi huyu ni mwenye heshima
+1) Mwanafunzi huyu ni mfidhuli.
+
+Question 637: Kijiti hiki ni kama nyota ya risasi.
+Options:
+0) Kijiti hiki kimenyooka.
+1) Kijiti hiki kimepinda.
+
+Question 638: Kijiti hiki ni kama mitaa ya Boston.
+Options:
+0) Kijiti hiki kimenyooka.
+1) Kijiti hiki kimepinda.
+
+Question 639: Mtu huyo alikuwa gorila.
+Options:
+0) Mtu huyo alikuwa na nywele nyingi.
+1) Mtu huyo alikuwa na upara.
+
+Question 640: Mtu huyo alikuwa yai.
+Options:
+0) Mtu huyo alikuwa na nywele nyingi.
+1) Mtu huyo alikuwa na upara.
+
+Question 641: Mzigo hii ni kama manyoya.
+Options:
+0) Mzigo hii ni nyepesi sana.
+1) Mzigo hii ni nzito sana.
+
+Question 642: Mzigo hii ni kama nanga.
+Options:
+0) Mzigo hii ni nyepesi sana.
+1) Mzigo hii ni nzito sana.
+
+Question 643: Kitoto chake ni kama pini mpya.
+Options:
+0) Kitoto chake ni safi.
+1) Kitoto chake ni kichafu.
+
+Question 644: Kitoto chake ni kama nguruwe.
+Options:
+0) Kitoto chake ni safi.
+1) Kitoto chake ni kichafu.
+
+Question 645: Mayai haya ni asali.
+Options:
+0) Mayai haya ni matamu.
+1) Mayai haya ni machungu.
+
+Question 646: Mayai haya ni ndimu.
+Options:
+0) Mayai haya ni matamu.
+1) Mayai haya ni machungu.
+
+Question 647: Alikuwa kama nta.
+Options:
+0) Aliongea kwa adabu.
+1) Aliongea kwa jeuri.
+
+Question 648: Alikuwa kama dubu.
+Options:
+0) Aliongea kwa adabu.
+1) Aliongea kwa jeuri.
+
+Question 649: Alikuwa kama meli iliyoachwa.
+Options:
+0) Alikuwa msichana mpweke.
+1) Alikuwa msichana maarufu.
+
+Question 650: Alikuwa kama tamthilia ya filamu.
+Options:
+0) Alikuwa msichana mpweke.
+1) Alikuwa msichana maarufu.
+
+Question 651: Mlango ulikuwa kama mshipi wa chuma.
+Options:
+0) Mlango ulikuwa na kufuli.
+1) Mlango ulikuwa wazi.
+
+Question 652: Mlango ulikuwa kama ghuba.
+Options:
+0) Mlango ulikuwa na kufuli.
+1) Mlango ulikuwa wazi.
+
+Question 653: Meza ilikuwa kama yungiyungi.
+Options:
+0) Meza iliyonunuliwa ilikuwa maridadi.
+1) Meza iliyonunuliwa ilikuwa mbaya.
+
+Question 654: Meza ilikuwa kama gome la mwaloni.
+Options:
+0) Meza iliyonunuliwa ilikuwa maridadi.
+1) Meza iliyonunuliwa ilikuwa mbaya.
+
+Question 655: Hao ni ulimi na meno.
+Options:
+0) Walikuwa marafiki wazuri.
+1) Walikuwa maadui.
+
+Question 656: Hao ni maji na mafuta.
+Options:
+0) Walikuwa marafiki wazuri.
+1) Walikuwa maadui.
+
+Question 657: Mtoto yule ni kibogoyo aliyeota Meno.
+Options:
+0) Mtoto yule amefurahi.
+1) Mtoto yule amehuzunika.
+
+Question 658: Mtoto yule ni mfiwa.
+Options:
+0) Mtoto yule amefurahi.
+1) Mtoto yule amehuzunika.
+
+Question 659: Ngozi yake ni hariri.
+Options:
+0) Ngozi yake ni laini.
+1) Ngozi yake ni ngumu.
+","600,1
+601,0
+602,1
+603,0
+604,1
+605,0
+606,1
+607,0
+608,1
+609,0
+610,1
+611,0
+612,1
+613,0
+614,1
+615,1
+616,1
+617,0
+618,1
+619,0
+620,1
+621,0
+622,1
+623,0
+624,1
+625,0
+626,1
+627,0
+628,1
+629,0
+630,1
+631,0
+632,1
+633,0
+634,1
+635,0
+636,1
+637,0
+638,1
+639,0
+640,1
+641,1
+642,1
+643,0
+644,1
+645,0
+646,1
+647,0
+648,1
+649,0
+650,1
+651,0
+652,1
+653,0
+654,1
+655,1
+656,1
+657,0
+658,1
+659,0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 660: Ngozi yake ni mawe
+Options:
+0) Ngozi yake ni laini.
+1) Ngozi yake ni ngumu.
+
+Question 661: Wazazi wangu ni kama ndovu.
+Options:
+0) Wazazi wangu hawasahau kamwe.
+1) Wazazi wangu ni wasahaulifu.
+
+Question 662: Wazazi wangu ni kama bibi kizee.
+Options:
+0) Wazazi wangu hawasahau kamwe.
+1) Wazazi wangu ni wasahaulifu.
+
+Question 663: Mazao ya wakulima ni kama mwanga wa jua.
+Options:
+0) Mazao ya wakulima yalikuwa tele.
+1) Mazao ya wakulima yalikuwa haba.
+
+Question 664: Mazao ya wakulima ni kama manyoya kwenye samaki.
+Options:
+0) Mazao ya wakulima yalikuwa tele.
+1) Mazao ya wakulima yalikuwa haba.
+
+Question 665: Yeye alikuwa mahali kama kasri la mfalme.
+Options:
+0) Yeye alijivinjari.
+1) Yeye alihangaika.
+
+Question 666: Yeye alikuwa mahali kama jela.
+Options:
+0) Yeye alijivinjari.
+1) Yeye alihangaika.
+
+Question 667: Mahali aliwekwa palikuwa peponi.
+Options:
+0) Mahali aliwekwa palikuwa pazuri.
+1) Mahali aliwekwa palikuwa pabaya.
+
+Question 668: Mahali aliwekwa palikuwa kuzimu.
+Options:
+0) Mahali aliwekwa palikuwa pazuri.
+1) Mahali aliwekwa palikuwa pabaya.
+
+Question 669: Maneno yake yalikuwa kama rula.
+Options:
+0) Maneno yake yalikuwa yamenyooka.
+1) Maneno yake hayakuwa yamenyooka.
+
+Question 670: Maneno yake yalikuwa kama samaki aliyetolewa kwa maji.
+Options:
+0) Maneno yake yalikuwa yamenyooka.
+1) Maneno yake hayakuwa yamenyooka.
+
+Question 671: Walishuhudia uhuru kama ndege angani.
+Options:
+0) Walishuhudia uhuru nchini.
+1) Walishuhudia utumwa nchini.
+
+Question 672: Walishuhudia utumwa kama Waisraeli.
+Options:
+0) Walishuhudia uhuru nchini.
+1) Walishuhudia utumwa nchini.
+
+Question 673: Yeye ni njiwa
+Options:
+0) Yeye ni mwaminifu.
+1) Yeye ni mwongo.
+
+Question 674: Yeye ni jongoo.
+Options:
+0) Yeye ni mwaminifu.
+1) Yeye ni mwongo.
+
+Question 675: Maneno yake yalikuwa mvua kwa mkulima.
+Options:
+0) Yake yalikuwa ya faida.
+1) Yake yalikuwa ya hasara.
+
+Question 676: Maneno yake yalikuwa mkizi.
+Options:
+0) Yake yalikuwa ya faida.
+1) Yake yalikuwa ya hasara.
+
+Question 677: Filamu hiyo ilikuwa kama dawa kwa mgonjwa.
+Options:
+0) Filamu hiyo ilikuwa na manufaa.
+1) Filamu hiyo ilikuwa na madhara.
+
+Question 678: Filamu hiyo ilikuwa kama dawa za kulevya.
+Options:
+0) Filamu hiyo ilikuwa na manufaa.
+1) Filamu hiyo ilikuwa na madhara.
+
+Question 679: Binti huyu ni Musa.
+Options:
+0) Binti huyu ni mcha Mungu.
+1) Ni binti akanaye Mungu.
+
+Question 680: Binti huyu ni Firauni.
+Options:
+0) Binti huyu ni mcha Mungu.
+1) Ni binti akanaye Mungu.
+
+Question 681: Alikuwa kama kigogo.
+Options:
+0) Alikuwa kiongozi katika mkutano.
+1) Alikuwa mfuasi katika mkutano.
+
+Question 682: Alikuwa kama kumbikumbi.
+Options:
+0) Alikuwa kiongozi katika mkutano.
+1) Alikuwa mfuasi katika mkutano.
+
+Question 683: Mazungumuzo yake yalikuwa kama bunda la noti.
+Options:
+0) Yake yalikuwa ya thamana.
+1) Yake yalikuwa yasiyo na maana.
+
+Question 684: Mazungumuzo yake yalikuwa kama senti.
+Options:
+0) Yake yalikuwa ya thamana.
+1) Yake yalikuwa yasiyo na maana.
+
+Question 685: Alitoka hospitalini kama mfalme.
+Options:
+0) Alitoka hospitalini na furaha nyingi.
+1) Alitoka hospitalini kama amenuna.
+
+Question 686: Alitoka hospitalini kama Nyati aliyedungwa na miba.
+Options:
+0) Alitoka hospitalini na furaha nyingi.
+1) Alitoka hospitalini kama amenuna.
+
+Question 687: Busu lake lilikuwa kama la mama kwa mwanawe.
+Options:
+0) Busu lake lilikuwa la mapenzi ya kweli.
+1) Busu lake lilikuwa la usaliti.
+
+Question 688: Busu lake lilikuwa kama la Yuda Iskarioti kwa Yesu.
+Options:
+0) Busu lake lilikuwa la mapenzi ya kweli.
+1) Busu lake lilikuwa la usaliti.
+
+Question 689: Sehemu la kupalilia lilikuwa bahari.
+Options:
+0) Sehemu la kupalilia lilikuwa kubwa.
+1) Sehemu la kupalilia lilikuwa ndogo.
+
+Question 690: Sehemu la kupalilia lilkuwa tundu la sindano.
+Options:
+0) Sehemu la kupalilia lilikuwa kubwa.
+1) Sehemu la kupalilia lilikuwa ndogo.
+
+Question 691: Barabara hii ni tembo.
+Options:
+0) Barabara hii ni pana sana.
+1) Barabara hii ni nyembamba sana.
+
+Question 692: Barabara hii ni uzi.
+Options:
+0) Barabara hii ni pana sana.
+1) Barabara hii ni nyembamba sana.
+
+Question 693: Maneno yake yalikuwa kama tabasamu.
+Options:
+0) Maneno yake yalikuwa fichu.
+1) Maneno yake yalikuwa fiche.
+
+Question 694: Maneno yake yalikuwa kama fumbo.
+Options:
+0) Maneno yake yalikuwa fichu.
+1) Maneno yake yalikuwa fiche.
+
+Question 695: Mwanariadha huyu ni duma.
+Options:
+0) Mwanariadha huyu ana mbio sana.
+1) Mwanariadha huyu anakimbia polepole sana.
+
+Question 696: Mwanariadha huyu ni kobe.
+Options:
+0) Mwanariadha huyu ana mbio sana.
+1) Mwanariadha huyu anakimbia polepole sana.
+
+Question 697: Nguo ya kasisi ni theluji.
+Options:
+0) Kasisi amevaa nguo nyeupe.
+1) Kasisi amevaa nguo nyeusi.
+
+Question 698: Nguo ya kasisi ni makaa.
+Options:
+0) Kasisi amevaa nguo nyeupe.
+1) Kasisi amevaa nguo nyeusi.
+
+Question 699: Alikuwa kama mtego wa dubu.
+Options:
+0) Alikuwa na ufanisi kazini.
+1) Hakuwa na ufanisi kazini.
+
+Question 700: Alikuwa kama fedha ya haraka ya kusema uongo.
+Options:
+0) Alikuwa na ufanisi kazini.
+1) Hakuwa na ufanisi kazini.
+
+Question 701: Filamu hii ni kama waridi.
+Options:
+0) Filamu hii ni nzuri.
+1) Filamu hii ni mbaya.
+
+Question 702: Filamu hii ni kama kuwasha.
+Options:
+0) Filamu hii ni nzuri.
+1) Filamu hii ni mbaya.
+
+Question 703: Ardhi ilikuwa kama jua.
+Options:
+0) Ardhi ilikuwa tija.
+1) Ardhi ilikuwa tasa.
+
+Question 704: Ardhi ilikuwa kama mvua ya msimu ya baridi.
+Options:
+0) Ardhi ilikuwa tija.
+1) Ardhi ilikuwa tasa.
+
+Question 705: Miche ilikuwa kama magugu kwenye kaburi lililopuuzwa.
+Options:
+0) Miche ilikuwa inakua.
+1) Miche ilikuwa inapungua.
+
+Question 706: Miche ilikuwa kama konokono akitoka kwenye ganda lake.
+Options:
+0) Miche ilikuwa inakua.
+1) Miche ilikuwa inapungua.
+
+Question 707: Alikuwa simba.
+Options:
+0) Alikuwa jasiri.
+1) Alikuwa na haya.
+
+Question 708: Alikuwa mjakazi.
+Options:
+0) Alikuwa jasiri.
+1) Alikuwa na haya.
+
+Question 709: Chumba kilikuwa kama mwali.
+Options:
+0) Chumba kilikuwa kikiangaza.
+1) Chumba kilikuwa giza.
+
+Question 710: Chumba kilikuwa kama kaburi.
+Options:
+0) Chumba kilikuwa kikiangaza.
+1) Chumba kilikuwa giza.
+
+Question 711: Samani hii ni kama nyota.
+Options:
+0) Samani hii ni ya kweli.
+1) Samani hii ni ya bandia.
+
+Question 712: Samani hii ni kama saa.
+Options:
+0) Samani hii ni ya kweli.
+1) Samani hii ni ya bandia.
+
+Question 713: Mwanafunzi alikuwa kama pumzi za upepo mdogo.
+Options:
+0) Mwanafunzi alikuwa akinong'ona.
+1) Mwanafunzi alikuwa akipiga kelele.
+
+Question 714: Mwanafunzi alikuwa kama kupasuka kwa volkano.
+Options:
+0) Mwanafunzi alikuwa akinong'ona.
+1) Mwanafunzi alikuwa akipiga kelele.
+
+Question 715: Upepo ulikuwa kama nguzo.
+Options:
+0) Upepo ulikuwa thabiti.
+1) Upepo haukuwa thabiti.
+
+Question 716: Upepo ulikuwa kama jicho likitazama jua.
+Options:
+0) Upepo ulikuwa thabiti.
+1) Upepo haukuwa thabiti.
+
+Question 717: Alikuwa kama malaika mlezi.
+Options:
+0) Alikuwa na mapenzi kubwa kwake.
+1) Alikuwa na chuki kali kwake.
+
+Question 718: Alikuwa kama mbegu iliyoanguka kwenye mawe.
+Options:
+0) Alikuwa na mapenzi kubwa kwake.
+1) Alikuwa na chuki kali kwake.
+
+Question 719: Shati lake ni chumvi.
+Options:
+0) Shati lake ni jeupe.
+1) Shati lake ni jeusi.
+","660,1
+661,0
+662,1
+663,0
+664,1
+665,0
+666,1
+667,0
+668,1
+669,1
+670,1
+671,1
+672,0
+673,0
+674,1
+675,0
+676,1
+677,0
+678,1
+679,1
+680,1
+681,1
+682,1
+683,0
+684,1
+685,0
+686,1
+687,0
+688,1
+689,0
+690,1
+691,0
+692,1
+693,1
+694,0
+695,0
+696,1
+697,0
+698,1
+699,1
+700,1
+701,0
+702,1
+703,0
+704,1
+705,1
+706,0
+707,0
+708,1
+709,0
+710,1
+711,0
+712,1
+713,0
+714,1
+715,0
+716,1
+717,0
+718,1
+719,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 720: Shati lake ni shimo la makaa ya mawe.
+Options:
+0) Shati lake ni jeupe.
+1) Shati lake ni jeusi.
+
+Question 721: Wao ni kama kengele na mlio wake.
+Options:
+0) Walikubaliana juu ya jambo hilo.
+1) Walitofautiana juu ya jambo hilo.
+
+Question 722: Wao ni kama moto na maji.
+Options:
+0) Walikubaliana juu ya jambo hilo.
+1) Walitofautiana juu ya jambo hilo.
+
+Question 723: Sakafu hii ni kama nyoka.
+Options:
+0) Sakafu hii inateleza.
+1) Sakafu hii ni kavu.
+
+Question 724: Sakafu hii ni kama ukweli wa kisukuku.
+Options:
+0) Sakafu hii inateleza.
+1) Sakafu hii ni kavu.
+
+Question 725: Uchaguzi huu ni nadhiri za bikira.
+Options:
+0) Uchaguzi huu ni wa haki.
+1) Uchaguzi huu si wa haki.
+
+Question 726: Uchaguzi huu ni kumpa hakimu hekima kwa sababu tu amevalia tofauti na wanaume wengine.
+Options:
+0) Uchaguzi huu ni wa haki.
+1) Uchaguzi huu si wa haki.
+
+Question 727: Mchezaji alikuwa kama viatu vya jumapili.
+Options:
+0) Mchezaji alikuwa fiti kwa mchezo.
+1) Mchezaji alikuwa hafai kwa mchezo.
+
+Question 728: Mchezaji alikuwa kama dhahabu safi kwa mzunguko.
+Options:
+0) Mchezaji alikuwa fiti kwa mchezo.
+1) Mchezaji alikuwa hafai kwa mchezo.
+
+Question 729: Polisi walikuwa kama heshima sawa.
+Options:
+0) Polisi walikuwa waadilifu.
+1) Polisi hawakuwa waadilifu.
+
+Question 730: Polisi walikuwa kama waamuzi wa historia ya mipaka kwanza humunyonga mfungwa na kisha kumjaribu.
+Options:
+0) Polisi walikuwa waadilifu.
+1) Polisi hawakuwa waadilifu.
+
+Question 731: Mbwa huyu ni simba.
+Options:
+0) Mbwa huyu ni shujaa.
+1) Mbwa huyu ni mwoga.
+
+Question 732: Mbwa huyu ni kunguru.
+Options:
+0) Mbwa huyu ni shujaa.
+1) Mbwa huyu ni mwoga.
+
+Question 733: Alikuwa kama asubuhi ya mei.
+Options:
+0) Alikuwa na afya njema.
+1) Alikuwa na afya mbovu.
+
+Question 734: Alikuwa kama ini la bukini linalokusudiwa kulwa.
+Options:
+0) Alikuwa na afya njema.
+1) Alikuwa na afya mbovu.
+
+Question 735: Yeye ni mti mtukufu ambao umejeruhiwa wakati unatoa zeri.
+Options:
+0) Yeye ni mwenye huruma.
+1) Yeye si mwenye huruma.
+
+Question 736: Yeye ni kaisari.
+Options:
+0) Yeye ni mwenye huruma.
+1) Yeye si mwenye huruma.
+
+Question 737: Eneo la benki ni kama mkuu katika ngome lake.
+Options:
+0) Eneo la benki limelindwa.
+1) Eneo la benki ni dhahiri.
+
+Question 738: Eneo la benki ni kama nyota kwenye usiku tupu.
+Options:
+0) Eneo la benki limelindwa.
+1) Eneo la benki ni dhahiri.
+
+Question 739: Majengo yale ni safu ya mwanga.
+Options:
+0) Majengo yale ni ya kisasa.
+1) Majengo yale ni ya zamani.
+
+Question 740: Majengo yale ni umri wa jiwe.
+Options:
+0) Majengo yale ni ya kisasa.
+1) Majengo yale ni ya zamani.
+
+Question 741: Dereva alikuwa kama hakimu.
+Options:
+0) Dereva alikuwa kiasi.
+1) Dereva alikuwa mlevi.
+
+Question 742: Dereva alikuwa kama Lutu wa bibilia.
+Options:
+0) Dereva alikuwa kiasi.
+1) Dereva alikuwa mlevi.
+
+Question 743: Ilikuwa kama ndoto ya mama ya mtoto wake.
+Options:
+0) Ilikuwa zabuni.
+1) Ilikuwa ngumu.
+
+Question 744: Ilikuwa kama ngozi.
+Options:
+0) Ilikuwa zabuni.
+1) Ilikuwa ngumu.
+
+Question 745: Msichana yule ni Daudi.
+Options:
+0) Msichana yule amebarikiwa.
+1) Msichana yule amelaaniwa.
+
+Question 746: Msichana yule ni hekalu takatifu lenye limeibiwa.
+Options:
+0) Msichana yule amebarikiwa.
+1) Msichana yule amelaaniwa.
+
+Question 747: Hali ya hewa ni kama mito ya kina kirefu.
+Options:
+0) Hali ya hewa ni shwari.
+1) Hali ya hewa ni ya dhoruba.
+
+Question 748: Hali ya hewa ni kama kimbunga kamili.
+Options:
+0) Hali ya hewa ni shwari.
+1) Hali ya hewa ni ya dhoruba.
+
+Question 749: Alipewa faraja kama mtoto mchanga.
+Options:
+0) Alipewa faraja baada ya tukio.
+1) Alipewa majonzi baada ya tukio.
+
+Question 750: Alipewa majonzi kama mafuriko yalioinuliwa kwenye vijito vidogo na mvua ya ghafla.
+Options:
+0) Alipewa faraja baada ya tukio.
+1) Alipewa majonzi baada ya tukio.
+
+Question 751: Alihama kama sekunde moja hadi nyingine.
+Options:
+0) Alihama karibu na shangazi.
+1) Alihama mbali na shangazi.
+
+Question 752: Alihama kama wema ulivyo juu ya ubaya.
+Options:
+0) Alihama karibu na shangazi.
+1) Alihama mbali na shangazi.
+
+Question 753: Nyumba hii ni pamba.
+Options:
+0) Nyumba hii ni safi.
+1) Nyumba hii ni chafu.
+
+Question 754: Nyumba hii ni dampo.
+Options:
+0) Nyumba hii ni safi.
+1) Nyumba hii ni chafu.
+
+Question 755: Barua yake ilikuwa kama mama na mwanawe.
+Options:
+0) Barua yake ilikuwa ya hisia.
+1) Barua yake haikuwa ya hisia.
+
+Question 756: Barua ilikuwa kama pambano lililogandishwa.
+Options:
+0) Barua yake ilikuwa ya hisia.
+1) Barua yake haikuwa ya hisia.
+
+Question 757: Safari ilikuwa kama jua baada ya mvua.
+Options:
+0) Safari ilikuwa na starehe.
+1) Safari haikuwa na starehe.
+
+Question 758: Safari ilikuwa kama jogoo ndani ya bwawa.
+Options:
+0) Safari ilikuwa na starehe.
+1) Safari haikuwa na starehe.
+
+Question 759: Kijana huyu ni kama nyumbu wa serikali.
+Options:
+0) Kijana huyu ni mwenye kiburi.
+1) Kijana huyu ni mwenye aibu.
+
+Question 760: Kijana huyu ni kama kitu cha hatia.
+Options:
+0) Kijana huyu ni mwenye kiburi.
+1) Kijana huyu ni mwenye aibu.
+
+Question 761: Alikuwa kama jua katika chemchemi.
+Options:
+0) Alikuwa mkarimu kwake.
+1) Alikuwa na wivu kwake.
+
+Question 762: Alikuwa kama paka.
+Options:
+0) Alikuwa mkarimu kwake.
+1) Alikuwa na wivu kwake.
+
+Question 763: Chumba kilikuwa kama upepo.
+Options:
+0) Chumba kilikuwa tupu.
+1) Chumba kilikuwa kimejaa.
+
+Question 764: Chumba kilikuwa kama kupe.
+Options:
+0) Chumba kilikuwa tupu.
+1) Chumba kilikuwa kimejaa.
+
+Question 765: Kijana alikuwa kama mpiga grenadi.
+Options:
+0) Kijana alikuwa jasiri.
+1) Kijana aliogopa.
+
+Question 766: Kijana alikuwa kama panzi.
+Options:
+0) Kijana alikuwa jasiri.
+1) Kijana aliogopa.
+
+Question 767: Sauti yake ilikuwa kama mvua inavyoshuka kwenye paa.
+Options:
+0) Sauti yake ilikuwa ya muziki.
+1) Sauti yake haikuwa ya muziki.
+
+Question 768: Sauti yake ilikuwa kama ndoto ya usiku ya bubu aliyeshiba wimbo.
+Options:
+0) Sauti yake ilikuwa ya muziki.
+1) Sauti yake haikuwa ya muziki.
+
+Question 769: Yeye ni mlinzi mzuri wa nyumba.
+Options:
+0) Yeye ni muangalifu sana.
+1) Yeye ni mzembe sana.
+
+Question 770: Yeye ni upepo.
+Options:
+0) Yeye ni muangalifu sana.
+1) Yeye ni mzembe sana.
+
+Question 771: Alikuwa kama Abrahamu.
+Options:
+0) Alikuwa mtu wa imani.
+1) Alikuwa mtu wa hofu.
+
+Question 772: Alikuwa kama nzige.
+Options:
+0) Alikuwa mtu wa imani.
+1) Alikuwa mtu wa hofu.
+
+Question 773: Wao walikuwa mchwa.
+Options:
+0) Walikusanyika njiani.
+1) Walitawanyika njiani.
+
+Question 774: Wao walikuwa makapi mbele ya upepo.
+Options:
+0) Walikusanyika njiani.
+1) Walitawanyika njiani.
+
+Question 775: Aliketi kama kiongozi wa ngamia.
+Options:
+0) Aliketi mbele.
+1) Aliketi nyuma.
+
+Question 776: Aliketi kama kitabu cha kiebrania.
+Options:
+0) Aliketi mbele.
+1) Aliketi nyuma.
+
+Question 777: Jamii ilikuwa kama saa.
+Options:
+0) Jamii ilikuwa changa.
+1) Jamii ilikuwa ya zamani.
+
+Question 778: Jamii ilikuwa kama uumbaji.
+Options:
+0) Jamii ilikuwa changa.
+1) Jamii ilikuwa ya zamani.
+
+Question 779: Mlinzi alikuwa bahari inayotikiswa na tufani kuu.
+Options:
+0) Mlinzi alikuwa macho.
+1) Mlinzi alikuwa amelala.
+","720,1
+721,1
+722,1
+723,0
+724,0
+725,1
+726,1
+727,1
+728,0
+729,1
+730,1
+731,0
+732,1
+733,0
+734,0
+735,0
+736,1
+737,0
+738,0
+739,1
+740,1
+741,1
+742,1
+743,0
+744,1
+745,0
+746,1
+747,1
+748,1
+749,0
+750,1
+751,0
+752,1
+753,1
+754,1
+755,0
+756,1
+757,1
+758,1
+759,0
+760,1
+761,0
+762,1
+763,0
+764,1
+765,0
+766,1
+767,1
+768,1
+769,0
+770,1
+771,0
+772,1
+773,1
+774,1
+775,0
+776,0
+777,1
+778,1
+779,0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 780: Mlinzi alikuwa ndoto kaburini.
+Options:
+0) Mlinzi alikuwa macho.
+1) Mlinzi alikuwa amelala.
+
+Question 781: Kaka yangu alikuwa kama kasuku kwa mpiga filimbi.
+Options:
+0) Kaka yangu alicheka.
+1) Kaka yangu alilia.
+
+Question 782: Kaka yangu alikuwa kama mtoto anayechapwa.
+Options:
+0) Kaka yangu alicheka.
+1) Kaka yangu alilia.
+
+Question 783: Yule ni ukweli mtakatifu.
+Options:
+0) Yule ni mtu mwema.
+1) Yule ni mtu mwovu.
+
+Question 784: Yule ni bahari iliyochafuka.
+Options:
+0) Yule ni mtu mwema.
+1) Yule ni mtu mwovu.
+
+Question 785: Walikimbia kama moshi ya tanuru.
+Options:
+0) Walikimbia juu ya kilima.
+1) Walikimbia chini ya kilima.
+
+Question 786: Walikimbia kama nyasi mbele ya komeo.
+Options:
+0) Walikimbia juu ya kilima.
+1) Walikimbia chini ya kilima.
+
+Question 787: Chumba hiki ni sanamu.
+Options:
+0) Chumba hiki ni kimya.
+1) Chumba hiki kina sauti kubwa.
+
+Question 788: Chumba hiki ni sauti ya dalali.
+Options:
+0) Chumba hiki ni kimya.
+1) Chumba hiki kina sauti kubwa.
+
+Question 789: Baba ni nyuki.
+Options:
+0) Baba ana shughuli nyingi.
+1) Baba yuko bila kazi.
+
+Question 790: Baba ni saa sita mchana.
+Options:
+0) Baba ana shughuli nyingi.
+1) Baba yuko bila kazi.
+
+Question 791: Mahali hapa ni kama makaburi.
+Options:
+0) Mahali hapa ni kimya sana.
+1) Mahali hapa pana kelele mingi.
+
+Question 792: Mahali hapa ni kama sokoni.
+Options:
+0) Mahali hapa ni kimya sana.
+1) Mahali hapa pana kelele mingi.
+
+Question 793: Nyumba hii ni kama upepo.
+Options:
+0) Nyumba hii ni imara.
+1) Nyumba hii si imara.
+
+Question 794: Mifugo wote wako hai kama maono ya maisha kuwa.
+Options:
+0) Mifugo wote wako hai.
+1) Mifugo wote wamefariki.
+
+Question 795: Mifugo wote wako hai kama jana.
+Options:
+0) Mifugo wote wako hai.
+1) Mifugo wote wamefariki.
+
+Question 796: Yeye ni Samsoni.
+Options:
+0) Yeye ni mwenye nguvu.
+1) Yeye ni dhaifu.
+
+Question 797: Yeye ni mwanzi.
+Options:
+0) Yeye ni mwenye nguvu.
+1) Yeye ni dhaifu.
+
+Question 798: Kimani ana roho ya chuma
+Options:
+0) Kimani ni mvulana jasiri
+1) Kimani ni mvulana mwoga
+
+Question 799: Kimani ana roho kama ya Kuku
+Options:
+0) Kimani ni mvulana jasiri
+1) Kimani ni mvulana mwoga
+
+Question 800: Ninampenda Maria kama mboni ya jicho langu
+Options:
+0) Ninampenda Maria kwa moyo wangu wote
+1) Simpendi Maria kamwe
+
+Question 801: Ninampenda Maria kama paka apendavyo maji
+Options:
+0) Ninampenda Maria kwa moyo wangu wote
+1) Simpendi Maria kamwe
+
+Question 802: Mtoto wa Jirani ni Tumbo Karai
+Options:
+0) Mtoto wa jiran ni mlafi
+1) Mtoto wa jirani hapendi kula
+
+Question 803: Mtoto wa Jirani anapenda chakula kama mgonjwa aliyepoteza hamu
+Options:
+0) Mtoto wa jiran ni mlafi
+1) Mtoto wa jirani hapendi kula
+
+Question 804: Makena alikuwa ameng'aa kama malaika
+Options:
+0) Makena alikua amependenza sana
+1) Makena alikuwa amevalia vibaya
+
+Question 805: Makena alikuwa ameng'aa kama mbuzi wa kuzurura
+Options:
+0) Makena alikua amependenza sana
+1) Makena alikuwa amevalia vibaya
+
+Question 806: Jane ni mkono mgumu kwa pesa
+Options:
+0) Jane ni Mchoyo sana kwa pesa
+1) Jane ni mkarimu sana kwa pesa
+
+Question 807: Jane ni Yesu kwa pesa
+Options:
+0) Jane ni Mchoyo sana kwa pesa
+1) Jane ni mkarimu sana kwa pesa
+
+Question 808: Mtoto wa Maria ni Kichwa Maji darasani
+Options:
+0) Mtoto wa Maria haelewi kitu darasani
+1) Mtoto wa Maria ni Mwerevu darasani
+
+Question 809: Mtoto wa Maria anang'aa kama jua darasani
+Options:
+0) Mtoto wa Maria haelewi kitu darasani
+1) Mtoto wa Maria ni Mwerevu darasani
+
+Question 810: Tulikula chakula kitamu kama asali kwa Otieno
+Options:
+0) Tulikula chakula kitamu kwa Otieno
+1) Tulikula chakula so kitamu
+
+Question 811: Tulikula chakula kitamu kama ndimu kwa  Otieno
+Options:
+0) Tulikula chakula kitamu kwa Otieno
+1) Tulikula chakula so kitamu
+
+Question 812: Alikua mrefu kama mlingoti
+Options:
+0) Alikua mrefu kupindukia
+1) Alikuwa mfupi
+
+Question 813: Alikua mfupi kama nyundo
+Options:
+0) Alikua mrefu kupindukia
+1) Alikuwa mfupi
+
+Question 814: Gari lake ni dhahabu
+Options:
+0) Gari lake ni la thamani sana
+1) Gari lake ni la bei ya chini
+
+Question 815: Gari lake li la thamani kama nguo za mitumba
+Options:
+0) Gari lake ni la thamani sana
+1) Gari lake ni la bei ya chini
+
+Question 816: Onyango amekua maziwa ya kuku
+Options:
+0) Siku hizi Onyango hapatikani kabisa
+1) Onyango anaonekana kila mahali
+
+Question 817: Onyango amekuwa kama mawingu angani
+Options:
+0) Siku hizi Onyango hapatikani kabisa
+1) Onyango anaonekana kila mahali
+
+Question 818: Kipchoge ni risasi
+Options:
+0) Kipchoge ni Mwanariadha wa Kasi sana
+1) Kipchoge ni mwanariadha asiye na kasi
+
+Question 819: Kipchoge ni konokono
+Options:
+0) Kipchoge ni Mwanariadha wa Kasi sana
+1) Kipchoge ni mwanariadha asiye na kasi
+
+Question 820: Alikua akanenepa kama nguruwe
+Options:
+0) Ailkula sana kwa hivyo alinenepa
+1) Hakukula kwa hivyo ni mwembaba
+
+Question 821: Hakukula, ni mwembamba kama sindano
+Options:
+0) Ailkula sana kwa hivyo alinenepa
+1) Hakukula kwa hivyo ni mwembaba
+
+Question 822: Alikua na bahati kama ya mtende kupata udhamini wa kusomea ulaya
+Options:
+0) Alibahatika kupata udhamini wa kusomea Ulaya
+1) Hakuwa na bahati, akakosa nafasi ya kusomea ulaya
+
+Question 823: Alikuwa na bahati kama ya mwizi ambaye arobaini zake zimewadia
+Options:
+0) Alibahatika kupata udhamini wa kusomea Ulaya
+1) Hakuwa na bahati, akakosa nafasi ya kusomea ulaya
+
+Question 824: Maria aliruka juu kama Masai
+Options:
+0) Maria aliruka juu kwa furaha
+1) Maria alikua na huzuni
+
+Question 825: Maria aliruka juu kama kobe
+Options:
+0) Maria aliruka juu kwa furaha
+1) Maria alikua na huzuni
+
+Question 826: Alikuwa na meno yenye weupe wa maziwa
+Options:
+0) Alikuwa mrembo mwenye meno safi
+1) Alikuwa mrembo mwenye meno chafu
+
+Question 827: Alikuwa na meno meupe kama giza
+Options:
+0) Alikuwa mrembo mwenye meno safi
+1) Alikuwa mrembo mwenye meno chafu
+
+Question 828: Nyumba yake ilikuwa baridi kama barafu tulipoingia
+Options:
+0) Nyumba yake ilikuwa baridi mno tulipoingia
+1) Nyumba yake ilikuwa na joto mno tulipoingia
+
+Question 829: Nyumba yake ilikuwa na joto kama pasi tulipoingia
+Options:
+0) Nyumba yake ilikuwa baridi mno tulipoingia
+1) Nyumba yake ilikuwa na joto mno tulipoingia
+
+Question 830: Angelina alituangalia kwa macho ya vikombe
+Options:
+0) Angelina alituangalia kwa macho ya kuvutia
+1) Angelina alituangalia kwa macho ya  kutuchukia
+
+Question 831: Angelina alitangalia kwa macho ya chura
+Options:
+0) Angelina alituangalia kwa macho ya kuvutia
+1) Angelina alituangalia kwa macho ya  kutuchukia
+
+Question 832: Dawa za hospitali ya Nairobi ni chungu kama shubiri
+Options:
+0) Dawa za hospitali ya Nairobi ni kali mno
+1) Dawa za hospitali ya Nairobi ni tamu
+
+Question 833: Dawa za hospitali ya Nairobi ni chungu kama sukari
+Options:
+0) Dawa za hospitali ya Nairobi ni kali mno
+1) Dawa za hospitali ya Nairobi ni tamu
+
+Question 834: Sinema za Nairobi zina bei ghali kama dhahabu
+Options:
+0) Sinema za Nairobi zina bei ghali sana
+1) Sinema za Nairobi si za be ghali
+
+Question 835: Sinema za Nairobi zina bei ghali kama nguo za mitumba
+Options:
+0) Sinema za Nairobi zina bei ghali sana
+1) Sinema za Nairobi si za be ghali
+
+Question 836: Milango ya benki jijini ni ndogo kama tundu la sindano
+Options:
+0) Milango ya benki jijini ni ndogo mno
+1) Milango ya benki jijini si ndogo hata
+
+Question 837: Milango ya benki jijini ni Pana kama uwanja wa kandanda
+Options:
+0) Milango ya benki jijini ni ndogo mno
+1) Milango ya benki jijini si ndogo hata
+
+Question 838: Ukiwa Nakuru, Kitengela ni mbali kama Ng'ambo kwa baiskeli
+Options:
+0) Ukiwa Nakuru, Kitengela ni mbali sana ukisafiri kwa baiskeli
+1) Ukiwa Nakuru, Kitengela si mbali ukisafiri kwa baiskeli
+
+Question 839: Ukiwa Nakuru, Kitengela ni mbali kama nafasi kati ya macho
+Options:
+0) Ukiwa Nakuru, Kitengela ni mbali sana ukisafiri kwa baiskeli
+1) Ukiwa Nakuru, Kitengela si mbali ukisafiri kwa baiskeli
+","780,1
+781,0
+782,0
+783,0
+784,1
+785,0
+786,1
+787,0
+788,1
+789,0
+790,0
+791,0
+792,1
+793,1
+794,0
+795,1
+796,0
+797,1
+798,0
+799,1
+800,0
+801,1
+802,0
+803,1
+804,0
+805,1
+806,1
+807,1
+808,1
+809,0
+810,0
+811,1
+812,0
+813,1
+814,0
+815,1
+816,1
+817,0
+818,0
+819,1
+820,0
+821,1
+822,0
+823,1
+824,0
+825,1
+826,1
+827,1
+828,0
+829,1
+830,0
+831,1
+832,0
+833,1
+834,0
+835,1
+836,0
+837,1
+838,0
+839,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 840: Vijana wa soka huwa pumbavu kama kondoo kwa masomo
+Options:
+0) Vijana wa soka huwa pumbavu kwa masomo
+1) Vijana wa soka huwa ni werevu kwa masomo
+
+Question 841: Vijana wa soka huwa pumbavu kama nyani kwa masomo
+Options:
+0) Vijana wa soka huwa pumbavu kwa masomo
+1) Vijana wa soka huwa ni werevu kwa masomo
+
+Question 842: Sofia na Fred walikuwa chanda na pete
+Options:
+0) Sofia alipopatana na Fred, walipendana mno
+1) Sofia alipopatana na Fred, walichukiana mno
+
+Question 843: Sofia na Fred walikuwa mafuta na maji
+Options:
+0) Sofia alipopatana na Fred, walipendana mno
+1) Sofia alipopatana na Fred, walichukiana mno
+
+Question 844: Bahari ya Hindi inameremeta kama Tausi msimu huu wa Krismasi
+Options:
+0) Bahari ya Hindi inameremeta msimu huu wa Krismasi
+1) Bahari ya Hindi haina mvuto msimu huu wa Krismasi
+
+Question 845: Bahari ya hindi inameremeta kama shimo la taka msimu huu wa Krismasi
+Options:
+0) Bahari ya Hindi inameremeta msimu huu wa Krismasi
+1) Bahari ya Hindi haina mvuto msimu huu wa Krismasi
+
+Question 846: Qatar imeng'aa kama anga kwa kombe la dunia
+Options:
+0) Qatar imeng'aa kwa ajili ya kombe la dunia
+1) Qatar haijang'aa sana kwa kombe la dunia
+
+Question 847: Qatar imeng'aa kama soko la Gikomba kwa ajili ya kombe la dunia
+Options:
+0) Qatar imeng'aa kwa ajili ya kombe la dunia
+1) Qatar haijang'aa sana kwa kombe la dunia
+
+Question 848: Nilifura kama andazi nilipolazimishwa kuenda kwenda Naivasha
+Options:
+0) Nilikasirika wazazi waliponilazimishwa kwenda Naivasha
+1) Nilifurahia wazazi waliponishauri kwenda Naivasha
+
+Question 849: Nilihuzunika kama kibogoyo aliyepata meno nilipoenda Naivasha
+Options:
+0) Nilikasirika wazazi waliponilazimishwa kwenda Naivasha
+1) Nilifurahia wazazi waliponishauri kwenda Naivasha
+
+Question 850: Usikue mkia wa mbuzi kwa maelekezo ya wazazi wako
+Options:
+0) Usiyakaidi maelekezo ya wazazi wako
+1) Unafaa kuyasikiliza maelekezo ya wazazi wako
+
+Question 851: Unafaa kuwa bendera kwa malekezo ya wazazi wako
+Options:
+0) Usiyakaidi maelekezo ya wazazi wako
+1) Unafaa kuyasikiliza maelekezo ya wazazi wako
+
+Question 852: Wakaazi wa dandora ni wazembe kama kupe
+Options:
+0) Wakaazi wa Dandora hawapendi kufanya kazi
+1) Wakaazi wa dandora huamka kila siku na kufanya kazi
+
+Question 853: Wakaazi wa dandora wana bidii kama ya mchwa
+Options:
+0) Wakaazi wa Dandora hawapendi kufanya kazi
+1) Wakaazi wa dandora huamka kila siku na kufanya kazi
+
+Question 854: Somo la Kemia huwa tulivu kama mtungi wa maji
+Options:
+0) Somo la Kemia huwa tulivu katika shule hiyo
+1) Wanafunzi huwa na kelele wakati wa somo la Kemia
+
+Question 855: Wanafunzi huwa na Kelele kama Chiriku wakati wa somo la Kemia
+Options:
+0) Somo la Kemia huwa tulivu katika shule hiyo
+1) Wanafunzi huwa na kelele wakati wa somo la Kemia
+
+Question 856: Hell's Gate imefichika kama siri katika bonde la ufa
+Options:
+0) Hell's Gate ni sehemu iliyofichika katika bonde la ufa
+1) Hell's Gate ni sehemu inayojulikana katika bonde la ufa
+
+Question 857: Hell's Gate ni sehemu iliyo wazi Kama mchana katika bonde la ufa
+Options:
+0) Hell's Gate ni sehemu iliyofichika katika bonde la ufa
+1) Hell's Gate ni sehemu inayojulikana katika bonde la ufa
+
+Question 858: Kipchoge aling'aa kama anga katika mbio za dunia
+Options:
+0) Kipchoge aling'aa katika mbio za dunia
+1) Kipchoge alishindwa kung'aa katika mbio za dunia
+
+Question 859: Kipchoge aling'aa kama mawe katika mbio za dunia
+Options:
+0) Kipchoge aling'aa katika mbio za dunia
+1) Kipchoge alishindwa kung'aa katika mbio za dunia
+
+Question 860: Ikulu ya rais ni manukato usiku na mchana
+Options:
+0) Ikulu ya rais inanukia usiku na mchana
+1) Ikulu ya rais inanuka usiku na mchana
+
+Question 861: Ikulu ya rais inanuka kama kidonda usiku na mchana
+Options:
+0) Ikulu ya rais inanukia usiku na mchana
+1) Ikulu ya rais inanuka usiku na mchana
+
+Question 862: Wanakwaya wale wana sauti kama kinanda
+Options:
+0) Wanakwaya wale wana sauti nyororo na ya kupendeza
+1) Wanakwaya wale hawana sauti za kuimba
+
+Question 863: Wanawkwaya wale wana sauti mbaya kama chura
+Options:
+0) Wanakwaya wale wana sauti nyororo na ya kupendeza
+1) Wanakwaya wale hawana sauti za kuimba
+
+Question 864: Ninamdhamini mke wangu kama moyo
+Options:
+0) Ninamdhamini mke wangu kuliko chochote duniani
+1) Simdhamini mke wangu vile
+
+Question 865: Ninamdhamini mke wangu kama taka
+Options:
+0) Ninamdhamini mke wangu kuliko chochote duniani
+1) Simdhamini mke wangu vile
+
+Question 866: Ifikapo kwa maria, bernard alikuwa mwenye macho kama jongoo
+Options:
+0) Bernard alishindwa kuona maovu ya Maria
+1) Bernard aliyaona maovu yote ya Maria
+
+Question 867: Bernard alikuwa na macho ya Tai kwa maovu ya Maria
+Options:
+0) Bernard alishindwa kuona maovu ya Maria
+1) Bernard aliyaona maovu yote ya Maria
+
+Question 868: Jirani yangu ni shetani
+Options:
+0) Jirani yangu ni mkatili na mouvu
+1) Jirani yangu ni mkarimu na mwenye upendo
+
+Question 869: Jirani yangu ana roho nzuri kama malaika
+Options:
+0) Jirani yangu ni mkatili na mouvu
+1) Jirani yangu ni mkarimu na mwenye upendo
+
+Question 870: Mjomba wa Lois anakula kama fisi
+Options:
+0) Mjomba wa  Lois hawachi kula
+1) Mjomba wa Lois aliwacha kula
+
+Question 871: Mjomba wa Lois anakula kama mgonjwa mahututi
+Options:
+0) Mjomba wa  Lois hawachi kula
+1) Mjomba wa Lois aliwacha kula
+
+Question 872: Jirani yetu ana watoto wengi kama siafu
+Options:
+0) Jirani yetu ana watoto wengi
+1) Jirani yetu ana watoto wachache sana
+
+Question 873: Jirani yetu ana watoto adimu kama maziwa ya kuku
+Options:
+0) Jirani yetu ana watoto wengi
+1) Jirani yetu ana watoto wachache sana
+
+Question 874: Visima vya maji kule Marsabit na Moyale vimekauka kama janga
+Options:
+0) Visima vya maji kule Marsabit na Moyale vimekauka
+1) Visima vya maji kule Marsabit na Moyale vimetiliwa maji
+
+Question 875: Visima vya maji kule Marsabit na Moyale vina maji kama ziwa Victoria
+Options:
+0) Visima vya maji kule Marsabit na Moyale vimekauka
+1) Visima vya maji kule Marsabit na Moyale vimetiliwa maji
+
+Question 876: Wanafunzi husimama imara kama uti wa mgondo bendera inapopandishwa
+Options:
+0) Wanafunzi husimama Imara bendera inapopandishwa
+1) Wamafunzi huyumbayumba bendera inapopandishwa
+
+Question 877: Wanafunzi huyumba kama mawimbi bendera inapopandishwa
+Options:
+0) Wanafunzi husimama Imara bendera inapopandishwa
+1) Wamafunzi huyumbayumba bendera inapopandishwa
+
+Question 878: Mkutano wa walimu ulikuwa miaka na mikaka
+Options:
+0) Mkutano wa walimu ulichukua muda mrefu
+1) Mkutano wa walimu ulikuwa mfupi leo
+
+Question 879: Mkutano wa walimu ulikawia kama mngurumo wa radi
+Options:
+0) Mkutano wa walimu ulichukua muda mrefu
+1) Mkutano wa walimu ulikuwa mfupi leo
+
+Question 880: Watoto wake hufuatana kama siafu
+Options:
+0) Watoto wake hufuatana kila wanakoenda
+1) Watoto wake hawapatani kamwe
+
+Question 881: Watoto wake ni kama jua na mwezi
+Options:
+0) Watoto wake hufuatana kila wanakoenda
+1) Watoto wake hawapatani kamwe
+
+Question 882: Maria ni tabibu wa moyo wangu
+Options:
+0) Maria hunituliza moyo anapowasili
+1) Maria huniudhi kila anapowasili
+
+Question 883: Maria ni chuma cha moto kwa moyo wangu
+Options:
+0) Maria hunituliza moyo anapowasili
+1) Maria huniudhi kila anapowasili
+
+Question 884: Wangari alikataa kuyafuata maelezo yetu kama sikio la kufa
+Options:
+0) Wangari alikataa kufuata maelezo yetu
+1) Wangari aliyafuata na kuyaiga maelezo yetu
+
+Question 885: Wangari aliyatii maelezo yetu kama kijakazi wa mfalme
+Options:
+0) Wangari alikataa kufuata maelezo yetu
+1) Wangari aliyafuata na kuyaiga maelezo yetu
+
+Question 886: Nilimpenda Jeptoo, nikawa kivuli chake
+Options:
+0) Nilimpenda Jeptoo, kila aendapo ningemfuata
+1) Nilimpenda Jeptoo lakini Sikuenda popote angeenda
+
+Question 887: Nilimpenda Jeptoo lakini tulitorokana kama jua na mwezi
+Options:
+0) Nilimpenda Jeptoo, kila aendapo ningemfuata
+1) Nilimpenda Jeptoo lakini Sikuenda popote angeenda
+
+Question 888: Uwepo wake ni mtulivu  kama manukato kwangu
+Options:
+0) Uwepo wake hunipendeza
+1) Uwepo wake huniudhi
+
+Question 889: Uwepo wake ni mtulivu kama tawi kwenye dhoruba
+Options:
+0) Uwepo wake hunipendeza
+1) Uwepo wake huniudhi
+
+Question 890: Baba ya Alice ni pilipili
+Options:
+0) Baba ya Alice ni mkali mno
+1) Baba ya Alice ni mzuri na  mkarimu
+
+Question 891: Baba ya Alice ni mkali kama nzi
+Options:
+0) Baba ya Alice ni mkali mno
+1) Baba ya Alice ni mzuri na  mkarimu
+
+Question 892: Chokoraa wa Nairobi wamezurura kama Mbwakoko
+Options:
+0) Chokoraa wa Nairobi wameshinda wakizurura
+1) Chokoraa wa Nairobi ni wametulia leo
+
+Question 893: Chokoraa wa Nairobi wametulia leo kama mtoto aliyelala
+Options:
+0) Chokoraa wa Nairobi wameshinda wakizurura
+1) Chokoraa wa Nairobi ni wametulia leo
+
+Question 894: Muziki wa Kenya ulikuwa wa huruma kama aliyefiwa
+Options:
+0) Muziki wa Kenya huwa wa huruma
+1) Muziki wake ulikuwa wa furaha
+
+Question 895: Muziki wa Kenya ulikuwa wa huruma kama aliyeshinda Lotto
+Options:
+0) Muziki wa Kenya huwa wa huruma
+1) Muziki wake ulikuwa wa furaha
+
+Question 896: Dennis hutembea haraka kama anayefwatwa gizani akienda shuleni
+Options:
+0) Dennis hutembea haraka akienda shuleni
+1) Dennis hutembea polepole akienda shuleni
+
+Question 897: Dennis hutembea taratibu kama Bi harusi akienda shuleni
+Options:
+0) Dennis hutembea haraka akienda shuleni
+1) Dennis hutembea polepole akienda shuleni
+
+Question 898: Nyumba yake ilikuwa na joto kama jiko
+Options:
+0) Nyumba yake ilikuwa na joto mno
+1) Nyumba yake haikuwa na joto mno
+
+Question 899: Nyumba yake ilikuwa na joto kama jokofu
+Options:
+0) Nyumba yake ilikuwa na joto mno
+1) Nyumba yake haikuwa na joto mno
+","840,0
+841,0
+842,0
+843,0
+844,0
+845,0
+846,0
+847,0
+848,0
+849,0
+850,0
+851,0
+852,0
+853,0
+854,0
+855,0
+856,0
+857,0
+858,0
+859,0
+860,0
+861,0
+862,0
+863,0
+864,0
+865,0
+866,0
+867,0
+868,0
+869,1
+870,0
+871,0
+872,0
+873,0
+874,0
+875,0
+876,0
+877,0
+878,0
+879,0
+880,0
+881,0
+882,0
+883,0
+884,0
+885,0
+886,0
+887,0
+888,0
+889,0
+890,0
+891,0
+892,0
+893,0
+894,0
+895,0
+896,0
+897,1
+898,0
+899,0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 900: Dada yake ni mkubwa kama tembo
+Options:
+0) Dada yake ni mkubwa
+1) Dada yake si mkubwa
+
+Question 901: Dada yake ni mkubwa kama tundu la sindano
+Options:
+0) Dada yake ni mkubwa
+1) Dada yake si mkubwa
+
+Question 902: Imani yake ilikuwa na nguvu kama chuma
+Options:
+0) Imani yake ilikuwa dhabiti mno
+1) Imani yake ilikuwa hafifu
+
+Question 903: Imani yake ilikuwa na nguvu kama kijiti kilichoshikilia ndovu
+Options:
+0) Imani yake ilikuwa dhabiti mno
+1) Imani yake ilikuwa hafifu
+
+Question 904: Maswali hayo yalikuwa mboga
+Options:
+0) Maswali hayo yalikuwa rahisi
+1) Maswali hayo yalikuwa magumu mno
+
+Question 905: Maswali hayo yalikuwa mawe
+Options:
+0) Maswali hayo yalikuwa rahisi
+1) Maswali hayo yalikuwa magumu mno
+
+Question 906: Macho ya kijana huyo yalikuwa mekundu kama damu
+Options:
+0) Macho ya kijana huyo yalikuwa mekundu
+1) Macho ya kijana huyo hayakuwa mekundu
+
+Question 907: Macho ya kijana huyo yalikuwa mekundu kama maziwa
+Options:
+0) Macho ya kijana huyo yalikuwa mekundu
+1) Macho ya kijana huyo hayakuwa mekundu
+
+Question 908: Eneo hilo lilikuwa na kelele kama mtoto aliyeachwa
+Options:
+0) Eneo hilo lilikuwa na kelele mno
+1) Eneo hilo lilikuwa tulivu mno
+
+Question 909: Eneo hilo lilikuwa na kelele kama mtungi wa maji
+Options:
+0) Eneo hilo lilikuwa na kelele mno
+1) Eneo hilo lilikuwa tulivu mno
+
+Question 910: Alipenda kula chakula na pilipili kama mhindi
+Options:
+0) Alipenda kula chakula na pilipili
+1) Hakupenda kula chakula na pilipili
+
+Question 911: Alipenda kula chakula na pilipili kama mtoto
+Options:
+0) Alipenda kula chakula na pilipili
+1) Hakupenda kula chakula na pilipili
+
+Question 912: Walikuwa pamoja kama nywele kwa nyingine
+Options:
+0) Walikuwa pamoja kila siku
+1) Waliachana kwa umbali sana
+
+Question 913: Walikuwa pamoja kama Marekani na Kenya
+Options:
+0) Walikuwa pamoja kila siku
+1) Waliachana kwa umbali sana
+
+Question 914: Alikuwa mwerevu kama sungura
+Options:
+0) Alikuwa mwereve darasani
+1) Hakuwa mwerevu darasani
+
+Question 915: Alikuwa mwerevu kama samaki
+Options:
+0) Alikuwa mwereve darasani
+1) Hakuwa mwerevu darasani
+
+Question 916: Kwake kulikuwa na joto kama jehanamu
+Options:
+0) Kwake kulikuwa na joto mno
+1) Kwake hakukuwa na joto kamwe
+
+Question 917: Kwake kulikuwa na joto kama chini ya bahari
+Options:
+0) Kwake kulikuwa na joto mno
+1) Kwake hakukuwa na joto kamwe
+
+Question 918: Mtoto aliyejifungua alikuwa nanga
+Options:
+0) Mtoto aliyejifungua alikuwa mzito mno
+1) Mtoto aliyejifungua alikuwa mwepesi
+
+Question 919: Mtoto aliyejifungua alikuwa mabawa
+Options:
+0) Mtoto aliyejifungua alikuwa mzito mno
+1) Mtoto aliyejifungua alikuwa mwepesi
+
+Question 920: Sebule yake ilikuwa telezi kama siagi
+Options:
+0) Sebuleni yake ilikuwa telezi mno
+1) Sebule yake ilikuwa imekauka mno
+
+Question 921: Sebule yake ilikuwa telezi kama kokoto
+Options:
+0) Sebuleni yake ilikuwa telezi mno
+1) Sebule yake ilikuwa imekauka mno
+
+Question 922: Alinipendeza kama sharubati
+Options:
+0) Alinipendeza sana siku nzima
+1) Aliniudhi siku nzima
+
+Question 923: Alinipendeza kama mtoto asieacha kulia
+Options:
+0) Alinipendeza sana siku nzima
+1) Aliniudhi siku nzima
+
+Question 924: Alituchelewesha kwa kuwa na miguu ya kobe
+Options:
+0) Alituchelewesha kwa kutembea polepole
+1) Hakutuchelewesha kwa kutembea haraka
+
+Question 925: Hakutuchelewesha kwa kuwa na  miguu kama ya swara
+Options:
+0) Alituchelewesha kwa kutembea polepole
+1) Hakutuchelewesha kwa kutembea haraka
+
+Question 926: Alichomwa na jua kama mpasua-mawe siku nzima
+Options:
+0) Alichomwa na jua sana siku nzima
+1) Hakuchomwa na jua kamwe
+
+Question 927: Alichomwa na jua kama mgonjwa aliye kwenye wodi
+Options:
+0) Alichomwa na jua sana siku nzima
+1) Hakuchomwa na jua kamwe
+
+Question 928: Mtihani ulipokaribia, Otieno alibadilika mchwa
+Options:
+0) Mtihani ulipokaribia, Otieno alianza kutia bidii
+1) Mtihani ulipokaribia, Otieno alisalia kuwa mzembe
+
+Question 929: Mtihani ulipokaribia, Otieno alisalia kuwa mchwa
+Options:
+0) Mtihani ulipokaribia, Otieno alianza kutia bidii
+1) Mtihani ulipokaribia, Otieno alisalia kuwa mzembe
+
+Question 930: Matumaini yake yalipanda kama ndege alipopata habari
+Options:
+0) Matumaini yake yalipanda alipopata habari
+1) Matumaini yake yalishuka alipopata habari
+
+Question 931: Matumaini yake yalipanda kama changarawe alipopata habari
+Options:
+0) Matumaini yake yalipanda alipopata habari
+1) Matumaini yake yalishuka alipopata habari
+
+Question 932: Mama Aziza na dada yake walikuwa shilingi kwa nyingine
+Options:
+0) Mama Aziza na dada yake walifanana sana
+1) Mama Aziza na dada yake walikuwa tofauti sana
+
+Question 933: Mama Aziza na dada yake walikuwa usiku na mchana
+Options:
+0) Mama Aziza na dada yake walifanana sana
+1) Mama Aziza na dada yake walikuwa tofauti sana
+
+Question 934: Mama Otis alipenda busu la mumewe kama asali
+Options:
+0) Mama Otis alipenda busu la mumewe
+1) Mama Otis hakupenda busu la mumewe
+
+Question 935: Mama Otis alipenda busu la mumewe kama Mungu apendavyo dhambi
+Options:
+0) Mama Otis alipenda busu la mumewe
+1) Mama Otis hakupenda busu la mumewe
+
+Question 936: Sandra alituandalia chakula kitamu kama asali
+Options:
+0) Sandra alituandalia chakula kitamu sana
+1) Sandra hakutuandalia chakula kitamu
+
+Question 937: Sandra alituandalia chakula kitamu kama ndimu
+Options:
+0) Sandra alituandalia chakula kitamu sana
+1) Sandra hakutuandalia chakula kitamu
+
+Question 938: Beatrice alimtumainin mumewe kama tasa anayetafuta mtoto
+Options:
+0) Beatrice alikuwa na matumaini kwa mumewe
+1) Beatrice hakumtumaini mumewe kamwe
+
+Question 939: Beatrice alimtumainini mumewe kama mja aliyehukumiwa kifo
+Options:
+0) Beatrice alikuwa na matumaini kwa mumewe
+1) Beatrice hakumtumaini mumewe kamwe
+
+Question 940: Wafula alikuwa shupavu kama mwanajeshi akitembea gizani
+Options:
+0) Wafula alitembea gizani kwa ushupavu bila kuogopa
+1) Wafula alitembea gizani akiwa na woga
+
+Question 941: Wafula alitembea gizani akuwa shupavu kama kondoo anayeingizwa kichinjioni
+Options:
+0) Wafula alitembea gizani kwa ushupavu bila kuogopa
+1) Wafula alitembea gizani akiwa na woga
+
+Question 942: Maria aliingia kwangu akinukia manukato kama binti ya malkia
+Options:
+0) Maria aliingia kwangu akinukia manukato
+1) Maria aliingia kwangu akinuka vibaya
+
+Question 943: Maria aliingia kwangu akinuka kama kondoo aliyenyeshewa
+Options:
+0) Maria aliingia kwangu akinukia manukato
+1) Maria aliingia kwangu akinuka vibaya
+
+Question 944: Dennis alikuwa na haraka kama risasi
+Options:
+0) Dennis alikuwa na haraka kuelekea nyumbani
+1) Dennis hakuwa na haraka kamwe
+
+Question 945: Dennis alikuwa na haraka kama ndumakuwili
+Options:
+0) Dennis alikuwa na haraka kuelekea nyumbani
+1) Dennis hakuwa na haraka kamwe
+
+Question 946: Polisi hukushuku ukiwa na wasiwasi kama mwizi
+Options:
+0) Polisi hukushuku ukiwa na wasiwasi
+1) Polisi hawawezi kukushuku ukiwa mtulivu
+
+Question 947: Polisi hawawezi kukushuku ukiwa mtulivu kama bahari
+Options:
+0) Polisi hukushuku ukiwa na wasiwasi
+1) Polisi hawawezi kukushuku ukiwa mtulivu
+
+Question 948: Garissa kumejaa upepo kama ufuo wa bahari
+Options:
+0) Garissa kumekauka lakini kuna upepo kama ufuo wa bahari
+1) Garissa kumekauka na hakuna upepo
+
+Question 949: Garissa kumejaa upepo kama ndani ya kisima
+Options:
+0) Garissa kumekauka lakini kuna upepo kama ufuo wa bahari
+1) Garissa kumekauka na hakuna upepo
+
+Question 950: Wananchi walijaa kama mchanga kumskiza rais
+Options:
+0) Wananchi walijitokeza kwa wingi kumskiza rais
+1) Wananchi hawakujitokeza kumskiza rais
+
+Question 951: Wananchi walijitokeza kwa wingi kama mayai ya Ng'ombe kumskiza rais
+Options:
+0) Wananchi walijitokeza kwa wingi kumskiza rais
+1) Wananchi hawakujitokeza kumskiza rais
+
+Question 952: Wabunge ni fisadi kama polisi
+Options:
+0) Wabunge wanajulikana kuwa wafisadi sana
+1) Wabunge wengi si wafisadi siku hizi
+
+Question 953: Wabunge ni fisadi kama kasisi
+Options:
+0) Wabunge wanajulikana kuwa wafisadi sana
+1) Wabunge wengi si wafisadi siku hizi
+
+Question 954: Lesly ni kigeugeu kama Kinyonga
+Options:
+0) Hakuna anayemwamini Lesly ni mwongo wa ahadi
+1) Lesly ni mwaminifu, ahadi zake atatimiza
+
+Question 955: Lesly ni kigeugeu kama mwanasiasa
+Options:
+0) Hakuna anayemwamini Lesly ni mwongo wa ahadi
+1) Lesly ni mwaminifu, ahadi zake atatimiza
+
+Question 956: Beatrice alikaidi masharti kama mbuzi anayechezewa kinanda
+Options:
+0) Beatrice alikataa kufuata Masharti ya mwalimu
+1) Beatrice alifuata masharti yote ya mwalimu
+
+Question 957: Beatrice alikaidi masharti kama mlinzi wa malkia
+Options:
+0) Beatrice alikataa kufuata Masharti ya mwalimu
+1) Beatrice alifuata masharti yote ya mwalimu
+
+Question 958: Umemaliza shule ukakuwa maarufu kama rais wa nchi
+Options:
+0) Umemaliza shule na ukakuwa maarufu hivi punde
+1) Umemaliza shule na hakuna anayekutambua
+
+Question 959: Umemaliza shule ukakuwa maarufu kama mtoto wa kati
+Options:
+0) Umemaliza shule na ukakuwa maarufu hivi punde
+1) Umemaliza shule na hakuna anayekutambua
+","900,0
+901,0
+902,0
+903,0
+904,1
+905,1
+906,0
+907,1
+908,0
+909,0
+910,0
+911,1
+912,0
+913,1
+914,0
+915,1
+916,0
+917,0
+918,0
+919,1
+920,0
+921,1
+922,0
+923,1
+924,0
+925,1
+926,0
+927,1
+928,1
+929,0
+930,0
+931,1
+932,0
+933,1
+934,0
+935,1
+936,0
+937,1
+938,0
+939,1
+940,0
+941,1
+942,0
+943,1
+944,0
+945,1
+946,0
+947,1
+948,0
+949,1
+950,0
+951,1
+952,0
+953,1
+954,1
+955,0
+956,0
+957,1
+958,0
+959,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 960: Roho yake ilikuwa kufuli lililofungwa
+Options:
+0) Hakupenda kuelezea alichohisi rohoni
+1) Alipenda kupayuka kila alichohisi
+
+Question 961: Roho yake ilikuwa mchana wa jua
+Options:
+0) Hakupenda kuelezea alichohisi rohoni
+1) Alipenda kupayuka kila alichohisi
+
+Question 962: Anette ana Mikono laini kama mto
+Options:
+0) Anette huwa na mikono laini mno
+1) Anette huwa na mikono migumu sana
+
+Question 963: Anette ana mikono laini kama changarawe
+Options:
+0) Anette huwa na mikono laini mno
+1) Anette huwa na mikono migumu sana
+
+Question 964: Ala! Benjamin una haraka kama ambulensi iliyo na mgonjwa mahututi
+Options:
+0) Ala! Benjamin uko na haraka leo
+1) Ala! Benjamin huna haraka hata?
+
+Question 965: Ala! Benjamin, Una haraka kama siafu aliyebeba kitoweo
+Options:
+0) Ala! Benjamin uko na haraka leo
+1) Ala! Benjamin huna haraka hata?
+
+Question 966: Muangalie anavyong'aa nyusoni kama nyota
+Options:
+0) Muangalie anavyong'aa nyusoni na kupendeza
+1) Muangalie alivyochafuka nyusoni leo
+
+Question 967: Muangalie anavyong'aa nyusoni kama chokoraa
+Options:
+0) Muangalie anavyong'aa nyusoni na kupendeza
+1) Muangalie alivyochafuka nyusoni leo
+
+Question 968: Olentuku alipoibiwa mshale alijihurumia kama mtoto yatima
+Options:
+0) Olentuku alipoibiwa mshale alijihurumia mno
+1) Olentuku alipoibiwa mshale alikasirika mno
+
+Question 969: Olentuku alipoibiwa mshale alijihurumia kama mtoto wa mfalme
+Options:
+0) Olentuku alipoibiwa mshale alijihurumia mno
+1) Olentuku alipoibiwa mshale alikasirika mno
+
+Question 970: Khalid hutoa tabasamu ya dhahabu anapomuona Michelle
+Options:
+0) Khalid hawezi kuficha tabasamu anapomuona Michelle
+1) Khalid hufichua meno yake meusi anapomuona Michelle
+
+Question 971: Khalid hutoa tabasamu ya kibogoyo anapomuona Michelle
+Options:
+0) Khalid hawezi kuficha tabasamu anapomuona Michelle
+1) Khalid hufichua meno yake meusi anapomuona Michelle
+
+Question 972: Mkora alikuwa na werevu kama nyani alipotuibia
+Options:
+0) Mkora alituchangaya alipotuibia Nairobi
+1) Mkora alijichanganya mwenyewe alipojaribu kutuibia Nairobi
+
+Question 973: Mkora alikuwa na werevu kama kondoo alipojaribu kutuibia
+Options:
+0) Mkora alituchangaya alipotuibia Nairobi
+1) Mkora alijichanganya mwenyewe alipojaribu kutuibia Nairobi
+
+Question 974: Tony ana Miguu mikubwa kama Nyani
+Options:
+0) Tony ana miguu kubwa sana
+1) Tony ana miguu ndogo sana
+
+Question 975: Tony ana Miguu ndogo kama siafu
+Options:
+0) Tony ana miguu kubwa sana
+1) Tony ana miguu ndogo sana
+
+Question 976: Maria alikuwa na wasiwasi kama mtoto aliyepoteza pesa za mamaye
+Options:
+0) Maria alikuwa na wasiwasi alipoitwa ofisini mwa mwalimu mkuu
+1) Maria hakuwa na wasiwasi wowote alipoitwa ofisini mwa mwalimu mkuu
+
+Question 977: Maria alikuwa na wasiwasi kama Ng'ombe aliyeshiba alipoitwa ofisini mwa mwalimu mkuu
+Options:
+0) Maria alikuwa na wasiwasi alipoitwa ofisini mwa mwalimu mkuu
+1) Maria hakuwa na wasiwasi wowote alipoitwa ofisini mwa mwalimu mkuu
+
+Question 978: Tunashauriwa kuwa waangalifu kama daktari tunapovuka barabara
+Options:
+0) Tunashauriwa tuwe waangalifu tulivuka barabara
+1) Huwa wanakaidi ushauri wa kuwa waangalifu wanapovuka barabara
+
+Question 979: Wao huwa waangalifu kama walevi wanapovuka barabara
+Options:
+0) Tunashauriwa tuwe waangalifu tulivuka barabara
+1) Huwa wanakaidi ushauri wa kuwa waangalifu wanapovuka barabara
+
+Question 980: Alikuwa jiwe alipojaribu kuongea naye
+Options:
+0) Hakutaka kuskia tena kutoka kwao
+1) Alitaka kusikia kila walichosema
+
+Question 981: Alitega sikio kama mama wa mboga sokoni
+Options:
+0) Hakutaka kuskia tena kutoka kwao
+1) Alitaka kusikia kila walichosema
+
+Question 982: Bibi Arusi alitembea kama tausi
+Options:
+0) Bibi harusi alitembea kwa Maringo
+1) Bibi Arusi hakutembe kwa Maringo
+
+Question 983: Bi Arusi alitembea kama mlevi
+Options:
+0) Bibi harusi alitembea kwa Maringo
+1) Bibi Arusi hakutembe kwa Maringo
+
+Question 984: Safari yake ilikuwa mlima Kilimanjaro
+Options:
+0) Safari yake ilikuwa ndefu mno
+1) Safari yake haikuwa ndefu
+
+Question 985: Safari yake ilikuwa ndefu kama unywele
+Options:
+0) Safari yake ilikuwa ndefu mno
+1) Safari yake haikuwa ndefu
+
+Question 986: Mwizi aliposhikwa aligongwa kama kandanda
+Options:
+0) Mwizi aliposhikwa aligongwa na kila mtu
+1) Mwizi aliposhikwa hakugongwa sana
+
+Question 987: Mwizi aliposhikwa aligongwa kama mtoto agongwavyo alale
+Options:
+0) Mwizi aliposhikwa aligongwa na kila mtu
+1) Mwizi aliposhikwa hakugongwa sana
+
+Question 988: Polisi wana roho ya shetani
+Options:
+0) Polisi ni watu waovu sana
+1) Polisi si watu waovu sana
+
+Question 989: Polisi wana roho ya mtoto
+Options:
+0) Polisi ni watu waovu sana
+1) Polisi si watu waovu sana
+
+Question 990: Jane ana sura nyororo kama ngano
+Options:
+0) Jane ana sura nyororo
+1) Jane ana sura ngumu
+
+Question 991: Jane ana sura ngumu kama chura
+Options:
+0) Jane ana sura nyororo
+1) Jane ana sura ngumu
+
+Question 992: Kaka ya Tom ana uwezo wa kunusia kama mbwa
+Options:
+0) Kaka ya Tom ana uwezo wa kunusia kwa mbali
+1) Kaka ya Tom hana uwezo wa kunusia kwa mbali
+
+Question 993: Kaka ya Tom ana uwezo wa kunusia kama samaki
+Options:
+0) Kaka ya Tom ana uwezo wa kunusia kwa mbali
+1) Kaka ya Tom hana uwezo wa kunusia kwa mbali
+
+Question 994: Mutuku amesimama kama bendera ya chifu
+Options:
+0) Mutuku amesimama wima
+1) Mutuku hajasimama wima
+
+Question 995: Mutuku amesimama wima kama sukuma wiki siku ya upepo
+Options:
+0) Mutuku amesimama wima
+1) Mutuku hajasimama wima
+
+Question 996: Boma la kina Antony ni uwanja wa ndege
+Options:
+0) Antony wako na Boma kubwa sana
+1) Antony hawa na boma kubwa
+
+Question 997: Boma la kina Antony ni kibanda
+Options:
+0) Antony wako na Boma kubwa sana
+1) Antony hawa na boma kubwa
+
+Question 998: Maria hana msimamo, ni bendera
+Options:
+0) Maria huwa hana msimamo, anapelekwa tu hivi hivi
+1) Maria huwa na msimamo, hatingiziki
+
+Question 999: Maria huwa na msimamo, ni uti wa mgongo
+Options:
+0) Maria huwa hana msimamo, anapelekwa tu hivi hivi
+1) Maria huwa na msimamo, hatingiziki
+
+Question 1000: Mchuuzi huwa kasuku anapowasili
+Options:
+0) Mchuuzi hupiga kelele anapowasili
+1) Mchuuzi huwa hapigi kelele anapowasili
+
+Question 1001: Mchuuzi huwa usiku wa manane anapowasili
+Options:
+0) Mchuuzi hupiga kelele anapowasili
+1) Mchuuzi huwa hapigi kelele anapowasili
+
+Question 1002: Antony alilelewa akuwe kupe kwa wengine
+Options:
+0) Antony alilelewa awategemee wengine
+1) Antony alilelewa asiwategemee wengine
+
+Question 1003: Antony alilelewa akuwe imara kama simba
+Options:
+0) Antony alilelewa awategemee wengine
+1) Antony alilelewa asiwategemee wengine
+
+Question 1004: Jana nilikuwa nimeshikamaa kama guluu
+Options:
+0) Jana nilikuwa nimeshikamana na vitu vingi
+1) Jana sikuwa nimeshikamana na vitu vingi
+
+Question 1005: Jana nilikuwa nimeshikamana kama changarawe
+Options:
+0) Jana nilikuwa nimeshikamana na vitu vingi
+1) Jana sikuwa nimeshikamana na vitu vingi
+
+Question 1006: Janice alipofika nyumbani, alikula kama nguruwe
+Options:
+0) Janice alifika nyumbani akiwa na njaa sana
+1) Janice alifika nyumbani akiwa na shibe
+
+Question 1007: Janice alipofika nyumbani, alikula kama mgonjwa aliyepoteza hamu
+Options:
+0) Janice alifika nyumbani akiwa na njaa sana
+1) Janice alifika nyumbani akiwa na shibe
+
+Question 1008: Wafungwa wengi hufanyishwa kazi kama punda kama adhabu
+Options:
+0) Wafungwa wengi hufanyishwa kazi ngumu kama adhabu
+1) Wafungwa wengi huwa hawana kazi ya kufanya
+
+Question 1009: Wafungwa wengi hufanyishwa kazi kama paka wa nyumbani
+Options:
+0) Wafungwa wengi hufanyishwa kazi ngumu kama adhabu
+1) Wafungwa wengi huwa hawana kazi ya kufanya
+
+Question 1010: Wafisadi serekalini watabebeshwa mbio kama gari la miraa
+Options:
+0) Wafisadi serekalini wataharakishwa na polisi
+1) Wafisadi serekalini hawanyiwi kitu kamwe
+
+Question 1011: Wafisadi serekalini wanabebeshwa mbio kama kreti la mayai
+Options:
+0) Wafisadi serekalini wataharakishwa na polisi
+1) Wafisadi serekalini hawanyiwi kitu kamwe
+
+Question 1012: Usifanye kazi nyingi kisha ulale kama paka
+Options:
+0) Usifanye kazi nyingi, utachoka alafu ulale sana
+1) Usipofanya kazi nyingi, hutachoka ulale
+
+Question 1013: Alikuwa amechoka akalala kama Mamba
+Options:
+0) Usifanye kazi nyingi, utachoka alafu ulale sana
+1) Usipofanya kazi nyingi, hutachoka ulale
+
+Question 1014: Henry ana miguu mirefu kama mbuni
+Options:
+0) Henry alizaliwa na miguu refu
+1) Henry alizaliwa na miguu ndogo
+
+Question 1015: henry ana miguu mirefu kama jongoo
+Options:
+0) Henry alizaliwa na miguu refu
+1) Henry alizaliwa na miguu ndogo
+
+Question 1016: ALipotushuku alituangalia kwa macho kali kama tai
+Options:
+0) Alitushuku tukiingia na kutuangalia kwa macho kali
+1) Hakutushuku kamwe tulipoingia na vifaa
+
+Question 1017: Alikuwa na macho kali jama jongoo tulipoingia
+Options:
+0) Alitushuku tukiingia na kutuangalia kwa macho kali
+1) Hakutushuku kamwe tulipoingia na vifaa
+
+Question 1018: Omar alioa binti mwenye umbo zuri kama chupa
+Options:
+0) Omar alioa binti mnene na mwenye umbo zuri
+1) Omar alioa binti mnene na mwenye hana umbo zuri
+
+Question 1019: Omar alioa binti mwenye umbo zuri kama nambari nane
+Options:
+0) Omar alioa binti mnene na mwenye umbo zuri
+1) Omar alioa binti mnene na mwenye hana umbo zuri
+","960,0
+961,0
+962,0
+963,0
+964,0
+965,0
+966,0
+967,0
+968,0
+969,0
+970,0
+971,0
+972,0
+973,0
+974,0
+975,0
+976,0
+977,0
+978,0
+979,0
+980,0
+981,0
+982,0
+983,0
+984,0
+985,0
+986,0
+987,0
+988,0
+989,0
+990,0
+991,1
+992,0
+993,0
+994,0
+995,0
+996,0
+997,1
+998,0
+999,0
+1000,0
+1001,1
+1002,0
+1003,1
+1004,1
+1005,0
+1006,0
+1007,1
+1008,0
+1009,1
+1010,0
+1011,1
+1012,0
+1013,1
+1014,0
+1015,1
+1016,0
+1017,0
+1018,1
+1019,0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 1020: Gerad alisoma akajua mengi kama mtandao
+Options:
+0) Gerad alimaliza shule akijua mengi mno
+1) Gerad alimaliza shule na hakujua chochote
+
+Question 1021: Gerad alisoma na akajua mengi kama mtoto mchanga
+Options:
+0) Gerad alimaliza shule akijua mengi mno
+1) Gerad alimaliza shule na hakujua chochote
+
+Question 1022: Roho ya imani ni msitu
+Options:
+0) Imani ana siri nyingi
+1) Imani hapendi kuficha chochote
+
+Question 1023: Roho ya imani ni jua la mchana
+Options:
+0) Imani ana siri nyingi
+1) Imani hapendi kuficha chochote
+
+Question 1024: Onyango ni kipaza sauti
+Options:
+0) Onyango anapenda kupayuka maneno yasiyomhusu
+1) Onyango huweka siri za wengine kwa moyo
+
+Question 1025: Onyango ni mtungi wa maji
+Options:
+0) Onyango anapenda kupayuka maneno yasiyomhusu
+1) Onyango huweka siri za wengine kwa moyo
+
+Question 1026: Kimani alimdekeza mpenzi wake kama yai
+Options:
+0) Kimani alimpenda na kumbembeleza mke wake
+1) Kimani hakumpenda mke wake
+
+Question 1027: Kimani alimdekeza mpenzi wake kama punda
+Options:
+0) Kimani alimpenda na kumbembeleza mke wake
+1) Kimani hakumpenda mke wake
+
+Question 1028: Alipata ukumbi umejaa kama laini ya kupiga kura
+Options:
+0) Alichelewa akapata ukumbi umejaa
+1) ALifika mapema akakosa mtu ukumbini
+
+Question 1029: Alipata ukumbi umejaa kama jangwa
+Options:
+0) Alichelewa akapata ukumbi umejaa
+1) ALifika mapema akakosa mtu ukumbini
+
+Question 1030: Rossie alikuwa mjeuri kama mtoto aliyekataa kula
+Options:
+0) Rossie alikuwa mjeuri kwa ushauri
+1) Rossie alikuwa mtiifu kwa ushauri
+
+Question 1031: Rossie alikuwa mjeuri kama mtundu aliyeitiwa chakula
+Options:
+0) Rossie alikuwa mjeuri kwa ushauri
+1) Rossie alikuwa mtiifu kwa ushauri
+
+Question 1032: Alivalia rinda jeupe kama mawingu siku yake ya kubatizwa
+Options:
+0) Siku yake ya kubatizwa, alivalia rinda jeupe
+1) Hakuvalia rinda jeusi siku yake ya kubatizwa
+
+Question 1033: Alivalia rinda jeupe kama makaa siku yake ya kubatizwa
+Options:
+0) Siku yake ya kubatizwa, alivalia rinda jeupe
+1) Hakuvalia rinda jeusi siku yake ya kubatizwa
+
+Question 1034: Bibi ya John alirauka mapema kama jimbi kuenda kazini
+Options:
+0) Bibi ya John aliraukia kazini
+1) Bibi ya John alichelewa kazini
+
+Question 1035: Bibi ya John alirauka mapema kama kuku mgonjwa kuenda kazini
+Options:
+0) Bibi ya John aliraukia kazini
+1) Bibi ya John alichelewa kazini
+
+Question 1036: Leah ana viatu maridadi kama almasi
+Options:
+0) Viatu vya Leah vinapendeza mno
+1) Viatu vya Leah havipendezi kabisa
+
+Question 1037: Leah ana viatu maridadi kama makaa
+Options:
+0) Viatu vya Leah vinapendeza mno
+1) Viatu vya Leah havipendezi kabisa
+
+Question 1038: Mke wake hapendi kelele, anapenda kubembelezwa kama mtoto
+Options:
+0) Mke wake hapendi kelele, anapenda kubembelezwa
+1) Mke wake anapenda kelele na kuvurugwa
+
+Question 1039: Mke wake hapendi kelele, anapenda kubembelezwa kama mfungwa
+Options:
+0) Mke wake hapendi kelele, anapenda kubembelezwa
+1) Mke wake anapenda kelele na kuvurugwa
+
+Question 1040: Ombi lake la kazi lilichukuwa muda kama ahadi za serikali
+Options:
+0) Ombi lake la kazi lilikawia mno
+1) Ombi lake la kazi halikukawia kamwe
+
+Question 1041: Ombi lake la kazi lilichukuwa muda kama mngurumo wa radi
+Options:
+0) Ombi lake la kazi lilikawia mno
+1) Ombi lake la kazi halikukawia kamwe
+
+Question 1042: Walimvamia mwizi kama mvua Gikomba alipokamatwa
+Options:
+0) Walimvamia mwizi Gikomba alipojulikana
+1) Hawakumfanyia mziwi chochote walipomshika
+
+Question 1043: Walimvamia mwizi kama vipepeo walipomshika
+Options:
+0) Walimvamia mwizi Gikomba alipojulikana
+1) Hawakumfanyia mziwi chochote walipomshika
+
+Question 1044: Aliumia kama mwizi aliyepigwa na umati
+Options:
+0) Alianguka akaumia vibaya
+1) Alianguka lakini hakuumia
+
+Question 1045: Aliumia kama mja aliyeumwa na mbu
+Options:
+0) Alianguka akaumia vibaya
+1) Alianguka lakini hakuumia
+
+Question 1046: Mume wa Sofia ni Katili kama muasi
+Options:
+0) Muwe wa sofia ni katili
+1) Mume wa Sofia ni mkarimu
+
+Question 1047: Mume wa sofia ni Katili kama jongoo
+Options:
+0) Muwe wa sofia ni katili
+1) Mume wa Sofia ni mkarimu
+
+Question 1048: Alituletea mtoto msumbufu kama nyani
+Options:
+0) Alituletea mtoto aliyetusumbua usiku kucha
+1) Alituletea mtoto mtulivu mno
+
+Question 1049: Alituletea mtoto msumbufu kama maiti
+Options:
+0) Alituletea mtoto aliyetusumbua usiku kucha
+1) Alituletea mtoto mtulivu mno
+
+Question 1050: Nikiwa mtoto nilipenda kuzurura kama mbwakoko
+Options:
+0) Nilipenda kuzurura sana ututoni mwangu
+1) Sikupenda kuzurura utotoni mwangu
+
+Question 1051: Nikiwa mtoto nilipenda kuzurura kama milima
+Options:
+0) Nilipenda kuzurura sana ututoni mwangu
+1) Sikupenda kuzurura utotoni mwangu
+
+Question 1052: Alipojifungua, alianza kuwajibika kama mwanafunzi anayekalia mtihani wa kitaifa
+Options:
+0) Ilimbidi awajibike alipopata mtoto
+1) Alishindwa kuwajibika hata alipopata mtoto
+
+Question 1053: Alipojifungua, alianza kuwajibika kama chokoraa mapipani
+Options:
+0) Ilimbidi awajibike alipopata mtoto
+1) Alishindwa kuwajibika hata alipopata mtoto
+
+Question 1054: Alipogonjeka, alianza kuwa mdhaifu kama barafu iliyowekwa kwa jua
+Options:
+0) Ungonjwa ulimdhaifisha
+1) Ingawa alikuwa mgonjwa, alijitahidi kazini
+
+Question 1055: Alipongojeka, alianza kuwa mdhaifu kama almasi
+Options:
+0) Ungonjwa ulimdhaifisha
+1) Ingawa alikuwa mgonjwa, alijitahidi kazini
+
+Question 1056: Alitarajia kuishi maisha marefu kama  mabonde na mito
+Options:
+0) Alitarajia kuishi maisha marefu
+1) Alitarajia kuaga dunia mapema
+
+Question 1057: Alitarajia kuishi maifa marefu kama nzi
+Options:
+0) Alitarajia kuishi maisha marefu
+1) Alitarajia kuaga dunia mapema
+
+Question 1058: Janet ni ua la waridi
+Options:
+0) Janet hunipendeza usiku na mchana
+1) Janet hunichukiza usiku na mchana
+
+Question 1059: Janet ni kiganja cha moto
+Options:
+0) Janet hunipendeza usiku na mchana
+1) Janet hunichukiza usiku na mchana
+
+Question 1060: Ujumbe wa kifo chake ulienea kama upepo
+Options:
+0) Ujumbe wa kifochake ulienea kwa muda mfupi
+1) Ujumbe wa kifo chake haukufika mbali
+
+Question 1061: Ujumbe wa kifo chake ulienea kama upepo
+Options:
+0) Ujumbe wa kifochake ulienea kwa muda mfupi
+1) Ujumbe wa kifo chake haukufika mbali
+
+Question 1062: Nyumbani kwa seneta ni kuzuri kama binguni
+Options:
+0) Nyumbani kwa seneta ni kuzuri mno
+1) Nyumbani kwa seneta si kuzuri hata
+
+Question 1063: Nyumbani kwa seneta ni kubaya kama jehanamu
+Options:
+0) Nyumbani kwa seneta ni kuzuri mno
+1) Nyumbani kwa seneta si kuzuri hata
+
+Question 1064: Jamal ni jiwe ukijaribu kumshawishi
+Options:
+0) Jamal ni mgumu kushawishi
+1) Jamal ni mwepesi wa kushawishi
+
+Question 1065: Jamal ni mwepesi wa kushawishi kama upepo
+Options:
+0) Jamal ni mgumu kushawishi
+1) Jamal ni mwepesi wa kushawishi
+
+Question 1066: Ivan ni mrefu kama twiga
+Options:
+0) Ivan alikua na akarefuka sana
+1) Ivan alikua lakini hakurefuka
+
+Question 1067: Ivan ni mrefu kama kucha
+Options:
+0) Ivan alikua na akarefuka sana
+1) Ivan alikua lakini hakurefuka
+
+Question 1068: Maskini wa Kenya huvaa matambara kama chokoraa
+Options:
+0) Maskini wa Kenya huvaa matambara
+1) Maskini wa Kenya huvaa mavazi safi
+
+Question 1069: Maskini wa Kenya huvaa matambara kama mfalme
+Options:
+0) Maskini wa Kenya huvaa matambara
+1) Maskini wa Kenya huvaa mavazi safi
+
+Question 1070: Leo nje kuna kelele kama tingtinga
+Options:
+0) Leo nje kuna kelele sana
+1) Leo nje kuna utulivu mno
+
+Question 1071: Leo nje kuna kelele kama bubu
+Options:
+0) Leo nje kuna kelele sana
+1) Leo nje kuna utulivu mno
+
+Question 1072: Mtoto wa Jane ni Mwepesi kama karatasi
+Options:
+0) Mtoto wa Jane hana uzanii
+1) Mtoto wa Jane ana uzani mno
+
+Question 1073: Mtoto wa Jane ni mwepesi kama nanga
+Options:
+0) Mtoto wa Jane hana uzanii
+1) Mtoto wa Jane ana uzani mno
+
+Question 1074: Watoto wa shule za Nairobi ni wembe
+Options:
+0) Shule za Nairobi huwa na wanafunzi werevu sana
+1) Shule za Nairobi huwa na wanafunzi wapumbavu
+
+Question 1075: Watoto wa shule za Nairobi ni Kondoo
+Options:
+0) Shule za Nairobi huwa na wanafunzi werevu sana
+1) Shule za Nairobi huwa na wanafunzi wapumbavu
+
+Question 1076: Tumbo la Maria lilinenepa kama sayari alipopata ujauzito
+Options:
+0) Maria alipopata ujauzito, tumbo lake lilinenepa
+1) Maria alipopata ujauzito, tumbo lake halikunenepa
+
+Question 1077: Tumbo la Maria lilinenepa kama mbegu ya pera alipopata ujauzito
+Options:
+0) Maria alipopata ujauzito, tumbo lake lilinenepa
+1) Maria alipopata ujauzito, tumbo lake halikunenepa
+
+Question 1078: Mshindi wa Lotto ni tajiri kama rais
+Options:
+0) Mshindi wa Lotto ni tajiri hadi wa leo
+1) Mshindi wa Lotto ashakuwa maskini
+
+Question 1079: Mshindi wa Lotto ashakuwa tajiri kama fundi wa viatu
+Options:
+0) Mshindi wa Lotto ni tajiri hadi wa leo
+1) Mshindi wa Lotto ashakuwa maskini
+","1020,1
+1021,0
+1022,1
+1023,0
+1024,0
+1025,1
+1026,0
+1027,1
+1028,0
+1029,1
+1030,1
+1031,0
+1032,0
+1033,1
+1034,0
+1035,1
+1036,0
+1037,1
+1038,0
+1039,1
+1040,0
+1041,1
+1042,0
+1043,1
+1044,0
+1045,1
+1046,0
+1047,1
+1048,0
+1049,1
+1050,0
+1051,1
+1052,0
+1053,1
+1054,0
+1055,1
+1056,0
+1057,1
+1058,0
+1059,1
+1060,0
+1061,1
+1062,0
+1063,1
+1064,0
+1065,1
+1066,0
+1067,1
+1068,0
+1069,1
+1070,0
+1071,1
+1072,0
+1073,1
+1074,0
+1075,1
+1076,0
+1077,1
+1078,0
+1079,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 1080: Mlango wa uwanja wa Kasarani ni pana kama bahari
+Options:
+0) Mlango wa uwanja wa Kasarani ni pana mno
+1) Mlango wa uwanja wa Kasarani si pana
+
+Question 1081: Mlango wa uwanja wa Kasarani ni pana kama tundu la sindano
+Options:
+0) Mlango wa uwanja wa Kasarani ni pana mno
+1) Mlango wa uwanja wa Kasarani si pana
+
+Question 1082: Akikasirika anakuwa na mioto kama mvuke
+Options:
+0) Akikasirika anakuwa na mioto sana
+1) Akikasirika hana maneno kamwe
+
+Question 1083: Akikasirika anakuwa na mioto kama barafu
+Options:
+0) Akikasirika anakuwa na mioto sana
+1) Akikasirika hana maneno kamwe
+
+Question 1084: Sebule ya James ni nyekundu kama damu
+Options:
+0) James amepiaka sebule yake rangi nyekundu
+1) James ameipaka sebule yake rangi nyeupe
+
+Question 1085: Sebule ya James ni nyekundu kama maziwa
+Options:
+0) James amepiaka sebule yake rangi nyekundu
+1) James ameipaka sebule yake rangi nyeupe
+
+Question 1086: Unafaa uwe macho kama mlinzi wa usiku usiibiwe Nairobi
+Options:
+0) Unafaa kuwa macho ndio usiibiwe Nairobi
+1) Si lazima uwe macho Nairobi, hakuna wezi
+
+Question 1087: Unafaa uwe macho kama jongoo usiibiwe Nairobi
+Options:
+0) Unafaa kuwa macho ndio usiibiwe Nairobi
+1) Si lazima uwe macho Nairobi, hakuna wezi
+
+Question 1088: Sherehe za wazungu huwa na vinywaji kali kama ndimu
+Options:
+0) Sherehe za wazungu huwa na vinywaji kali
+1) Sherehe za wazungu huwa na vinywaji tamu
+
+Question 1089: Sherehe za wazungu huwa na vinywaji kali kama asali
+Options:
+0) Sherehe za wazungu huwa na vinywaji kali
+1) Sherehe za wazungu huwa na vinywaji tamu
+
+Question 1090: Jirani yatu ana akili tupu kama pipa
+Options:
+0) Jirani yetu ni pumbavu
+1) Jirani yetu ni mwerevu
+
+Question 1091: Jirani yetu ana akili tupu kama bahari
+Options:
+0) Jirani yetu ni pumbavu
+1) Jirani yetu ni mwerevu
+
+Question 1092: Mapenzi yanafaa kuwa na amani kama jua la jioni
+Options:
+0) Mapenzi yanafaa kuwa na amani kila siku
+1) Mapenzi hayafai kuwa na amani kila siku
+
+Question 1093: Mapenzi yanafaa kuwa na amani kama kilabu
+Options:
+0) Mapenzi yanafaa kuwa na amani kila siku
+1) Mapenzi hayafai kuwa na amani kila siku
+
+Question 1094: Mbwa wa polisi ni hatari kama umeme
+Options:
+0) Mbwa wa polisi ni hatari
+1) Mbwa wa polisi si hatari
+
+Question 1095: Mbwa wa polisi ni hatari kama sungura
+Options:
+0) Mbwa wa polisi ni hatari
+1) Mbwa wa polisi si hatari
+
+Question 1096: Siku za Krismasi zimekaribia kama jino kwa lingine
+Options:
+0) Siku za krismasi zimekaribia
+1) Siku za krismasi bado zi mbali
+
+Question 1097: Siku za Krismasi zimekaribia kama jua na mwezi
+Options:
+0) Siku za krismasi zimekaribia
+1) Siku za krismasi bado zi mbali
+","1080,0
+1081,0
+1082,0
+1083,1
+1084,0
+1085,0
+1086,0
+1087,0
+1088,0
+1089,0
+1090,0
+1091,0
+1092,0
+1093,1
+1094,0
+1095,0
+1096,0
+1097,1"

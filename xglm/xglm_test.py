@@ -9,16 +9,17 @@ model2 = 'facebook/xglm-4.5B'
 model3 = 'facebook/xglm-1.7B'
 model4 = 'facebook/xglm-2.9B'
 model5 = 'facebook/xglm-7.5B'
+device = 'cuda'
 
 #####CHOSEN
 model = model1
 modelstr = model.split('/')[1]
 tokenizer = XGLMTokenizer.from_pretrained(model)
-model = XGLMForCausalLM.from_pretrained(model)
-
+model = XGLMForCausalLM.from_pretrained(model).to(device)
+print(model.device)
 
 def get_logprobs(prompt):
-    inputs = tokenizer(prompt, return_tensors="pt")
+    inputs = tokenizer(prompt, return_tensors="pt").to(device)
     input_ids, output_ids = inputs["input_ids"], inputs["input_ids"][:, 1:]
     outputs = model(**inputs, labels=input_ids)
     logits = outputs.logits
@@ -29,8 +30,9 @@ def get_logprobs(prompt):
 # A return value of 0 indicates that the first alternative is more plausible,
 # while 1 indicates that the second alternative is more plausible.
 def COPA_eval(prompt, alternative1, alternative2):
-    lprob1 = get_logprobs(prompt + "\n" + alternative1).sum()
-    lprob2 = get_logprobs(prompt + "\n" + alternative2).sum()
+    TEMPLATE = "Metaphor : {} Meaning : {}"
+    lprob1 = get_logprobs(TEMPLATE.format(prompt, alternative1)).sum()
+    lprob2 = get_logprobs(TEMPLATE.format(prompt, alternative2)).sum()
     return 0 if lprob1 > lprob2 else 1
 def compute_metric(predicted, true):
 
@@ -41,7 +43,7 @@ def compute_metric(predicted, true):
     return accuracy
 
 langs_list = ["en_dev", "hi", "id", "jv", "kn", "su", "sw", "yo"]
-for lang in langs_list[:]:
+for lang in langs_list[:1]:
     in_csv = f'../testdata/{lang}.csv'
     in_df = pd.read_csv(in_csv)
     predicted, true = [], []
@@ -52,9 +54,8 @@ for lang in langs_list[:]:
         true.append(example['labels'])
     acc = compute_metric(predicted, true)
     print(f"Zero shot performance for {lang} with XGLM : {acc}")
-    out_df = pd.DataFrame({'startphrase':example['startphrase'],'ending1':example['ending1'],
-                            'ending2':example['ending2'], 'labels':example['labels'], 
-                            'predicted label': predicted})
+    in_df['predicted label'] = predicted
+    out_df = in_df
     out_csv = f'./outputs/{modelstr}_predictions_{lang}.csv'
     out_df.to_csv(out_csv)
 # en-0 1 1

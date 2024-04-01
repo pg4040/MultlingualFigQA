@@ -1,0 +1,4243 @@
+Index,String
+0,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 0: Òkèlè ẹ̀bà mẹ́ẹ̀ẹ́dọ́gbọ̀n ni ọmọ náà jẹ lánàá
+Options:
+0) Ọmọ náà jẹ oúnjẹ púpọ̀
+1) Ọmọ náà kò jẹ oúnjẹ púpọ̀
+
+Question 1: Òkèlè ẹ̀bà kan ni ọmọ náà jẹ lánàá
+Options:
+0) Ọmọ náà jẹ oúnjẹ púpọ̀
+1) Ọmọ náà kò jẹ oúnjẹ púpọ̀
+
+Question 2: Ó burú bí i àjẹ́ apọmọjẹ
+Options:
+0) Ó máa ń rẹ́rìn-ín
+1) Ó níkà gan
+
+Question 3: Ó burú bí i ọlọ́kàn rere
+Options:
+0) Ó máa ń rẹ́rìn-ín
+1) Ó níkà gan
+
+Question 4: Òrùn náà ń fẹyín síta bí i ọmọ jòjòló
+Options:
+0) Ilẹ̀ mọ́ kedere
+1) Òkùnkún bolẹ̀ kan.
+
+Question 5: Òrùn náà kì í tan rárá
+Options:
+0) Ilẹ̀ mọ́ kedere
+1) Òkùnkún bolẹ̀ kan.
+
+Question 6: Ọpọlọ Tàlàbí dọ́ta bí i ọmọ òmùgọ̀ tí wọ́n rán láta tó lo ra Ọsàn
+Options:
+0) Orí Tàlàbí pé púpọ̀
+1) Orí Tàlàbí kò pé rárá
+
+Question 7: Ọpọlọ Tàlàbí ṣiṣẹ́ pépé bí i ọmọ tó mọ iṣẹ́ jẹ́
+Options:
+0) Orí Tàlàbí pé púpọ̀
+1) Orí Tàlàbí kò pé rárá
+
+Question 8: Ọmọbìnrin náà rí bí i ẹyẹ ọ̀kín
+Options:
+0) Ọmọbìnrin náà rẹwà
+1) Ọmọbìnrin náà burẹ́wà
+
+Question 9: Ọmọbìnrin náà rí bí i àkìtàn
+Options:
+0) Ọmọbìnrin náà rẹwà
+1) Ọmọbìnrin náà burẹ́wà
+
+Question 10: Àwọn ará ìlú ri pé Ẹkùn ni Ṣẹ́gun
+Options:
+0) Ṣẹ́gun ní ìgboyà
+1) Ọ̀lẹ ni Ṣẹ́gun
+
+Question 11: Àwọn ará ìlú ri pé Ìgbín ni Ṣẹ́gun
+Options:
+0) Ṣẹ́gun ní ìgboyà
+1) Ọ̀lẹ ni Ṣẹ́gun
+
+Question 12: Àwòko ni Àdìgún nínu orin kíkọ
+Options:
+0) Àdìgún mọ ọrin kọ
+1) Àdìgún kò mọ orin kọ.
+
+Question 13: Ọlọ́fin dídí ni Àdìgún nínú orin kíkọ
+Options:
+0) Àdìgún mọ ọrin kọ
+1) Àdìgún kò mọ orin kọ.
+
+Question 14: Ọmọ náà fò bí i ìgalà lánàá
+Options:
+0) Ara ọmọ náà balẹ̀
+1) Ara ọmọ náà kò balẹ̀ rárá
+
+Question 15: Ọmọ náà fò bí i ẹni tí kò lẹ́sẹ̀ lánàá
+Options:
+0) Ara ọmọ náà balẹ̀
+1) Ara ọmọ náà kò balẹ̀ rárá
+
+Question 16: Ẹlẹ́dẹ̀ ni Ìṣọlá nínu ilé rẹ̀
+Options:
+0) Ìṣọ̀lá ní ìmọ́tótó
+1) Ìṣọ̀lá ní ọ̀bùn
+
+Question 17: Ìṣọ̀lá má ń tún ilé rẹ̀ ṣe ní gbogbo nìgbà
+Options:
+0) Ìṣọ̀lá ní ìmọ́tótó
+1) Ìṣọ̀lá ní ọ̀bùn
+
+Question 18: Ìyá náà rí fàkìyà bí i àpáta Olúmọ
+Options:
+0) Ìyá náà tóbi / rọ̀bọ̀
+1) Ìyá nàá kò tóbi / rọ̀bọ̀
+
+Question 19: Ìyá náà rí bí i ọmọge ọ̀ṣọ́rọ́
+Options:
+0) Ìyá náà tóbi / rọ̀bọ̀
+1) Ìyá nàá kò tóbi / rọ̀bọ̀
+"
+1,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 20: Àwọ̀ rẹ rí bí i èédú tí wọ́n fí ń dáná
+Options:
+0) Àwọ̀ rẹ̀ dúdú gan
+1) Àwọ̀ rẹ̀ pupa gan
+
+Question 21: Àwọ̀ rẹ rí bí i góòlù tí mọ ṣẹ̀ṣẹ̀ rà láti ilẹ̀ òkèrè
+Options:
+0) Àwọ̀ rẹ̀ dúdú gan
+1) Àwọ̀ rẹ̀ pupa gan
+
+Question 22: Omí bọ́ lójú ìjàpà nígbà tí Ọba pàṣẹ pé kí wọ́n lọ pá.
+Options:
+0) Ìjàpá dunnú / Ìjàpá rẹ́rìn-ín
+1) Ìjàpá banújẹ́ / Ìjàpá sunkún
+
+Question 23: Omí bọ́ lójú ìjàpà nígbà tí Ọba pàṣẹ pé kí wọ́n fi joyè báálẹ̀.
+Options:
+0) Ìjàpá dunnú / Ìjàpá rẹ́rìn-ín
+1) Ìjàpá banújẹ́ / Ìjàpá sunkún
+
+Question 24: Àkekèé fi oró inú rẹ̀ rán ọ̀rẹ́ rẹ̀ Òkété lọ sí ọ̀run àrèmabọ̀
+Options:
+0) Àkekèé ṣekú pa Òkété
+1) Àkekèé kò ṣekú pa Òkété
+
+Question 25: Àkekèé fi oró inú rẹ̀ rán ọ̀rẹ́ rẹ̀ Òkété lọ sí ilé ijó
+Options:
+0) Àkekèé ṣekú pa Òkété
+1) Àkekèé kò ṣekú pa Òkété
+
+Question 26: Àpò ẹ̀wà méjì ni Bọ́lá jẹ kó tó sùn
+Options:
+0) Bọ́lá jẹ ẹ̀wà tó pọ̀ gan
+1) Bọ́lá kò jẹ ẹ̀wà tó pọ̀
+
+Question 27: Ẹ̀wà ṣíbí kan ni Bọ́lá jẹ kó tó sùn
+Options:
+0) Bọ́lá jẹ ẹ̀wà tó pọ̀ gan
+1) Bọ́lá kò jẹ ẹ̀wà tó pọ̀
+
+Question 28: Ajá ni Àdùkẹ́ jẹ́ fún gbogbo àwọn ọkùnrin àdúgbò
+Options:
+0) Oní ṣìnà / Aṣéwó ni Àdùkẹ́
+1) Àdùkẹ́ kì í ṣe Oní ṣìnà / Aṣéwó
+
+Question 29: Arẹwà ni Àdùkẹ́ jẹ́ fún gbogbo àwọn ọkùnrin àdúgbò
+Options:
+0) Oní ṣìnà / Aṣéwó ni Àdùkẹ́
+1) Àdùkẹ́ kì í ṣe Oní ṣìnà / Aṣéwó
+
+Question 30: Jẹgúduj́ẹrá ni àwọn olóṣèlú Ẹ̀kó
+Options:
+0) Olè l'àwọn olóṣèlú ìlú Èkó
+1) Àwọn olóṣèlú ìlú Èkó kì í ṣe olè
+
+Question 31: Olójú àánú ni àwọn olóṣèlú Ẹ̀kó
+Options:
+0) Olè l'àwọn olóṣèlú ìlú Èkó
+1) Àwọn olóṣèlú ìlú Èkó kì í ṣe olè
+
+Question 32: Arákùnrín náà ga, ó sì dúdú bí i kóró iṣin
+Options:
+0) Arákùnrin náà rẹwà
+1) Arákùnrin náà  kò rẹwà
+
+Question 33: Arákùnrín náà ga, ó sì dúdú bí i ọ̀bọ
+Options:
+0) Arákùnrin náà rẹwà
+1) Arákùnrin náà  kò rẹwà
+
+Question 34: Ọmọ náà wẹ̀ bí i ẹja lánàá ta lọ sódò.
+Options:
+0) Ọmọ náà mọ̀ ọ́ wẹ̀
+1) Ọmọ náà kò mọ̀ ọ́ wẹ̀
+
+Question 35: Ọmọ náà wọ́ bí i èkòló lánàá ta lọ sódò.
+Options:
+0) Ọmọ náà mọ̀ ọ́ wẹ̀
+1) Ọmọ náà kò mọ̀ ọ́ wẹ̀
+
+Question 36: Àwọn ewé Ọsàn náà jó lóri igi
+Options:
+0) Atẹ́gùn fẹ́ àwọn ewé Ọsàn náà
+1) Atẹ́gùn ò fẹ́ àwọn ewé náà
+
+Question 37: Àwọn ewé Ọsàn náà ò kúrò lójú kan lóri igi
+Options:
+0) Atẹ́gùn fẹ́ àwọn ewé Ọsàn náà
+1) Atẹ́gùn ò fẹ́ àwọn ewé náà
+
+Question 38: Àkókò ń sáré tete, a ò sí lè dúró de ẹnì kankan
+Options:
+0) Kò sí àkókò
+1) Ọ̀pọ̀ àkòkò ló wà
+
+Question 39: Àkókò ń fà bí i ìgbín, a ò sí lè dúró de ẹnì kankan
+Options:
+0) Kò sí àkókò
+1) Ọ̀pọ̀ àkòkò ló wà
+"
+2,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 40: Àdìó ń sáré bí i ẹsin níbi ìdíje eré sísá lọ́sẹ̀ tó kọjá
+Options:
+0) Àdìò mo eré sá gan
+1) Àdìò ò mọ eré sá
+
+Question 41: Àdìó ń fò bí i ẹ̀fọn níbi ìdíje eré sísá lọ́sẹ̀ tó kọjá
+Options:
+0) Àdìò mo eré sá gan
+1) Àdìò ò mọ eré sá
+
+Question 42: Òkúta ni ọkàn Ṣọlápé
+Options:
+0) Ọkàn Ṣọlápé le
+1) Ọkàn Ṣọlápé rọ̀
+
+Question 43: Ọkàn Ṣọlápé fẹ́lẹ́ bí i Àmàlà
+Options:
+0) Ọkàn Ṣọlápé le
+1) Ọkàn Ṣọlápé rọ̀
+
+Question 44: Bọ́lájí jẹun bí i ẹni tí kò jẹun fún ọdún mẹ́fà
+Options:
+0) Bọ́láji jẹun gan
+1) Bọ́láji kò jẹun rárá
+
+Question 45: Bọ́lájí jẹun bí i ẹni tó ti yó
+Options:
+0) Bọ́láji jẹun gan
+1) Bọ́láji kò jẹun rárá
+
+Question 46: Kúkúṣì ń bẹ lọ́wọ Fadékẹ́ bí i ti ẹ̀gbọ́n mi tó ń ta Kòkó
+Options:
+0) Fadékẹ́ ní owó lọ́wọ́ gan
+1) Fadékẹ́ tálákà gan
+
+Question 47: Ọwọ́ Fadékẹ́ ti kan ìsàlẹ̀ àpò bí i ti ẹ̀gbọ́n mi tó ń ta Kòkó
+Options:
+0) Fadékẹ́ ní owó lọ́wọ́ gan
+1) Fadékẹ́ tálákà gan
+
+Question 48: Gbogbo ìlú ti gbà pé Ìlú mọ̀ọ́ká ni Àrẹ̀mú
+Options:
+0) Àrẹ̀mú jẹ́ ẹni tí ó gbajúmọ̀
+1) Kò sí ẹni tí ó mọ Àrẹ̀mú
+
+Question 49: Gbogbo ìlú kò gbà pé Ìlú mọ̀ọ́ká ni Àrẹ̀mú
+Options:
+0) Àrẹ̀mú jẹ́ ẹni tí ó gbajúmọ̀
+1) Kò sí ẹni tí ó mọ Àrẹ̀mú
+
+Question 50: Ọbẹ̀ tí Àbẹ̀ní sè kurò bí i ewúro
+Options:
+0) Ọbẹ̀ náà kò dùn
+1) Ọbẹ̀ náà dùn ta lẹ́nu
+
+Question 51: Ọbẹ̀ tí Àbẹ̀ní sè̀ ládùn bí i oyin
+Options:
+0) Ọbẹ̀ náà kò dùn
+1) Ọbẹ̀ náà dùn ta lẹ́nu
+
+Question 52: Ọ̀fọ́n-ọ̀n ni gbogbo àwọn ẹni tí ọ̀ ń bá ṣọ̀rẹ́
+Options:
+0) Olè ni wọ́n
+1) Wọ́n kì í ṣe olè
+
+Question 53: Gbogbo àwọn ẹni tí ọ̀ ń bá ṣọ̀rẹ́ lawọ́
+Options:
+0) Olè ni wọ́n
+1) Wọ́n kì í ṣe olè
+
+Question 54: Ojo ni Àmọ̀pé kò lé dá pa áyán
+Options:
+0) Ọ̀lẹ ni Àmọ̀pé
+1) Àmọ̀pé ní Akínkanjú
+
+Question 55: Àmọ̀pé ní ìgboyà ó lé dá pa áyán
+Options:
+0) Ọ̀lẹ ni Àmọ̀pé
+1) Àmọ̀pé ní Akínkanjú
+
+Question 56: Ìgín ni Àlàmú nínu ká roko
+Options:
+0) Àlàmú kì í yára
+1) Àlàmú má ń rìndìn
+
+Question 57: Ọba ni Àlàmú nínu ká roko
+Options:
+0) Àlàmú kì í yára
+1) Àlàmú má ń rìndìn
+
+Question 58: Àwọ̀ Bọ́lájí rí bí i ti ááyán
+Options:
+0) Àwọ̀ Bọ́lájí dán
+1) Àwọ̀ Bọ́lájí ti ṣá
+
+Question 59: Àwọ̀ Bọ́lájí rí bí i ti eye àdán
+Options:
+0) Àwọ̀ Bọ́lájí dán
+1) Àwọ̀ Bọ́lájí ti ṣá
+"
+3,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 60: Oró inú àwọn olùkọ́ wa rí bí i ti ejò
+Options:
+0) Àwọn olùkọ́ wa burú gan
+1) Àwọn olùkọ́ ò burú
+
+Question 61: Àwọn olùkọ́ wa ò ní oró nínú
+Options:
+0) Àwọn olùkọ́ wa burú gan
+1) Àwọn olùkọ́ ò burú
+
+Question 62: Oyin ni Óunjẹ tí a jẹ lánàá
+Options:
+0) Óunjẹ tí a jẹ lánàá dùn gan
+1) Óunjẹ tí a jẹ lánàá kò dùn rárá
+
+Question 63: Ewúro ni Óunjẹ tí a jẹ lánàá
+Options:
+0) Óunjẹ tí a jẹ lánàá dùn gan
+1) Óunjẹ tí a jẹ lánàá kò dùn rárá
+
+Question 64: Àbíkẹ́ ní òye tó dájú nípa iṣẹ́ agbẹ̀bí bí i àwọn dọ́kítà ilẹ̀ òkèrè
+Options:
+0) Àbíkẹ́ mọ iṣẹ́ agbẹ̀bí dáadáa
+1) Àbíkẹ́ ò mọ iṣẹ́ agbẹ̀bí rárá
+
+Question 65: Àbíkẹ́ ní òye kukurú nípa iṣẹ́ agbẹ̀bí bí i àwọn dọ́kítà ilẹ̀ òkèrè
+Options:
+0) Àbíkẹ́ mọ iṣẹ́ agbẹ̀bí dáadáa
+1) Àbíkẹ́ ò mọ iṣẹ́ agbẹ̀bí rárá
+
+Question 66: Aṣọ àlà tí ó wọ̀ ti pọ́n bí i ẹni tó kó sínú ẹrọ̀fọ̀
+Options:
+0) Aṣọ funfun tí ó wọ̀ ti dọ̀tí
+1) Aṣọ funfun tí ó wọ̀ mọ́ gan
+
+Question 67: Aṣọ àlà tí ó wọ̀ mọ́ ju ẹyín tí mo ṣẹ̀ṣẹl fọ̀ láàárọ̀ yìí lọ
+Options:
+0) Aṣọ funfun tí ó wọ̀ ti dọ̀tí
+1) Aṣọ funfun tí ó wọ̀ mọ́ gan
+
+Question 68: Oní gángàngán ni Òjó gbogbo wa la mọ̀ bẹ́ẹ̀
+Options:
+0) Wèré ni Òjó
+1) Òjó kì í ṣe wèrè
+
+Question 69: Apẹja ni Òjó gbogbo wa la mọ̀ bẹ́ẹ̀
+Options:
+0) Wèré ni Òjó
+1) Òjó kì í ṣe wèrè
+
+Question 70: Inú yàrá ìdánwò nàá palọ́lọ́ bí i itẹ́ òkú
+Options:
+0) Kò sí ariwo nínu yàrá ìdánwò náà
+1) Ariwo ti pọ̀jù nínu yàrá ìdánwò nàá
+
+Question 71: Inú yàrá ìdánwò nàá rí bí i ọjà Oṣòdì
+Options:
+0) Kò sí ariwo nínu yàrá ìdánwò náà
+1) Ariwo ti pọ̀jù nínu yàrá ìdánwò nàá
+
+Question 72: Gbogbo ara ìyá àgbà ti gan sínú ilé bí i òkú tó wà nínu yìnyín
+Options:
+0) Òtútù mú ìyá àgbà
+1) Orú mú ìyá àgbà
+
+Question 73: Gbogbo ara ìyá àgbà kò gan sínú ilé
+Options:
+0) Òtútù mú ìyá àgbà
+1) Orú mú ìyá àgbà
+
+Question 74: Àlàmú rí òkun náà tó ń kọrin lásìkò tó ń bọ̀ láti ibi iṣẹ́
+Options:
+0) Àlàmù rí òkun náà tó ń ru
+1) Àlàmù rí òkun náà tó dákẹ́
+
+Question 75: Àlàmú rí òkun náà tó ń yọ iná lásìkò tó ń bọ̀ láti ibi iṣẹ́
+Options:
+0) Àlàmù rí òkun náà tó ń ru
+1) Àlàmù rí òkun náà tó dákẹ́
+
+Question 76: Àgbẹ̀ náà ti kó gbogbo ọmọ tí igi nàá bí lánàá
+Options:
+0) Àgbẹ̀ náà ti ká gbogbo èso tó wà lóri igi nàá
+1) Àgbẹ̀ náà ò ká èso kankan lóri igi nàá
+
+Question 77: Àgbẹ̀ náà pa gbogbo ọmọ tí igi nàá bí lánàá
+Options:
+0) Àgbẹ̀ náà ti ká gbogbo èso tó wà lóri igi nàá
+1) Àgbẹ̀ náà ò ká èso kankan lóri igi nàá
+
+Question 78: Lákíríboto ni arábìnrin tí ọ̀gá ṣẹ̀ṣẹ̀ gbà sí ẹnu iṣẹ́
+Options:
+0) Arábìnrin náà ò lójú ara
+1) Arábìnrin lójú ara
+
+Question 79: Ọmọdé ni arábìnrin tí ọ̀gá ṣẹ̀ṣẹ̀ gbà sí ẹnu iṣẹ́
+Options:
+0) Arábìnrin náà ò lójú ara
+1) Arábìnrin lójú ara
+"
+4,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 80: Àgàn ni Àṣàbí fún ọgbọ̀n ọdún
+Options:
+0) Àṣàbí ò rọ́mọ bí fún ọgbọ̀n ọdún
+1) Àṣàbí bí ọmọ tó pọ̀ fún ọgbọ̀n ọdún
+
+Question 81: Abiyamọ ni Àṣàbí fún ọgbọ̀n ọdún
+Options:
+0) Àṣàbí ò rọ́mọ bí fún ọgbọ̀n ọdún
+1) Àṣàbí bí ọmọ tó pọ̀ fún ọgbọ̀n ọdún
+
+Question 82: Láti kéreké ni Ìdòwú tí ń ṣe iṣẹ́ ọdẹ bí i bàbá rẹ̀
+Options:
+0) Ìdòwú ti pẹ́ gan nínú iṣẹ́ ọdẹ
+1) Ìdòwú ṣẹ̀ṣẹ̀ bẹ̀rẹ̀ iṣẹ́ ọdẹ
+
+Question 83: Láti kéreké ni Ìdòwú kò ti nífẹ̀ẹ́ si iṣẹ́ ọdẹ ṣíṣe
+Options:
+0) Ìdòwú ti pẹ́ gan nínú iṣẹ́ ọdẹ
+1) Ìdòwú ṣẹ̀ṣẹ̀ bẹ̀rẹ̀ iṣẹ́ ọdẹ
+
+Question 84: Orí Gbádébọ̀ rí bí i orí òkè olúmọ
+Options:
+0) Orí Gbádébọ̀ tóbi gan
+1) Orí Gbádébọ̀ kò tóbi
+
+Question 85: Orí Gbádébọ̀ kò rí bí i orí òkè olúmọ
+Options:
+0) Orí Gbádébọ̀ tóbi gan
+1) Orí Gbádébọ̀ kò tóbi
+
+Question 86: Ẹsẹ̀ Bólájí gùn bí i ọ̀pá Ọ̀rànmíyàn
+Options:
+0) Ẹsẹ Bólájí gùn gan
+1) Ẹsẹ Bólájí kéré gan
+
+Question 87: Ẹsẹ̀ Bólájí rẹwà bí i tọmọ ìkókó
+Options:
+0) Ẹsẹ Bólájí gùn gan
+1) Ẹsẹ Bólájí kéré gan
+
+Question 88: Èdè Yorùbá ẹnu rẹ̀ dánmọ́rán bí i tàwọn ará Ọ̀yọ́
+Options:
+0) Ó gbọ́ èdè Yorùbá dáadáa
+1) Kò gbọ́ èdè Yorùbá rárá
+
+Question 89: Èdè Yorùbá ẹnu rẹ̀ kò dánmọ́rán bí i tàwọn Ẹ̀gùn
+Options:
+0) Ó gbọ́ èdè Yorùbá dáadáa
+1) Kò gbọ́ èdè Yorùbá rárá
+
+Question 90: Gàrì náà kan bí i omi ògì
+Options:
+0) Gàrí náà kan
+1) Gàrí náà ò kan
+
+Question 91: Gàrì náà korò bí i omi ògì àná
+Options:
+0) Gàrí náà kan
+1) Gàrí náà ò kan
+
+Question 92: Eyín rẹ̀ funfun bí i ẹyẹ àdàbà
+Options:
+0) Eyin rẹ̀ mọ́
+1) Eyin rẹ̀ dọ̀tí
+
+Question 93: Eyín rẹ̀ kò funfun bí i ẹyẹ àdàbà
+Options:
+0) Eyin rẹ̀ mọ́
+1) Eyin rẹ̀ dọ̀tí
+
+Question 94: Adékúnlé dárípọ́ bí i orí aláǹgbá
+Options:
+0) Orí Adékúnlé pọ́n
+1) Orí Adékúnlé kò pọ́n
+
+Question 95: Adékúnlé ti fọ́ lórí níbi tó ti lọ jà
+Options:
+0) Orí Adékúnlé pọ́n
+1) Orí Adékúnlé kò pọ́n
+
+Question 96: Àso erin ni Bọ́látitó
+Options:
+0) Bọ́látitó máa ń dá nìkan wà
+1) Bọ́látitó máa ń wà pẹ̀lú àwọn ọ̀pọ̀ ènìyàn
+
+Question 97: Ọlọ́yàyà ni Bọ́látíto
+Options:
+0) Bọ́látitó máa ń dá nìkan wà
+1) Bọ́látitó máa ń wà pẹ̀lú àwọn ọ̀pọ̀ ènìyàn
+
+Question 98: Ará ọ̀run ni Àjàní
+Options:
+0) Eégún ni Àjàní
+1) Àjàní kì í ṣe Eégún
+
+Question 99: Àjàní kì i ṣe Ará ọ̀run
+Options:
+0) Eégún ni Àjàní
+1) Àjàní kì í ṣe Eégún
+"
+5,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 100: Paramọ́lẹ̀ ni Àbẹ̀kẹ́
+Options:
+0) Kò sí ẹni tó mọ ìṣe Àbẹ̀kẹ́
+1) Gbogbo wa la mọ ìṣe Àbẹ̀kẹ́
+
+Question 101: Àbẹ̀kẹ́ kì i ṣe Paramọ́lẹ̀
+Options:
+0) Kò sí ẹni tó mọ ìṣe Àbẹ̀kẹ́
+1) Gbogbo wa la mọ ìṣe Àbẹ̀kẹ́
+
+Question 102: Ẹlẹ́nu ẹyẹ ni Àgbékẹ́
+Options:
+0) Àgbékẹ́ máa ń fẹnu ba èèyàn jẹ́
+1) Àgbékẹ́ máa ń fẹnu kọrin
+
+Question 103: Aládúrà ni Àgbékẹ́
+Options:
+0) Àgbékẹ́ máa ń fẹnu ba èèyàn jẹ́
+1) Àgbékẹ́ máa ń fẹnu yin ènìyàn
+
+Question 104: Ọmọ náà gbọ́ Ifá, ó mọ nú ìgbín nínú ìkàrahun bí í abọrẹ̀ agboolé wa
+Options:
+0) Ọmọ náà mọ Ifá dáadáa
+1) Wọ́n ti kọ Ifá fún ọmọ náà sínú ìwè
+
+Question 105: Ọmọ náà kò mọ nǹkankan nípa Ifá
+Options:
+0) Ọmọ náà mọ Ifá dáadáa
+1) Wọ́n ti kọ Ifá fún ọmọ náà sínú ìwè
+
+Question 106: Àkàrà Gbádégẹṣin àti àbúrò rẹ̀ ti tú sépo bí i ti bàbá wọn tó wà lẹ́wọ̀n
+Options:
+0) Àṣírí Gbádégẹṣin àti àbúrò rẹ̀ ti tú
+1) Àṣírí Gbádégẹṣin àti àbúrò ti bò
+
+Question 107: Àkàrà Gbádégẹṣin àti àbúrò rẹ̀ kò tú sépo
+Options:
+0) Àṣírí Gbádégẹṣin àti àbúrò rẹ̀ ti tú
+1) Àṣírí Gbádégẹṣin àti àbúrò ti bò
+
+Question 108: Àbẹ̀ní se onírurú ọbẹ̀ lánàá bí i àwọn tó ń dáná olópò
+Options:
+0) Àbẹ̀ní se oríṣiríṣi ọbẹ̀ lánàá
+1) Àbẹ̀ní kò se oríṣiríṣi ọbẹ̀ lánàá
+
+Question 109: Àbẹ̀ní se onírurú ọbẹ̀ tí kò dùn lánàá.
+Options:
+0) Àbẹ̀ní se oríṣiríṣi ọbẹ̀ lánàá
+1) Àbẹ̀ní kò se oríṣiríṣi ọbẹ̀ lánàá
+
+Question 110: Ojú ọ̀run náà lóyún omi nǹkan bí i ago mọ́kànlá ló tó bímọ
+Options:
+0) Òjò náà sú lánàá ó tó ago mọ́kànlá kó tó rọ̀
+1) Òjò náà kò sú lánàá kò sì rọ̀ ní ago mọ́kànlá
+
+Question 111: Ojú ọ̀run náà ò lóyún omi
+Options:
+0) Òjò náà sú lánàá ó tó ago mọ́kànlá kó tó rọ̀
+1) Òjò náà kò sú lánàá kò sì rọ̀ ní ago mọ́kànlá
+
+Question 112: Òòrun àná ta ènìyàn lára bí i iná àdògán
+Options:
+0) Òòrùn àná mú gan
+1) Òòrùn àná kò mú rárá
+
+Question 113: Òòrun àná kò ta ènìyàn lára
+Options:
+0) Òòrùn àná mú gan
+1) Òòrùn àná kò mú rárá
+
+Question 114: Ojú Yẹmí le bí i ojú ọ̀daràn kò sí eni tó lè ba sọ̀rọ̀
+Options:
+0) Ojú Yẹmí le gan
+1) Ojú Yẹmí kò le rárá
+
+Question 115: Ojú Yẹmí ni àwọn ọmọge fẹ́ rí
+Options:
+0) Ojú Yẹmí le gan
+1) Ojú Yẹmí kò le rárá
+
+Question 116: Aṣọ Títílayọ̀ rí bí i aṣọ egbéré
+Options:
+0) Aṣọ Títílayọ̀ kò dára rárá
+1) Aṣọ Títílayọ̀ dára gan
+
+Question 117: Aṣọ Títílayọ̀ rí bí i aṣọ ọba ilé ifẹ̀
+Options:
+0) Aṣọ Títílayọ̀ kò dára rárá
+1) Aṣọ Títílayọ̀ dára gan
+
+Question 118: Adẹ́tẹ̀ ni Afọlábí
+Options:
+0) Afọlábí ò lè gbé láàárín àwọn ènìyàn
+1) Afọlábí lè gbé láàárín àwọn ènìyàn
+
+Question 119: Afọlábí kì i ṣe Adẹ́tẹ̀
+Options:
+0) Afọlábí ò lè gbé láàárín àwọn ènìyàn
+1) Afọlábí lè gbé láàárín àwọn ènìyàn
+"
+6,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 120: Adé ń pariwo bí i eni tí ajá bùjẹ
+Options:
+0) Adé ń pariwo gan
+1) Adé kò pariwo rárá
+
+Question 121: Adé ń pariwo bí i eni tí ó sù lọ fọnfọn
+Options:
+0) Adé ń pariwo gan
+1) Adé kò pariwo rárá
+
+Question 122: Ike omi ọgọ́rùn-ún ni Àdìsá pọn kó tó lọ sí ilé ìwé láàárọ̀ yìí
+Options:
+0) Àdìsá pọn omi púpọ̀
+1) Omi díẹ̀ ni Àdìsá pọn
+
+Question 123: Ike omi kan ṣoṣo ni Àdìsá pọn kó tó lọ sí ilé ìwé láàárọ̀ yìí
+Options:
+0) Àdìsá pọn omi púpọ̀
+1) Omi díẹ̀ ni Àdìsá pọn
+
+Question 124: Olùdíje náà sáré bí i atẹ́gùn
+Options:
+0) Olùdíje mọ eré sá gan
+1) Olùdíje náà kò sáré ba ṣe fẹ́
+
+Question 125: Olùdíje náà sáré bí i ìgín
+Options:
+0) Olùdíje mọ eré sá gan
+1) Olùdíje náà kò sáré ba ṣe fẹ́
+
+Question 126: Àpò náà wúwo bí i àpo tó kún fún òkúta ńlá
+Options:
+0) Àpò náà wúwo gan
+1) Àpò náà fuyẹ́
+
+Question 127: Àpò náà kò wúwo rárá
+Options:
+0) Àpò náà wúwo gan
+1) Àpò náà fuyẹ́
+
+Question 128: Ètè rẹ̀ dúdú bí i ètè ẹni tó ń fa igbó
+Options:
+0) Ètè rẹ̀ ti dúdú jù
+1) Ètè rẹ̀ pupa
+
+Question 129: Ètè rẹ̀ kò dúdú bí i ètè ẹni tó ń fa igbó
+Options:
+0) Ètè rẹ̀ ti dúdú jù
+1) Ètè rẹ̀ pupa
+
+Question 130: Fọlárìn jẹun bí i ẹlẹ́dẹ̀
+Options:
+0) Fọlárìn ò jẹun bàṣùbàṣù
+1) Fọlárìn bá ẹlẹ́dẹ̀ ṣeré
+
+Question 131: Fọlárìn ò jẹun bí i ẹlẹ́dẹ̀
+Options:
+0) Fọlárìn ò jẹun bàṣùbàṣù
+1) Fọlárìn bá ẹlẹ́dẹ̀ ṣeré
+
+Question 132: Ayọ̀mídé jẹ abọ́ ẹ̀bà méjìlá, ó wá ń gbẹ́sẹ̀ bí i olóyún tó ń rọbí
+Options:
+0) Ayọ̀mídé ò lẹ̀ rìn dáadáa lẹ́yìn abọ́ ẹ̀bà méjìlá
+1) Ayọ̀mídé rìn dáada lẹ́yìn abọ́ ẹ̀bà méjìlá
+
+Question 133: Ayọ̀mídé ò lè jẹ abọ́ ẹ̀bà méjìlá, kò sì rìn bí i olóyún
+Options:
+0) Ayọ̀mídé ò lẹ̀ rìn dáadáa lẹ́yìn abọ́ ẹ̀bà méjìlá
+1) Ayọ̀mídé rìn dáada lẹ́yìn abọ́ ẹ̀bà méjìlá
+
+Question 134: Ọlọ́jẹ̀ ni Dáṣọfúnjó
+Options:
+0) Eléégún ni Dánṣọfúnjó
+1) Oní ìlù ni Dánṣọfúnjó
+
+Question 135: Oníjó ni Dáṣọfúnjó
+Options:
+0) Eléégún ni Dánṣọfúnjó
+1) Oní ìlù ni Dánṣọfúnjó
+
+Question 136: Igi tí wọ́n fi pa ejó náà rí ràbàtà bí i igi ìrókò
+Options:
+0) Igi náà tóbi gan
+1) Igi náà kò tóbi gan
+
+Question 137: Igi tí wọ́n fi pa ejó náà rí sọrọ
+Options:
+0) Igi náà tóbi gan
+1) Igi náà kò tóbi gan
+
+Question 138: Ìyá Bọ́lájí sọ pé nǹkan ọmọ ọkùnrin bàbá Bọ́lájí rí bí i tọmọ ìkókó
+Options:
+0) Nǹkan ọmọ ọkùnrin bàbá Bọ́lájí ti kéré jù
+1) Nǹkan ọmọ ọkùnrin bàbá Bọ́lájí ti tóbi jù
+
+Question 139: Ìyá Bọ́lájí sọ pé nǹkan ọmọ ọkùnrin bàbá Bọ́lájí ṣiṣẹ́ dáadáa
+Options:
+0) Nǹkan ọmọ ọkùnrin bàbá Bọ́lájí ti kéré jù
+1) Nǹkan ọmọ ọkùnrin bàbá Bọ́lájí ti tóbi jù
+"
+7,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 140: Ró mi láṣọ ìmọ̀ bí i ọ̀jọgbọ̀n Wọlé Ṣóyinká
+Options:
+0) Mo fẹ́ ní ìmọ̀ ti ọ̀jọ̀gbọ̀n Wọlé Ṣóyinká ní
+1) Ọ̀jọ̀gbọ̀n Wọlé Ṣóyinká ò ní ìmọ̀ tí mo ní
+
+Question 141: Bàbá mi ni ọ̀jọ̀gbọ́n Wọlé Ṣóyinká
+Options:
+0) Mo fẹ́ ní ìmọ̀ ti ọ̀jọ̀gbọ̀n Wọlé Ṣóyinká ní
+1) Ọ̀jọ̀gbọ̀n Wọlé Ṣóyinká ò ní ìmọ̀ tí mo ní
+
+Question 142: Ọmọ ọdún mẹ́fà náà lu ìlù bí i ẹni tí wọ́n bí sí ìdílé àyàn
+Options:
+0) Ọmọ ọdún mẹ́fà náà mọ ìlú lù dáadáa
+1) Ọmọ ọdún mẹ́fà náà kò mọ ìlú lù rárá
+
+Question 143: Ọmọ ọdún mẹ́fà náà gbé ìlù kọ́rùn bí i ẹni tí wọ́n bí sí ìdílé àyàn
+Options:
+0) Ọmọ ọdún mẹ́fà náà mọ ìlú lù dáadáa
+1) Ọmọ ọdún mẹ́fà náà kò mọ ìlú lù rárá
+
+Question 144: Ìfẹ́ Adédoyin pamí bí i ọtí
+Options:
+0) Mo nífẹ̀ẹ́ Adédoyin gan
+1) Mo ò nífẹ̀ẹ́ Adédoyin rárá
+
+Question 145: Ìfẹ́ Adédoyin ti yọ́ kúrò lọ́kàn mi
+Options:
+0) Mo nífẹ̀ẹ́ Adédoyin gan
+1) Mo ò nífẹ̀ẹ́ Adédoyin rárá
+
+Question 146: Àbẹ̀ún kó sí aṣọ bí i ẹni tí òtútù ń mú
+Options:
+0) Àbẹ̀ún wọ aṣọ púpọ̀
+1) Àbẹ̀ún wọ aṣọ díẹ̀
+
+Question 147: Àbẹ̀ún kó sí́ aṣọ tuntun tó rà
+Options:
+0) Àbẹ̀ún wọ aṣọ púpọ̀
+1) Àbẹ̀ún wọ aṣọ díẹ̀
+
+Question 148: Ayé ò lọ bí i ọ̀pá ìbọn
+Options:
+0) Ayé ò lọ lóju kan
+1) Ọ̀nà kan layé wà
+
+Question 149: Ayé lọ bí i ọ̀pá òrúnmìlà
+Options:
+0) Ayé ò lọ lóju kan
+1) Ọ̀nà kan layé wà
+
+Question 150: Àdùnnị ṣẹ̀ṣẹ̀ bẹ̀rẹ̀ sí ní gun àkàbà orí ire rẹ
+Options:
+0) Àdùnní tí ń ṣe orí ire
+1) Orí burúkú ni Àdùnnní ṣe
+
+Question 151: Àdùnnị ṣẹ̀ṣẹ̀ bẹ̀rẹ̀ sí ní lọ ilé ìwé
+Options:
+0) Àdùnní tí ń ṣe orí ire
+1) Orí burúkú ni Àdùnnní ṣe
+
+Question 152: Tìmílẹ́yìn kógo já níbi ìdánwò àṣekágbá
+Options:
+0) Tímìlẹ́yìn ṣe àṣeyọrí
+1) Tímìlẹ́yìn ṣe òfò
+
+Question 153: Tìmílẹ́yìn fìdí rẹmi níbi ìdánwò àṣekágbá
+Options:
+0) Tímìlẹ́yìn ṣe àṣeyọrí
+1) Tímìlẹ́yìn ṣe òfò
+
+Question 154: Àmọ̀pé mí gúlegúle bí i ajá tí ẹbí pa
+Options:
+0) Àmọ̀pé yára mí lọ sókè sílẹ̀
+1) Àmọ̀pé mí lẹ́ẹ̀kan ṣoṣo
+
+Question 155: Àmọ̀pé kò mí mọ.
+Options:
+0) Àmọ̀pé yára mí lọ sókè sílẹ̀
+1) Àmọ̀pé mí lẹ́ẹ̀kan ṣoṣo
+
+Question 156: Àṣàkẹ́ jókòó sórí àga bí i ẹni ti ìsó gún nídìí
+Options:
+0) Àsàkẹ́ kò jókòó dáadáa
+1) Àsàkẹ́ jókòó fẹ̀yìntì
+
+Question 157: Àṣàkẹ́ fọ́ àga tó ṣẹ̀ṣẹ̀ rà
+Options:
+0) Àsàkẹ́ kò jókòó dáadáa
+1) Àsàkẹ́ jókòó fẹ̀yìntì
+
+Question 158: Ojú Ìgè rí bí i ojú eye àdán
+Options:
+0) Ojú Ìgè kò rẹwà
+1) Wọ́n fi ẹ̀rín sí ẹnu Ìgè
+
+Question 159: Ojú Ìgè kún fún ẹ̀rín àti ayọ
+Options:
+0) Ojú Ìgè kò rẹwà
+1) Wọ́n fi ẹ̀rín sí ẹnu Ìgè
+"
+8,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 160: Ó taná ojú bí i iná mọ́to ayọ́kẹ́lẹ́
+Options:
+0) Ó ń ranjú
+1) Ó ń rẹ́rìn ín
+
+Question 161: Ó taná ojú kò rí nǹkankan
+Options:
+0) Ó ń ranjú
+1) Ó ń rẹ́rìn ín
+
+Question 162: Ojú Fọlárìn ti relé dèé
+Options:
+0) Ojú Fọlárìn ti fọ́
+1) Fọlárìn ríran kedere
+
+Question 163: Ojú Fọlárìn ti tóbi jú
+Options:
+0) Ojú Fọlárìn ti fọ́
+1) Fọlárìn ríran kedere
+
+Question 164: Ẹsẹ̀ mẹ́ta ni Bọ́lájókòó fi ń rin bí i àwọn atọrọbáárà
+Options:
+0) Bọ́lájókòó ń fi ọ̀pá rìn
+1) Bọ́lájókòó ń fi ọ̀pá ṣeré
+
+Question 165: Ẹsẹ̀ tó ti kán ni Bọ́lájókòó fi ń rin
+Options:
+0) Bọ́lájókòó ń fi ọ̀pá rìn
+1) Bọ́lájókòó ń fi ọ̀pá ṣeré
+
+Question 166: Iyán náà fẹ́lẹ́ bí i etí
+Options:
+0) Iyán náà rọ̀
+1) Iyán náà le
+
+Question 167: Iyán náà wúwo bí i òkúta
+Options:
+0) Iyán náà rọ̀
+1) Iyán náà le
+
+Question 168: Ìdí àwọn akẹ́kọ̀ọ́ yọ eruku lala bí i omi gbóná nínú yàrá ìdánwò
+Options:
+0) Ìdánwò náà gbomi mu
+1) Ìdánwò náà rọrùn
+
+Question 169: Àwọn akẹ́kọ̀ọ́ sùn fọnfọn nínú yàrá ìdánwò
+Options:
+0) Ìdánwò náà gbomi mu
+1) Ìdánwò náà rọrùn
+
+Question 170: Adégbètẹ́ tu itọ́ sókè fojú gbáà nígbà tí ó ń bá ọ̀rẹ́ Mákindé sòrò
+Options:
+0) Adé́gbètẹ̀ bínú nígbà tí ó ń bá ọ̀rẹ́ rẹ̀ sọ̀rò
+1) Adé́gbètẹ̀ rẹ́rìn ín nígbà tí ó ń bá ọ̀rẹ́ rẹ̀ sọ̀rò
+
+Question 171: Adégbètẹ́ bú sẹ́kún nígbà tí ó ń bá ọ̀rẹ́ Mákindé sòrò
+Options:
+0) Adé́gbètẹ̀ bínú nígbà tí ó ń bá ọ̀rẹ́ rẹ̀ sọ̀rò
+1) Adé́gbètẹ̀ rẹ́rìn ín nígbà tí ó ń bá ọ̀rẹ́ rẹ̀ sọ̀rò
+
+Question 172: Arákunrìn náà ta téru nípàá níbi ìṣẹ̀lẹ̀ ìjàmbá ọkọ̀
+Options:
+0) Arákùnrin ná́à ti kú
+1) Arákùnrin ná́à wá ọ̀nà àbáyọ
+
+Question 173: Arákunrìn náà ra ọkọ̀ tuntun
+Options:
+0) Arákùnrin ná́à ti kú
+1) Arákùnrin ná́à wá ọ̀nà àbáyọ
+
+Question 174: Ẹ̀gbọ́n Símisọ́lá rí bí i Àdìgún tí kò yọ kúrò nílẹ̀
+Options:
+0) Ẹ̀gbọ́n Símisọ́lá ò ga
+1) Ẹ̀gbọ́n Símisọ́lá sùn lọ
+
+Question 175: Ẹ̀gbọ́n Símisọ́lá ti fẹ́ àbúrò Àdìgún tó rẹwà
+Options:
+0) Ẹ̀gbọ́n Símisọ́lá ò ga
+1) Ẹ̀gbọ́n Símisọ́lá sùn lọ
+
+Question 176: Èésúọlá àti àwọn ọ̀rẹ́ rẹ̀ yóò kẹsẹ̀ bọ sòkòtò kan ná-àn, ọlọ́pàá sì kó wọn
+Options:
+0) Èésúọlá àti àwọn ọ̀rẹ́ rẹ̀ ń jà
+1) Èésúọlá àti àwọn ọ̀rẹ́ rẹ̀ ṣeré kiri
+
+Question 177: Èésúọlá àti àwọn ọ̀rẹ́ rẹ̀ yóò aṣọ tó rẹwà tó sì jọra
+Options:
+0) Èésúọlá àti àwọn ọ̀rẹ́ rẹ̀ ń jà
+1) Èésúọlá àti àwọn ọ̀rẹ́ rẹ̀ ṣeré kiri
+
+Question 178: Ilé awòṣífìlà tó kọ́ rí bí i ààfin Ọba Ọọ̀ni ilé Ifẹ̀
+Options:
+0) Ilé awòṣífìnà náà rẹwà
+1) Ilé awòṣífìnà náà ti wó
+
+Question 179: Ilé awòṣífìlà tó kọ́ ti wó lul̀e
+Options:
+0) Ilé awòṣífìnà náà rẹwà
+1) Ilé awòṣífìnà náà ti wó
+"
+9,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 180: Ọjọ́ orí rẹ̀ ju ọjọ́ ori ij̀àpá lọ
+Options:
+0) O tí dàgbà gan
+1) O kéré gan
+
+Question 181: Ọjọ́ orí rẹ̀ kò tó ọjọ́ ori ij̀àpá lọ
+Options:
+0) O tí dàgbà gan
+1) O kéré gan
+
+Question 182: Àdìsà mu kòkò ẹmu ọgbọ̀n ní ilé ẹmu lánàá
+Options:
+0) Àdìsá mu ẹmu púpọ̀
+1) Àdìsá mu ẹmu kekeré
+
+Question 183: Àdìsà kò mu ẹmu rárá ní ilé ẹmu lánàá
+Options:
+0) Àdìsá mu ẹmu púpọ̀
+1) Àdìsá mu ẹmu kekeré
+
+Question 184: Ọdẹ́ṣọlá ní òye iṣẹ́ ọdẹ náà dójú àmì bí i olúọ́dẹ agboolé wa
+Options:
+0) Ọdẹ́ṣọlá mọ iṣẹ́ ọdẹ náà dáadáa
+1) Ọdẹ́ṣọlá ń fi iṣẹ́ ọdẹ ṣeré
+
+Question 185: Ọdẹ́ṣọlá ò mọ iṣẹ́ tí wọ́n pè ni iṣẹ́ ọdẹ.
+Options:
+0) Ọdẹ́ṣọlá mọ iṣẹ́ ọdẹ náà dáadáa
+1) Ọdẹ́ṣọlá ń fi iṣẹ́ ọdẹ ṣeré
+
+Question 186: Ení tere èji tere ló ń gba owó rẹ̀ padà bí i àwọn alájẹṣẹ́ku
+Options:
+0) Díẹ̀ díẹ̀ ló ń gba owó rẹ̀ padà
+1) Ó ṣe ìtọrẹ àánú pẹ̀lú owó rẹ̀
+
+Question 187: Ení tere èji tere kọ́ ló gba owó rẹ̀ padà
+Options:
+0) Díẹ̀ díẹ̀ ló ń gba owó rẹ̀ padà
+1) Ó ṣe ìtọrẹ àánú pẹ̀lú owó rẹ̀
+
+Question 188: Agbẹjọ́rò náà ti ṣíṣọ lójú eégún ọ̀rọ̀ náà nílé ẹjọ́
+Options:
+0) Agbẹjọ́rò náà ti sọ àṣírí ọ̀rọ̀ náà
+1) Agbẹjọ́rò náà ti sú ìgbẹ́jọ́ náà
+
+Question 189: Agbẹjọ́rò náà ò sọ ẹni tó jẹ̀bi
+Options:
+0) Agbẹjọ́rò náà ti sọ àṣírí ọ̀rọ̀ náà
+1) Agbẹjọ́rò náà ti sú ìgbẹ́jọ́ náà
+
+Question 190: Èrò tó wà lọ́jà kún àkúnfàya lánàá
+Options:
+0) Àwọn ènìyàn púpọ̀ wà lọ́jà
+1) Àwọn mẹ́ta péré ló wà lọ́jà
+
+Question 191: Àwọ́n èrò tó wà lọ́jà tí fi ọlọ́pàá gbé bàbá ọjà lánàá
+Options:
+0) Àwọn ènìyàn púpọ̀ wà lọ́jà
+1) Àwọn mẹ́ta péré ló wà lọ́jà
+
+Question 192: Inú Fadékẹ́ ti padà yọ́ sí mi bí i òrí lánàá lẹ́yìn gbogbo ìjà wa
+Options:
+0) Fadékẹ́ ti padà dárjíì mìí
+1) Fadékẹ́ ti padà bínú sí mi
+
+Question 193: Fadékẹ́ ti padà bí ìbejì lẹ́yìn gbogbo ìjà wa
+Options:
+0) Fadékẹ́ ti padà dárjíì mìí
+1) Fadékẹ́ ti padà bínú sí mi
+
+Question 194: Ìka kan ò wọ àwọn ọmọ yìí nídìí mọ́
+Options:
+0) Eréepá ni àwọn ọmọ náà ṣe kiri
+1) Àwọn ọmọ náà jókòó sí ibìkan
+
+Question 195: À̀wọn ọmọ yìí ti lọ sóko ọ̀gẹ̀dẹ̀
+Options:
+0) Eréepá ni àwọn ọmọ náà ṣe kiri
+1) Àwọn ọmọ náà jókòó sí ibìkan
+
+Question 196: Ó rí ẹ̀wọ̀n ọdún mọ́kànlá he nílé ẹjọ́ lóri ẹ̀sùn tí wọ́n fi kàn-án
+Options:
+0) Wọ́n dájọ́ ẹ̀wọ̀n ọdún mọ́kànlá fun nílé ẹjọ́
+1) Ó ń polówó ọjà nílé ẹjọ́
+
+Question 197: Lẹ́yìn ẹ̀wọ̀n ọdún mọ́kànlá tó rí he ó padà gba ìtúsílẹ̀
+Options:
+0) Wọ́n dájọ́ ẹ̀wọ̀n ọdún mọ́kànlá fun nílé ẹjọ́
+1) Ó ń polówó ọjà nílé ẹjọ́
+
+Question 198: Ẹ wo bí Adénúgà ṣe ń gun igi bí i ọ̀bọ
+Options:
+0) Adénúgà pọ́n igi gùn dáadáa
+1) Adénúgà sùn lóri igi
+
+Question 199: Adénúgà nífẹ̀ẹ́ sí bí àwọn ọ̀bọ ṣé n gun igi
+Options:
+0) Adénúgà pọ́n igi gùn dáadáa
+1) Adénúgà sùn lóri igi
+"
+10,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 200: Ẹnu ni Tifẹ́ladé ni bí i tajakàrà
+Options:
+0) Tifẹ́ladé máa ń sọ àsọdùn ọ̀rọ̀
+1) Tifẹ́ladé kì í sòrò
+
+Question 201: Tifẹ́ladé kò mọ̀ bi wọ́n ṣe dan ẹnu
+Options:
+0) Tifẹ́ladé máa ń sọ àsọdùn ọ̀rọ̀
+1) Tifẹ́ladé kì í sòrò
+
+Question 202: Kí ló dé tí Adéṣínà ṣe máa ń hùwà bí i atọ̀ọ́lé?
+Options:
+0) Ìwà ọmọdé ni Adéṣínà máa ń wù
+1) Adéṣínà nífẹ̀ẹ́ sí kó ma tọ̀ sára
+
+Question 203: Kí ló dé tí Adéṣínà ṣe ra ilé tuntun?
+Options:
+0) Ìwà ọmọdé ni Adéṣínà máa ń wù
+1) Adéṣínà nífẹ̀ẹ́ sí kó ma tọ̀ sára
+
+Question 204: Ẹ wo bí Àlàó ṣe duró bí i omi adágún odò
+Options:
+0) Àlàó kò kúrò lójú kan
+1) Àlàó ń rìn kiri
+
+Question 205: Ẹ wo bí Àlàó ṣe duró bí i Ọba
+Options:
+0) Àlàó kò kúrò lójú kan
+1) Àlàó ń rìn kiri
+
+Question 206: Àwọn olè náà júbà eworo nígbà tí wọ́n gbúròó àwọn ọlọ́pàá
+Options:
+0) Àwọn olè náà sálọ
+1) Àwọn olè náà gbé ìbọn wọn jáde
+
+Question 207: Àwọn olè náà yin ìbọn nígbà tí wọ́n gbúròó àwọn ̀ọlọ́pàá
+Options:
+0) Àwọn olè náà sálọ
+1) Àwọn olè náà gbé ìbọn wọn jáde
+
+Question 208: Ọ̀sẹ̀ kan rèé tí Wọléọlá ti wà nínú yàrá bí i ẹni tọ́ fi s'ẹ́wọ̀n
+Options:
+0) Ó ti pẹ́ gan tí Wọléọlá ti wà nínú yàrá
+1) Wọléọlá ṣẹ̀ṣẹ̀ wọ inú yàrá
+
+Question 209: Ọ̀sẹ̀ kan rèé tí Wọléọlá ti lọ sí ìlú ọba
+Options:
+0) Ó ti pẹ́ gan tí Wọléọlá ti wà nínú yàrá
+1) Wọléọlá ṣẹ̀ṣẹ̀ wọ inú yàrá
+
+Question 210: Ọdẹ́wùnmí júbà gbogbo àwọn àgbà ọdẹ bí i ẹni tí kò kọ́ṣẹ́ ọdẹ
+Options:
+0) Ọdẹ́wùnmí kò kí àwọn àgbà ọdẹ dáadáa
+1) Ọdẹ́wùnmí pariwo mọ́ àwọn àgbà ọdẹ
+
+Question 211: Ọdẹ́wùnmí bú gbogbo àwọn àgbà ọdẹ tí wọn jókòó
+Options:
+0) Ọdẹ́wùnmí kò kí àwọn àgbà ọdẹ dáadáa
+1) Ọdẹ́wùnmí pariwo mọ́ àwọn àgbà ọdẹ
+
+Question 212: Ọ̀gbẹ̀rì ni Adénifújà nínú ẹgbẹ́ wa
+Options:
+0) Adénifújà kì í ṣe ọmọ ẹgbẹ́ wa
+1) Olórí ẹgbẹ́ wa ni Adénifújà
+
+Question 213: Adénifújà kì í ṣe Ọ̀gbẹ̀ri nínú ẹgbẹ́ wa
+Options:
+0) Adénifújà kì í ṣe ọmọ ẹgbẹ́ wa
+1) Olórí ẹgbẹ́ wa ni Adénifújà
+
+Question 214: Wọ́n na Bólájí nílù bààrà bí i ẹni tó jalè
+Options:
+0) Wọ́n na Bọ́lájí gan
+1) Wọ́n gbé Bọ́lájí lọ jayé
+
+Question 215: Wọ́n gbé oúnjẹ tó dùn fún Bólájí
+Options:
+0) Wọ́n na Bọ́lájí gan
+1) Wọ́n gbé Bọ́lájí lọ jayé
+
+Question 216: Arákùnrin náà fẹ́ ìyàwọ̀ lọ bìbà bí i ọba Aláàfin
+Options:
+0) Arákùnrin náà fẹ́ ìyàwó púpọ̀
+1) Ìyàwó kan ṣoṣo ni arákùnrin náà fẹ́
+
+Question 217: Arákùnrin náà fẹ́ burẹ́wà
+Options:
+0) Arákùnrin náà fẹ́ ìyàwó púpọ̀
+1) Ìyàwó kan ṣoṣo ni arákùnrin náà fẹ́
+
+Question 218: Ogúnlọ́gọ̀ àwọn ènìyàn ló wà ní pápá ìṣeré tí wọ́n ti fẹ́ gbá bọ́ọ̀lù ikọ̀ Nàìjíríà
+Options:
+0) Ènìyàn tó pọ̀ ló wà ní pápá ìṣeré náà
+1) Ènìyàn mẹ́fà páré ló wà ní pápá ìṣeré náà
+
+Question 219: Àwọn ènìyàn tó wà ní pápá ìṣeré tí wọ́n ti fẹ́ gbá bọ́ọ̀lù tí ń jà
+Options:
+0) Ènìyàn tó pọ̀ ló wà ní pápá ìṣeré náà
+1) Ènìyàn mẹ́fà páré ló wà ní pápá ìṣeré náà
+"
+11,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 220: Àwọn ikọ̀ Nàìjíríà ti fakọyọ níbí ìdíje ife ẹ̀yẹ àgbáyé ju ti àtẹ̀yìn wá lọ
+Options:
+0) Ikọ̀ Nàìjíríà ṣe dáadáa níbi ìdíje ife ẹ̀yẹ àgbáyé
+1) Ikọ̀ Nàìjíríà hùwà ìbàjẹ́ níbi ìdíje ife ẹ̀yẹ àgbáyé
+
+Question 221: Àwọn ikọ̀ Nàìjíríà ti kó igbá wọlé níbí ìdíje ife ẹ̀yẹ àgbáyé
+Options:
+0) Ikọ̀ Nàìjíríà ṣe dáadáa níbi ìdíje ife ẹ̀yẹ àgbáyé
+1) Ikọ̀ Nàìjíríà hùwà ìbàjẹ́ níbi ìdíje ife ẹ̀yẹ àgbáyé
+
+Question 222: Etí Arínájà rí bí i eté eworo
+Options:
+0) Etí Arínájà tóbi gan
+1) Etí Arínájà kéré gan
+
+Question 223: Etí Arínájà tí gbọ́ ọ̀rọ̀ dáadáa
+Options:
+0) Etí Arínájà tóbi gan
+1) Etí Arínájà kéré gan
+
+Question 224: Adérẹ̀mí ṣe Arímọrọ̀ bí ọṣẹ́ ṣé ń ṣojú nígbà tí wọ́n ja ìjà ìjàkadi lánàá
+Options:
+0) Adérẹ̀mí na Arímọrọ̀ níbi ìjà ìjàkadì lánàá
+1) Adérẹ̀mí ṣeré pẹ̀lú Arímọrọ̀ níbi ìjà ìjàkadì lánàá
+
+Question 225: Adérẹ̀mí gbé Arímọrọ̀ lọ jayé ọba lánàá
+Options:
+0) Adérẹ̀mí na Arímọrọ̀ níbi ìjà ìjàkadì lánàá
+1) Adérẹ̀mí ṣeré pẹ̀lú Arímọrọ̀ níbi ìjà ìjàkadì lánàá
+
+Question 226: Àrẹ̀mú ti ń lúwẹ̀ẹ́ nínú odò ìfẹ́ Ọmọ́ṣaléwá
+Options:
+0) Àrẹ̀mú ti ń nífẹ̀ẹ́ Ọmọ́ṣaléwá
+1) Àrẹ̀mú ti lọ pọn omi fún Ọmọ́ṣaléwá lódò
+
+Question 227: Àrẹ̀mú ò fẹ́ràn láti ma fojú ri Ọmọ́ṣaléwá
+Options:
+0) Àrẹ̀mú ti ń nífẹ̀ẹ́ Ọmọ́ṣaléwá
+1) Àrẹ̀mú ti lọ pọn omi fún Ọmọ́ṣaléwá lódò
+
+Question 228: Bàbá Agbájé ń fẹnu fa ọyùn ìyàwò rẹ̀ bí i ọmọ ìkókó tí kò tí ì já lẹ́nu ọyùn
+Options:
+0) Bàbá Agbájé mọ ọyùn mu
+1) Bàbá Agbájé mọ oúnjẹ sè
+
+Question 229: Bàbá Agbájé kò fẹnu fa ọyùn ìyàwò rẹ̀
+Options:
+0) Bàbá Agbájé mọ ọyùn mu
+1) Bàbá Agbájé mọ oúnjẹ sè
+
+Question 230: Iná ọdẹ náà tàn bí i iná àtùpà tí epo ti fẹ́ tán nínú rẹ̀
+Options:
+0) Iná ọdẹ náà kò mọ́lẹ̀ dáadáa
+1) Iná ọdẹ náà ti kú
+
+Question 231: Iná ọdẹ náà tàn, ó sì ríran kedere
+Options:
+0) Iná ọdẹ náà kò mọ́lẹ̀ dáadáa
+1) Iná ọdẹ náà ti kú
+
+Question 232: Adéyẹmí kanra bí i ajá elégbọn láti àárọ̀
+Options:
+0) Adéyẹmí bínú láti àárọ̀
+1) Adéyẹmí rẹ́rìn ín láti àárọ̀
+
+Question 233: Adéyẹmí má ń bá àwọn ajá ṣeré
+Options:
+0) Adéyẹmí bínú láti àárọ̀
+1) Adéyẹmí rẹ́rìn ín láti àárọ̀
+
+Question 234: Ọmọ ọ̀dọ̀ àgbà ni Adéṣọlá nínú àṣà àti ìṣe ilẹ̀ Yorùbá
+Options:
+0) Adéṣọlá ní ìmọ̀ ìjìnlẹ̀ nípa àṣà àti ìṣe ilẹ̀ Yorùbá
+1) Adéṣọlá ní orí kuku
+
+Question 235: Ọmọ Ègùn ni Adéṣọlá kò mọ̀ nípa àṣà ilẹ̀ Yorùbá
+Options:
+0) Adéṣọlá ní ìmọ̀ ìjìnlẹ̀ nípa àṣà àti ìṣe ilẹ̀ Yorùbá
+1) Adéṣọlá ní orí kuku
+
+Question 236: Adésuà fọwọ́ osùn pa ògiri gbígbe lánàá nílé ìwòsàn
+Options:
+0) Adésuà bí ọmọ tuntun lánàá
+1) Adésuà na ọmọ tuntun tó bí
+
+Question 237: Adésuà ti bẹ̀rẹ̀ sí ni ṣe àìsàn lánàá nílé ìwòsàn
+Options:
+0) Adésuà bí ọmọ tuntun lánàá
+1) Adésuà na ọmọ tuntun tó bí
+
+Question 238: Ọjọ́ tí òbò bá jẹ ọba lorílẹ̀ èdè yìí ni ìlú bàjẹ́
+Options:
+0) Ọjọ́ ti obìnrin bá jẹ ọba ni ìlú ma bàjẹ́
+1) Ọjọ́ ti obìnrin bá jẹ ọba ni ìlú yìí ma tòrò
+
+Question 239: Ọba orílẹ̀ èdè yìí ti ṣe ohun mánigbàgbé sí ìlú wa
+Options:
+0) Ọjọ́ ti obìnrin bá jẹ ọba ni ìlú ma bàjẹ́
+1) Ọjọ́ ti obìnrin bá jẹ ọba ni ìlú yìí ma tòrò
+"
+12,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 240: Iyàwò Rọ̀gbà sunkún àìrípọ̀n nílé ọkọ rẹ̀ lẹ́yìn ìgbéyàwó ọdún mọ́kànlá
+Options:
+0) Iyàwò Rọ̀gbà sunkún àìrọ́mọ bí nílé ọkọ rẹ̀
+1) Iyàwò Rọ̀gbà dunnú sí àwọn ọmọ tó bí
+
+Question 241: Iyàwò Rọ̀gbà se oúnjẹ aládùn fún ọkọ rẹ̀
+Options:
+0) Iyàwò Rọ̀gbà sunkún àìrọ́mọ bí nílé ọkọ rẹ̀
+1) Iyàwò Rọ̀gbà dunnú sí àwọn ọmọ tó bí
+
+Question 242: Ajá náà bí akọ àti abo bí i àgùntàn tó bímọ láàrọ́ yìí
+Options:
+0) Ajá náà bí ọkùnrin àti obìnirin
+1) Ajá náà jẹ ọmọ tó bí
+
+Question 243: Ajá náà kò bí akọ àti abo
+Options:
+0) Ajá náà bí ọkùnrin àti obìnirin
+1) Ajá náà jẹ ọmọ tó bí
+
+Question 244: Àdìmúlà ti gbà èkuru jẹ lọ́wọ́ ẹbọra
+Options:
+0) Àdìmúlà ti kú
+1) Àdìmúlà lọ jí èkuru jẹ
+
+Question 245: Àdìmúlà se èkuru fún à̀wọn ẹgbẹ́ rẹ̀
+Options:
+0) Àdìmúlà ti kú
+1) Àdìmúlà lọ jí èkuru jẹ
+
+Question 246: Ilé àwòdamiẹnu ni ilé tí bàbá mi kọ́
+Options:
+0) Ilé tí bàbá mi kọ́ rẹwà gan
+1) Ilé tí bàbá mi kọ́ ti wó
+
+Question 247: Ilé àwòdamiẹnu tí bàbá mi kọ́ ti wó
+Options:
+0) Ilé tí bàbá mi kọ́ rẹwà gan
+1) Ilé tí bàbá mi kọ́ ti wó
+
+Question 248: Ìjọba yẹgi fún arákùnrin náà tó jí owó ìjọba gbé
+Options:
+0) Ìjọba pa arákùnrin náà
+1) Ìjọba gbé arákùnrin náà lọ ilé ẹjọ́
+
+Question 249: Ìjọba ti fún arákùnrin náà ní owó tó pọ̀.
+Options:
+0) Ìjọba pa arákùnrin náà
+1) Ìjọba gbé arákùnrin náà lọ ilé ẹjọ́
+
+Question 250: Àwọn ọ̀rẹ́ mi ti lọ gbẹ̀yìn bẹbo jẹ́ lóri ohun tí a ṣe lánàá
+Options:
+0) Àwọn ọ̀rẹ́ mi ti lọ tú àṣírí ohun tí a ṣe lánàá
+1) Àwọn ọ̀rẹ́ mi ti lọ gbé ohun tí a ṣe lánàá
+
+Question 251: Àwọn ọ̀rẹ́ mi ló ra aṣọ tí mo wọ̀ lánàá
+Options:
+0) Àwọn ọ̀rẹ́ mi ti lọ tú àṣírí ohun tí a ṣe lánàá
+1) Àwọn ọ̀rẹ́ mi ti lọ gbé ohun tí a ṣe lánàá
+
+Question 252: Apo ẹ̀pà ẹgbẹ̀rún mẹ́fà ni Mojí yan lálẹ́ àná kin tó sùn
+Options:
+0) Ẹ̀pà tó pọ̀ ni Mojí yan lálẹ́ àná
+1) Ẹ̀pà ni Mojí jẹ lálẹ́ àná
+
+Question 253: Ẹ̀pà hóró mẹ́fà ni Mojí yan lálẹ́ àná kin tó sùn
+Options:
+0) Ẹ̀pà tó pọ̀ ni Mojí yan lálẹ́ àná
+1) Ẹ̀pà ni Mojí jẹ lálẹ́ àná
+
+Question 254: Àmọ̀pé rawọ́ ẹ̀bẹ̀ sí Olódùmarè fún gbogbo àwọn tí wọ́n diwọ́ disẹ̀ sínú
+Options:
+0) Àmọ̀pé rawọ́ ẹ̀bẹ̀ sí Olódùmarè fún gbogbo àwọn tí wọ́n lóyún
+1) Àmọ̀pé rawọ́ ẹ̀bẹ̀ sí Olódùmarè fún gbogbo àwọn ọmọdé
+
+Question 255: Àmọ̀pé ṣépè fún gbogbo àwọn tí wọ́n diwọ́ disẹ̀ sínú
+Options:
+0) Àmọ̀pé rawọ́ ẹ̀bẹ̀ sí Olódùmarè fún gbogbo àwọn tí wọ́n lóyún
+1) Àmọ̀pé rawọ́ ẹ̀bẹ̀ sí Olódùmarè fún gbogbo àwọn ọmọdé
+
+Question 256: Ọ̀kẹ́ ṣiṣẹ́ bí i omi òjò lánàá
+Options:
+0) Ọ̀kẹ́ ṣiṣẹ́ láì sinmi
+1) Ọ̀kẹ́ ṣiṣẹ́ ọpọlọ
+
+Question 257: Ọ̀kẹ́ ò ṣiṣẹ́ kankan rárá lánàá
+Options:
+0) Ọ̀kẹ́ ṣiṣẹ́ láì sinmi
+1) Ọ̀kẹ́ ṣiṣẹ́ ọpọlọ
+
+Question 258: Bàbá àgbà tẹ́rígbaṣọ lẹ́yìn ìnáwó tí a ṣe lánàá
+Options:
+0) Bàbá Àgbà ti kú
+1) Bàbá Àgbà ti wo aṣọ tuntun
+
+Question 259: Bàbá àgbà raṣọ àti bàtà lẹ́yìn ìnáwó tí a ṣe lánàá
+Options:
+0) Bàbá Àgbà ti kú
+1) Bàbá Àgbà ti wo aṣọ tuntun
+"
+13,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 260: Lẹ́yìn iṣẹ́ ìjọba ti Àlàkẹ́ ń ṣe, ó tún wá nǹkan mìíràn fi pawọ́dà
+Options:
+0) Àlàkẹ́ ṣiṣẹ́ mìíràn lẹ́yìn iṣẹ́ ìjọba
+1) Àlàkẹ́ ṣiṣẹ́ tó pọ̀ lánàá
+
+Question 261: Lẹ́yìn tí ìjọba mú Àlàkẹ́, kò ri iṣẹ́ gbà mọ
+Options:
+0) Àlàkẹ́ ṣiṣẹ́ mìíràn lẹ́yìn iṣẹ́ ìjọba
+1) Àlàkẹ́ ṣiṣẹ́ tó pọ̀ lánàá
+
+Question 262: Bí ọwọ́ Okùnọlá ò bá ṣe, ẹnu rẹ̀ kòlè jẹ
+Options:
+0) Bí Okùnọlá ò bá ṣiṣẹ́, kò lè rí oúnjẹ jẹ
+1) Bí Okùnọlá ò bá ṣiṣẹ́, kò lè sùn
+
+Question 263: Okùnọlá ń fi iṣẹ́ ọwọ́ rẹ̀ ra oúnjẹ sí ẹnu ara rẹ̀
+Options:
+0) Bí Okùnọlá ò bá ṣiṣẹ́, kò lè rí oúnjẹ jẹ
+1) Bí Okùnọlá ò bá ṣiṣẹ́, kò lè sùn
+
+Question 264: Ìdánwò tí Dúpé ṣe lánàá gbomi gan
+Options:
+0) Ìdánwò náà le gan
+1) Ìdánwò náà rọ̀
+
+Question 265: Ìdánwò tí Dúpé ṣe lánàá ò gbomi rárá
+Options:
+0) Ìdánwò náà le gan
+1) Ìdánwò náà rọ̀
+
+Question 266: Mo wo sinimá Aníkúlápó nígbà igba
+Options:
+0) Mo wo sinimá Aníkúlápó ní ọ̀pọ̀lọpọ̀ ìgbà
+1) Mo wo sinimá Aníkúlápó lẹ́ẹ̀kan ṣoṣo
+
+Question 267: Sinimá Aníkúlápó tí mo wò kò dùn
+Options:
+0) Mo wo sinimá Aníkúlápó ní ọ̀pọ̀lọpọ̀ ìgbà
+1) Mo wo sinimá Aníkúlápó lẹ́ẹ̀kan ṣoṣo
+
+Question 268: Ewé nàá pọ́n bí i òdòdó
+Options:
+0) Ewé náà pọ́n gan
+1) Ewé náà dúdú gan
+
+Question 269: Ewé nàá ti sunko
+Options:
+0) Ewé náà pọ́n gan
+1) Ewé náà dúdú gan
+
+Question 270: Rónmú dún bí i àkukọ ní àárọ̀ yìí
+Options:
+0) Rónmú pariwo ní àárọ̀ yìí
+1) Rónmú se oúnjẹ
+
+Question 271: Rónmú ti lọ ra àkukọ lọ́ja ní àárọ̀ yìí
+Options:
+0) Rónmú pariwo ní àárọ̀ yìí
+1) Rónmú se oúnjẹ
+
+Question 272: Ojú ọbẹ̀ àti ẹ̀bà tí ó sè ń pe àwọn aràn inú mi
+Options:
+0) Mo fẹ́ jẹ ẹ̀bà àti ọbẹ
+1) Ọbẹ̀ àti ẹ̀bà nàá korò
+
+Question 273: Ojú ọbẹ̀ àti ẹ̀bà tí ó sè rí bí i ẹrọ̀fọ̀
+Options:
+0) Mo fẹ́ jẹ ẹ̀bà àti ọbẹ
+1) Ọbẹ̀ àti ẹ̀bà nàá korò
+
+Question 274: Ebi ti fẹ́ kó ìfun mi lé mi lọ́wọ́ nígbà tí mo jí
+Options:
+0) Ebi ń pamí gidigan
+1) Mo ti fún ebi níṣẹ́
+
+Question 275: Ebi kò pa mí mo ti jẹun yó
+Options:
+0) Ebi ń pamí gidigan
+1) Mo ti fún ebi níṣẹ́
+
+Question 276: Ajá Tifẹ́ gba bàtà lẹ́sẹ̀ mi, ẹ̀sẹ̀ mi ò balẹ̀
+Options:
+0) Ajá Tifẹ́ lé mi léré
+1) Ajá Tifẹ́ jẹ egungun
+
+Question 277: Mo fẹ́ràn láti ma bá ajá Tifẹ́ ṣerẹ́
+Options:
+0) Ajá Tifẹ́ lé mi léré
+1) Ajá Tifẹ́ jẹ egungun
+
+Question 278: Lọ́ládé gbé ọ̀rọ̀ náà sórí bí i igbá ọtí
+Options:
+0) Lọ́ládé bínú sí ọ̀rọ̀ náà
+1) Lọ́ládé rẹ́rìn-ín sí ọ̀rọ̀ náà
+
+Question 279: Lọ́ládé ti sọ ọ̀rọ̀ kóríyá fún àwọn akẹ́kọ̀ó
+Options:
+0) Lọ́ládé bínú sí ọ̀rọ̀ náà
+1) Lọ́ládé rẹ́rìn-ín sí ọ̀rọ̀ náà
+"
+14,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 280: Àwọn irúgbìn oko yìí ń sunkún fún omi
+Options:
+0) Àwọn irúgbìn oko yìí nílò omi
+1) Awọn irúgbìn oko yìí ti sùn
+
+Question 281: Òjò ti rọ̀ sí orí àwọn irúgbìn oko náà
+Options:
+0) Àwọn irúgbìn oko yìí nílò omi
+1) Awọn irúgbìn oko yìí ti sùn
+
+Question 282: Àwọn ìbejì náà sun ẹ̀jẹ̀ nígbà tí bàbá àgbà kú
+Options:
+0) Àwọn ìbejì náà sunkún gan
+1) Àwọn ìbejì náà lọ sí ọjà
+
+Question 283: Àwọn ìbejì náà má ń fi irùngbọ̀n bàbá wọn ṣeré
+Options:
+0) Àwọn ìbejì náà sunkún gan
+1) Àwọn ìbejì náà lọ sí ọjà
+
+Question 284: Ogún ọdún ni ìyá àgbà lò kọ́ tó wọ bàtà tán
+Options:
+0) Ìyá àgbà pẹ́ kọ́ tó wọ bàtà tán
+1) Ìyá àgbà ò wọ bàtà tán
+
+Question 285: ìṣéjú kan ni ìyá àgbà lò láti fi wọ bàtà
+Options:
+0) Ìyá àgbà pẹ́ kọ́ tó wọ bàtà tán
+1) Ìyá àgbà ò wọ bàtà tán
+
+Question 286: Ó ti rẹ̀mí mo lè sùn fún ọdún mẹ́ta
+Options:
+0) Mo lè sùn fún ìgbà pípẹ́
+1) Mo lè sùn fún wákàtí kan
+
+Question 287: Ó ti rẹ̀mí mo lè̀ gbé májèlé jẹ
+Options:
+0) Mo lè sùn fún ìgbà pípẹ́
+1) Mo lè sùn fún wákàtí kan
+
+Question 288: Àlàmú wọlé bí i òlè lórú lánàá nígbà tí a ti sùn
+Options:
+0) Àlàmú wọlé láì pariwo lánàá
+1) Àlàmú gan ẹsẹ̀ mọ́lẹ̀ wọlé lánàá
+
+Question 289: Àlàmú fọ́ gbogbo ilẹ̀kùn ilé kó tó wọlé
+Options:
+0) Àlàmú wọlé láì pariwo lánàá
+1) Àlàmú gan ẹsẹ̀ mọ́lẹ̀ wọlé lánàá
+
+Question 290: Irun orí bàba Ṣẹ́gun jájẹ láàárín orí bí i irun orí báálẹ̀ agboolé Ṣétù
+Options:
+0) Bàba Ṣẹ́gun pá lórí
+1) Irun orí bàba Ṣẹ́gun kún gan
+
+Question 291: Bàba Ṣẹ́gun ti di báálẹ̀ agboolé Ṣétù
+Options:
+0) Bàba Ṣẹ́gun pá lórí
+1) Irun orí bàba Ṣẹ́gun kún gan
+
+Question 292: Ọ̀pọ̀lọpọ̀ àǹfàní ló ń kan ìlẹ̀kùn ilé rẹ
+Options:
+0) Ó ní àǹfàní púpọ̀
+1) Àǹfàní rẹ̀ mẹ́hẹ
+
+Question 293: Ọ̀pọ̀lọpọ̀ àǹfàní ló ti tilẹ̀kùn mọ́
+Options:
+0) Ó ní àǹfàní púpọ̀
+1) Àǹfàní rẹ̀ mẹ́hẹ
+
+Question 294: Elétè ṣípotì bí i ètè ràkúnmí
+Options:
+0) Ètè rẹ̀ tóbi
+1) Ètè rẹ̀ kéré
+
+Question 295: Ètè ràkúnmí tí wọ́n se fún mi jẹ̀ dùn gan
+Options:
+0) Ètè rẹ̀ tóbi
+1) Ètè rẹ̀ kéré
+
+Question 296: Ẹniafẹ́ rẹ́rìn-ín bí i ẹni tó ní gángàngán
+Options:
+0) Ẹniafẹ́ rẹ́rìn-ín gan
+1) Ẹniafẹ́ fojúro
+
+Question 297: Ẹniafẹ́ fi rẹ́rìn-ín gba owó lọ́wọ bàbá rẹ̀.
+Options:
+0) Ẹniafẹ́ rẹ́rìn-ín gan
+1) Ẹniafẹ́ fojúro
+
+Question 298: Mo fẹ́ lọ ṣe ìgbọ̀nsẹ̀ níwájú ilé ìjosìn wa
+Options:
+0) Mo fẹ́ lọ yàgbẹ́
+1) Mo fẹ́ lọ jẹun
+
+Question 299: Mo fẹ́ lọ gbàdúra níwájú ilé ìjosìn wa
+Options:
+0) Mo fẹ́ lọ yàgbẹ́
+1) Mo fẹ́ lọ jẹun
+"
+15,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 300: Àwọn ajọ àgbáyé ti júwe ọ̀na ilé fún ààrẹ Bùhárí nítorí àìṣe ìtọ́jú àwọn ará ìlú
+Options:
+0) Àjọ àgbáyé ti yọ ààrẹ Bùhárí kúrò lórí oyè
+1) Àjọ àgbáyé ti fún ààrẹ Bùhárí níṣẹ́ tuntun
+
+Question 301: Àwọn ajọ àgbáyé ti fún ààrẹ Bùhárí lóyè tuntun
+Options:
+0) Àjọ àgbáyé ti yọ ààrẹ Bùhárí kúrò lórí oyè
+1) Àjọ àgbáyé ti fún ààrẹ Bùhárí níṣẹ́ tuntun
+
+Question 302: Tanitolúwa jẹ́ ẹni tó fi gbọ̀ọ̀rọ̀ jẹkà níbi ká ṣètò ìlú
+Options:
+0) Tanitolúwa jẹ́ ẹni tó dángájíá níbi ìṣètò ìlú
+1) Tanitolúwa jẹ́ aláìmọ̀kan níbi ìṣètò ìlú
+
+Question 303: Tanitolúwa ò lè fi gbọ̀ọ̀rọ̀ jẹkà níbi ká ṣètò ìlú
+Options:
+0) Tanitolúwa jẹ́ ẹni tó dángájíá níbi ìṣètò ìlú
+1) Tanitolúwa jẹ́ aláìmọ̀kan níbi ìṣètò ìlú
+
+Question 304: Àgbá òfìfo ni orí Ẹniọlá àti àwọn ọ̀rẹ́ rẹ̀
+Options:
+0) Ẹniọlá àti àwọn ọ̀rẹ́ rẹ̀ kọ̀ mọ ǹkankan
+1) Ẹniọlá àti àwọn ọ̀rẹ́ rẹ̀ mọ ìwé gan
+
+Question 305: Orí Ẹniọlá àti àwọn ọ̀rẹ́ rẹ̀ ti pé jù
+Options:
+0) Ẹniọlá àti àwọn ọ̀rẹ́ rẹ̀ kọ̀ mọ ǹkankan
+1) Ẹniọlá àti àwọn ọ̀rẹ́ rẹ̀ mọ ìwé gan
+
+Question 306: Gbogbo ará ìlú ti sọ ààrẹ Bùhárí di igbá ìkólẹ̀
+Options:
+0) Àwọn ará ìlú ti rí ààrẹ Bùhárí fín gan
+1) Àwọn ará ìlú máa ń bọ̀wọ̀ fún ààrẹ Bùhárí
+
+Question 307: Gbogbo ará ìlú nífẹ̀ẹ́ ààrẹ Bùhárí
+Options:
+0) Àwọn ará ìlú ti rí ààrẹ Bùhárí fín gan
+1) Àwọn ará ìlú máa ń bọ̀wọ̀ fún ààrẹ Bùhárí
+
+Question 308: Ilé ẹ̀kọ́ fásitì ti pàṣẹ lọ rọọ́kún sílé fún olùkọ́ wa tó fipá bá akẹ́kọ̀ọ́ lò pọ̀
+Options:
+0) Wọ́n ti dá olùkọ́ dúró lẹ́nu iṣẹ́
+1) Wọ́ fún olùkọ́ wa ní ìgbéga lẹ́nu iṣẹ́
+
+Question 309: Ilé ẹ̀kọ́ fásitì ti ṣe àfikún sí owó oṣù àwọn olùkọ́ wa
+Options:
+0) Wọ́n ti dá olùkọ́ dúró lẹ́nu iṣẹ́
+1) Wọ́ fún olùkọ́ wa ní ìgbéga lẹ́nu iṣẹ́
+
+Question 310: Ojú abẹ́ Dérìnọlá ti gìn bí i kọ̀ǹga
+Options:
+0) Ojú abẹ́ Dérìnọlá ti jìn gan
+1) Ojú abẹ́ Dérìnọlá dùn
+
+Question 311: Ojú abẹ́ Dérìnọlá dà bí i ti wúndíá
+Options:
+0) Ojú abẹ́ Dérìnọlá ti jìn gan
+1) Ojú abẹ́ Dérìnọlá dùn
+
+Question 312: Lọ́jọ́ ìkómọ Àlàó pẹ́pẹ́yẹ kọmọ
+Options:
+0) Èrò pọ̀ gan lọ́jọ́ ìkómọ Àdìó
+1) Àwọn ènìyàn kọ̀ wá
+
+Question 313: Lọ́jọ́ ìkómọ Àlàó dà bí i aṣálẹ̀
+Options:
+0) Èrò pọ̀ gan lọ́jọ́ ìkómọ Àdìó
+1) Àwọn ènìyàn kọ̀ wá
+
+Question 314: Níbi ìnáwó oyè jíjẹ tí mo lọ, wọ́n filé pọtí, wọ́n fọ̀nà rokà, wọ́n fí gbogbo agbada díran
+Options:
+0) Óunjẹ pọ̀ gan níbi ìnáwó oyè jíjẹ tí mo lọ
+1) Óunjẹ tí mo jẹ níbi ìnáwó oyè jíjẹ kò tó rárá
+
+Question 315: Níbi ìnáwó oyè jíjẹ tí mo lọ, mo ò rí nǹkankan fẹnu gbá
+Options:
+0) Óunjẹ pọ̀ gan níbi ìnáwó oyè jíjẹ tí mo lọ
+1) Óunjẹ tí mo jẹ níbi ìnáwó oyè jíjẹ kò tó rárá
+
+Question 316: Ladé ti kẹ́ran lọ́wọ́ ìjọba
+Options:
+0) Ladé ti wọ wàhálà ìjọba
+1) Ladé àti ìjọbá rẹ́
+
+Question 317: Ladé ti ń bá ìjọba ṣiṣẹ́
+Options:
+0) Ladé ti wọ wàhálà ìjọba
+1) Ladé àti ìjọbá rẹ́
+
+Question 318: Àdìgún ti ń fẹ́wọ́ láti kékeré
+Options:
+0) Àdìgún ti ń jalè
+1) Àdìgún ti ra bàtà tuntun
+
+Question 319: Àdìgún ti lawọ́ láti kékeré
+Options:
+0) Àdìgún ti ń jalè
+1) Àdìgún ti ra bàtà tuntun
+"
+16,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 320: Nígbà tí déédé oòrùn kan àtàrí ni kábíyèsí ránṣẹ́ pè mí
+Options:
+0) Nígbà tí oòrùn ràn gidi gan ni kábíyèsí ránṣẹ́ pè mí
+1) Nígbà tí oòrùn wọ̀ ni mo jáde
+
+Question 321: Nígbà tí àwọn ọmọ náà bẹ̀rẹ̀ sí ní jà ni kábíyèsí ránṣẹ́ pè mí
+Options:
+0) Nígbà tí oòrùn ràn gidi gan ni kábíyèsí ránṣẹ́ pè mí
+1) Nígbà tí oòrùn wọ̀ ni mo jáde
+
+Question 322: Ó ń fi ẹ̀sẹ̀ gbá gbogbo ìgboro kiri
+Options:
+0) Ó ń rìn kiri
+1) Ó ń jókòó pawó
+
+Question 323: Ó ń fi gègé kọ ìwé owó kiri
+Options:
+0) Ó ń rìn kiri
+1) Ó ń jókòó pawó
+
+Question 324: Ojú ọ̀nà náà dí pákópákó bí i ọjú ọ̀nà Ìsọlọ̀ sí Ìjẹgun
+Options:
+0) Kò sí ọ̀nà rárá láti gbà
+1) Ọkọ̀ tó pọ̀ ló wà lójú ọ̀nà
+
+Question 325: Mo ti ra ilé tuntun sí ọjú ọ̀nà Ìsọlọ̀ sí Ìjẹgun
+Options:
+0) Kò sí ọ̀nà rárá láti gbà
+1) Ọkọ̀ tó pọ̀ ló wà lójú ọ̀nà
+
+Question 326: Ìmọ̀ Bọ́lájí kún nípa iṣẹ́ igbá fínfín bí i àwọn ará Ọ̀yọ́
+Options:
+0) Bọ́lájí mọ iṣẹ́ igbá fínfín dáadáa
+1) Ìmọ̀ Bọ́lájí kò ì tó nípa igbá fínfín
+
+Question 327: Ìmọ̀ Bọ́lájí kò tí ì kún nípa iṣẹ́ igbá fínfín
+Options:
+0) Bọ́lájí mọ iṣẹ́ igbá fínfín dáadáa
+1) Ìmọ̀ Bọ́lájí kò ì tó nípa igbá fínfín
+
+Question 328: Omi gàrí tí mo mu lánàá kan bí i omi ògì
+Options:
+0) Omi gàrí náà kan gan
+1) Omi gàrí náà ta lẹ́nu
+
+Question 329: Omi gàrí tí mo mu lánàá korò bí i àgbo
+Options:
+0) Omi gàrí náà kan gan
+1) Omi gàrí náà ta lẹ́nu
+
+Question 330: Délaní mọ ọfà ta bí i àwọn ògbójú ọdẹ tafàtafà
+Options:
+0) Délaní mọ ọfà ta dáadáa
+1) Délaní ò rí ẹyẹ pa
+
+Question 331: Délaní ò mọ ọfà ta bí i àwọn ògbójú ọdẹ
+Options:
+0) Délaní mọ ọfà ta dáadáa
+1) Délaní ò rí ẹyẹ pa
+
+Question 332: Mo ma dé òkè tó ga jùlọ nínú ẹ̀kọ́ mi àti nínú iṣẹ́ mi
+Options:
+0) Mo ma ṣe àṣeyọ́ri nínú ẹ̀kọ́ mi àti nínú iṣẹ́ mi
+1) Mo ma ṣe iṣẹ́ díẹ̀ nínú ẹ̀kọ́ ní ọ̀la
+
+Question 333: Ọmọ náà ò dé òkè tó ga jùlọ nínú ẹ̀kọ́ rẹ̀
+Options:
+0) Mo ma ṣe àṣeyọ́ri nínú ẹ̀kọ́ mi àti nínú iṣẹ́ mi
+1) Mo ma ṣe iṣẹ́ díẹ̀ nínú ẹ̀kọ́ ní ọ̀la
+
+Question 334: Aládòó-òfo ni àwọn ọmọ tó ń bí
+Options:
+0) Àbíkú l'àwọn ọmọ tó ń bí
+1) Ìbejì l'àwọn ọmọ tí mo bí
+
+Question 335: Àwọn ọmọ tó ń bí ò kì í ṣe aládòó-òfo
+Options:
+0) Àbíkú l'àwọn ọmọ tó ń bí
+1) Ìbejì l'àwọn ọmọ tí mo bí
+
+Question 336: Àbẹ̀bí já ṣòròrò jáde lọ gbé ọmọ rẹ̀ tó fẹ́ já sínú kọ̀ǹga
+Options:
+0) Àbẹ̀bí sáré jáde lọ gbé ọmọ rẹ̀
+1) Àbẹ̀bí ń wọ́ tìkọ̀tìkọ̀ lọ gbé ọmọ rẹ̀
+
+Question 337: Ọmọ Àbẹ̀bí ti kú sínú kọ̀ǹga
+Options:
+0) Àbẹ̀bí sáré jáde lọ gbé ọmọ rẹ̀
+1) Àbẹ̀bí ń wọ́ tìkọ̀tìkọ̀ lọ gbé ọmọ rẹ̀
+
+Question 338: Ó pọn ọmọ bí i ẹni tí Elédùnmarè ò kọmọ mọ́
+Options:
+0) Kò pọn ọmọ náà dáadáa
+1) Ó pọn ọmọ mẹ́fà papọ̀
+
+Question 339: Ó pọn ọmọ bí i ẹni tí Elédùnmarè ò kọmọ mọ́
+Options:
+0) Kò pọn ọmọ náà dáadáa
+1) Ó pọn ọmọ mẹ́fà papọ̀
+"
+17,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 340: Ẹ wo bí Jíbíkẹ̀ẹ́ ṣe ń ṣe ìbàdí rẹ̀ fún àwọn ọkùnrin bí i ọmọrí odó tí wọ́n yí kiri
+Options:
+0) Jíbíkẹ̀ẹ́ mọ bí wọ́n ṣé ń yí ìbàdí fún àwọn ọkùnrin
+1) Ìbàdí Jíbíkẹ̀é ti gan
+
+Question 341: Ìranù ni Jíbíkẹ̀ẹ́ ṣe pẹ̀lú àwọn ọkùnrin
+Options:
+0) Jíbíkẹ̀ẹ́ mọ bí wọ́n ṣé ń yí ìbàdí fún àwọn ọkùnrin
+1) Ìbàdí Jíbíkẹ̀é ti gan
+
+Question 342: Iyán ti Ṣadé sè ti tutù bí i imú ajá nígbà tí mo fẹ́ jẹun
+Options:
+0) Iyán tí Ṣadé sè ti tutù gan
+1) Iyán tí Ṣadé sè ń yọ eruku lálá
+
+Question 343: Iyán ti Ṣadé sè ti bàjẹ́
+Options:
+0) Iyán tí Ṣadé sè ti tutù gan
+1) Iyán tí Ṣadé sè ń yọ eruku lálá
+
+Question 344: Bọ́lájókòó kọtí ọ̀gbọ̀n-in sẹ́bọ lóri ohun tí adájọ́ sọ fun nílé ẹjọ́
+Options:
+0) Bọ́lájókòó ò ṣe ohun tí adájọ́ sọ fún nílé ẹjọ́
+1) Adájọ́ fi Bọ́lájókòó sẹ́wọ̀n lánàá
+
+Question 345: Bọ́lájókòó rú ẹ́bọ ayé rẹ̀ si da
+Options:
+0) Bọ́lájókòó ò ṣe ohun tí adájọ́ sọ fún nílé ẹjọ́
+1) Adájọ́ fi Bọ́lájókòó sẹ́wọ̀n lánàá
+
+Question 346: Èmi pàápàá gan ò tí i jẹun yó bátákú bí i ìdun tó ń wọ́ rìn kí ń tó kúro nílé
+Options:
+0) Ebi ṣì ń pamí, mo ò tí ì yó
+1) Inú mi ti kún bákán
+
+Question 347: Èmi pàápàá gan tí i jẹun yó bátákú
+Options:
+0) Ebi ṣì ń pamí, mo ò tí ì yó
+1) Inú mi ti kún bákán
+
+Question 348: Olùjẹ́jọ́ ti gbọ́mọ ọbà f'ọ́ṣun nígbà tí ó ń ṣàlàyè ọ̀rọ̀ fún adájọ́
+Options:
+0) Olùjẹ́jọ́ ti ṣi ọ̀rọ̀ sọ fún adájọ́
+1) Olùjẹ́jọ́ ti gbé adájọ́ lọ ilé ẹjọ́
+
+Question 349: Olùjẹ́jọ́ ti sọ ọ̀rọ̀ àìda sí adájọ́
+Options:
+0) Olùjẹ́jọ́ ti ṣi ọ̀rọ̀ sọ fún adájọ́
+1) Olùjẹ́jọ́ ti gbé adájọ́ lọ ilé ẹjọ́
+
+Question 350: Bàbá Déòtí ti rebi àgbà ń rè ní ìdájí òní
+Options:
+0) Bàbá Déòtí ti kú
+1) Bàbá Déòtí lọ ṣe ìpàdé lọ́dọ̀ àwọn àgbàgbà ìlú
+
+Question 351: Bàbá Déòtí ti rebi tó ti fẹ́ joyè
+Options:
+0) Bàbá Déòtí ti kú
+1) Bàbá Déòtí lọ ṣe ìpàdé lọ́dọ̀ àwọn àgbàgbà ìlú
+
+Question 352: Mo ti mu irú ẹmu ògùrọ̀ báyìí ilẹ̀ ta sí i
+Options:
+0) O tí pẹ́ gan ti mo mu irú ẹmu ògùrọ̀ yìí
+1) Ẹmu tí mo mu ò dára
+
+Question 353: Irú ẹmu ògùrọ̀ ti mo yìí ò dùn rárá
+Options:
+0) O tí pẹ́ gan ti mo mu irú ẹmu ògùrọ̀ yìí
+1) Ẹmu tí mo mu ò dára
+
+Question 354: Bádégún ṣe ìpàdé ẹgbẹ́ lánàá bí i ẹní ṣe ìnáwó oyè jíjẹ
+Options:
+0) Bádégún ṣe ìpàdé ẹgbẹ́ dáadáa, ọ̀pọ̀ jíjẹ àti mímu ló wà
+1) Kò sí àwọn àgbàgbà níbi ìpàdé ẹgbẹ́ tí Bádégún ṣe
+
+Question 355: Bádégún ò nífẹ̀ẹ́ sí kí àwọn àgbàgbà wá síbi ìpàdé ẹgbẹ́ rẹ̀
+Options:
+0) Bádégún ṣe ìpàdé ẹgbẹ́ dáadáa, ọ̀pọ̀ jíjẹ àti mímu ló wà
+1) Kò sí àwọn àgbàgbà níbi ìpàdé ẹgbẹ́ tí Bádégún ṣe
+
+Question 356: Alájẹ fẹnu nulẹ̀ bí i adìẹ ni àwọn tó wá sí ibi ìnáwó wa lánàá
+Options:
+0) Alájẹ jù ni àwọn tọ́ wá sí ibi ìnáwó wa lánàá
+1) Àwọn tọ́ wá sí ibi ìnáwó wa lánàá wọn ò rí óunjẹ jẹ
+
+Question 357: Alájẹ fẹnu pamọ́ ni àwọn tó wá sí ibi ìnáwó wa lánàá
+Options:
+0) Alájẹ jù ni àwọn tọ́ wá sí ibi ìnáwó wa lánàá
+1) Àwọn tọ́ wá sí ibi ìnáwó wa lánàá wọn ò rí óunjẹ jẹ
+
+Question 358: Báyọ̀ gbọ̀ndí gbùú lẹ́yìn tó jẹun tan kò gbọnwọ́ nǹkankan sáwo fún ẹni tó ta oúnjẹ fun
+Options:
+0) Báyọ̀ ò sanwó oúnjẹ lẹ́yìn tó jẹun tan
+1) Báyọ̀ kó owó gọbọi wá sílé oúnjẹ lánàá
+
+Question 359: Báyọ̀ gbọnwọ́ sáwo lẹ́yìn tó jẹun tan
+Options:
+0) Báyọ̀ ò sanwó oúnjẹ lẹ́yìn tó jẹun tan
+1) Báyọ̀ kó owó gọbọi wá sílé oúnjẹ lánàá
+"
+18,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 360: Àwọn èrònjà ta fí ń se èkuru ti di imí eégún lọ́jà
+Options:
+0) Àwọn èrònjà èkuru ti ṣòro láti rírà lọ́jà
+1) Wọ́n kó àwọn èrònjà èkuru dé ọjà
+
+Question 361: Àwọn èrònjà ta fí ń se èkuru ti pọ̀jù lọ́jà
+Options:
+0) Àwọn èrònjà èkuru ti ṣòro láti rírà lọ́jà
+1) Wọ́n kó àwọn èrònjà èkuru dé ọjà
+
+Question 362: Alóńgẹ́ ti so iró di ọkà tó ń jẹ pẹ̀lú ọbẹ̀ ìṣápá
+Options:
+0) Alóńgẹ́ mọ irọ́ pa gan
+1) Alóńgẹ́ kì í pa irọ́
+
+Question 363: Alóńgẹ́ ti so iró nàá di òótọ́ mọ́ wa lọ́wọ́
+Options:
+0) Alóńgẹ́ mọ irọ́ pa gan
+1) Alóńgẹ́ kì í pa irọ́
+
+Question 364: Àwọn ọlọ́pàá ti ṣe ìlérí pé, ẹni tó bá ja ìjọba lólè yóò gba ẹ̀bà láyé tí yóò lọ gba ọbẹ̀ lọ́run
+Options:
+0) Àwọn ọlọ́pàá ti ṣe ìlérí pé àwọn yóò pa ẹni tó bá ja ìjọba lólè
+1) Àwọn ọlọ́pàá ti sọ pé owó wà fún ẹni tó bá ja ìjọba lólè
+
+Question 365: Àwọn ọlọ́pàá ti ṣe ìlérí pé, ẹni tó bá ja ìjọba lólè yóò gba owó tabua
+Options:
+0) Àwọn ọlọ́pàá ti ṣe ìlérí pé àwọn yóò pa ẹni tó bá ja ìjọba lólè
+1) Àwọn ọlọ́pàá ti sọ pé owó wà fún ẹni tó bá ja ìjọba lólè
+
+Question 366: Àjẹfẹ̀-fun-fẹ̀yà ni Àdìmúlà jẹ níbi ìgbéyàwó tí a lọ lánàá
+Options:
+0) Àdìmúlà jẹ oúnjẹ tó pọ̀ níbi ìgbéyàwó tí a lọ lánàá
+1) Ṣébí ẹ̀wà méjì péré ni Àdìmúlà jẹ níbi ìgbéyàwó tí a lọ lánàá
+
+Question 367: Àdìmúlà jẹ oúnjẹ díẹ̀ níbi ìgbéyàwó tí a lọ lánàá
+Options:
+0) Àdìmúlà jẹ oúnjẹ tó pọ̀ níbi ìgbéyàwó tí a lọ lánàá
+1) Àdìmúlà ò jẹun púpọ níbi ìgbéyàwó tí a lọ lánàá
+
+Question 368: Morẹ́nikéjì ti ń jẹsẹ̀ adìyẹ kiri láti àárọ̀
+Options:
+0) Morẹ́nikéjì ti ń rìn kiri láti àárọ̀
+1) Morẹ́nikéjì ò lè jẹ adìyẹ
+
+Question 369: Morẹ́nikéjì ò mọ bí wọn ṣe jẹ ẹṣẹ adìyẹ
+Options:
+0) Morẹ́nikéjì ti ń rìn kiri láti àárọ̀
+1) Morẹ́nikéjì ò lè jẹ adìyẹ
+
+Question 370: Ọmọ yìí tí ń wọgbọ́ atú lọ láti ìgbà tó tí ń bá àwọn ọ̀rẹ́ burúkú rìn
+Options:
+0) Ọmọ yìí ti ń ṣìnà/Ọmọ yìí ti ń rin ìrìnkurìn
+1) Ọmọ yìí fẹ́ lọ sùn sí inú igbó
+
+Question 371: Ọmọ yìí tí ri ọ̀nà àbáyọ láti ìgbà tó tí ń bá àwọn ọ̀rẹ́ tuntun rìn
+Options:
+0) Ọmọ yìí ti ń ṣìnà/Ọmọ yìí ti ń rin ìrìnkurìn
+1) Ọmọ yìí fẹ́ lọ sùn sí inú igbó
+
+Question 372: Àwọn ọlọ́pàá ti sọ fún ìjọba kí wọ́n ya fẹ̀dọ̀ lẹ́rí òróǹró lóri ọ̀rọ̀ yìí
+Options:
+0) Àwọn ọlọ́pàá ti sọ fún ìjọba kí wọ́n ṣe sùúrù
+1) Ìjọba ti gbé ìgbésẹ̀ lóri ọ̀rọ̀ àwọn ọlọ́pàá yìí
+
+Question 373: Àwọn ọlọ́pàá ti sọ fún ìjọba kí wọ́n pa gbogbo àwọn ẹlẹ́wọn
+Options:
+0) Àwọn ọlọ́pàá ti sọ fún ìjọba kí wọ́n ṣe sùúrù
+1) Ìjọba ti gbé ìgbésẹ̀ lóri ọ̀rọ̀ àwọn ọlọ́pàá yìí
+
+Question 374: Àwọn ọ̀rẹ́ rẹ̀ mọ ibi tí ó faraṣoko sí
+Options:
+0) Wọ́n mọ ibi tó sápamọ́ sí
+1) Wọ́n mọ ibi tó ti lọ yàgbẹ́
+
+Question 375: Àwọn ọ̀rẹ́ rẹ̀ mọ bí ó ṣe jí iṣu lóko
+Options:
+0) Wọ́n mọ ibi tó sápamọ́ sí
+1) Wọ́n mọ ibi tó ti lọ yàgbẹ́
+
+Question 376: Dérelé má ń fi ọ̀rọ̀ sábẹ́ ahọ́n fún wa
+Options:
+0) Kó sọ òótọ́ ọ̀rọ́ fún wa
+1) Kó la ahọ́n rẹ̀ kalẹ̀
+
+Question 377: Dérelé má ń sọ ọ̀ọ́tọ́ ọ̀rọ̀
+Options:
+0) Kó sọ òótọ́ ọ̀rọ́ fún wa
+1) Kó la ahọ́n rẹ̀ kalẹ̀
+
+Question 378: Ajíkòbí jayé bí i ẹni tí kò ní kú mọ́
+Options:
+0) Ajíkòbí gbádùn gan/ Ajíkòbí jayé gan
+1) Ajíkòbí ti wọ inú ọkọ̀
+
+Question 379: Ajíkòbí kò jayé tó fi kú
+Options:
+0) Ajíkòbí gbádùn gan/ Ajíkòbí jayé gan
+1) Ajíkòbí ti wọ inú ọkọ̀
+"
+19,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 380: Wọ́n ti bọ́ṣọ lóju eégún lóri ọ̀rọ̀ tó ṣẹlẹ̀ láàárín àlùfáà àti ọmọbìnrin kan
+Options:
+0) Wọn ti tú àṣírí ọ̀rọ̀ tó ṣẹlẹ̀ láàárín àlùfáà àti ọmọbìnrin kan
+1) Wọn ò sọ bí ọ̀rọ̀ náà ṣe jẹ́
+
+Question 381: Wọ́n parọ́ ọ̀rọ̀ tó ṣẹlẹ̀ láàárín àlùfáà àti ọmọbìnrin náà
+Options:
+0) Wọn ti tú àṣírí ọ̀rọ̀ tó ṣẹlẹ̀ láàárín àlùfáà àti ọmọbìnrin kan
+1) Wọn ò sọ bí ọ̀rọ̀ náà ṣe jẹ́
+
+Question 382: Alóńgẹ́ ti sọ ojú abẹ ọ̀rọ̀ náà níkòó
+Options:
+0) Alóńgẹ́ ti sọ ọ̀rọ̀ náà bó ṣe jẹ́
+1) Alóńgẹ́ kì í jẹun púpọ̀
+
+Question 383: Alóńgẹ́ kò sọ ojú abẹ ọ̀rọ̀ náà níkòó
+Options:
+0) Alóńgẹ́ ti sọ ọ̀rọ̀ náà bó ṣe jẹ́
+1) Alóńgẹ́ kì í jẹun púpọ̀
+
+Question 384: Wà á bísun, wà á bí ìwàlẹ̀ láṣẹ Èdùnmàrè
+Options:
+0) Wà á bí ọkùnrin, wà á bí obìnrin
+1) O ò ní bímọ
+
+Question 385: O ò ní bísun, O ò ní bí ìwàlẹ̀ láṣẹ Èdùnmàrè
+Options:
+0) Wà á bí ọkùnrin, wà á bí obìnrin
+1) O ò ní bímọ
+
+Question 386: Àkànní ti rèwàlẹ̀ àsà
+Options:
+0) Àkànní ti kú
+1) Àkànní wà láàyè
+
+Question 387: Àkànní ti ra ọkọ̀ tuntun
+Options:
+0) Àkànní ti kú
+1) Àkànní wà láàyè
+
+Question 388: Àlàdé la ọ̀rọ̀ mọ́lẹ̀
+Options:
+0) Àlàdé sọ ọ̀rọ̀ jáde láìbẹ̀rù
+1) Àlàdé ń bẹ̀rù láti sọ̀rọ̀
+
+Question 389: Àlàdé fòyà láti la ọ̀rọ̀ náà mọ́lẹ̀
+Options:
+0) Àlàdé sọ ọ̀rọ̀ jáde láìbẹ̀rù
+1) Àlàdé ń bẹ̀rù láti sọ̀rọ̀
+
+Question 390: Ó kọtí ikún sí ọ̀rọ̀ bàbá rẹ̀
+Options:
+0) Ó kọ̀ láti gbọ́rọ̀ sí bàbá rẹ̀ lẹ́nu
+1) Ọ gbọ́rọ̀ sí bàbá rẹ̀ lẹ́nu
+
+Question 391: Ó tẹ́tí sí ọ̀rọ̀ bàbá rẹ̀
+Options:
+0) Ó kọ̀ láti gbọ́rọ̀ sí bàbá rẹ̀ lẹ́nu
+1) Ọ gbọ́rọ̀ sí bàbá rẹ̀ lẹ́nu
+
+Question 392: Ó pàpà rí yà he
+Options:
+0) Ó jẹ ìyà
+1) Ó jẹ̀gbádùn
+
+Question 393: Ó pàpà jayé tó wáyé wá jẹ
+Options:
+0) Ó jẹ ìyà
+1) Ó jẹ̀gbádùn
+
+Question 394: Àlàbí gbóòórùn ara rẹ̀
+Options:
+0) Àlàbí jẹ ìyà púpọ̀
+1) Àlàbí jẹ ìgbádùn púpọ̀
+
+Question 395: Àlàbí ti lọ jayé ọba
+Options:
+0) Àlàbí jẹ ìyà púpọ̀
+1) Àlàbí jẹ ìgbádùn púpọ̀
+
+Question 396: Adélaní ń tu bí ejò
+Options:
+0) Adélaní ń sọ̀rọ̀ pẹ̀lú ìbínú
+1) Àlàbí ń sọ̀rọ̀ pẹ̀lẹ́pẹ̀lẹ́
+
+Question 397: Adélaní ń tu pẹ̀lú sùúrù
+Options:
+0) Adélaní ń sọ̀rọ̀ pẹ̀lú ìbínú
+1) Àlàbí ń sọ̀rọ̀ pẹ̀lẹ́pẹ̀lẹ́
+
+Question 398: Àwọn Olúwálé gbaná jẹ
+Options:
+0) Àwọn Olúwálé bínú gidigidi
+1) Àwọn Olúwálé jẹ oúnjẹ
+
+Question 399: Àwọn Olúwálé jẹ ìrẹsì tí wọ́n sè
+Options:
+0) Àwọn Olúwálé bínú gidigidi
+1) Àwọn Olúwálé jẹ oúnjẹ
+"
+20,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 400: Ó gba ọ̀rọ̀ náà sórí
+Options:
+0) Ó lagídí lórí ọ̀rọ̀ náà
+1) Ó fara balẹ̀ lórí ọ̀rọ̀ náà
+
+Question 401: Ó yin ọ̀rọ̀ náà nù
+Options:
+0) Ó lagídí lórí ọ̀rọ̀ náà
+1) Ó fara balẹ̀ lórí ọ̀rọ̀ náà
+
+Question 402: Olùkọ́ ti dẹni ilẹ̀
+Options:
+0) Olùkọ́ ti ẹni tí kò ní ohunkóhun mọ́
+1) Olùkọ́ ti di ẹni tí ó ní ọ̀pọ̀lọpọ̀
+
+Question 403: Olùkọ́ ti dẹni òkè
+Options:
+0) Olùkọ́ ti ẹni tí kò ní ohunkóhun mọ́
+1) Olùkọ́ ti di ẹni tí ó ní ọ̀pọ̀lọpọ̀
+
+Question 404: Mo ti sún kàngiri
+Options:
+0) Mi ò lè fara mọ́ ọn mọ́
+1) Mo lè gbà á mọ́ra
+
+Question 405: Mo rára gbà á sí
+Options:
+0) Mi ò lè fara mọ́ ọn mọ́
+1) Mo lè gbà á mọ́ra
+
+Question 406: Pamínkú obìnrin ni ọ́
+Options:
+0) Obìnrin oníjàgídíjàgan
+1) Obìnrin oníwà tútù
+
+Question 407: Obìnrin ni ìwà ire
+Options:
+0) Obìnrin oníjàgídíjàgan
+1) Obìnrin oníwà tútù
+
+Question 408: Ọlá ń jẹ tinu ẹyin
+Options:
+0) Ọlá ń gbádùn
+1) Ọlá ń jẹ ìyà
+
+Question 409: Ọlá ń mu gaàrí
+Options:
+0) Ọlá ń gbádùn
+1) Ọlá ń jẹ ìyà
+
+Question 410: Adé ń lọ́yà mi
+Options:
+0) Adé ń jàmí níyàn
+1) Adé ń gbọ́ tèmi
+
+Question 411: Adé ti tẹtí sí ọ̀rọ̀ náà
+Options:
+0) Adé ń jàmí níyàn
+1) Adé ń gbọ́ tèmi
+
+Question 412: Ẹ ṣá máa mìlíkì
+Options:
+0) Ẹ ṣá máa gbádùn
+1) Ẹ ṣáa máa jìyà
+
+Question 413: Ẹ sá máa fòòró
+Options:
+0) Ẹ ṣá máa gbádùn
+1) Ẹ ṣáa máa jìyà
+
+Question 414: Ọmọdé tí ó bá mọ ọwọ́ wẹ̀ á bá àgbà jẹun
+Options:
+0) Ọmọdé tí ó bá mọ ìwàá wù, á súnmọ́ àwọn àgbà
+1) Ọmọdé tí ó bá mọ ìwàá wù á jìnà sí àwọn àgbà
+
+Question 415: Ọmọdé náà ò mọ ọwọ́ wẹ̀
+Options:
+0) Ọmọdé tí ó bá mọ ìwàá wù, á súnmọ́ àwọn àgbà
+1) Ọmọdé tí ó bá mọ ìwàá wù á jìnà sí àwọn àgbà
+
+Question 416: Òjó ń ṣiṣẹ́ bí eerin
+Options:
+0) Òjó ń ṣiṣẹ́ kárakára
+1) Òjó ń ọ̀lẹ
+
+Question 417: Òjó ń ṣiṣẹ́ bí ìjàpá
+Options:
+0) Òjó ń ṣiṣẹ́ kárakára
+1) Òjó ń ọ̀lẹ
+
+Question 418: Afúni lóko ìdí ọ̀pẹ ro
+Options:
+0) Afúni níṣẹ́ tí kò ní sérè níbẹ̀
+1) Afúni níṣẹ́ elérè tabua
+
+Question 419: Afúni lóko etídò ro
+Options:
+0) Afúni níṣẹ́ tí kò ní sérè níbẹ̀
+1) Afúni níṣẹ́ elérè tabua
+"
+21,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 420: Ó rá an níṣẹ́ dé tòrutòru
+Options:
+0) Ó rán an iṣẹ́ tí ó léwu
+1) Ó rán an níṣẹ́ tó nì ààbò
+
+Question 421: Ó rá an níṣẹ́ dé ọlà
+Options:
+0) Ó rán an iṣẹ́ tí ó léwu
+1) Ó rán an níṣẹ́ tó nì ààbò
+
+Question 422: Ó ń lọọgun tantan
+Options:
+0) Ó ń pariwo
+1) Ó dákẹ́ jẹ́
+
+Question 423: Ó dákẹ́ sii
+Options:
+0) Ó ń pariwo
+1) Ó dákẹ́ jẹ́
+
+Question 424: Táyé máa ń dé àwọn oníbàárà rẹ̀ mọ́lẹ̀
+Options:
+0) Táyé máa ń lu àwọn oníbàárà rẹ̀ ní jìbìtì
+1) Táyé jẹ́ olóòótọ́ sí àwọn oníbàárà rẹ̀
+
+Question 425: Táyé máa wín àwọn oníbàárà rẹ̀
+Options:
+0) Táyé máa ń lu àwọn oníbàárà rẹ̀ ní jìbìtì
+1) Táyé jẹ́ olóòótọ́ sí àwọn oníbàárà rẹ̀
+
+Question 426: Ó kárí bọnú
+Options:
+0) Ó fajúro
+1) Ó túraká
+
+Question 427: Ó fò kiri
+Options:
+0) Ó fajúro
+1) Ó túraká
+
+Question 428: O ó fẹnu fẹ́ra bí abẹ̀bẹ̀
+Options:
+0) O ó jẹ ìyà tó pọ̀
+1) O ó jẹ ìgbádùn tó pọ̀
+
+Question 429: O ó pọ́nnu lá bí ẹni jẹ wàrà
+Options:
+0) O ó jẹ ìyà tó pọ̀
+1) O ó jẹ ìgbádùn tó pọ̀
+
+Question 430: Àjàdí tẹ aṣọ àgbà mọ́lẹ̀
+Options:
+0) Àjàdí rí ìbínú àwọn tó jù ú lọ
+1) Àjàdí rí ìyọ́nú àwọn tó jù ú lọ
+
+Question 431: Àwọn àgbà ti ṣàdúrà fún Àjàdí
+Options:
+0) Àjàdí rí ìbínú àwọn tó jù ú lọ
+1) Àjàdí rí ìyọ́nú àwọn tó jù ú lọ
+
+Question 432: Àjùmọ̀bí ò kan tàánú
+Options:
+0) Ènìyàn súnmọ́ni kò sọ pé kó ṣeni láàánú
+1) Ènìyàn súnmọ́ni lè fa kó ṣeni láàánú
+
+Question 433: Àjùmọ̀bí lè ṣe ni láàánú
+Options:
+0) Ènìyàn súnmọ́ni kò sọ pé kó ṣeni láàánú
+1) Ènìyàn súnmọ́ni lè fa kó ṣeni láàánú
+
+Question 434: Iṣu ẹni ló ń tọwọ̀ ẹni bọ epo
+Options:
+0) Ènìyàn ẹni náà ló lè kó àbùkù bá ẹni
+1) Ènìyàn ẹni náà ló lè kó ọlá bá ẹni
+
+Question 435: A kì í báni tan, ká fani nítan ya
+Options:
+0) Ènìyàn ẹni náà ló lè kó àbùkù bá ẹni
+1) Ènìyàn ẹni náà ló lè kó ọlá bá ẹni
+
+Question 436: Oníyangí
+Options:
+0) Alákòóbá
+1) Onígbọ̀wọ́
+
+Question 437: Olóore
+Options:
+0) Alákòóbá
+1) Onígbọ̀wọ́
+
+Question 438: Òjó gbá ṣọṣọ lójú
+Options:
+0) Òjó wá àkóbá fún ara rẹ̀
+1) Òjó ò wá àkóbá fún ara rẹ̀
+
+Question 439: Òjó yàgò fún ṣọṣọ
+Options:
+0) Òjó wá àkóbá fún ara rẹ̀
+1) Òjó ò wá àkóbá fún ara rẹ̀
+"
+22,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 440: Igi gogoro má gún mi ojú
+Options:
+0) Ohun burúkú má ṣẹlẹ̀ síni
+1) Ohun rere kó ṣẹlẹ̀ síni
+
+Question 441: Igi gogoro kò lè gún mi ojú
+Options:
+0) Ohun burúkú má ṣẹlẹ̀ síni
+1) Ohun rere kó ṣẹlẹ̀ síni
+
+Question 442: Ayé fàmílétè n tutọ́ ni Àwẹ̀lé ń jẹ
+Options:
+0) Ayé ìjẹkújẹ ni Àwẹ̀lé ń jẹ
+1) Ayé ìwọ̀ntuwọ̀nsì Àwẹ̀lé ń jẹ
+
+Question 443: Ayé ìwọ̀ntún ìwọ̀n òsì ni Àwẹ̀lé ń jẹ
+Options:
+0) Ayé ìjẹkújẹ ni Àwẹ̀lé ń jẹ
+1) Ayé ìwọ̀ntuwọ̀nsì Àwẹ̀lé ń jẹ
+
+Question 444: Ajínasẹ̀
+Options:
+0) Ọ̀lẹ tí kì í ṣiṣẹ́
+1) Ènìyàn tí ó ṣiṣẹ́ kárakára
+
+Question 445: Ají́gbọ́nini
+Options:
+0) Ọ̀lẹ tí kì í ṣiṣẹ́
+1) Ènìyàn tí ó ṣiṣẹ́ kárakára
+
+Question 446: Ọlọ́mọ kan kò kúrò lágàn
+Options:
+0) Ènìyàn tí kò bí ju ọmọ kan lọ kò yàtọ̀ sí ènìyàn tí kò bí rárá
+1) Ènìyàn tí ó bí ọmọ púpọ̀ yàtọ̀ sí ènìyàn tí kò bí rárá
+
+Question 447: Ọlọ́́mọ kan kúrò ní kị lo bí?
+Options:
+0) Ènìyàn tí kò bí ju ọmọ kan lọ kò yàtọ̀ sí ènìyàn tí kò bí rárá
+1) Ènìyàn tí ó bí ọmọ púpọ̀ yàtọ̀ sí ènìyàn tí kò bí rárá
+
+Question 448: A kì í sumí rírọ̀ sí tòsí
+Options:
+0) Ènìyàn kì í ṣe ohun tí kò dára fún àwọn tí ó yíi ká
+1) Ènìyàn kì í ṣe ohun tí ó bàjẹ́ sí àwọn tí ó yí i ká
+
+Question 449: Ilé là ń tẹ̀kọ rírọ̀ sí
+Options:
+0) Ènìyàn kì í ṣe ohun tí kò dára fún àwọn tí ó yíi ká
+1) Ènìyàn kì í ṣe ohun tí ó bàjẹ́ sí àwọn tí ó yí i ká
+
+Question 450: Ejò lọ́wọ́ nínú ọ̀rọ̀ yìí
+Options:
+0) Ọ̀rọ̀ yìí kò kàn rí bẹ́ẹ̀ lásán
+1) Ọ̀rọ̀ yìí kàn rí bẹ́ẹ̀ ni
+
+Question 451: Àmúwá Ọlọ́run ni ọ̀rọ̀ náà
+Options:
+0) Ọ̀rọ̀ yìí kò kàn rí bẹ́ẹ̀ lásán
+1) Ọ̀rọ̀ yìí kàn rí bẹ́ẹ̀ ni
+
+Question 452: Àjànàkú ni Àjàní
+Options:
+0) Alágbára ni Àlàdí
+1) Ọ̀lẹ ni Àjàdí
+
+Question 453: Jẹgúdúgẹrá ni Àjàní
+Options:
+0) Alágbára ni Àlàdí
+1) Ọ̀lẹ ni Àjàdí
+
+Question 454: Bàbá mi fara ya
+Options:
+0) Bàbá mi bínú gidigidi
+1) Bàbá mi yọ́nú gidigidi
+
+Question 455: Bàbá mi ti fojú àánú wò mí
+Options:
+0) Bàbá mi bínú gidigidi
+1) Bàbá mi yọ́nú gidigidi
+
+Question 456: Ọjọ́ ti ń rebi àná
+Options:
+0) Ilẹ̀ ti ń ṣú
+1) Ilẹ̀ ti ń mọ́
+
+Question 457: Ọjọ́ kọ̀ tí ì rẹbi àná
+Options:
+0) Ilẹ̀ ti ń ṣú
+1) Ilẹ̀ ti ń mọ́
+
+Question 458: Ó pàpà bu omi sùúrù mu
+Options:
+0) Ó pàpà fara balẹ̀
+1) Ó pàdà da gbogbo rẹ̀ rú
+
+Question 459: Ó padà mu omi wàhálà
+Options:
+0) Ó pàpà fara balẹ̀
+1) Ó pàdà da gbogbo rẹ̀ rú
+"
+23,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 460: A ó tú iṣu dé ìsàlẹ̀ ìkòkò
+Options:
+0) A ó sọ ẹ̀kúnrẹ́rẹ́ nípa ọ̀rọ̀ náà
+1) A ó sọ́ ọ̀rọ̀ ná léréfèé
+
+Question 461: A ó ré e lórí
+Options:
+0) A ó sọ ẹ̀kúnrẹ́rẹ́ nípa ọ̀rọ̀ náà
+1) A ó sọ́ ọ̀rọ̀ ná léréfèé
+
+Question 462: Olúwọlé fárígá
+Options:
+0) Olúwọlé kọ̀jálẹ̀
+1) Olúwọlé gbà
+
+Question 463: Olúwọlé baralẹ̀
+Options:
+0) Olúwọlé kọ̀jálẹ̀
+1) Olúwọlé gbà
+
+Question 464: Kábíyèsí fi imú Àlàbí dánrin
+Options:
+0) Kábíyèsí fi ìyà jẹ Àlàbí
+1) Kábíyèsí dá Àlàbí lọ́lá
+
+Question 465: Kábíyèsí mórí Àlàbí sre
+Options:
+0) Kábíyèsí fi ìyà jẹ Àlàbí
+1) Kábíyèsí dá Àlàbí lọ́lá
+
+Question 466: Ṣawoṣọ̀gbẹ̀rì ni Àdéọlá
+Options:
+0) Ènìyàn tí ó máa ń ṣe eléyìí ṣe tọ̀hun ni Adéọlá
+1) Ènìyàn tí ó máa ń ṣe ohun ọ̀nà kan ṣoṣo ni Adéọlá
+
+Question 467: Awo ìmùlẹ̀ ni Adéọlá
+Options:
+0) Ènìyàn tí ó máa ń ṣe eléyìí ṣe tọ̀hun ni Adéọlá
+1) Ènìyàn tí ó máa ń ṣe ohun ọ̀nà kan ṣoṣo ni Adéọlá
+
+Question 468: Àyìnlá fá Àjàlá lórí
+Options:
+0) Àyìnlá yan Àjàlá jẹ
+1) Àyìnlá ṣe òtítọ́ sí Àjàlá
+
+Question 469: Àyì̀nlá dá Àjàlá lọ́lá
+Options:
+0) Àyìnlá yan Àjàlá jẹ
+1) Àyìnlá ṣe òtítọ́ sí Àjàlá
+
+Question 470: Gbogbo yín ẹ lọ si mẹ̀dọ̀
+Options:
+0) Gbogbo yín ẹ lọ fi ara balẹ̀
+1) Gbogbo yin ẹ lọ ká ọkàn sókè
+
+Question 471: Gbogbo yín ẹ lọ káyà sokè
+Options:
+0) Gbogbo yín ẹ lọ fi ara balẹ̀
+1) Gbogbo yin ẹ lọ ká ọkàn sókè
+
+Question 472: Ọ̀gá dá sèríà fún ọmọ iṣẹ́ rẹ̀
+Options:
+0) Ọ̀gá fìyà jẹ ọmọ iṣẹ́ rẹ
+1) Ọ̀gá dá ọmọ iṣẹ́ rẹ̀ lọ́lá
+
+Question 473: Ọ̀gá dá sèríà fún ọmọ iṣẹ́ lówó tó pọ̀ àti àgbéga lẹ́nu iṣẹ́
+Options:
+0) Ọ̀gá fìyà jẹ ọmọ iṣẹ́ rẹ
+1) Ọ̀gá dá ọmọ iṣẹ́ rẹ̀ lọ́lá
+
+Question 474: Táíwò ti di abara méjì
+Options:
+0) Táíwò ti lóyún
+1) Táíwò ò tí ì lóyún
+
+Question 475: Táíwò ò tí ì bímọ
+Options:
+0) Táíwò ti lóyún
+1) Táíwò ò tí ì lóyún
+
+Question 476: Adéyẹmí kágídíborí bíi fáànù Íbò
+Options:
+0) Adéyẹmí ṣagídí gidigidi
+1) Adéyẹmí ṣe pẹ̀lẹ́pẹ̀lẹ́
+
+Question 477: Adéyẹmí baralẹ̀ bí omi àfòwúrọ̀ pọ̀
+Options:
+0) Adéyẹmí ṣagídí gidigidi
+1) Adéyẹmí ṣe pẹ̀lẹ́pẹ̀lẹ́
+
+Question 478: Ó fẹsẹ̀ fẹ́ ẹ
+Options:
+0) Ó sálọ
+1) Ó dúró
+
+Question 479: Ó gàndí
+Options:
+0) Ó sálọ
+1) Ó dúró
+"
+24,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 480: Ó ti sọ àwọn òbí rẹ̀ di ẹdun arinlẹ̀
+Options:
+0) Ó ti run gbogbo dúkìá àwọn òbí rẹ̀
+1) Ó ti rà kún gbogbo dúkìá àwọn òbí rẹ̀
+
+Question 481: O tí sọ àwọn òbí rẹ̀ di onígba aṣọ
+Options:
+0) Ó ti run gbogbo dúkìá àwọn òbí rẹ̀
+1) Ó ti rà kún gbogbo dúkìá àwọn òbí rẹ̀
+
+Question 482: Kẹ́hìndé fàáké kórí lórí ọ̀rọ̀ náà
+Options:
+0) Kẹ́hìndé lagídí lórí ọ̀rọ̀ náà
+1) Kẹ́hìndé fara balẹ̀ lórí ọ̀rọ̀ náà
+
+Question 483: Kẹ́hìndé gbà f'Ọ́lọ́run lórí ọ̀rọ̀ náà
+Options:
+0) Kẹ́hìndé lagídí lórí ọ̀rọ̀ náà
+1) Kẹ́hìndé fara balẹ̀ lórí ọ̀rọ̀ náà
+
+Question 484: Délé júba ehoro nígbà tí ó gbùròó àwọn Ọlọ́pàá
+Options:
+0) Délé sálọ nígbà tí ó gbúròó àwọn Ọlọ́pàá
+1) Délé dúró nígbà nígbà tí ó gbúròó àwọn Ọlọ́pàá
+
+Question 485: Dé́lé dúró wámú nígbà tí ó gbùròó àwọn Ọlọ́pàá
+Options:
+0) Délé sálọ nígbà tí ó gbúròó àwọn Ọlọ́pàá
+1) Délé dúró nígbà nígbà tí ó gbúròó àwọn Ọlọ́pàá
+
+Question 486: Ó ti kan róro nírù
+Options:
+0) Ó ti rí wàhálà
+1) Ó ti rí ìdẹ̀ra
+
+Question 487: Ó ti róore lojú olórò
+Options:
+0) Ó ti rí wàhálà
+1) Ó ti rí ìdẹ̀ra
+
+Question 488: Ẹ jẹ́ ká ṣe ọ̀rọ̀ náà ní bòńkẹ́lẹ́
+Options:
+0) Ẹ jẹ́ kí á pa àṣírí ọ̀rọ̀ náà mọ́
+1) Ẹ jẹ́ kí á tú pa àṣírí ọ̀rọ̀ náà mọ́
+
+Question 489: Ẹ jẹ́ ká kó ọ̀rọ̀ náà síta
+Options:
+0) Ẹ jẹ́ kí á pa àṣírí ọ̀rọ̀ náà mọ́
+1) Ẹ jẹ́ kí á tú pa àṣírí ọ̀rọ̀ náà mọ́
+
+Question 490: Oríre rẹ̀ ti fẹ́ tẹnu bọpo
+Options:
+0) Oríre rẹ̀ ti fẹ́ parí
+1) Oríre rẹ̀ ṣẹ̀ṣẹ̀ bẹ̀rẹ̀
+
+Question 491: Oríre rẹ̀ ti fẹ́ gbìnàyá
+Options:
+0) Oríre rẹ̀ ti fẹ́ parí
+1) Oríre rẹ̀ ṣẹ̀ṣẹ̀ bẹ̀rẹ̀
+
+Question 492: Ẹ jẹ̀bùrẹ́ awo olùgbẹ́bẹ̀
+Options:
+0) Ẹ má bínú
+1) Ẹ má rọnú
+
+Question 493: Ẹ fàbínú yọ awo olúkòso
+Options:
+0) Ẹ má bínú
+1) Ẹ má rọnú
+
+Question 494: Bàbá Àlàbí fọwọ́rọrí kú ni
+Options:
+0) Bàbá Àlàbí kú fúra rẹ̀
+1) Wọ́n pa bàbá Àlàbí
+
+Question 495: Bàbá À̀làbí kúkú oró
+Options:
+0) Bàbá Àlàbí kú fúra rẹ̀
+1) Wọ́n pa bàbá Àlàbí
+
+Question 496: Wọ́n fi imú Adéyẹmí fọn fèrè lójúde Ọba
+Options:
+0) Wọ́n fìyà jẹ Adéyẹmí lójúde Ọba
+1) Wọ́n dá Adéyẹmí lọ́lá lójúde Ọba
+
+Question 497: Wọ́n fi ojú Adéyẹmí ríre lójúde Ọba
+Options:
+0) Wọ́n fìyà jẹ Adéyẹmí lójúde Ọba
+1) Wọ́n dá Adéyẹmí lọ́lá lójúde Ọba
+
+Question 498: Èéṣe tí o káwọ́ rọ̀?
+Options:
+0) Kí ló dé tí o dúró láìṣe nǹkankan?
+1) Kí ló dé tí ò ń ṣiṣẹ́ láìdáwọ́ dúró?
+
+Question 499: Eéṣe tí ò ń fẹ̀mí ṣe?
+Options:
+0) Kí ló dé tí o dúró láìṣe nǹkankan?
+1) Kí ló dé tí ò ń ṣiṣẹ́ láìdáwọ́ dúró?
+"
+25,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 500: Fogun ẹ̀yìn jàni
+Options:
+0) Jẹ́ kí ohun burúkú ó padà wá ṣẹlẹ̀ síni
+1) Jẹ́ kí ohun rere ó padà wá ṣẹlẹ̀ síni
+
+Question 501: Jagun síwájú fún mi
+Options:
+0) Jẹ́ kí ohun burúkú ó padà wá ṣẹlẹ̀ síni
+1) Jẹ́ kí ohun rere ó padà wá ṣẹlẹ̀ síni
+
+Question 502: Táyé ń fẹnu ròfọ́ ni
+Options:
+0) Táyé ń lérí ohun tí kò le ṣe ní
+1) Táyé ń lérí ohun tó le ṣe ní
+
+Question 503: Wí bẹ́ẹ̀ ṣe bẹ́ẹ̀ ni Táyé
+Options:
+0) Táyé ń lérí ohun tí kò le ṣe ní
+1) Táyé ń lérí ohun tó le ṣe ní
+
+Question 504: Kókó ń bẹ̀ lẹ́fọ̀ọ́
+Options:
+0) Olófòófó wà ní tòsí
+1) Ẹlẹ́nubíbò wà ní tòsí
+
+Question 505: Kò séèrà lójú ọpọ́n
+Options:
+0) Olófòófó wà ní tòsí
+1) Ẹlẹ́nubíbò wà ní tòsí
+
+Question 506: Àgbàlagbà tó ń ṣe láńgbáláńgbá
+Options:
+0) Àgbàlagbà tó ń wùwà àgbà ìyà
+1) Ọmọdé tó ń wùwà ọmọdé ìṣẹ́
+
+Question 507: Àgbà tí ò jẹ́ kọ́rùn ọmọ ó wọ́
+Options:
+0) Àgbàlagbà tó ń wùwà àgbà ìyà
+1) Ọmọdé tó ń wùwà ọmọdé ìṣẹ́
+
+Question 508: Ó ń pọnmi sí ajádìí apẹ̀rẹ̀
+Options:
+0) Ó ń ṣe àṣedànù
+1) Ò ń ṣe àṣejèrè
+
+Question 509: Ó rí kójọ
+Options:
+0) Ó ń ṣe àṣedànù
+1) Ò ń ṣe àṣejèrè
+
+Question 510: Àwọn ará ìṣàlẹ̀ ń fapá jánú
+Options:
+0) Àwọn ará ìsàlẹ̀ ń bínú lábẹ́lẹ̀
+1) Àwọn ará ìsàlẹ̀ ń dunnú
+
+Question 511: Àwọn ará òkè ń sòdí wùkẹ̀
+Options:
+0) Àwọn ará ìsàlẹ̀ ń bínú lábẹ́lẹ̀
+1) Àwọn ará ìsàlẹ̀ ń dunnú
+
+Question 512: Lákíríboto ni Ìṣọ̀lá
+Options:
+0) Ìṣọ̀lá kò lè bá obìnrin lòpọ̀
+1) Ìṣọ̀lá lè bá obìnrin lòpọ̀
+
+Question 513: Agẹṣin èèyàn ni Ìṣọ̀lá
+Options:
+0) Ìṣọ̀lá kò lè bá obìnrin lòpọ̀
+1) Ìṣọ̀lá lè bá obìnrin lòpọ̀
+
+Question 514: Olú na pápá bora
+Options:
+0) Olú sálọ
+1) Olú dúró
+
+Question 515: Olú dúró kalẹ̀
+Options:
+0) Olú sálọ
+1) Olú dúró
+
+Question 516: Àrèó ti wẹ̀ yán kànhìnkàhìn
+Options:
+0) Àrèó kò ní ẹ̀sùn kankan lọ́rùn
+1) Àrèó ní èsùn púpọ̀ lọ́rùn
+
+Question 517: Àrèó lẹ́ṣẹ̀ lọ́rùn
+Options:
+0) Àrèó kò ní ẹ̀sùn kankan lọ́rùn
+1) Àrèó ní èsùn púpọ̀ lọ́rùn
+
+Question 518: Gbádébọ̀ fẹ́ràn kí ó máa ṣàyàngbàǹgbà sí nǹkan
+Options:
+0) Gbádébọ̀ fẹ́ràn kí ó máa kọ́kọ́ ṣáájú nínú àwọn nǹkan
+1) Gbádébọ̀ fẹ́ràn kí ó máa wà lẹ́yìn nínú àwọn nǹkan
+
+Question 519: Gbádébọ̀ fẹ́ràn kí ó máa káríbọnú sí nǹkan
+Options:
+0) Gbádébọ̀ fẹ́ràn kí ó máa kọ́kọ́ ṣáájú nínú àwọn nǹkan
+1) Gbádébọ̀ fẹ́ràn kí ó máa wà lẹ́yìn nínú àwọn nǹkan
+"
+26,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 520: Ó ti diwọ́disẹ̀ sínú
+Options:
+0) Ó ti lóyún
+1) Ó ti bímọ
+
+Question 521: Ó dọyún dẹ̀jẹ̀ dídì sínú
+Options:
+0) Ó ti lóyún
+1) Ó ti bímọ
+
+Question 522: Wọ́n ti gbẹ̀yìn bẹbọ jẹ́
+Options:
+0) Wọ́n ti padà wá ba ohun tí a ṣe tó dára jẹ́
+1) Wọ́n ti padà wá tún ohun tí a ṣe tí kò dára ṣe
+
+Question 523: Wọ́n gbẹ̀yìn tẹ́bo rú
+Options:
+0) Wọ́n ti padà wá ba ohun tí a ṣe tó dára jẹ́
+1) Wọ́n ti padà wá tún ohun tí a ṣe tí kò dára ṣe
+
+Question 524: Àìná háwọ́
+Options:
+0) Àìná ní ahun
+1) Àìná máa ń fitọrọ
+
+Question 525: Àì̀ná yawọ́
+Options:
+0) Àìná ní ahun
+1) Àìná máa ń fitọrọ
+
+Question 526: A ò ní fọ̀pá pọ̀ọ̀lọ̀pọọlọ pejò
+Options:
+0) A ò ní fa ọ̀rọ̀ náà gùn
+1) A ó pẹ́ lórí ọ̀rọ̀ náà
+
+Question 527: A ó wírèégbè ṣúlẹ̀
+Options:
+0) A ò ní fa ọ̀rọ̀ náà gùn
+1) A ó pẹ́ lórí ọ̀rọ̀ náà
+
+Question 528: Omi ẹ̀fọ́ lọ̀rọ̀ yìí
+Options:
+0) Ọ̀rọ̀ yìí kò nítumọ̀
+1) Ọ̀rọ̀ yìí nítumọ̀
+
+Question 529: Gòríà obì ni ọ̀rọ̀ yìí
+Options:
+0) Ọ̀rọ̀ yìí kò nítumọ̀
+1) Ọ̀rọ̀ yìí nítumọ̀
+
+Question 530: Agbé fọ́, omi sì tún dànù
+Options:
+0) Ìyá kú, ọmọ náà sì tún kú
+1) Ìyá wà láàyè, ọmọ rẹ̀ náà sì wà láàyè
+
+Question 531: Tagbè tomi ló ń mí
+Options:
+0) Ìyá kú, ọmọ náà sì tún kú
+1) Ìyá wà láàyè, ọmọ rẹ̀ náà sì wà láàyè
+
+Question 532: Ṣeyán bí ọkà?
+Options:
+0) Ṣe ohun ńlá bí ohun kékeré?
+1) Ṣe ohun kékeré bí ohun ńlá?
+
+Question 533: Fìka tótọ́símú remú
+Options:
+0) Ṣe ohun ńlá bí ohun kékeré?
+1) Ṣe ohun kékeré bí ohun ńlá?
+
+Question 534: Iṣẹ́ fẹran jẹ̀kọ ni iṣẹ́ yìí
+Options:
+0) Iṣẹ́ tí ó rọrùn ni iṣẹ́ yìí
+1) Iṣẹ́ tí ó le gan ni iṣẹ́ yìí
+
+Question 535: Àpáàrà ni iṣẹ́ yìí
+Options:
+0) Iṣẹ́ tí ó rọrùn ni iṣẹ́ yìí
+1) Iṣẹ́ tí ó le gan ni iṣẹ́ yìí
+
+Question 536: Wọ́n ti ṣọkọ fún Adéwùmí
+Options:
+0) Wọ́n ti fìyà jẹ Adéwùmí
+1) Wọ́n ti dá Adéwùmí lọ́lá
+
+Question 537: Wọ́n ti fòrí pa Adéwùmí
+Options:
+0) Wọ́n ti fìyà jẹ Adéwùmí
+1) Wọ́n ti dá Adéwùmí lọ́lá
+
+Question 538: Ìbùkún lawọ́
+Options:
+0) Ìbùkún máa ń fi nǹkan tọrọ
+1) Ìbùkún máa ń tọrọ nǹkan
+
+Question 539: Ìbù̀kún háwọ́
+Options:
+0) Ìbùkún máa ń fi nǹkan tọrọ
+1) Ìbùkún máa ń tọrọ nǹkan
+"
+27,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 540: Àyìnlá ń jayé orí ẹ ní Ìlọrin
+Options:
+0) Àyìnlá ń gbádùn ara rẹ̀ n’Ílọrin
+1) Àyìnlá ń jẹ ìyà ní Ìlọrin
+
+Question 541: Àyì̀nlá ń mu gaàrí ní Ìlọrin
+Options:
+0) Àyìnlá ń gbádùn ara rẹ̀ n’Ílọrin
+1) Àyìnlá ń jẹ ìyà ní Ìlọrin
+
+Question 542: Sàláwá wo ọ̀gá ẹ̀ lójú
+Options:
+0) Sàláwá wùwà àrínfín sí ọ̀gá rẹ̀
+1) Sàláwá wùwà àpọ́nlé sí ọ̀gá rẹ̀
+
+Question 543: Sàláwá gbórí fún ọ̀gá rẹ̀
+Options:
+0) Sàláwá wùwà àrínfín sí ọ̀gá rẹ̀
+1) Sàláwá wùwà àpọ́nlé sí ọ̀gá rẹ̀
+
+Question 544: Àwọn ohun tí a ní ti fìdíjálẹ̀
+Options:
+0) Àwọn ohun tí a ní ti tán
+1) Àwọn ohun tí a ní ti pọ̀ síi
+
+Question 545: Àwọn ohun tí a ní ti wà ní ìlọ́po ìlọ́po
+Options:
+0) Àwọn ohun tí a ní ti tán
+1) Àwọn ohun tí a ní ti pọ̀ síi
+
+Question 546: Ẹṣin inú ìwé ni Rọ́pò
+Options:
+0) Rọ́pò kò lè bóbìnrin lòpọ̀
+1) Rọ́pọ̀ lè bá obìnrin lòpọ̀
+
+Question 547: Ẹsin orí ilẹ̀ ni Rọ́pọ̀, ó lè fàdí ya
+Options:
+0) Rọ́pò kò lè bóbìnrin lòpọ̀
+1) Rọ́pọ̀ lè bá obìnrin lòpọ̀
+
+Question 548: Àdìó fọwọ́ fọ̀nná
+Options:
+0) Àdìó jẹ ìyà
+1) Àdìó jẹ ìgbádùn
+
+Question 549: Àdìó fọwọ́ láyin
+Options:
+0) Àdìó jẹ ìyà
+1) Àdìó jẹ ìgbádùn
+
+Question 550: Ọwọ Bímpé ti tẹ ẹ̀kù idà
+Options:
+0) Bímpé ti dé ipò tí a kò ti lè ṣe ìpalára fún un
+1) Bímpé ti dé ipò tí a ti lè pa á lára
+
+Question 551: Èèrà abẹ́ bàtà ni Bímpé
+Options:
+0) Bímpé ti dé ipò tí a kò ti lè ṣe ìpalára fún un
+1) Bímpé ti dé ipò tí a ti lè pa á lára
+
+Question 552: Òkété bórù mọ́ Àdìsá lọ́wọ́
+Options:
+0) Àdìsá pàdánù ohun ńlá kan
+1) Àdìṣá rí ohun ńlá gbà
+
+Question 553: Àdìsá ki Òkété lọ́rùn
+Options:
+0) Àdìsá pàdánù ohun ńlá kan
+1) Àdìṣá rí ohun ńlá gbà
+
+Question 554: Ó ta tẹ́ru nípàá lánàá
+Options:
+0) Ó kú lánàá
+1) Ó yè lánàá
+
+Question 555: O délé ayé lánàá
+Options:
+0) Ó kú lánàá
+1) Ó yè lánàá
+
+Question 556: A ti fàwé ẹ̀ṣẹ̀ Tọ́pé ya
+Options:
+0) A ti dárí ji Tọ́pẹ́
+1) A ti fìyà jẹ Tọ́pẹ́
+
+Question 557: A ti ṣíwèé ẹ̀ṣẹ̀ fún Tọ́pẹ́
+Options:
+0) A ti dárí ji Tọ́pẹ́
+1) A ti fìyà jẹ Tọ́pẹ́
+
+Question 558: Má pọ́ mi nífun ò
+Options:
+0) Má fi tipátipá mú mi sọ̀rọ̀
+1) Mo fi pẹ̀lẹ́pẹ̀lẹ́ mú un sọ̀rọ̀
+
+Question 559: Má fi gògóńgò mií lẹ̀ o
+Options:
+0) Má fi tipátipá mú mi sọ̀rọ̀
+1) Mo fi pẹ̀lẹ́pẹ̀lẹ́ mú un sọ̀rọ̀
+"
+28,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 560: Ó ti tasẹ̀ àgẹ̀rẹ̀
+Options:
+0) Ó ti ṣe àṣìṣe
+1) Ó ti ṣe àṣepé
+
+Question 561: O kọsẹ̀ báre
+Options:
+0) Ó ti ṣe àṣìṣe
+1) Ó ti ṣe àṣepé
+
+Question 562: Ẹ jẹ́ ká fúnná mọ́ ọn
+Options:
+0) Ẹ jẹ́ ká fi ipá mú un
+1) Ẹ jẹ́ ká fi ẹ̀lẹ̀ mú un
+
+Question 563: Ẹ jẹ́ pẹ̀rọ̀ síi
+Options:
+0) Ẹ jẹ́ ká fi ipá mú un
+1) Ẹ jẹ́ ká fi ẹ̀lẹ̀ mú un
+
+Question 564: Ìtì ọ̀gẹ̀dẹ̀ ni ọ̀rọ̀ yìí
+Options:
+0) Ọ̀rọ̀ yìí rọrùn
+1) Ọ̀rọ̀ yìí ṣòro
+
+Question 565: Ojú ẹja ni ọ̀rọ̀ yìí
+Options:
+0) Ọ̀rọ̀ yìí rọrùn
+1) Ọ̀rọ̀ yìí ṣòro
+
+Question 566: Ológùnná kan ni ìyá Táyé
+Options:
+0) Ọmọ kan ṣoṣo ni ìyá Táyé bí
+1) Ọmọ púpọ̀ ni ìyá Táyé bí
+
+Question 567: Ọlọ́mọ bí ẹdá ni ìyá Táyé
+Options:
+0) Ọmọ kan ṣoṣo ni ìyá Táyé bí
+1) Ọmọ púpọ̀ ni ìyá Táyé bí
+
+Question 568: Gbogbo rẹ̀ polúkúrúmuṣu
+Options:
+0) Gbogbo rẹ̀ lọ́júpọ̀
+1) Gbogbo rẹ̀ lójútùù
+
+Question 569: Gbogbo rẹ̀ ní ojúṣẹ̀ẹ́
+Options:
+0) Gbogbo rẹ̀ lọ́júpọ̀
+1) Gbogbo rẹ̀ lójútùù
+
+Question 570: Àjádí rí pípọ́n ojú Ayọ̀
+Options:
+0) Àjàdí rí ìbínú Ayọ̀
+1) Àjàdí rí ojúrere Ayọ̀
+
+Question 571: Àjá̀dí rí omi àánú Ayọ̀
+Options:
+0) Àjàdí rí ìbínú Ayọ̀
+1) Àjàdí rí ojúrere Ayọ̀
+
+Question 572: Òdú ni Àjàlá
+Options:
+0) Ìlú mọ̀-ọ́n-ká Àjàlá
+1) Àjàlá kì í ṣeni mímọ̀
+
+Question 573: Òkòlò Ọ̀yọ́ ni Àjàlá
+Options:
+0) Ìlú mọ̀-ọ́n-ká Àjàlá
+1) Àjàlá kì í ṣeni mímọ̀
+
+Question 574: O ó fọwọ́ páhún
+Options:
+0) Ó darúgbó
+1) Ó dọmọdé
+
+Question 575: O ó fò ṣánlẹ̀
+Options:
+0) Ó darúgbó
+1) Ó dọmọdé
+
+Question 576: Mi ò bá Àwẹ̀lé nílé
+Options:
+0) Mi ò bá Àwẹ̀lé gẹ́gẹ́ bíi wúńdíá
+1) Mo bá Àwèlé gẹ́gé bíi wúńdíá
+
+Question 577: Wúndía ni Àwẹ̀lé
+Options:
+0) Mi ò bá Àwẹ̀lé gẹ́gẹ́ bíi wúńdíá
+1) Mo bá Àwèlé gẹ́gé bíi wúńdíá
+
+Question 578: Àdìó forí jálé agbọ́n
+Options:
+0) Àdìó kó sínú ewu
+1) Àdìó wọ abẹ́ ààbò
+
+Question 579: Àdìó jálu afárá oyin
+Options:
+0) Àdìó kó sínú ewu
+1) Àdìó wọ abẹ́ ààbò
+"
+29,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 580: Adéwálé ti tẹ ọká nírú mọ́lẹ̀
+Options:
+0) Adéwálé ti rí wàhálà
+1) Adéwálé ti rí ìgbádún
+
+Question 581: Adéwá́lé ti jìfà ọkà ràbàtà
+Options:
+0) Adéwálé ti rí wàhálà
+1) Adéwálé ti rí ìgbádún
+
+Question 582: Àdísá ti rugi oyin
+Options:
+0) Àdìṣá kó sínú wàhálà
+1) Àdìsá kó sínú ìgbádùn
+
+Question 583: Àdìsá ti róyin pọ́nlá
+Options:
+0) Àdìṣá kó sínú wàhálà
+1) Àdìsá kó sínú ìgbádùn
+
+Question 584: Àkàrá tú sépo
+Options:
+0) Àṣírí ti tú
+1) Àṣírí ti bò
+
+Question 585: Òkú òru ni a ṣeé
+Options:
+0) Àṣírí ti tú
+1) Àṣírí ti bò
+
+Question 586: Olú ń tẹnubọlẹ̀ kiri
+Options:
+0) Olú ń rojọ́ kiri
+1) Olú ń dákẹ́ kiri
+
+Question 587: Olú ń panu mọ́ kiri
+Options:
+0) Olú ń rojọ́ kiri
+1) Olú ń dákẹ́ kiri
+
+Question 588: Màálù ni Àkínsànyà
+Options:
+0) Akínsànyà lára ẹgba jíjẹ
+1) Akínsàyà lára ìgbádùn jíjẹ
+
+Question 589: Ṣẹ̀kẹ̀rẹ̀ tí ò ṣeé fọ̀pá lù ni Akínsànyà
+Options:
+0) Akínsànyà lára ẹgba jíjẹ
+1) Akínsàyà lára ìgbádùn jíjẹ
+
+Question 590: Tọwọ́ ọmọ rẹ baṣọ
+Options:
+0) Dá ìwà burúkú tí ò ń hù dúró
+1) Tẹ̀síwájú láti máa hu ìwà burúkú
+
+Question 591: Fọ́n yẹ̀pẹ̀ sójú àwọn ènìyàn
+Options:
+0) Dá ìwà burúkú tí ò ń hù dúró
+1) Tẹ̀síwájú láti máa hu ìwà burúkú
+
+Question 592: Sàngbá fọ́
+Options:
+0) Aburú ṣẹlẹ̀
+1) Nǹkan ayọ̀ ti ṣẹlẹ̀
+
+Question 593: Abara tíńtín
+Options:
+0) Aburú ṣẹlẹ̀
+1) Nǹkan ayọ̀ ti ṣẹlẹ̀
+
+Question 594: Ọ̀tábíyìí ti filẹ̀ ṣaṣọ bora
+Options:
+0) Ọ̀tábíyìí ti kú
+1) Ọ̀tábíyìí wà láàyè
+
+Question 595: Ọtábíyìí ti di rírí gbé jó
+Options:
+0) Ọ̀tábíyìí ti kú
+1) Ọ̀tábíyìí wà láàyè
+
+Question 596: Àyọ̀ká ń fẹ́wọ́
+Options:
+0) Àyọ̀ká ń jalè
+1) Àyọ̀ká ń ṣọ́ nǹkan
+
+Question 597: Àyọ̀ká fẹ́ sọ̀rọ̀
+Options:
+0) Àyọ̀ká ń jalè
+1) Àyọ̀ká ń ṣọ́ nǹkan
+
+Question 598: Táyé gbẹ́ní lọ odò ni
+Options:
+0) Táyé pẹ́ lódò
+1) Táyé tètè dé látodò
+
+Question 599: Táyé gbé bàlúù lọ sódò
+Options:
+0) Táyé pẹ́ lódò
+1) Táyé tètè dé látodò
+"
+30,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 600: Ó kómi síta bí ọmọ ọjọ́ mẹ́jọ
+Options:
+0) Ó pòkìkí mi lórí ìṣẹ̀lẹ̀
+1) Ó fiwá pamọ́
+
+Question 601: Ó pamí mọ́ bí awùsá
+Options:
+0) Ó pòkìkí mi lórí ìṣẹ̀lẹ̀
+1) Ó fiwá pamọ́
+
+Question 602: Kòjẹ́ kí n fẹ̀dọ̀ lórí òróòro
+Options:
+0) Kò jẹ́ kí n nísinmi
+1) Kò jẹ́ kí n dààmú
+
+Question 603: Ó jẹ́ kí n fẹ̀dọ̀ lórí òróòro
+Options:
+0) Kò jẹ́ kí n nísinmi
+1) Kò jẹ́ kí n dààmú
+
+Question 604: Ẹkùn ni Bímpé
+Options:
+0) Akínkanjú ni Bímpé
+1) Ọ̀lẹ ni Bímpé
+
+Question 605: Àgùntàn ni Bímpé
+Options:
+0) Akínkanjú ni Bímpé
+1) Ọ̀lẹ ni Bímpé
+
+Question 606: Adé ń mú u ùn lẹ̀ fún wa ni
+Options:
+0) Adé ń parọ́ fún wa ni
+1) Adé ń ṣòótọ́ fún wa ni
+
+Question 607: Adé ń fọ ọ̀rọ̀ bó ti rí gan
+Options:
+0) Adé ń parọ́ fún wa ni
+1) Adé ń ṣòótọ́ fún wa ni
+
+Question 608: Ó kọtí ikún sí àmọ̀ràn mi
+Options:
+0) Ó kọ̀ láti kọ àmọ̀ràn mi
+1) Ó kọ̀ láti gba àmọ̀ràn mi
+
+Question 609: Ó dẹtí sílẹ̀ sí àmọ̀ràn mi
+Options:
+0) Ó kọ̀ láti kọ àmọ̀ràn mi
+1) Ó kọ̀ láti gba àmọ̀ràn mi
+
+Question 610: Ajíbádé ń yíjú sẹ́yìn fúnmi
+Options:
+0) Ó fà mí mọ́ra
+1) Ó pa mí tì
+
+Question 611: Ajíbádé ń rẹ́rìn-ín sí mi
+Options:
+0) Ó fà mí mọ́ra
+1) Ó pa mí tì
+
+Question 612: Táyé gbéná wojú Àjàní
+Options:
+0) Táyé bínú sí Àjàní
+1) Táyé rọnú sí Àjàní
+
+Question 613: Táyé rọ Àjàní ninú
+Options:
+0) Táyé bínú sí Àjàní
+1) Táyé rọnú sí Àjàní
+
+Question 614: Ó sọ̀pàkọ́ sí i
+Options:
+0) Ó pa á tì
+1) Ó fà á mọ́ra
+
+Question 615: Ó wọ́ ọ mọ́dọ̀
+Options:
+0) Ó pa á tì
+1) Ó fà á mọ́ra
+
+Question 616: Àdìgún gbaná ojú Ayò
+Options:
+0) Àdìgún bínú sí Ayọ̀
+1) Àdìgún rọnú sí Ayọ̀
+
+Question 617: Àdì̀gún tu Ayọ̀ nínú
+Options:
+0) Àdìgún bínú sí Ayọ̀
+1) Àdìgún rọnú sí Ayọ̀
+
+Question 618: Ò ń tọwọ́ bọ̀ mí lénu
+Options:
+0) Ó ń fagídí mú mi sọ̀rọ̀
+1) Ó ń fẹ̀sọ̀ mú mi sọ̀rọ̀
+
+Question 619: Ó ń fọwọ́ bò mí lẹ́nu
+Options:
+0) Ó ń fagídí mú mi sọ̀rọ̀
+1) Ó ń fẹ̀sọ̀ mú mi sọ̀rọ̀
+"
+31,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 620: Ọmọ náà yándìí
+Options:
+0) Ọmọ náà fẹ́ràn ìbálòpọ̀
+1) Ọmọ náà kò fẹ́ràn ìbálòpọ̀
+
+Question 621: Ọmọ náà dídìí
+Options:
+0) Ọmọ náà fẹ́ràn ìbálòpọ̀
+1) Ọmọ náà kò fẹ́ràn ìbálòpọ̀
+
+Question 622: Ọmọ orí títì ni Àdìsá
+Options:
+0) Ọmọ tí kò ní olùbáwí ni Àdìsá
+1) Ọmọ tí ò ní akẹ́nijù ni Àdìsá
+
+Question 623: Ọmọlúàbí ni Àdìsá
+Options:
+0) Ọmọ tí kò ní olùbáwí ni Àdìsá
+1) Ọmọ tí ò ní akẹ́nijù ni Àdìsá
+
+Question 624: A kú ìtẹ́nu
+Options:
+0) A kú ààwẹ̀
+1) A kú ìjẹ ọ̀pọ̀
+
+Question 625: A kú ìkúnu
+Options:
+0) A kú ààwẹ̀
+1) A kú ìjẹ ọ̀pọ̀
+
+Question 626: Bólú ń wo aago aláago sáré
+Options:
+0) Bólú ń wo ìgbésẹ̀ ẹlòmìíràn láti gbé tirẹ̀
+1) Bólú kò wo ìgbésẹ̀ ẹlòmìíràn láti gbé tirẹ̀
+
+Question 627: Bólú ò rẹ́nìkan wò ṣe
+Options:
+0) Bólú ń wo ìgbésẹ̀ ẹlòmìíràn láti gbé tirẹ̀
+1) Bólú kò wo ìgbésẹ̀ ẹlòmìíràn láti gbé tirẹ̀
+
+Question 628: Afọ́fungbémi
+Options:
+0) Ẹni tí ó gọ̀
+1) Ẹni tó gbọ́n
+
+Question 629: Agbọ́nbí aṣarun
+Options:
+0) Ẹni tí ó gọ̀
+1) Ẹni tó gbọ́n
+
+Question 630: Tàlàbí sòkò ọ̀rọ̀ lu olùkọ́
+Options:
+0) Tàlàbí sọ ọ̀rọ̀ tí ó tàbùkù olùkọ́
+1) Tàlàbí sọ ọ̀rọ̀ tí ó ra iyì fún olùkọ́
+
+Question 631: Tàlàbí lu olùkọ́ lọ́gọ ẹnu
+Options:
+0) Tàlàbí sọ ọ̀rọ̀ tí ó tàbùkù olùkọ́
+1) Tàlàbí sọ ọ̀rọ̀ tí ó ra iyì fún olùkọ́
+
+Question 632: Àwòko ni Ayọ̀
+Options:
+0) Ayọ̀ fẹ́ràn láti máa kọrin
+1) Ayọ̀ fẹ́ràn láti máa dákẹ́
+
+Question 633: Agbárí odi ni Ayọ̀
+Options:
+0) Ayọ̀ fẹ́ràn láti máa kọrin
+1) Ayọ̀ fẹ́ràn láti máa dákẹ́
+
+Question 634: Mo gbe ẹ̀mí lé Olú
+Options:
+0) Mo ní ìrètí nínú Olú
+1) Mi ní ìjákulẹ̀ lórí Olú
+
+Question 635: Ayọ̀ ò ṣe fìrètí sí
+Options:
+0) Mo ní ìrètí nínú Olú
+1) Mi ní ìjákulẹ̀ lórí Olú
+
+Question 636: Olúbáre ti jẹun sókè
+Options:
+0) Olúbáre ti di ẹni tí ó ní ọlá
+1) Olúbáre ti di olòṣì
+
+Question 637: Olúbáre ti dẹni ilẹ̀
+Options:
+0) Olúbáre ti di ẹni tí ó ní ọlá
+1) Olúbáre ti di olòṣì
+
+Question 638: Ìgbín ni Dàda
+Options:
+0) Dàdá lọ́ra
+1) Dàdá yára
+
+Question 639: Àṣá ni Dàda
+Options:
+0) Dàdá lọ́ra
+1) Dàdá yára
+"
+32,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 640: Àdìó kọ̀yìn sími
+Options:
+0) Àdìó pa mí tì
+1) Àdìó fà mí mọ́ra
+
+Question 641: Àdìó kọjú sími
+Options:
+0) Àdìó pa mí tì
+1) Àdìó fà mí mọ́ra
+
+Question 642: Ìdòwù tùuúlẹ̀
+Options:
+0) Ìdòwú sálọ
+1) Ìdòwú dúró
+
+Question 643: Ìdòwù́ wararo
+Options:
+0) Ìdòwú sálọ
+1) Ìdòwú dúró
+
+Question 644: Kẹ́hìndé fàgbà han ìdòwú
+Options:
+0) Kẹ́hìndé fìyà jẹ Ìdòwú
+1) Kẹ́hìndé dá Ìdòwú lọ́lá
+
+Question 645: Kẹ́hìndé subú sọ́wọ́ Ìdòwú
+Options:
+0) Kẹ́hìndé fìyà jẹ Ìdòwú
+1) Kẹ́hìndé dá Ìdòwú lọ́lá
+
+Question 646: Wọ́n dáná yá Olú
+Options:
+0) Wọ́n ró Olú lágbára
+1) Wọ́n gbagbára lọ́wọ́ olú
+
+Question 647: Wọ́n gbadà lọ́wọ́ Olú
+Options:
+0) Wọ́n ró Olú lágbára
+1) Wọ́n gbagbára lọ́wọ́ olú
+
+Question 648: Wọ́n ti já ṣọ́ọ̀bù Ìdòwú
+Options:
+0) Wọ́n ti já ìbálé Ìdòwú
+1) Wọ́n ti dí Ìbálé Ìdòwú
+
+Question 649: Ọ̀rá wà lára Ìdòwú
+Options:
+0) Wọ́n ti já ìbálé Ìdòwú
+1) Wọ́n ti dí Ìbálé Ìdòwú
+
+Question 650: Àdìó ti wọlẹ̀ sùn
+Options:
+0) Àdìó ti kú
+1) Àdìó wà láàyè
+
+Question 651: Àdió ti kún wa láyé
+Options:
+0) Àdìó ti kú
+1) Àdìó wà láàyè
+
+Question 652: Mi ò fojú sílẹ̀ fún un
+Options:
+0) Mo ò fààyè àti bá mi sọ̀rọ̀ sílẹ̀
+1) Mi ò fààyè àti yànmí lódì sílẹ̀
+
+Question 653: Mo sọra sílẹ̀ fún un
+Options:
+0) Mo ò fààyè àti bá mi sọ̀rọ̀ sílẹ̀
+1) Mi ò fààyè àti yànmí lódì sílẹ̀
+
+Question 654: Àṣá ni Ìdòwú
+Options:
+0) Ìdòwú yára
+1) Ìdòwú lọ́ra
+
+Question 655: Ìgbín ni Ìdòwú
+Options:
+0) Ìdòwú yára
+1) Ìdòwú lọ́ra
+
+Question 656: Bídèmí pàkúta sọ́rọ̀ wa
+Options:
+0) Bídèmí gbé ọ̀rọ̀ mìíràn wọ inú ọ̀rọ̀ tí à ń sọ
+1) Bí ló mú wa tẹ̀síwájú ọ̀rọ̀ tí à ń sọ
+
+Question 657: Bídèmí wú ọ̀rọ̀ wa síta
+Options:
+0) Bídèmí gbé ọ̀rọ̀ mìíràn wọ inú ọ̀rọ̀ tí à ń sọ
+1) Bí ló mú wa tẹ̀síwájú ọ̀rọ̀ tí à ń sọ
+
+Question 658: Òyà ni Dọlápọ̀
+Options:
+0) Dọlápọ̀ máa ń dásí ohun tí wọn kò pè é sí
+1) Dọlápọ̀ kì í dásí ohun tí wọn kò pè é sí
+
+Question 659: Àdàbà ni Dọlápọ̀
+Options:
+0) Dọlápọ̀ máa ń dásí ohun tí wọn kò pè é sí
+1) Dọlápọ̀ kì í dásí ohun tí wọn kò pè é sí
+"
+33,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 660: Ó fẹnu họra
+Options:
+0) Ó gọ̀
+1) O gbọ́n
+
+Question 661: Ó kọ́gbọ́n rù
+Options:
+0) Ó gọ̀
+1) O gbọ́n
+
+Question 662: Ejò ni ó ń lé sími
+Options:
+0) Nǹkan búburú ni ó ń wá fún mi
+1) Nǹkan rere ni ò ń wá fún mi
+
+Question 663: Eku ni ó ń lé sími
+Options:
+0) Nǹkan búburú ni ó ń wá fún mi
+1) Nǹkan rere ni ò ń wá fún mi
+
+Question 664: Wọ́n ti dòkúta sérù Olùkọ́
+Options:
+0) Wọ́n ti wá ìpalára fún Olùkọ́
+1) Wọ́n ti wá ìdẹ̀ra fún Olùkọ́
+
+Question 665: Wọ́n ti yọ òkúta lérù olùkọ́
+Options:
+0) Wọ́n ti wá ìpalára fún Olùkọ́
+1) Wọ́n ti wá ìdẹ̀ra fún Olùkọ́
+
+Question 666: Adéoyè ti dẹni àná
+Options:
+0) Adéoyè ti kú
+1) Adéoyè wà láàyè
+
+Question 667: Adéoyè dẹ́sẹ̀ tẹ ayẹ́
+Options:
+0) Adéoyè ti kú
+1) Adéoyè wà láàyè
+
+Question 668: Àdìsá ti tọwọ́ bọná
+Options:
+0) Àdìsá ti fọ̀rọ̀ ara rẹ̀ kọ́gbọ́n
+1) Àdìsá ti fọ̀rọ̀ ọlọ́rọ̀ kọ́gbọ́n
+
+Question 669: Àdì̀sá ti tọwọ́ boyin láti lá
+Options:
+0) Àdìsá ti fọ̀rọ̀ ara rẹ̀ kọ́gbọ́n
+1) Àdìsá ti fọ̀rọ̀ ọlọ́rọ̀ kọ́gbọ́n
+
+Question 670: Àkekèé ni Dayọ̀
+Options:
+0) Ènìyàn tó lè ṣeni níjàm̀bá ni Dayọ̀
+1) Ènìyàn tó lè ṣeni láǹfààní ni Dayọ̀
+
+Question 671: Àdàbà̀ ni Dayọ̀
+Options:
+0) Ènìyàn tó lè ṣeni níjàm̀bá ni Dayọ̀
+1) Ènìyàn tó lè ṣeni láǹfààní ni Dayọ̀
+
+Question 672: Ó ti kógbó sími lápò
+Options:
+0) Ó ti wá àkóbá fún mi
+1) Ó di yọ ọ̀ràn lórùn mi
+
+Question 673: Ó ti kó́wó sími lápò
+Options:
+0) Ó ti wá àkóbá fún mi
+1) Ó di yọ ọ̀ràn lórùn mi
+
+Question 674: Ewèlè ni Àdùkẹ́
+Options:
+0) Ènìyàn tó burú ni Àdùkẹ́
+1) Ènìyàn tó rọnú ni Àdùkẹ́
+
+Question 675: Àdà̀bà ni Àdùkẹ́
+Options:
+0) Ènìyàn tó burú ni Àdùkẹ́
+1) Ènìyàn tó rọnú ni Àdùkẹ́
+
+Question 676: Àkan ni ọ̀rọ̀ náà fún mi
+Options:
+0) Ọ̀rọ̀ náà rí bí mo ṣe fẹ́
+1) Ọ̀rọ̀ náà rí bí mo kò ṣe fẹ́
+
+Question 677: Ẹja ni ọ̀rọ̀ náà fún mi
+Options:
+0) Ọ̀rọ̀ náà rí bí mo ṣe fẹ́
+1) Ọ̀rọ̀ náà rí bí mo kò ṣe fẹ́
+
+Question 678: Finá sórí òrùlé sùn
+Options:
+0) Wà nínú ewu
+1) Wà lábẹ́ àbò
+
+Question 679: Gbéná kúrò lórùlé
+Options:
+0) Wà nínú ewu
+1) Wà lábẹ́ àbò
+"
+34,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 680: Bẹ́ igi fún un
+Options:
+0) Fí ẹgba nà án
+1) Gbà sílẹ̀ lọ́wọ́ ẹgba
+
+Question 681: Réyín rungi
+Options:
+0) Fí ẹgba nà án
+1) Gbà sílẹ̀ lọ́wọ́ ẹgba
+
+Question 682: Aṣọ ò bọ́mọ́yẹ mọ́
+Options:
+0) Àtúnṣe yìí ò wúlò mọ́
+1) Àtúnṣe yìí wúlò
+
+Question 683: Dáṣọ ró Ọmọ́yẹ
+Options:
+0) Àtúnṣe yìí ò wúlò mọ́
+1) Àtúnṣe yìí wúlò
+
+Question 684: Fọwọ́ wọ́nú
+Options:
+0) Má bínú
+1) Bínu
+
+Question 685: Fọwọ́ jọ́ná
+Options:
+0) Má bínú
+1) Bínu
+
+Question 686: Èmi ni mo tọ̀pá bọhò ọ̀rọ̀ náà
+Options:
+0) Èmi ni mo dá ọ̀rọ̀ tó fa ìjà sílẹ̀
+1) Èmi ò mọ nǹkankan nípa ọ̀rọ̀ tó fa ìjà sílẹ̀
+
+Question 687: È̀mi ni mo bomi paná ẹ̀
+Options:
+0) Èmi ni mo dá ọ̀rọ̀ tó fa ìjà sílẹ̀
+1) Èmi ò mọ nǹkankan nípa ọ̀rọ̀ tó fa ìjà sílẹ̀
+
+Question 688: Ó fẹ́ máa kógbó sí mi lórí
+Options:
+0) Ó fẹ́ máa tàn mí
+1) Ó fẹ́ máa ṣòótọ́ fúnmi
+
+Question 689: Ó fẹ́ máa kówó sí mi lápò
+Options:
+0) Ó fẹ́ máa tàn mí
+1) Ó fẹ́ máa ṣòótọ́ fúnmi
+
+Question 690: Ọ̀pọ̀lọpọ̀ àwọn ènìyàn ni wọ́n ti kọjá lọ
+Options:
+0) Ọ̀pọ̀lọpọ̀ àwọn ènìyàn ni wọ́n ti kú
+1) Ọ̀pọ̀lọpọ̀ àwọn ènìyàn ni wọ́n wà láàyè
+
+Question 691: Ọ̀pọ̀lọpọ̀ àwọn ènìyàn ni padà bí
+Options:
+0) Ọ̀pọ̀lọpọ̀ àwọn ènìyàn ni wọ́n ti kú
+1) Ọ̀pọ̀lọpọ̀ àwọn ènìyàn ni wọ́n wà láàyè
+
+Question 692: Wọ́n ń fòrí pa Rẹ̀mí lórí
+Options:
+0) Wọ́n ń fi Rẹ̀mí sílẹ̀ láìbáwí
+1) Wọ́n ń bá Rẹ̀mí wí gidigidi
+
+Question 693: Wọ́n ń dáná sí Rẹ̀mí lórí
+Options:
+0) Wọ́n ń fi Rẹ̀mí sílẹ̀ láìbáwí
+1) Wọ́n ń bá Rẹ̀mí wí gidigidi
+
+Question 694: Ó fẹ́ dáwọ́ tẹlẹ̀
+Options:
+0) Ó fẹ́ yàgbẹ́
+1) Ó fẹ́ jẹun
+
+Question 695: Ó fẹ́ mọ́wọ́ lọ ẹnu
+Options:
+0) Ó fẹ́ yàgbẹ́
+1) Ó fẹ́ jẹun
+
+Question 696: Aṣa ni Àìná
+Options:
+0) Oníwérewère ni Àìná
+1) Alárabíbalẹ̀ ni Àìná
+
+Question 697: Àdàbà ni Àìná
+Options:
+0) Oníwérewère ni Àìná
+1) Alárabíbalẹ̀ ni Àìná
+
+Question 698: Adébáre lulẹ̀
+Options:
+0) Adébáre ní ìjákulẹ̀
+1) Adébáre ní ìgbéga
+
+Question 699: Adébáre mókè
+Options:
+0) Adébáre ní ìjákulẹ̀
+1) Adébáre ní ìgbéga
+"
+35,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 700: Ọmọ yẹn padà sọdá
+Options:
+0) Ọmọ yẹn padà kú
+1) Ọmọ yẹ padà yè
+
+Question 701: Ọmọ yẹn padà dúró
+Options:
+0) Ọmọ yẹn padà kú
+1) Ọmọ yẹ padà yè
+
+Question 702: Dèjì ni eku ẹdá
+Options:
+0) Dèjì ni ó dá gbogbo ọ̀rọ̀ náà sílẹ̀
+1) Dèjì kò mọ nǹkan nípa ọ̀rọ̀ náà
+
+Question 703: Dè̀jì kò dáhun rí
+Options:
+0) Dèjì ni ó dá gbogbo ọ̀rọ̀ náà sílẹ̀
+1) Dèjì kò mọ nǹkan nípa ọ̀rọ̀ náà
+
+Question 704: Ọfọ́n-ọ̀n ni Táyọ̀
+Options:
+0) Olè ni Táyọ̀
+1) Olùṣọ́ ni Táyọ̀
+
+Question 705: Ajá ìṣọ́lé ni Táyọ̀
+Options:
+0) Olè ni Táyọ̀
+1) Olùṣọ́ ni Táyọ̀
+
+Question 706: Tèmítọ́pẹ́ ló gbégbá orókè
+Options:
+0) Tèmítọ́pé ló ṣẹ́gun
+1) Tèmí ló pàdánù
+
+Question 707: Tèmítọ́pẹ́ kò rípò mú
+Options:
+0) Tèmítọ́pé ló ṣẹ́gun
+1) Tèmí ló pàdánù
+
+Question 708: Mo ti tẹ àwọn ọ̀tá mi rì
+Options:
+0) Mo ti ní ìṣẹ́gun lórí àwọn ọ̀tá mi
+1) Mo pàdánù sí ọwọ́ àwọn ọ̀tá mi
+
+Question 709: Mo ti ń bá ọ̀tá sùn
+Options:
+0) Mo ti ní ìṣẹ́gun lórí àwọn ọ̀tá mi
+1) Mo pàdánù sí ọwọ́ àwọn ọ̀tá mi
+
+Question 710: Dami síwájú
+Options:
+0) Ṣe nǹkan dáadáa ṣaájú
+1) Ṣe ìbàjẹ́ ṣaajú
+
+Question 711: Dẹ̀gún síwájú
+Options:
+0) Ṣe nǹkan dáadáa ṣaájú
+1) Ṣe ìbàjẹ́ ṣaajú
+
+Question 712: Ìjẹ ẹ̀lírí ni Òjó ń jẹ
+Options:
+0) Oúnjẹ tíńtín ni Òjọ́ ń rí jẹ
+1) Ouńjẹ púpọ̀ ni Òjọ́ ń rí jẹ
+
+Question 713: Ìjẹ̀ erin ni Òjó ń jẹ
+Options:
+0) Oúnjẹ tíńtín ni Òjọ́ ń rí jẹ
+1) Ouńjẹ púpọ̀ ni Òjọ́ ń rí jẹ
+
+Question 714: Ta ló m’Òkòlò rẹ l’Ọ́yọ̀ọ́?
+Options:
+0) Ta ló dá ọ mọ̀?
+1) Ta ni kò mọ̀ ọ́?
+
+Question 715: Ìṣáná ẹlẹ́ta ni Òkòlò l’Ọ́yọ̀ọ́
+Options:
+0) Ta ló dá ọ mọ̀?
+1) Ta ni kò mọ̀ ọ́?
+
+Question 716: Òkú tí ẹ sin…
+Options:
+0) Ọ̀rọ̀ tí ẹ̀ ń fi pamọ́
+1) Ọ̀rọ̀ tí ẹ̀ ń tú sìta
+
+Question 717: Òkú tí ẹ wú...
+Options:
+0) Ọ̀rọ̀ tí ẹ̀ ń fi pamọ́
+1) Ọ̀rọ̀ tí ẹ̀ ń tú sìta
+
+Question 718: Àdìsá láyà
+Options:
+0) Akínkanjú ni Àdìsá
+1) Ọ̀lẹ ni Àdìsá
+
+Question 719: Àdìsá láyà tì
+Options:
+0) Akínkanjú ni Àdìsá
+1) Ọ̀lẹ ni Àdìsá
+"
+36,"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+
+Output:
+0, 1
+1, 1
+
+ INPUT:
+Question 720: Ẹnu mi gbẹ
+Options:
+0) Kò sówó lọ́wọ́ mi
+1) Owó pọ̀ lọ́wọ́ mi
+
+Question 721: Ẹnu mi tutù
+Options:
+0) Kò sówó lọ́wọ́ mi
+1) Owó pọ̀ lọ́wọ́ mi
+
+Question 722: Òun ló kẹ́rẹ̀ yínmi
+Options:
+0) Òun ló kó ẹ̀gbin bá mi
+1) Òun ló mú iyì bá mi
+
+Question 723: Òun ló kọ́lá bá mi
+Options:
+0) Òun ló kó ẹ̀gbin bá mi
+1) Òun ló mú iyì bá mi
+
+Question 724: O ti fi imí tíntín bàdí jẹ́
+Options:
+0) Ó ti fi nǹkan kẹ́reré kóbá ara rẹ̀
+1) Ó ti fi nǹkan ńlá tún ayé ara rẹ̀ ṣe
+
+Question 725: O ti tún ìdí rẹ̀ ṣe
+Options:
+0) Ó ti fi nǹkan kẹ́reré kóbá ara rẹ̀
+1) Ó ti fi nǹkan ńlá tún ayé ara rẹ̀ ṣe
+
+Question 726: Ó ń gbé mi gẹṣin aáyán
+Options:
+0) Ó ń ṣe ìlérí irọ́ fún mi
+1) Ó ń ṣe ìlérí òtítọ́ fún mi
+
+Question 727: Ó ń gbé mi gẹṣin tọ́ba ìlú wa ṣẹ̀ṣẹ̀ rà
+Options:
+0) Ó ń ṣe ìlérí irọ́ fún mi
+1) Ó ń ṣe ìlérí òtítọ́ fún mi
+
+Question 728: Àjàdí ló su sáwo
+Options:
+0) Àjàdí ló ba nǹkan jẹ́
+1) Àjàdí ló tún nǹkan ṣe
+
+Question 729: Àjàdí ló fọ áwo
+Options:
+0) Àjàdí ló ba nǹkan jẹ́
+1) Àjàdí ló tún nǹkan ṣe
+"

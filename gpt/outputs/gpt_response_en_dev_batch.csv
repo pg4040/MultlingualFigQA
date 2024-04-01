@@ -1,0 +1,6565 @@
+Prompt,Response
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 0: The girl had the flightiness of a sparrow
+Options:
+0) The girl was very fickle.
+1) The girl was very stable.
+
+Question 1: The girl had the flightiness of a rock
+Options:
+0) The girl was very fickle.
+1) The girl was very stable.
+
+Question 2: It was as peaceful as a church.
+Options:
+0) It was very peaceful.
+1) It was full of conflict and danger, not peace.
+
+Question 3: It was as peaceful as a battlefield.
+Options:
+0) It was very peaceful.
+1) It was full of conflict and danger, not peace.
+
+Question 4: The leaves were as green as grass
+Options:
+0) The leaves were very green
+1) The leaves were brown and not green at all.
+
+Question 5: The leaves were as green as dirt
+Options:
+0) The leaves were very green
+1) The leaves were brown and not green at all.
+
+Question 6: Shopping for groceries is finding shells on a sunny beach
+Options:
+0) Shopping for groceries is a fun, rewarding chore
+1) Shopping for groceries is a crazy, nearly impossible chore
+
+Question 7: Shopping for groceries is a scavenger hunt with a list created by a lunatic
+Options:
+0) Shopping for groceries is a fun, rewarding chore
+1) Shopping for groceries is a crazy, nearly impossible chore
+
+Question 8: War is an amputation on the wrong limb
+Options:
+0) War is the wrong solution to a problem
+1) War is a necessary solution
+
+Question 9: War is an amputation to save your life
+Options:
+0) War is the wrong solution to a problem
+1) War is a necessary solution
+
+Question 10: It's as green as grass in the spring
+Options:
+0) It's fairy green
+1) It's not too green
+
+Question 11: It's as green as grass during a hot summer
+Options:
+0) It's fairy green
+1) It's not too green
+
+Question 12: This is as peaceful as a sleeping puppy
+Options:
+0) It's very peaceful
+1) It's not very peaceful
+
+Question 13: This is as peaceful as European in the '40s
+Options:
+0) It's very peaceful
+1) It's not very peaceful
+
+Question 14: The music was loud like a siren.
+Options:
+0) The music was very loud.
+1) The music was very quiet.
+
+Question 15: The music was loud like a whisper.
+Options:
+0) The music was very loud.
+1) The music was very quiet.
+
+Question 16: Jobs are as available as a marriage man.
+Options:
+0) Jobs are not available.
+1) Jobs are very available.
+
+Question 17: Jobs are as available as a bachelor.
+Options:
+0) Jobs are not available.
+1) Jobs are very available.
+
+Question 18: Peace is a human flying
+Options:
+0) Peace is impossible
+1) Peace is possible
+
+Question 19: Peace is a human walking
+Options:
+0) Peace is impossible
+1) Peace is possible
+
+Question 20: Plants are a lullaby
+Options:
+0) Plants are calming
+1) Plants are disturbing
+
+Question 21: Plants are a loud drum
+Options:
+0) Plants are calming
+1) Plants are disturbing
+
+Question 22: The car was as ugly as a one eyed rat
+Options:
+0) it was hideous
+1) it was beautiful
+
+Question 23: The car was as ugly as a swan
+Options:
+0) it was hideous
+1) it was beautiful
+
+Question 24: The man was as handsome as a prince
+Options:
+0) he was good looking
+1) he was ugly
+
+Question 25: The man was as handsome as a hobo
+Options:
+0) he was good looking
+1) he was ugly
+
+Question 26: The conversation was sharp as a tack
+Options:
+0) The conversation was sharp and witty.
+1) The conversation was dull and not sharp.
+
+Question 27: The conversation was sharp as a rock
+Options:
+0) The conversation was sharp and witty.
+1) The conversation was dull and not sharp.
+
+Question 28: He ate it like a fat boy eats cake
+Options:
+0) The food was tasty to him
+1) The food was unpalatable to him
+
+Question 29: He ate it like a young boy eats broccoli
+Options:
+0) The food was tasty to him
+1) The food was unpalatable to him
+
+Question 30: He picked it up like a mother holding a baby
+Options:
+0) He held it with pride and care
+1) He held it with disgust and caution
+
+Question 31: He picked it up like a playboy holding a condom
+Options:
+0) He held it with pride and care
+1) He held it with disgust and caution
+
+Question 32: He rushed through the math test like an ape
+Options:
+0) He rushed because he is dumb
+1) He rushed because he is smart
+
+Question 33: He rushed through the math test like a rocket scientist
+Options:
+0) He rushed because he is dumb
+1) He rushed because he is smart
+
+Question 34: The bear was as hungry as a lion
+Options:
+0) it was starving
+1) it didn't need food
+
+Question 35: The bear was as hungry as a piece of paper
+Options:
+0) it was starving
+1) it didn't need food
+
+Question 36: That conversation had the ease of doing your taxes blindfolded.
+Options:
+0) Having that conversation was difficult
+1) Having that conversation was easy.
+
+Question 37: That conversation had the ease of a Sunday morning.
+Options:
+0) Having that conversation was difficult
+1) Having that conversation was easy.
+
+Question 38: Their conversations were artillery bombardments.
+Options:
+0) Their conversations were heated and antagonistic.
+1) Their conversations were friendly.
+
+Question 39: Their conversations were a hug with words.
+Options:
+0) Their conversations were heated and antagonistic.
+1) Their conversations were friendly.
+
+Question 40: The story was as disturbing as a nightmare
+Options:
+0) The story was very disturbing.
+1) The story failed to be disturbing, and in fact seemed cute.
+
+Question 41: The story was as disturbing as a newborn puppy
+Options:
+0) The story was very disturbing.
+1) The story failed to be disturbing, and in fact seemed cute.
+
+Question 42: Their expectations of the house they could afford turned into melted ice.
+Options:
+0) Their expectations were not met.
+1) Their expectations were exceeded.
+
+Question 43: Their expectations of the house they could afford leapt past the second story.
+Options:
+0) Their expectations were not met.
+1) Their expectations were exceeded.
+
+Question 44: Those that heard the child sing were carried away on gentle waves.
+Options:
+0) Those that heard the singing were pleasantly entertained.
+1) Those that heard the singing were unpleasantly inundated.
+
+Question 45: Those that heard the child sing were tortured by the intruding notes.
+Options:
+0) Those that heard the singing were pleasantly entertained.
+1) Those that heard the singing were unpleasantly inundated.
+
+Question 46: She sings like an angel
+Options:
+0) her voice is magical
+1) her voice is awful
+
+Question 47: She sings like a bullfrog
+Options:
+0) her voice is magical
+1) her voice is awful
+
+Question 48: HIs opinions were as firm as concrete
+Options:
+0) He was very certain of his opinion
+1) He was very uncertain of his opinion
+
+Question 49: HIs opinions were as firm as a cotton ball
+Options:
+0) He was very certain of his opinion
+1) He was very uncertain of his opinion
+
+Question 50: The pilot landed the plane like he was handling a new born baby.
+Options:
+0) The landing was smooth and gentle
+1) The landing was bumpy and rough
+
+Question 51: The pilot landed the plane like it was on a roller coaster.
+Options:
+0) The landing was smooth and gentle
+1) The landing was bumpy and rough
+
+Question 52: The man's personality is like a Beanie Baby
+Options:
+0) The man has a soft personality.
+1) The man has a hard personality.
+
+Question 53: The man's personality is like a drill sergeant
+Options:
+0) The man has a soft personality.
+1) The man has a hard personality.
+
+Question 54: The poster was as colorful as a rainbow
+Options:
+0) The poster has a lot of color.
+1) The poster was dull and colorless.
+
+Question 55: The poster was as colorful as a sidewalk
+Options:
+0) The poster has a lot of color.
+1) The poster was dull and colorless.
+
+Question 56: She is as eager as a beaver
+Options:
+0) she is excited
+1) she is bored
+
+Question 57: She is as eager as a sloth
+Options:
+0) she is excited
+1) she is bored
+
+Question 58: The motor on the boat is a Babbling drunk
+Options:
+0) It is barely running
+1) It is running strong
+
+Question 59: The motor on the boat is a Roaring lion
+Options:
+0) It is barely running
+1) It is running strong
+","0,0
+1,1
+2,0
+3,1
+4,0
+5,1
+6,0
+7,1
+8,0
+9,1
+10,0
+11,1
+12,0
+13,1
+14,0
+15,1
+16,1
+17,0
+18,0
+19,1
+20,0
+21,1
+22,0
+23,1
+24,0
+25,1
+26,0
+27,1
+28,0
+29,1
+30,0
+31,1
+32,0
+33,1
+34,0
+35,1
+36,0
+37,1
+38,0
+39,1
+40,0
+41,1
+42,0
+43,1
+44,0
+45,1
+46,0
+47,1
+48,0
+49,1
+50,0
+51,1
+52,0
+53,1
+54,0
+55,1
+56,0
+57,1
+58,0
+59,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 60: The lawyer's opening argument was a Russian novel.
+Options:
+0) The lawyer's opening argument was long.
+1) The lawyer's opening argument was tawdry.
+
+Question 61: The lawyer's opening argument was an airport paperback.
+Options:
+0) The lawyer's opening argument was long.
+1) The lawyer's opening argument was tawdry.
+
+Question 62: The house had the cleanliness of a museum
+Options:
+0) The house was very clean.
+1) The house was a mess.
+
+Question 63: The house had the cleanliness of a paintball arena
+Options:
+0) The house was very clean.
+1) The house was a mess.
+
+Question 64: The grapes had the freshness of a secondhand toy.
+Options:
+0) The grapes weren't fresh.
+1) The grapes were very fresh.
+
+Question 65: The grapes had the freshness of an early summer morning.
+Options:
+0) The grapes weren't fresh.
+1) The grapes were very fresh.
+
+Question 66: The toy had the enjoyment of an execution
+Options:
+0) The toy was not fun
+1) The toy was fun
+
+Question 67: The toy had the enjoyment of roller coaster
+Options:
+0) The toy was not fun
+1) The toy was fun
+
+Question 68: The movie's message was as heartwarming as a cup of mint tea
+Options:
+0) The movie message was very heartwarming.
+1) The movie's message wasn't heartwarming at all.
+
+Question 69: The movie's message was as heartwarming as a Popsicle
+Options:
+0) The movie message was very heartwarming.
+1) The movie's message wasn't heartwarming at all.
+
+Question 70: The book was as classic as pancakes for breakfast
+Options:
+0) The book was very classic.
+1) The book wasn't a classic.
+
+Question 71: The book was as classic as a bride wearing purple
+Options:
+0) The book was very classic.
+1) The book wasn't a classic.
+
+Question 72: The toy was as new as A quarter from this year.
+Options:
+0) The toy was recent
+1) The toy was dated.
+
+Question 73: The toy was as new as A quarter from the year you were born.
+Options:
+0) The toy was recent
+1) The toy was dated.
+
+Question 74: The woman was as tall as a tree
+Options:
+0) The woman was tall
+1) The woman was short
+
+Question 75: The woman was as tall as a footstool
+Options:
+0) The woman was tall
+1) The woman was short
+
+Question 76: Tom had the joy of a robot.
+Options:
+0) Tom is not very joyful.
+1) Tom is very joyful.
+
+Question 77: Tom had the joy of a dog.
+Options:
+0) Tom is not very joyful.
+1) Tom is very joyful.
+
+Question 78: The movie has a depth of A canyon.
+Options:
+0) The movie is deeply philosophical.
+1) The movie has little substance.
+
+Question 79: The movie has a depth of A pothole.
+Options:
+0) The movie is deeply philosophical.
+1) The movie has little substance.
+
+Question 80: The movie has a depth of A valley.
+Options:
+0) The movie is expansive in it's meaning.
+1) The movie lacks depth.
+
+Question 81: The movie has a depth of A flatland.
+Options:
+0) The movie is expansive in it's meaning.
+1) The movie lacks depth.
+
+Question 82: She was as delicate as An elephant
+Options:
+0) She was a lumbering clod
+1) She was fragile
+
+Question 83: She was as delicate as A snowflake
+Options:
+0) She was a lumbering clod
+1) She was fragile
+
+Question 84: Her dinner tasted like An old shoe
+Options:
+0) The food was disgusting
+1) The food was gloriously delicious
+
+Question 85: Her dinner tasted like Manna from heaven
+Options:
+0) The food was disgusting
+1) The food was gloriously delicious
+
+Question 86: The boy's lemonade stand was as successful as a Fortune 500 company
+Options:
+0) The boy's lemonade stand was a wild success.
+1) The boy's lemonade stand did terribly.
+
+Question 87: The boy's lemonade stand was as successful as the 1962 New York Mets
+Options:
+0) The boy's lemonade stand was a wild success.
+1) The boy's lemonade stand did terribly.
+
+Question 88: He is as famous as a movie star
+Options:
+0) people know him
+1) no one knows him
+
+Question 89: He is as famous as a roach in a dumpster
+Options:
+0) people know him
+1) no one knows him
+
+Question 90: She is as fancy as a prom queen
+Options:
+0) she is elegant
+1) she is dirty
+
+Question 91: She is as fancy as dish water
+Options:
+0) she is elegant
+1) she is dirty
+
+Question 92: Her face glowed like the sun
+Options:
+0) Her face was luminous
+1) her face was dull
+
+Question 93: Her face glowed like the reflection of a dusty mirror
+Options:
+0) Her face was luminous
+1) her face was dull
+
+Question 94: He was the size of an ape.
+Options:
+0) He was huge.
+1) He was small.
+
+Question 95: He was the size of an ant.
+Options:
+0) He was huge.
+1) He was small.
+
+Question 96: The song had the creativity of an ameba.
+Options:
+0) The song was too simplistic.
+1) The song was very complex and beautiful.
+
+Question 97: The song had the creativity of all the paintings in the Louvre.
+Options:
+0) The song was too simplistic.
+1) The song was very complex and beautiful.
+
+Question 98: That movie was as long as a 25-year-old tapeworm
+Options:
+0) It's extremely long
+1) It's as short as can be
+
+Question 99: That movie was as long as Howie Mandel's hair
+Options:
+0) It's extremely long
+1) It's as short as can be
+
+Question 100: The playground is as safe as Dracula's fangs.
+Options:
+0) The playground is dangerous.
+1) The playground is secure.
+
+Question 101: The playground is as safe as an insurance policy.
+Options:
+0) The playground is dangerous.
+1) The playground is secure.
+
+Question 102: The manager added kindling to our spark.
+Options:
+0) The manager motivated his employees.
+1) The manager demotivated his employees.
+
+Question 103: The manager added water to our spark.
+Options:
+0) The manager motivated his employees.
+1) The manager demotivated his employees.
+
+Question 104: The student was as gifted as an entrepreneur
+Options:
+0) he has talant
+1) he was talentless
+
+Question 105: The student was as gifted as a blind otter
+Options:
+0) he has talant
+1) he was talentless
+
+Question 106: The woman was as glamourous as a movie star
+Options:
+0) she was fancy
+1) she was unkempt
+
+Question 107: The woman was as glamourous as an old shoe
+Options:
+0) she was fancy
+1) she was unkempt
+
+Question 108: His height was comparable to a redwood tree
+Options:
+0) He was tall
+1) He was short
+
+Question 109: His height was comparable to a mouse
+Options:
+0) He was tall
+1) He was short
+
+Question 110: She came up to eye level with a giraffe
+Options:
+0) She was tall
+1) She was short
+
+Question 111: She came up to eye level with a toddler
+Options:
+0) She was tall
+1) She was short
+
+Question 112: The restaurant's plat du jour was the ambrosia of the gods
+Options:
+0) The food was delicious
+1) The food was disgusting
+
+Question 113: The restaurant's plat du jour was hot garbage
+Options:
+0) The food was delicious
+1) The food was disgusting
+
+Question 114: The car was as useful as a pool with no water
+Options:
+0) the car was useless
+1) the car was helpful
+
+Question 115: The car was as useful as silverware during dinner
+Options:
+0) the car was useless
+1) the car was helpful
+
+Question 116: My dog eats like a mayfly
+Options:
+0) My dog is never eating
+1) My dog never ceases eating
+
+Question 117: My dog eats like a tarrare
+Options:
+0) My dog is never eating
+1) My dog never ceases eating
+
+Question 118: That film as disastrous as the launch of the Xbox One in 2013
+Options:
+0) It isn't very good
+1) It's quite successful
+
+Question 119: That film as disastrous as the Abraham Lincoln presidency
+Options:
+0) It isn't very good
+1) It's quite successful
+","60, 0
+61, 0
+62, 0
+63, 1
+64, 0
+65, 1
+66, 0
+67, 1
+68, 0
+69, 1
+70, 0
+71, 1
+72, 0
+73, 1
+74, 0
+75, 1
+76, 0
+77, 1
+78, 0
+79, 1
+80, 0
+81, 1
+82, 0
+83, 1
+84, 0
+85, 1
+86, 0
+87, 1
+88, 0
+89, 1
+90, 0
+91, 1
+92, 0
+93, 1
+94, 0
+95, 1
+96, 0
+97, 1
+98, 0
+99, 1
+100, 0
+101, 1
+102, 0
+103, 1
+104, 0
+105, 1
+106, 0
+107, 1
+108, 0
+109, 1
+110, 0
+111, 1
+112, 0
+113, 1
+114, 0
+115, 1
+116, 0
+117, 1
+118, 0
+119, 1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 120: The concept was as confusing as a scrambled egg
+Options:
+0) The concept was hard to understand.
+1) The concept was easy to understand.
+
+Question 121: The concept was as confusing as a kiddie puzzle
+Options:
+0) The concept was hard to understand.
+1) The concept was easy to understand.
+
+Question 122: The burrito has the heat of a volcano
+Options:
+0) The burrito is hot
+1) The burrito is cold
+
+Question 123: The burrito has the heat of an iceberg
+Options:
+0) The burrito is hot
+1) The burrito is cold
+
+Question 124: Time moved like a snail.
+Options:
+0) Time was slow.
+1) Time was fast.
+
+Question 125: Time moved like a cheetah.
+Options:
+0) Time was slow.
+1) Time was fast.
+
+Question 126: The man has the patience of a monk.
+Options:
+0) The man is very patient.
+1) The man is very impatient.
+
+Question 127: The man has the patience of a cat in a bath.
+Options:
+0) The man is very patient.
+1) The man is very impatient.
+
+Question 128: The art is as colorful as a rainbow
+Options:
+0) the art is vibrant
+1) the art is dull
+
+Question 129: The art is as colorful as a cloudy sky
+Options:
+0) the art is vibrant
+1) the art is dull
+
+Question 130: The man's head was as handsome as a work of art
+Options:
+0) The man's head was attractive
+1) The man's head was ugly
+
+Question 131: The man's head was as handsome as a trash can
+Options:
+0) The man's head was attractive
+1) The man's head was ugly
+
+Question 132: The building is as old as the universe itself
+Options:
+0) It's very old
+1) It's brand new
+
+Question 133: The building is as old as the baby that will be born tomorrow
+Options:
+0) It's very old
+1) It's brand new
+
+Question 134: That fan has the blowing power of the Greek god Aeolus
+Options:
+0) It can blow a lot
+1) It can hardly blow at all
+
+Question 135: That fan has the blowing power of an unplugged hairdryer
+Options:
+0) It can blow a lot
+1) It can hardly blow at all
+
+Question 136: The sandwich meat was as moist as a towelette
+Options:
+0) The sandwich meat was moist.
+1) The sandwich meat was dry.
+
+Question 137: The sandwich meat was as moist as sandpaper
+Options:
+0) The sandwich meat was moist.
+1) The sandwich meat was dry.
+
+Question 138: She was as big as a lady bug.
+Options:
+0) She was small.
+1) She was big.
+
+Question 139: She was as big as a elephant.
+Options:
+0) She was small.
+1) She was big.
+
+Question 140: The future had the brightness of a mud puddle
+Options:
+0) The future is dull
+1) The future is bright
+
+Question 141: The future had the brightness of diamond
+Options:
+0) The future is dull
+1) The future is bright
+
+Question 142: The girl's happiness exploded like a bottle of champagne
+Options:
+0) The girl's happiness was effusive.
+1) The girl's happiness didn't really explode at all.
+
+Question 143: The girl's happiness exploded like a lullaby
+Options:
+0) The girl's happiness was effusive.
+1) The girl's happiness didn't really explode at all.
+
+Question 144: The problem was as big as a Tootsie Roll
+Options:
+0) The problem was small.
+1) The problem was large.
+
+Question 145: The problem was as big as Antarctica
+Options:
+0) The problem was small.
+1) The problem was large.
+
+Question 146: The girl's temper was a lit match
+Options:
+0) The girl was easily provoked.
+1) The girl's temper was even.
+
+Question 147: The girl's temper was a low tide
+Options:
+0) The girl was easily provoked.
+1) The girl's temper was even.
+
+Question 148: The book I just finished reading is a compass of my life.
+Options:
+0) The book contains a lot of timeless wisdom and helpful knowledge.
+1) The book's content is so trashy and useless that one can't bear reading it again.
+
+Question 149: The book I just finished reading is my new bug smasher.
+Options:
+0) The book contains a lot of timeless wisdom and helpful knowledge.
+1) The book's content is so trashy and useless that one can't bear reading it again.
+
+Question 150: The snake has the skin of a desert dweller who has never touched a bottle of lotion
+Options:
+0) The snake has dry and scaly skin
+1) The snake's skin is not dry and scaly
+
+Question 151: The snake has the skin of a slimy, aquatic eel
+Options:
+0) The snake has dry and scaly skin
+1) The snake's skin is not dry and scaly
+
+Question 152: The reporter was as tall as a basektball center
+Options:
+0) the reporter was tall
+1) the reporter was short
+
+Question 153: The reporter was as tall as a midget
+Options:
+0) the reporter was tall
+1) the reporter was short
+
+Question 154: The disease is spreading like a wild fire
+Options:
+0) It is spreading quickly
+1) It is spreading slowly
+
+Question 155: The disease is spreading like a growth of a finger nail
+Options:
+0) It is spreading quickly
+1) It is spreading slowly
+
+Question 156: The teen was a skyscraper
+Options:
+0) The teen was tall.
+1) The teen was short.
+
+Question 157: The teen was an anthill
+Options:
+0) The teen was tall.
+1) The teen was short.
+
+Question 158: The investigation had the weight of A bunch of feathers
+Options:
+0) The investigation is not important
+1) The investigation has a major impact
+
+Question 159: The investigation had the weight of A city-wide ripple effect
+Options:
+0) The investigation is not important
+1) The investigation has a major impact
+
+Question 160: The teacher is as encouraging as a parent
+Options:
+0) the teacher helps
+1) the teacher doesn't help
+
+Question 161: The teacher is as encouraging as a dead bird
+Options:
+0) the teacher helps
+1) the teacher doesn't help
+
+Question 162: Her hair had the luster of a horse's chestnut mane
+Options:
+0) Her hair was shiny
+1) Her hair was dull
+
+Question 163: Her hair had the luster of straw
+Options:
+0) Her hair was shiny
+1) Her hair was dull
+
+Question 164: His class had all the brilliance of a light bulb
+Options:
+0) His class was brilliant
+1) His class was not so smart.
+
+Question 165: His class had all the brilliance of a rock
+Options:
+0) His class was brilliant
+1) His class was not so smart.
+
+Question 166: The house was as cozy as a winter cabin on a cold night.
+Options:
+0) The house was comfortable to be in.
+1) The house was uncomfortable to be in.
+
+Question 167: The house was as cozy as a prison cell.
+Options:
+0) The house was comfortable to be in.
+1) The house was uncomfortable to be in.
+
+Question 168: The soldier was as tough as nails
+Options:
+0) The soldier is very tough
+1) The soldier is very weak
+
+Question 169: The soldier was as tough as cotton
+Options:
+0) The soldier is very tough
+1) The soldier is very weak
+
+Question 170: She was as fragile as an elephant
+Options:
+0) She was sturdy and not fragile
+1) She was extremely fragile
+
+Question 171: She was as fragile as a crystal teacup
+Options:
+0) She was sturdy and not fragile
+1) She was extremely fragile
+
+Question 172: Her closest relative may as well be a horse
+Options:
+0) She is ugly
+1) She is dainty
+
+Question 173: Her closest relative may as well be a bird
+Options:
+0) She is ugly
+1) She is dainty
+
+Question 174: The athlete was as good as mike tyson in the 80s
+Options:
+0) the athlete was great
+1) the athlete was bad
+
+Question 175: The athlete was as good as mike tyson when he's 80
+Options:
+0) the athlete was great
+1) the athlete was bad
+
+Question 176: The student was as confused as a dog at a spelling bee
+Options:
+0) he didn't know what was going on
+1) he knew everything
+
+Question 177: The student was as confused as a lawyer in court
+Options:
+0) he didn't know what was going on
+1) he knew everything
+
+Question 178: The corner was as busy as a parade
+Options:
+0) The corner was busy
+1) The corner was abandoned and not busy
+
+Question 179: The corner was as busy as a graveyard
+Options:
+0) The corner was busy
+1) The corner was abandoned and not busy
+","120,0
+121,0
+122,0
+123,0
+124,0
+125,1
+126,0
+127,1
+128,0
+129,1
+130,0
+131,1
+132,0
+133,1
+134,0
+135,1
+136,0
+137,1
+138,0
+139,1
+140,0
+141,1
+142,0
+143,1
+144,1
+145,0
+146,0
+147,1
+148,0
+149,1
+150,0
+151,1
+152,0
+153,1
+154,0
+155,1
+156,0
+157,1
+158,0
+159,1
+160,0
+161,1
+162,0
+163,1
+164,0
+165,1
+166,0
+167,1
+168,0
+169,1
+170,1
+171,0
+172,1
+173,0
+174,0
+175,1
+176,0
+177,1
+178,0
+179,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 180: The book was as entertaining as a party
+Options:
+0) The book was entertaining.
+1) The book was not entertaining at all.
+
+Question 181: The book was as entertaining as a funeral
+Options:
+0) The book was entertaining.
+1) The book was not entertaining at all.
+
+Question 182: The artist is as creative as vanilla ice cream
+Options:
+0) The artist has no new ideas.
+1) The artist is very creative.
+
+Question 183: The artist is as creative as caramel balsamic swirl ice cream
+Options:
+0) The artist has no new ideas.
+1) The artist is very creative.
+
+Question 184: This show has as many episode as a centipede has legs
+Options:
+0) It has many episodes
+1) It has very few
+
+Question 185: This show has as many episode as there are moons in the night sky
+Options:
+0) It has many episodes
+1) It has very few
+
+Question 186: Me and my relative have rhe closeness of conjoined twins
+Options:
+0) They're extremely close
+1) They very far apart
+
+Question 187: Me and my relative have rhe closeness of the north and south poles
+Options:
+0) They're extremely close
+1) They very far apart
+
+Question 188: The house is as fragile as steel
+Options:
+0) The house is strong
+1) The house is weak
+
+Question 189: The house is as fragile as silk
+Options:
+0) The house is strong
+1) The house is weak
+
+Question 190: The actor got as much attention as a lion exhibit at a zoo
+Options:
+0) The actor got tons of attention.
+1) The actor got no attention at all.
+
+Question 191: The actor got as much attention as a grain of sand at a beach
+Options:
+0) The actor got tons of attention.
+1) The actor got no attention at all.
+
+Question 192: That shirt looks like a Garbage bag
+Options:
+0) It is ugly
+1) It is pretty
+
+Question 193: That shirt looks like a Rose bush
+Options:
+0) It is ugly
+1) It is pretty
+
+Question 194: The book has the respect of A doctor
+Options:
+0) It is well respected
+1) It is not highly respected
+
+Question 195: The book has the respect of A conspiracy theorist
+Options:
+0) It is well respected
+1) It is not highly respected
+
+Question 196: My new car has the reliability of a penny stock
+Options:
+0) My new car is unpredictable
+1) My new car is dependable
+
+Question 197: My new car has the reliability of a finely-tuned piano
+Options:
+0) My new car is unpredictable
+1) My new car is dependable
+
+Question 198: The foundation was flat as a board
+Options:
+0) The foundation was flat.
+1) The foundation was round and curved.
+
+Question 199: The foundation was flat as a globe
+Options:
+0) The foundation was flat.
+1) The foundation was round and curved.
+
+Question 200: The car is as fast as a turtle
+Options:
+0) the car is slow
+1) the car is speedy
+
+Question 201: The car is as fast as a bolt of lightning
+Options:
+0) the car is slow
+1) the car is speedy
+
+Question 202: He's running faster than a cheetah on jet
+Options:
+0) He's running fast
+1) He's not moving at all
+
+Question 203: He's running faster than a dead snail
+Options:
+0) He's running fast
+1) He's not moving at all
+
+Question 204: The man's temper was a habanero pepper
+Options:
+0) The man had a big temper.
+1) The man had a mild temper.
+
+Question 205: The man's temper was a cup of oat milk.
+Options:
+0) The man had a big temper.
+1) The man had a mild temper.
+
+Question 206: The government is as stable as a broken bridge
+Options:
+0) The government is falling apart
+1) The government is very strong and stable.
+
+Question 207: The government is as strong as a brick house
+Options:
+0) The government is falling apart
+1) The government is very strong and stable.
+
+Question 208: The odds of winning the lottery are as good as finding a needle in a haystack
+Options:
+0) The odds of sinning the lottery  are extremely low
+1) The odds of winning the lottery are fantastic
+
+Question 209: The odds of winning the lottery are as good as lighting a match and expecting fire.
+Options:
+0) The odds of sinning the lottery  are extremely low
+1) The odds of winning the lottery are fantastic
+
+Question 210: she is as exuberant as a dog on a car ride
+Options:
+0) she is excited
+1) she is tired
+
+Question 211: she is as exuberant as a sloth in bed
+Options:
+0) she is excited
+1) she is tired
+
+Question 212: He is fair as a priest
+Options:
+0) he is nice
+1) he is mean
+
+Question 213: He is fair as a devil
+Options:
+0) he is nice
+1) he is mean
+
+Question 214: The branch was as sturdy as a steel beam
+Options:
+0) The branch was sturdy enough to hold a lot of weight.
+1) The branch was weak and could snap easily.
+
+Question 215: The branch was as sturdy as a twig
+Options:
+0) The branch was sturdy enough to hold a lot of weight.
+1) The branch was weak and could snap easily.
+
+Question 216: That thing is sucking up as much electricity as a 1950s refrigerator
+Options:
+0) It uses a lot of electricity
+1) It uses no electricity
+
+Question 217: That thing is sucking up as much electricity as the Wii U in the closet
+Options:
+0) It uses a lot of electricity
+1) It uses no electricity
+
+Question 218: The play has the excitement of a sleeping tortoise.
+Options:
+0) The play is dull.
+1) The play is rousing.
+
+Question 219: The play has the excitement of a lottery jackpot.
+Options:
+0) The play is dull.
+1) The play is rousing.
+
+Question 220: The girl is as predictable as ocean waves crashing
+Options:
+0) The girl was very predictable.
+1) The girl was totally unpredictable.
+
+Question 221: The girl is as predictable as the Titanic sinking
+Options:
+0) The girl was very predictable.
+1) The girl was totally unpredictable.
+
+Question 222: The man has the height of a mountain
+Options:
+0) The man is tall
+1) The man is short
+
+Question 223: The man has the height of a footstool
+Options:
+0) The man is tall
+1) The man is short
+
+Question 224: The house is as enchanting as a castle
+Options:
+0) the house is pretty
+1) the house is ugly
+
+Question 225: The house is as enchanting as roadkill
+Options:
+0) the house is pretty
+1) the house is ugly
+
+Question 226: The student was as sharp as A dull knife
+Options:
+0) The student us dumb
+1) The student is smart
+
+Question 227: The student was as sharp as A porcupine's quill
+Options:
+0) The student us dumb
+1) The student is smart
+
+Question 228: His singing voice is sounds like Fingernails on a blackboard
+Options:
+0) The voice makes you cringr
+1) The voice is calming
+
+Question 229: His singing voice is sounds like A lilting breeze
+Options:
+0) The voice makes you cringr
+1) The voice is calming
+
+Question 230: The goods were as valuable as gold
+Options:
+0) The goods were valuable
+1) The goods were worthless
+
+Question 231: The goods were as valuable as dirt
+Options:
+0) The goods were valuable
+1) The goods were worthless
+
+Question 232: The puzzle was as easy as pie
+Options:
+0) The puzzle was easy
+1) The puzzle was hard.
+
+Question 233: The puzzle was as easy as brain surgery
+Options:
+0) The puzzle was easy
+1) The puzzle was hard.
+
+Question 234: The politician was as popular as apple pie
+Options:
+0) The politician was very popular.
+1) The politician was very unpopular.
+
+Question 235: The politician was as popular as a root canal
+Options:
+0) The politician was very popular.
+1) The politician was very unpopular.
+
+Question 236: The meeting was as lively as a funeral procession.
+Options:
+0) The meeting was not lively at all.
+1) The meeting was very lively.
+
+Question 237: The meeting was as lively as a group of children in a bouncy house.
+Options:
+0) The meeting was not lively at all.
+1) The meeting was very lively.
+
+Question 238: He shopped for the item like a bride picking out her dress
+Options:
+0) He shopped with great care
+1) He shopped in a hurry
+
+Question 239: He shopped for the item like a robber getting away
+Options:
+0) He shopped with great care
+1) He shopped in a hurry
+","180,0
+181,1
+182,1
+183,1
+184,1
+185,0
+186,0
+187,1
+188,1
+189,1
+190,0
+191,1
+192,0
+193,1
+194,0
+195,0
+196,0
+197,1
+198,0
+199,1
+200,0
+201,1
+202,0
+203,1
+204,0
+205,1
+206,0
+207,1
+208,0
+209,1
+210,0
+211,1
+212,0
+213,1
+214,0
+215,1
+216,0
+217,1
+218,0
+219,1
+220,0
+221,1
+222,0
+223,1
+224,0
+225,1
+226,0
+227,1
+228,0
+229,1
+230,0
+231,1
+232,0
+233,1
+234,0
+235,1
+236,0
+237,1
+238,0
+239,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 240: Watching the movie was like going to the dentist's office
+Options:
+0) The movie was dreadful
+1) The movie was enjoyable
+
+Question 241: Watching the movie was like going to the carnival
+Options:
+0) The movie was dreadful
+1) The movie was enjoyable
+
+Question 242: The cookie was as chewy as a Tootsie Roll
+Options:
+0) The cookie was perfectly chewy.
+1) The cookie was extremely dense and tough.
+
+Question 243: The cookie was as chewy as a brick
+Options:
+0) The cookie was perfectly chewy.
+1) The cookie was extremely dense and tough.
+
+Question 244: The pizza delivery guy had the speed of an Olympic sprinter
+Options:
+0) The pizza arrived quickly.
+1) The pizza took forever to come.
+
+Question 245: The pizza delivery guy had the speed of a tectonic plate
+Options:
+0) The pizza arrived quickly.
+1) The pizza took forever to come.
+
+Question 246: The pot roast has the aroma of swamp water.
+Options:
+0) The pot roast smells bad.
+1) The pot roast smells flavorsome.
+
+Question 247: The pot roast has the aroma of a grandmother's kitchen.
+Options:
+0) The pot roast smells bad.
+1) The pot roast smells flavorsome.
+
+Question 248: The photograph has the clarity of an inkblot test.
+Options:
+0) The photograph is out of focus.
+1) The photograph is crystal clear.
+
+Question 249: The photograph has the clarity of a full rainbow.
+Options:
+0) The photograph is out of focus.
+1) The photograph is crystal clear.
+
+Question 250: He has the political prowess of a Kennedy
+Options:
+0) He has good political skills
+1) He lacks skill in politics
+
+Question 251: He has the political prowess of a newborn baby
+Options:
+0) He has good political skills
+1) He lacks skill in politics
+
+Question 252: This puzzle has the difficulty of putting a man on Mars
+Options:
+0) It is very difficult
+1) It is very easy
+
+Question 253: This puzzle has the difficulty of a child’s block sorting game
+Options:
+0) It is very difficult
+1) It is very easy
+
+Question 254: The boy was as funny as a comedian
+Options:
+0) it was funny
+1) it wasn't funny
+
+Question 255: The boy was as funny as a dead fly
+Options:
+0) it was funny
+1) it wasn't funny
+
+Question 256: The politician's apology was a chess move.
+Options:
+0) The politician's apology was calculated.
+1) The politician's apology was chaotic.
+
+Question 257: The politician's apology was an avalanche.
+Options:
+0) The politician's apology was calculated.
+1) The politician's apology was chaotic.
+
+Question 258: He was as dangerous as a viper
+Options:
+0) He was very dangerous
+1) He was not dangerous
+
+Question 259: He was as dangerous as a flea
+Options:
+0) He was very dangerous
+1) He was not dangerous
+
+Question 260: The water was as warm as the surface of the sun
+Options:
+0) The water was scalding hot
+1) The water was cold
+
+Question 261: The water was as warm as an icicle
+Options:
+0) The water was scalding hot
+1) The water was cold
+
+Question 262: Her excuse had the conviction of a deserting soldier.
+Options:
+0) Her excuse lacked conviction.
+1) Her excuse was full of conviction.
+
+Question 263: Her excuse had the conviction of a revivalist preacher.
+Options:
+0) Her excuse lacked conviction.
+1) Her excuse was full of conviction.
+
+Question 264: The threat was an oncoming train
+Options:
+0) The threat was imminent.
+1) The threat was distant.
+
+Question 265: The threat was a third cousin thrice removed
+Options:
+0) The threat was imminent.
+1) The threat was distant.
+
+Question 266: Their love was as easy to understand as a Bob Dylan lyric.
+Options:
+0) Their love was complex and hard to interpret.
+1) Their love was hot and short lived.
+
+Question 267: Their love was as a California wildfire season.
+Options:
+0) Their love was complex and hard to interpret.
+1) Their love was hot and short lived.
+
+Question 268: The book grabbed my attention like legalese in a merger agreement
+Options:
+0) The book totally bored me.
+1) The book really interested me.
+
+Question 269: The book grabbed my attention like a trashy magazine headline
+Options:
+0) The book totally bored me.
+1) The book really interested me.
+
+Question 270: Her thoughts were like a yo-yo
+Options:
+0) Her thoughts were all over the place.
+1) Her thoughts were steady.
+
+Question 271: Her thoughts were like a spring stream
+Options:
+0) Her thoughts were all over the place.
+1) Her thoughts were steady.
+
+Question 272: Her ego was a Ritz cracker
+Options:
+0) Her ego was very fragile.
+1) Her ego was unshakeable.
+
+Question 273: Her ego was a brick building
+Options:
+0) Her ego was very fragile.
+1) Her ego was unshakeable.
+
+Question 274: His mind is a steel cage
+Options:
+0) He has a very good memory and rarely forgets anything
+1) His memory is terrible, things go in one ear and out the other
+
+Question 275: His mind is an open barn door
+Options:
+0) He has a very good memory and rarely forgets anything
+1) His memory is terrible, things go in one ear and out the other
+
+Question 276: The screen was dim like a flashlight.
+Options:
+0) The screen was bright.
+1) The screen was dim.
+
+Question 277: The screen was dim like a candle.
+Options:
+0) The screen was bright.
+1) The screen was dim.
+
+Question 278: That politician's speech was a good as Lincoln's Gettysburg Address
+Options:
+0) The speech was sycinct and powerful
+1) The speech was overbearing and boring.
+
+Question 279: That politician's speech was a good as a college professor dense lecture.
+Options:
+0) The speech was sycinct and powerful
+1) The speech was overbearing and boring.
+
+Question 280: you are as hard as pillow
+Options:
+0) You are soft
+1) You are stubborn
+
+Question 281: you are as hard as rock
+Options:
+0) You are soft
+1) You are stubborn
+
+Question 282: You are as tough as an egg
+Options:
+0) eggs crack
+1) coconuts are hard
+
+Question 283: You are as tough as a coconut
+Options:
+0) eggs crack
+1) coconuts are hard
+
+Question 284: The girl is as good at camouflaging her emotions as a chameleon
+Options:
+0) The girl hides her emotions well.
+1) The girl shows off her emotions.
+
+Question 285: The girl is as good at camouflaging her emotions as a peacock
+Options:
+0) The girl hides her emotions well.
+1) The girl shows off her emotions.
+
+Question 286: My bank account is dry as the Sahara
+Options:
+0) My bank account is barren, I have no money
+1) My bank account is fat with cash, I'm rich
+
+Question 287: My bank account is stuffed like a Thanksgiving turkey
+Options:
+0) My bank account is barren, I have no money
+1) My bank account is fat with cash, I'm rich
+
+Question 288: The sandwich has the cheesiness of the moon as depicted in cartoons
+Options:
+0) The sandwich is very cheesy
+1) The sandwich lacks cheese
+
+Question 289: The sandwich has the cheesiness of a pizza without the primary topping
+Options:
+0) The sandwich is very cheesy
+1) The sandwich lacks cheese
+
+Question 290: The tower has the wind resistance of metal roofing on a fair weather day
+Options:
+0) The tower has a high wind resistance
+1) The tower has almost no resistance to wind
+
+Question 291: The tower has the wind resistance of candy wrapper caught in an updraft
+Options:
+0) The tower has a high wind resistance
+1) The tower has almost no resistance to wind
+
+Question 292: The body has the survivability of a hungry tiger in a hen house
+Options:
+0) It has high survivability
+1) It has a low survivability rate
+
+Question 293: The body has the survivability of a paper bag in a stormy ocean
+Options:
+0) It has high survivability
+1) It has a low survivability rate
+
+Question 294: She rode that horse like An acrobat
+Options:
+0) She rode it well
+1) She rode it poorly
+
+Question 295: She rode that horse like A seizure victim
+Options:
+0) She rode it well
+1) She rode it poorly
+
+Question 296: The speech was as inspiring as A cement block
+Options:
+0) It is dull
+1) It is motivating
+
+Question 297: The speech was as inspiring as A legless marathon runner
+Options:
+0) It is dull
+1) It is motivating
+
+Question 298: The glass is a clear as Ikea instructions
+Options:
+0) It is not clear
+1) It is see thru
+
+Question 299: The glass is a clear as Saran wrap
+Options:
+0) It is not clear
+1) It is see thru
+","240, 0
+241, 1
+242, 0
+243, 1
+244, 0
+245, 1
+246, 0
+247, 1
+248, 0
+249, 1
+250, 0
+251, 1
+252, 0
+253, 1
+254, 0
+255, 1
+256, 0
+257, 1
+258, 0
+259, 1
+260, 0
+261, 1
+262, 0
+263, 1
+264, 0
+265, 1
+266, 0
+267, 1
+268, 0
+269, 1
+270, 0
+271, 1
+272, 0
+273, 1
+274, 0
+275, 1
+276, 0
+277, 1
+278, 0
+279, 1
+280, 1
+281, 1
+282, 1
+283, 0
+284, 0
+285, 1
+286, 0
+287, 0
+288, 0
+289, 1
+290, 0
+291, 1
+292, 0
+293, 1
+294, 0
+295, 1
+296, 0
+297, 1
+298, 0
+299, 1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 300: The cookies tasted like hardtack.
+Options:
+0) The cookies are awful.
+1) The cookies are delicous.
+
+Question 301: The cookies tasted like heaven.
+Options:
+0) The cookies are awful.
+1) The cookies are delicous.
+
+Question 302: The floor was as slippery as oil
+Options:
+0) The floor was slippery.
+1) The floor wasn't slippery at all.
+
+Question 303: The floor was as slippery as sandpaper
+Options:
+0) The floor was slippery.
+1) The floor wasn't slippery at all.
+
+Question 304: The gem was as fake as a bad toupee
+Options:
+0) The gem was obviously fake.
+1) The gem was obviously real.
+
+Question 305: The gem was as fake as the air we breathe
+Options:
+0) The gem was obviously fake.
+1) The gem was obviously real.
+
+Question 306: The boys are as disciplined as the military
+Options:
+0) The boys are highly disciplined.
+1) The boys lack any discipline.
+
+Question 307: The boys are as disciplined as barrel monkeys
+Options:
+0) The boys are highly disciplined.
+1) The boys lack any discipline.
+
+Question 308: The helicopter had the reliability of a collapsing tower.
+Options:
+0) The helicopter was not reliable.
+1) The helicopter was very reliable.
+
+Question 309: The helicopter had the reliability of a battleship.
+Options:
+0) The helicopter was not reliable.
+1) The helicopter was very reliable.
+
+Question 310: This book is like silk in my hands.
+Options:
+0) This book is hard to put down.
+1) This book is forgettable.
+
+Question 311: This book is like hard-cover amnesia.
+Options:
+0) This book is hard to put down.
+1) This book is forgettable.
+
+Question 312: The teams passion was burning like an inferno
+Options:
+0) The team had a lot of passion
+1) THe team had very little passion
+
+Question 313: The teams passion was burning like a match
+Options:
+0) The team had a lot of passion
+1) THe team had very little passion
+
+Question 314: The sword was as sharp as a laser
+Options:
+0) The sword was sharp
+1) The sword was dull
+
+Question 315: The sword was as sharp as a stick
+Options:
+0) The sword was sharp
+1) The sword was dull
+
+Question 316: He maneuvered with the tactical precision of an experienced general.
+Options:
+0) He manuevered skillfully.
+1) He maneuvered poorly.
+
+Question 317: He maneuvered with the tactical precision of a clown car.
+Options:
+0) He manuevered skillfully.
+1) He maneuvered poorly.
+
+Question 318: The ending was as satisfying as a Thanksgiving dinner with all the trimmings.
+Options:
+0) The ending was satisfying.
+1) The ending was unsatisfying.
+
+Question 319: The ending was as satisfying as a stale saltine cracker.
+Options:
+0) The ending was satisfying.
+1) The ending was unsatisfying.
+
+Question 320: That guy is as smart as a rock
+Options:
+0) The guy is dumb
+1) The guy is intelligent
+
+Question 321: That guy is as smart as a computer
+Options:
+0) The guy is dumb
+1) The guy is intelligent
+
+Question 322: The friendship was as meaningful as a contract on a napkin
+Options:
+0) The friendship wasn't meaningful at all.
+1) The friendship was highly meaningful.
+
+Question 323: The friendship was as meaningful as an international treaty
+Options:
+0) The friendship wasn't meaningful at all.
+1) The friendship was highly meaningful.
+
+Question 324: The child was as still as a marble slab
+Options:
+0) The child was totally still.
+1) The child couldn't stop moving.
+
+Question 325: The child was as still as a waterfall
+Options:
+0) The child was totally still.
+1) The child couldn't stop moving.
+
+Question 326: He is as strong as a diamond.
+Options:
+0) He is very strong.
+1) He is weak.
+
+Question 327: He is as strong as a piece of graphite.
+Options:
+0) He is very strong.
+1) He is weak.
+
+Question 328: He has the satisfaction of a master chef after making a 5 star meal
+Options:
+0) He is very satisfied
+1) He has very little satisfaction
+
+Question 329: He has the satisfaction of a master chef aftet making a bowl of canned 🍝
+Options:
+0) He is very satisfied
+1) He has very little satisfaction
+
+Question 330: She had the dedication of a gnat
+Options:
+0) She is flighty and unfocused
+1) She applies pressure consistently and over time.
+
+Question 331: She had the dedication of a tectonic plate
+Options:
+0) She is flighty and unfocused
+1) She applies pressure consistently and over time.
+
+Question 332: The desire she felt was a mere trickle
+Options:
+0) She felt little desire
+1) She felt a strong desire
+
+Question 333: The desire she felt was a surging wave
+Options:
+0) She felt little desire
+1) She felt a strong desire
+
+Question 334: The man has the taste of a picky child.
+Options:
+0) The man has poor taste in things.
+1) The man has exquisite and fine taste in things.
+
+Question 335: The man has the taste of the Queen of England.
+Options:
+0) The man has poor taste in things.
+1) The man has exquisite and fine taste in things.
+
+Question 336: The bed is as comfortable as cloud.
+Options:
+0) The bed is very comfortable.
+1) The bed is very uncomfortable.
+
+Question 337: The bed is as comfortable as seeing your ex.
+Options:
+0) The bed is very comfortable.
+1) The bed is very uncomfortable.
+
+Question 338: She has the patience of a saint
+Options:
+0) She is very patient
+1) She is not patient at all
+
+Question 339: She has the patience of a bull
+Options:
+0) She is very patient
+1) She is not patient at all
+
+Question 340: He has the morality of a puppy dog.
+Options:
+0) He is very moral and kind.
+1) He is not very moral or kind.
+
+Question 341: He has the morality of a vulture.
+Options:
+0) He is very moral and kind.
+1) He is not very moral or kind.
+
+Question 342: His desire for her was a runaway horse.
+Options:
+0) His desire for her was wild.
+1) His desire for her was dormant.
+
+Question 343: His desire for her was a snail.
+Options:
+0) His desire for her was wild.
+1) His desire for her was dormant.
+
+Question 344: He could sprint like the wind
+Options:
+0) He was fast.
+1) He was slow.
+
+Question 345: He could sprint like a tortoise
+Options:
+0) He was fast.
+1) He was slow.
+
+Question 346: They fit each other's personalities like a plug in a socket
+Options:
+0) They fit each other's personalities perfectly.
+1) They don't fit each other's personalities well at all.
+
+Question 347: They fit each other's personalities like a magnet on paper
+Options:
+0) They fit each other's personalities perfectly.
+1) They don't fit each other's personalities well at all.
+
+Question 348: The spaghetti was as cold as the gaze of an angry parochial school teacher
+Options:
+0) The spaghetti was cold
+1) The spaghetti was very hot
+
+Question 349: The spaghetti was as cold as a vacation to Hades
+Options:
+0) The spaghetti was cold
+1) The spaghetti was very hot
+
+Question 350: Her mind was like a safe deposit box
+Options:
+0) Her mind is closed and secretive
+1) Her mind is wide open and easily accessible
+
+Question 351: Her mind was like a child's toy box
+Options:
+0) Her mind is closed and secretive
+1) Her mind is wide open and easily accessible
+
+Question 352: The ghost has the invisibility of a shy middle child with an overachieving older brother and a wild and rambunctious younger sister
+Options:
+0) The ghost is very hard to see
+1) The ghost is very noticeable
+
+Question 353: The ghost has the invisibility of a bully in a china shop, smashing the china on his victim
+Options:
+0) The ghost is very hard to see
+1) The ghost is very noticeable
+
+Question 354: Your wit has the sharpness of a blade
+Options:
+0) Your wit is clever.
+1) Your wit is dull and not clever.
+
+Question 355: Your wit has the sharpness of a stone
+Options:
+0) Your wit is clever.
+1) Your wit is dull and not clever.
+
+Question 356: She had all the grace and elegance of a ballerina
+Options:
+0) She is very graceful and elegant.
+1) She is not graceful or elegant, and in fact is cumbersome and unsophisticated.
+
+Question 357: She had all the grace and elegance of a dump truck
+Options:
+0) She is very graceful and elegant.
+1) She is not graceful or elegant, and in fact is cumbersome and unsophisticated.
+
+Question 358: The teacher had the patience of a flea
+Options:
+0) The teacher was impatient.
+1) The teacher was patient.
+
+Question 359: The teacher had the patience of a tortoise
+Options:
+0) The teacher was impatient.
+1) The teacher was patient.
+","300,0
+301,1
+302,0
+303,1
+304,0
+305,0
+306,0
+307,1
+308,0
+309,1
+310,0
+311,1
+312,0
+313,1
+314,0
+315,1
+316,0
+317,1
+318,0
+319,1
+320,0
+321,1
+322,0
+323,1
+324,0
+325,1
+326,0
+327,1
+328,0
+329,1
+330,0
+331,1
+332,0
+333,1
+334,0
+335,1
+336,0
+337,1
+338,0
+339,1
+340,0
+341,1
+342,0
+343,1
+344,0
+345,1
+346,0
+347,1
+348,0
+349,1
+350,0
+351,1
+352,0
+353,1
+354,0
+355,1
+356,0
+357,1
+358,0
+359,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 360: The dog had the attitude of a yogi
+Options:
+0) The dog had a calm attitude.
+1) The dog had an aggressive attitude.
+
+Question 361: The dog had the attitude of a military commander
+Options:
+0) The dog had a calm attitude.
+1) The dog had an aggressive attitude.
+
+Question 362: He could run with the speed of a racehorse.
+Options:
+0) He was really fast.
+1) He was really slow.
+
+Question 363: He could run with the speed of a elderly tortoise.
+Options:
+0) He was really fast.
+1) He was really slow.
+
+Question 364: Henry is a golden retriever.
+Options:
+0) Henry is trustworthy and friendly.
+1) Henry is not friendly or trustworthy.
+
+Question 365: Henry is a cobra.
+Options:
+0) Henry is trustworthy and friendly.
+1) Henry is not friendly or trustworthy.
+
+Question 366: This cat has the grace of a ballerina.
+Options:
+0) The cat is extremely graceful.
+1) The cat is clumsy and ungraceful.
+
+Question 367: This cat has the grace of a pig on ice.
+Options:
+0) The cat is extremely graceful.
+1) The cat is clumsy and ungraceful.
+
+Question 368: The dog is as smart as a bowl of rocks
+Options:
+0) the dog is dumb
+1) the dog is smart
+
+Question 369: The dog is as smart as a scientist
+Options:
+0) the dog is dumb
+1) the dog is smart
+
+Question 370: The tax penalty was as heavy as a bowling ball
+Options:
+0) The tax penalty was very heavy.
+1) The tax penalty was very light.
+
+Question 371: The tax penalty was as heavy as a hairpin
+Options:
+0) The tax penalty was very heavy.
+1) The tax penalty was very light.
+
+Question 372: The food is as warm as a volcano
+Options:
+0) The food is hot
+1) the food is cold
+
+Question 373: The food is as warm as ice
+Options:
+0) The food is hot
+1) the food is cold
+
+Question 374: The road is as flat as a pancake
+Options:
+0) The road is flat
+1) The road is rolling
+
+Question 375: The road is as flat as a roller coaster
+Options:
+0) The road is flat
+1) The road is rolling
+
+Question 376: She is as transparent as a window
+Options:
+0) You can see her intentions
+1) You can't tell what kind of person she is
+
+Question 377: She is as transparent as a wall
+Options:
+0) You can see her intentions
+1) You can't tell what kind of person she is
+
+Question 378: He has a heart of gold
+Options:
+0) He has a great deal of concern for others
+1) He doesn't care too much for others
+
+Question 379: He has a heart of coal
+Options:
+0) He has a great deal of concern for others
+1) He doesn't care too much for others
+
+Question 380: The movie has the tension of a cat in a room full of rocking chairs.
+Options:
+0) The movie is tense.
+1) The movie's pace is relaxed.
+
+Question 381: The movie has the tension of a wet noodle.
+Options:
+0) The movie is tense.
+1) The movie's pace is relaxed.
+
+Question 382: the book has the depth of an ant’s bathtub
+Options:
+0) the story is superficial
+1) the story is profound
+
+Question 383: the book has the depth of the marianna trench
+Options:
+0) the story is superficial
+1) the story is profound
+
+Question 384: She was as jumpy as a yo-yo string
+Options:
+0) She was very anxious.
+1) She was very calm.
+
+Question 385: She was as jumpy as a yogi
+Options:
+0) She was very anxious.
+1) She was very calm.
+
+Question 386: The job pays as good as a Chinese factory
+Options:
+0) The job pays very little
+1) The job pays excellent.
+
+Question 387: The job pays as good as a politician's pay.
+Options:
+0) The job pays very little
+1) The job pays excellent.
+
+Question 388: The book is as interesting as counting drips of water
+Options:
+0) The book is beyond boring.
+1) The book is incredible.
+
+Question 389: The book is as interesting as time travel.
+Options:
+0) The book is beyond boring.
+1) The book is incredible.
+
+Question 390: The date had all the magic of an exotic tale
+Options:
+0) The date was intriguing
+1) The date was boring
+
+Question 391: The date had all the magic of a classified ad
+Options:
+0) The date was intriguing
+1) The date was boring
+
+Question 392: The photography is as beautiful as a sunrise on a crisp autumn day
+Options:
+0) The photography is beautiful and moving
+1) The photography is ugly and unwanted
+
+Question 393: The photography is as beautiful as a trash heap
+Options:
+0) The photography is beautiful and moving
+1) The photography is ugly and unwanted
+
+Question 394: The clown has a smile like a cat who just caught a mouse
+Options:
+0) The clown's smile is wide and happy
+1) The clown's smile is inexpressive, flat
+
+Question 395: The clown has a smile like a marionette
+Options:
+0) The clown's smile is wide and happy
+1) The clown's smile is inexpressive, flat
+
+Question 396: She thinks of him as highly as a full diaper
+Options:
+0) She thinks he's worthless.
+1) She prizes him.
+
+Question 397: She thinks of him as highly as a diamond
+Options:
+0) She thinks he's worthless.
+1) She prizes him.
+
+Question 398: His mother's words were littered with garbage.
+Options:
+0) His mother's words were stupid.
+1) His mother's words were wise.
+
+Question 399: His mother's words were littered with gems.
+Options:
+0) His mother's words were stupid.
+1) His mother's words were wise.
+
+Question 400: The crowd was filled with wolves.
+Options:
+0) The crowd had several dangerous leaders.
+1) The crowd had several unthinking followers.
+
+Question 401: The crowd was filled with sheep.
+Options:
+0) The crowd had several dangerous leaders.
+1) The crowd had several unthinking followers.
+
+Question 402: He eats like a mouse.
+Options:
+0) He doesn't eat a lot.
+1) He eats a lot.
+
+Question 403: He eats like a dog.
+Options:
+0) He doesn't eat a lot.
+1) He eats a lot.
+
+Question 404: The rabbit had the softness of an Eider Duck crossbred with a chinchilla
+Options:
+0) The rabbit feels extremely soft
+1) The rabbit feels rough
+
+Question 405: The rabbit had the softness of the face of a man with 5 o'clock shadow
+Options:
+0) The rabbit feels extremely soft
+1) The rabbit feels rough
+
+Question 406: The teacher was as amused as a girl on a date with her crush
+Options:
+0) the teacher was interested
+1) the teacher didn't want to hear anything
+
+Question 407: The teacher was as amused as a judge in the courtroom
+Options:
+0) the teacher was interested
+1) the teacher didn't want to hear anything
+
+Question 408: The whole series had the depth of a puddle.
+Options:
+0) The series was boring.
+1) The series was profound.
+
+Question 409: The whole series had the depth of a lake.
+Options:
+0) The series was boring.
+1) The series was profound.
+
+Question 410: The air had the cleanliness of pre-industrial China
+Options:
+0) The air is quite clean
+1) The air is filthy
+
+Question 411: The air had the cleanliness of a freshly opened vacuum
+Options:
+0) The air is quite clean
+1) The air is filthy
+
+Question 412: She is as busy as a beaver.
+Options:
+0) She is really busy.
+1) She is lazy.
+
+Question 413: She is as busy as a sloth.
+Options:
+0) She is really busy.
+1) She is lazy.
+
+Question 414: She sings like a song bird.
+Options:
+0) She sings well.
+1) She sings badly.
+
+Question 415: She sings like a howling cat.
+Options:
+0) She sings well.
+1) She sings badly.
+
+Question 416: He is as open as a closed door.
+Options:
+0) He is not open at all.
+1) He is very open.
+
+Question 417: He is as open as a large mall.
+Options:
+0) He is not open at all.
+1) He is very open.
+
+Question 418: His mood had the permanence of the sun.
+Options:
+0) His mood never changes.
+1) His mood was always changing.
+
+Question 419: His mood had the permanence of the tide.
+Options:
+0) His mood never changes.
+1) His mood was always changing.
+","360,0
+361,1
+362,0
+363,1
+364,0
+365,1
+366,0
+367,1
+368,0
+369,1
+370,0
+371,1
+372,0
+373,1
+374,0
+375,1
+376,0
+377,1
+378,0
+379,1
+380,0
+381,1
+382,0
+383,1
+384,0
+385,1
+386,0
+387,1
+388,0
+389,1
+390,0
+391,1
+392,0
+393,1
+394,0
+395,1
+396,0
+397,1
+398,0
+399,1
+400,0
+401,1
+402,0
+403,1
+404,0
+405,1
+406,0
+407,1
+408,0
+409,1
+410,0
+411,1
+412,0
+413,1
+414,0
+415,1
+416,0
+417,1
+418,0
+419,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 420: She was hiding like Anne Frank
+Options:
+0) She was hiding well
+1) She was hiding poorly
+
+Question 421: She was hiding like circus clown
+Options:
+0) She was hiding well
+1) She was hiding poorly
+
+Question 422: Those facts were like the Bible
+Options:
+0) Those facts were not true
+1) Those facts were true
+
+Question 423: Those facts were like dictionary
+Options:
+0) Those facts were not true
+1) Those facts were true
+
+Question 424: The final score of the game ended up being closer than the hair on a dog's tail.
+Options:
+0) The teams scored similar amounts of points till the end of the game.
+1) The teams did not score similar amounts till the end of the game.
+
+Question 425: The final score of the game ended up being further than two goal posts on a football field.
+Options:
+0) The teams scored similar amounts of points till the end of the game.
+1) The teams did not score similar amounts till the end of the game.
+
+Question 426: The facts verified the case like A thief's lies
+Options:
+0) The facts were unreliable
+1) The facts were solid and supported the case
+
+Question 427: The facts verified the case like A solid Sherlock Holmes case
+Options:
+0) The facts were unreliable
+1) The facts were solid and supported the case
+
+Question 428: Laughter is like music to soul.
+Options:
+0) Laughter makes me happy.
+1) Laughter annoys me.
+
+Question 429: Laughter is like screeching on a chalkboard.
+Options:
+0) Laughter makes me happy.
+1) Laughter annoys me.
+
+Question 430: Facts are immovable boulders.
+Options:
+0) Facts cannot be changed.
+1) Facts are constantly changing.
+
+Question 431: Facts are liquid.
+Options:
+0) Facts cannot be changed.
+1) Facts are constantly changing.
+
+Question 432: His library was a brain.
+Options:
+0) His library was really intellectual.
+1) His library was unimpressive.
+
+Question 433: His library was a puff of smoke.
+Options:
+0) His library was really intellectual.
+1) His library was unimpressive.
+
+Question 434: Her face is a crater.
+Options:
+0) Her face is bumpy.
+1) Her face is smooth.
+
+Question 435: Her face is an ice rink.
+Options:
+0) Her face is bumpy.
+1) Her face is smooth.
+
+Question 436: The driver is a lumberjack.
+Options:
+0) The driver is not careful.
+1) The driver is careful.
+
+Question 437: The driver is a ballerina.
+Options:
+0) The driver is not careful.
+1) The driver is careful.
+
+Question 438: The monkey was a modern edison
+Options:
+0) The monkey was smart
+1) The monkey was dumb
+
+Question 439: The monkey was a 1st grade dropout
+Options:
+0) The monkey was smart
+1) The monkey was dumb
+
+Question 440: She has the conscience of the Pope after having a religious experience
+Options:
+0) She has a good conscience
+1) She has a bad conscience
+
+Question 441: She has the conscience of Hitler on a bad day
+Options:
+0) She has a good conscience
+1) She has a bad conscience
+
+Question 442: The candy wrapper has the crinkles of an old woman after soaking in a hot tub
+Options:
+0) The wrapper is very crinkly
+1) The wrapper has no crinkles
+
+Question 443: The candy wrapper has the crinkles of a celebrity's face after a Botox injection
+Options:
+0) The wrapper is very crinkly
+1) The wrapper has no crinkles
+
+Question 444: The microphone is as jumpy as a frog
+Options:
+0) the microphone is highly sensitive / overpowered.
+1) the microphone is highly insensitive / underpowered.
+
+Question 445: The microphone is as jumpy as mud
+Options:
+0) the microphone is highly sensitive / overpowered.
+1) the microphone is highly insensitive / underpowered.
+
+Question 446: The woman is as artistic as a wet mop.
+Options:
+0) The woman is not artistic.
+1) The woman is a wonderful artist.
+
+Question 447: The woman is as artistic as Van Gogh.
+Options:
+0) The woman is not artistic.
+1) The woman is a wonderful artist.
+
+Question 448: The parking lot is a crater.
+Options:
+0) The parking lot is bumpy.
+1) The parking lot is smooth.
+
+Question 449: The parking lot is a sheet of glass.
+Options:
+0) The parking lot is bumpy.
+1) The parking lot is smooth.
+
+Question 450: The punch hit me with the strength of a marshmallow
+Options:
+0) The punch is soft
+1) The punch is hard
+
+Question 451: The punch hit me with the strength of a stone
+Options:
+0) The punch is soft
+1) The punch is hard
+
+Question 452: The wing span of the bird goes on forever
+Options:
+0) The wings on the bird are large and massive
+1) The wings are so small they look like a butterfly's wings.
+
+Question 453: The wing span of the bird is as small as that of a butterfly
+Options:
+0) The wings on the bird are large and massive
+1) The wings are so small they look like a butterfly's wings.
+
+Question 454: Class was as interesting as a wet paper bag.
+Options:
+0) Class was boring and dull.
+1) Class was very inspiring and made me think in a different way.
+
+Question 455: Class was so stimulating that I felt reborn.
+Options:
+0) Class was boring and dull.
+1) Class was very inspiring and made me think in a different way.
+
+Question 456: his voice was coffee on an early morning.
+Options:
+0) He had a very soothing voice.
+1) His voice was startlingly unpleasant.
+
+Question 457: his voice was an alarm on an early morning.
+Options:
+0) He had a very soothing voice.
+1) His voice was startlingly unpleasant.
+
+Question 458: Dogs are loyalty and love given life.
+Options:
+0) Dog wonderful creatures.
+1) Dogs are gross creatures.
+
+Question 459: Dogs are begging and poop given life.
+Options:
+0) Dog wonderful creatures.
+1) Dogs are gross creatures.
+
+Question 460: The man was as handsome as a J. Crew model
+Options:
+0) The man had excellent looks.
+1) The man had poor looks.
+
+Question 461: The man was as handsome as a naked mole rat
+Options:
+0) The man had excellent looks.
+1) The man had poor looks.
+
+Question 462: His face is a dirt road.
+Options:
+0) His face is bumpy.
+1) His face is smooth.
+
+Question 463: His face is a sheet of glass.
+Options:
+0) His face is bumpy.
+1) His face is smooth.
+
+Question 464: The painter is a demolition derby.
+Options:
+0) The painter is rough.
+1) The painter is careful.
+
+Question 465: The painter is a surgeon.
+Options:
+0) The painter is rough.
+1) The painter is careful.
+
+Question 466: Matt's girlfriend is a vending machine.
+Options:
+0) Matt's girlfriend is large.
+1) Matt's girlfriend is small.
+
+Question 467: Matt's girlfriend is a P.O. Box.
+Options:
+0) Matt's girlfriend is large.
+1) Matt's girlfriend is small.
+
+Question 468: This table has been made by a Greek God.
+Options:
+0) The table was well constructed.
+1) The table was poorly made.
+
+Question 469: This table has been made by A chimpanzee.
+Options:
+0) The table was well constructed.
+1) The table was poorly made.
+
+Question 470: The child's room was a garbage dump
+Options:
+0) The child's room was messy
+1) The child's room was clean
+
+Question 471: The child's room was a pre-surgical hospital room
+Options:
+0) The child's room was messy
+1) The child's room was clean
+
+Question 472: Her mind was a set of broken chairs
+Options:
+0) Her mind was confused.
+1) Her mind was clever.
+
+Question 473: Her mind was a vintage bookshelf.
+Options:
+0) Her mind was confused.
+1) Her mind was clever.
+
+Question 474: The man approached the project with as much skill as a neurosurgeon
+Options:
+0) The man brought expert skills to the project.
+1) The man brought no skills to the project.
+
+Question 475: The man approached the project with as much skill as a middle school student
+Options:
+0) The man brought expert skills to the project.
+1) The man brought no skills to the project.
+
+Question 476: The man moved as quickly as a car stuck in traffic
+Options:
+0) The man moved with no speed at all.
+1) The man moved with great speed.
+
+Question 477: The man moved as quickly as Niagara Falls
+Options:
+0) The man moved with no speed at all.
+1) The man moved with great speed.
+
+Question 478: He talked to me like I was going to give him money.
+Options:
+0) He was really friendly.
+1) He was really evasive.
+
+Question 479: He talked to me like he thought I was going to ask for money.
+Options:
+0) He was really friendly.
+1) He was really evasive.
+","420, 1
+421, 0
+422, 1
+423, 1
+424, 1
+425, 0
+426, 1
+427, 1
+428, 0
+429, 1
+430, 0
+431, 1
+432, 0
+433, 1
+434, 0
+435, 1
+436, 1
+437, 0
+438, 0
+439, 1
+440, 0
+441, 1
+442, 0
+443, 1
+444, 0
+445, 1
+446, 0
+447, 1
+448, 0
+449, 1
+450, 0
+451, 1
+452, 0
+453, 1
+454, 0
+455, 1
+456, 0
+457, 1
+458, 0
+459, 1
+460, 0
+461, 1
+462, 0
+463, 1
+464, 0
+465, 1
+466, 0
+467, 1
+468, 0
+469, 1
+470, 0
+471, 1
+472, 0
+473, 1
+474, 0
+475, 1
+476, 0
+477, 1
+478, 1
+479, 1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 480: That's about as useful as an icecube in a snowstorm.
+Options:
+0) It's not useful at all.
+1) It's very useful.
+
+Question 481: That's about as useful as a heated cabin in a snowstorm.
+Options:
+0) It's not useful at all.
+1) It's very useful.
+
+Question 482: The mattress was soft as granite
+Options:
+0) The mattress is hard
+1) the mattress is soft
+
+Question 483: The mattress was soft as a cloud
+Options:
+0) The mattress is hard
+1) the mattress is soft
+
+Question 484: The soap smelled like a field of lillies
+Options:
+0) the soap smelled good
+1) the soap smelled bad
+
+Question 485: The soap smelled like wildebeest dung.
+Options:
+0) the soap smelled good
+1) the soap smelled bad
+
+Question 486: We have all the time of the lifespan of the universe
+Options:
+0) We have a lot of time
+1) We have very little time
+
+Question 487: We have all the time of the lifespan of a housefly
+Options:
+0) We have a lot of time
+1) We have very little time
+
+Question 488: The culture has the depth of a kiddie pool.
+Options:
+0) The culture is superficial.
+1) The culture is complex.
+
+Question 489: The culture has the depth of the mariana trench.
+Options:
+0) The culture is superficial.
+1) The culture is complex.
+
+Question 490: The road is a bed of rocks.
+Options:
+0) The road is bumpy.
+1) The road is smooth.
+
+Question 491: The road is an ice rink.
+Options:
+0) The road is bumpy.
+1) The road is smooth.
+
+Question 492: The yogurt was like onion ring batter
+Options:
+0) The yogurt was thick.
+1) The yogurt was thin.
+
+Question 493: The yogurt was like mist
+Options:
+0) The yogurt was thick.
+1) The yogurt was thin.
+
+Question 494: Masonite siding on houses repels water as well as a sponge
+Options:
+0) Masonite siding soaks up water
+1) Masonite is water repellant
+
+Question 495: Masonite siding on houses repels water as well as a raincoat
+Options:
+0) Masonite siding soaks up water
+1) Masonite is water repellant
+
+Question 496: Their culture has the openness of a meadow
+Options:
+0) The culture is very open and tolerant
+1) The culture is not open or tolerant
+
+Question 497: Their culture has the openness of a closet
+Options:
+0) The culture is very open and tolerant
+1) The culture is not open or tolerant
+
+Question 498: The woman has the shallowness of a bucket
+Options:
+0) She is very shallow
+1) She is not very shallow
+
+Question 499: The woman has the shallowness of the ocean
+Options:
+0) She is very shallow
+1) She is not very shallow
+
+Question 500: This place is as cultured as a museum
+Options:
+0) This place is highly cultured.
+1) This place is lowbrow and not cultured.
+
+Question 501: This place is as cultured as a truck stop
+Options:
+0) This place is highly cultured.
+1) This place is lowbrow and not cultured.
+
+Question 502: He is as strong as a body builder
+Options:
+0) He is strong.
+1) He is weak.
+
+Question 503: He is as strong as a grandpa
+Options:
+0) He is strong.
+1) He is weak.
+
+Question 504: The face cream has the texture of gravel.
+Options:
+0) The face cream is too rough.
+1) The face cream is light.
+
+Question 505: The face cream has the texture of chocolate mousse.
+Options:
+0) The face cream is too rough.
+1) The face cream is light.
+
+Question 506: The dog is as vicious as a goldfish
+Options:
+0) The dog is docile.
+1) The dog is dangerous .
+
+Question 507: The dog is as vicious as a starving bear
+Options:
+0) The dog is docile.
+1) The dog is dangerous .
+
+Question 508: The fog is as dense as iron
+Options:
+0) The fog is thick and hard to see through.
+1) The fog is thin and easy to see through.
+
+Question 509: The fog is as dense as plexiglass
+Options:
+0) The fog is thick and hard to see through.
+1) The fog is thin and easy to see through.
+
+Question 510: A priest is sexually active as often as a 9.1 earthquake
+Options:
+0) A priest is rarely sexually active
+1) A priest is extremely sexually active
+
+Question 511: A priest is sexually active like Mount St Helen's
+Options:
+0) A priest is rarely sexually active
+1) A priest is extremely sexually active
+
+Question 512: The doctor has the brains of a computer in Star Trek
+Options:
+0) The doctor is very intelligent
+1) The doctor isn't very smart
+
+Question 513: The doctor has the brains of an underdeveloped pigeon
+Options:
+0) The doctor is very intelligent
+1) The doctor isn't very smart
+
+Question 514: The girl was as demanding as a Hollywood actress
+Options:
+0) The girl was highly demanding.
+1) The girl was not demanding at all.
+
+Question 515: The girl was as demanding as a soup kitchen volunteer
+Options:
+0) The girl was highly demanding.
+1) The girl was not demanding at all.
+
+Question 516: The jewelry she tried to pawn has the value of A hobo's handkerchief
+Options:
+0) The jewelry is not worth much
+1) The jewelry is very valuable
+
+Question 517: The jewelry she tried to pawn has the value of A pile of gold bars
+Options:
+0) The jewelry is not worth much
+1) The jewelry is very valuable
+
+Question 518: She possessed the beauty of A dung beetle
+Options:
+0) She is ugly
+1) She is beautiful
+
+Question 519: She possessed the beauty of A fabulous fashion model
+Options:
+0) She is ugly
+1) She is beautiful
+
+Question 520: He's got the positioning of an NFL player.
+Options:
+0) He's got professional level positioning.
+1) He's got terrible positioning.
+
+Question 521: He's got the positioning of squid.
+Options:
+0) He's got professional level positioning.
+1) He's got terrible positioning.
+
+Question 522: He has the discipline of a Buddhist monk.
+Options:
+0) He's extremely disciplined.
+1) He's not disciplined at all.
+
+Question 523: He has the discipline of a wild hyena.
+Options:
+0) He's extremely disciplined.
+1) He's not disciplined at all.
+
+Question 524: The pepper is an inferno
+Options:
+0) The pepper is super spicy
+1) The pepper is not spicy
+
+Question 525: The pepper is an ice cube
+Options:
+0) The pepper is super spicy
+1) The pepper is not spicy
+
+Question 526: He has all the anger of a beaten dog
+Options:
+0) He's very angry
+1) He's not at all angry
+
+Question 527: He has all the anger of a happy butterfly
+Options:
+0) He's very angry
+1) He's not at all angry
+
+Question 528: Her hair has the oil of the Gulf of Mexico in April 2010
+Options:
+0) Her hair is oily
+1) Her hair is oil free
+
+Question 529: Her hair has the oil of Dawn dish detergent
+Options:
+0) Her hair is oily
+1) Her hair is oil free
+
+Question 530: The church was as orthodox as an occult meeting.
+Options:
+0) The church was heretical and move beyond the boundaries of accepted teachings.
+1) The church was within the boundaries of accepted teachings and were in line with the Great Tradition.
+
+Question 531: The church was as orthodox as the ancient church fathers.
+Options:
+0) The church was heretical and move beyond the boundaries of accepted teachings.
+1) The church was within the boundaries of accepted teachings and were in line with the Great Tradition.
+
+Question 532: The girl's tongue was as sharp as a sword
+Options:
+0) The girls tongue was very sharp.
+1) The girl's tongue wasn't sharp at all.
+
+Question 533: The girl's tongue was as sharp as a pillow
+Options:
+0) The girls tongue was very sharp.
+1) The girl's tongue wasn't sharp at all.
+
+Question 534: He is as spiritual as a buddha
+Options:
+0) He is very religious
+1) He is not religious
+
+Question 535: He is as spiritual as my dog
+Options:
+0) He is very religious
+1) He is not religious
+
+Question 536: His thoughts flowed like the sands in an hourglass
+Options:
+0) His thoughts flowed smoothly and steadily.
+1) His thoughts were all over the place.
+
+Question 537: His thoughts flowed like a break dance monkey
+Options:
+0) His thoughts flowed smoothly and steadily.
+1) His thoughts were all over the place.
+
+Question 538: His bachelor pad smelled as fresh as a frat dorm bathroom on Taco Bell night
+Options:
+0) His bachelor pad smelled awful
+1) His bachelor pad smelled wonderful
+
+Question 539: His bachelor pad smelled as fresh as a Ralph Lauren fragrance factory
+Options:
+0) His bachelor pad smelled awful
+1) His bachelor pad smelled wonderful
+","480,0
+481,1
+482,0
+483,1
+484,1
+485,0
+486,0
+487,1
+488,0
+489,1
+490,0
+491,0
+492,0
+493,1
+494,0
+495,1
+496,0
+497,1
+498,0
+499,1
+500,0
+501,1
+502,0
+503,1
+504,0
+505,1
+506,0
+507,1
+508,0
+509,1
+510,0
+511,1
+512,0
+513,1
+514,0
+515,1
+516,0
+517,1
+518,0
+519,1
+520,0
+521,1
+522,0
+523,1
+524,0
+525,1
+526,0
+527,1
+528,0
+529,1
+530,0
+531,1
+532,0
+533,1
+534,0
+535,1
+536,0
+537,1
+538,0
+539,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 540: My soul weighs as much as a dollar bill
+Options:
+0) My soul is without a worry
+1) My soul is worried
+
+Question 541: My soul weighs as much as a truck tire
+Options:
+0) My soul is without a worry
+1) My soul is worried
+
+Question 542: He has the spirituality of the Pope after getting a vision from God
+Options:
+0) He is very spiritual
+1) He is not spiritual at all
+
+Question 543: He has the spirituality of an Athiest who burns down churches
+Options:
+0) He is very spiritual
+1) He is not spiritual at all
+
+Question 544: The film had the runtime of the lifetime of a hundred suns
+Options:
+0) The film was very long
+1) The film was quite short
+
+Question 545: The film had the runtime of the distance an ant travels in a minute
+Options:
+0) The film was very long
+1) The film was quite short
+
+Question 546: The doctor is as friendly as a swarm of wasps.
+Options:
+0) The doctor is mean.
+1) The doctor is lovable.
+
+Question 547: The doctor is as friendly as a pack of puppies.
+Options:
+0) The doctor is mean.
+1) The doctor is lovable.
+
+Question 548: His speech had the urgency of a man who has to urinate
+Options:
+0) His speech had a lot of urgency
+1) His speech had no urgency
+
+Question 549: His speech had the urgency of a far away deadline
+Options:
+0) His speech had a lot of urgency
+1) His speech had no urgency
+
+Question 550: This work of art is as brilliant as a goldfish.
+Options:
+0) This work of art is dumb.
+1) This work of art is a masterpiece.
+
+Question 551: This work of art is as brilliant as the Taj Mahal.
+Options:
+0) This work of art is dumb.
+1) This work of art is a masterpiece.
+
+Question 552: This outfit is worthy of a pack of gremlins.
+Options:
+0) This outfit is horrible.
+1) This outfit is amazing.
+
+Question 553: This outfit is worthy of the catwalk.
+Options:
+0) This outfit is horrible.
+1) This outfit is amazing.
+
+Question 554: They collaborate like a mouse and cheese.
+Options:
+0) They collaborate really well.
+1) They do not collaborate well at all.
+
+Question 555: They collaborate like a mouse and a hungry cat.
+Options:
+0) They collaborate really well.
+1) They do not collaborate well at all.
+
+Question 556: He's got the discipline of a drill instructor.
+Options:
+0) He is very disciplined.
+1) He is not disciplined at all.
+
+Question 557: He's got the discipline of a a toddler.
+Options:
+0) He is very disciplined.
+1) He is not disciplined at all.
+
+Question 558: He's got the speed of a cheetah.
+Options:
+0) He is very fast.
+1) He is very slow.
+
+Question 559: He's got the speed of a sloth.
+Options:
+0) He is very fast.
+1) He is very slow.
+
+Question 560: She was as friendly as An old angry cat
+Options:
+0) She wasn't kind at all
+1) She was happy to see us
+
+Question 561: She was as friendly as A newborn puppy
+Options:
+0) She wasn't kind at all
+1) She was happy to see us
+
+Question 562: She has the attention span of A gnat
+Options:
+0) She has a short attention span
+1) She has a long attention span
+
+Question 563: She has the attention span of a dolphin
+Options:
+0) She has a short attention span
+1) She has a long attention span
+
+Question 564: The house is the age of a mummy from ancient Egypt
+Options:
+0) The house is old
+1) The house is young
+
+Question 565: The house is the age of The Mummy starring Tom Cruise
+Options:
+0) The house is old
+1) The house is young
+
+Question 566: The can holds all the noodles of Chef Boyardee's pantry
+Options:
+0) The can holds many noodles
+1) The can has few noodles in it
+
+Question 567: The can holds all the noodles of a ""fun size"" portion of food
+Options:
+0) The can holds many noodles
+1) The can has few noodles in it
+
+Question 568: The ballerina had the elegance and grace of a flamingo.
+Options:
+0) The ballerina was graceful.
+1) The ballerina was clumsy.
+
+Question 569: The ballerina had the elegance and grace of a hippopotamus.
+Options:
+0) The ballerina was graceful.
+1) The ballerina was clumsy.
+
+Question 570: The dog is as courageous as the cowardly lion.
+Options:
+0) The dog is cowardly.
+1) The dog is very brave.
+
+Question 571: The dog is as courageous as an entire army.
+Options:
+0) The dog is cowardly.
+1) The dog is very brave.
+
+Question 572: The balloon had the floating ability of Aquaman beneath the water
+Options:
+0) The balloon is good at floating
+1) The balloon floats poorly
+
+Question 573: The balloon had the floating ability of Aquaman on land
+Options:
+0) The balloon is good at floating
+1) The balloon floats poorly
+
+Question 574: The metal is a snakeskin.
+Options:
+0) The metal is rough.
+1) The metal is smooth.
+
+Question 575: The metal is a mirror.
+Options:
+0) The metal is rough.
+1) The metal is smooth.
+
+Question 576: The place was as joyful as a party
+Options:
+0) The place was joyful.
+1) The place was miserable.
+
+Question 577: The place was as joyful as a funeral
+Options:
+0) The place was joyful.
+1) The place was miserable.
+
+Question 578: This is as crispy as fried bacon!
+Options:
+0) The item is very crispy.
+1) The item isn't crispy at all.
+
+Question 579: This is as crispy as raw bacon!
+Options:
+0) The item is very crispy.
+1) The item isn't crispy at all.
+
+Question 580: He's as cute as a red panda!
+Options:
+0) He was very cute.
+1) He was not very cute.
+
+Question 581: He's as cute as a blobfish.
+Options:
+0) He was very cute.
+1) He was not very cute.
+
+Question 582: The metal has the strength of Hercules.
+Options:
+0) The metal is very strong
+1) The metal is very weak
+
+Question 583: The metal has the strength of a wet angel hair pasta noodle.
+Options:
+0) The metal is very strong
+1) The metal is very weak
+
+Question 584: I want to spend time with this project as if it were my enemy
+Options:
+0) You do not want to spend time on the project
+1) You do want to spend time on the project
+
+Question 585: I want to spend time with this project as if it were my game
+Options:
+0) You do not want to spend time on the project
+1) You do want to spend time on the project
+
+Question 586: The project is as favorable as my enemy
+Options:
+0) The project is not favorable
+1) The project is favorable
+
+Question 587: The project is as favorable as my game
+Options:
+0) The project is not favorable
+1) The project is favorable
+
+Question 588: He's as bright as the north star.
+Options:
+0) He's very smart.
+1) He's not very smart.
+
+Question 589: He's as bright as a dead lightbulb.
+Options:
+0) He's very smart.
+1) He's not very smart.
+
+Question 590: The rabbit has the speed of a racecar
+Options:
+0) The rabbit is fast
+1) The rabbit is slow
+
+Question 591: The rabbit has the speed of a sloth
+Options:
+0) The rabbit is fast
+1) The rabbit is slow
+
+Question 592: The duck had all the noisiness of a racecar honking every time it passes a blade of grass
+Options:
+0) The duck is noisy
+1) The duck is quiet
+
+Question 593: The duck had all the noisiness of a stack of papers beneath a paperweight
+Options:
+0) The duck is noisy
+1) The duck is quiet
+
+Question 594: That woman has the skin of a shedding snake.
+Options:
+0) That woman has dead, peeling skin.
+1) That woman has smooth skin.
+
+Question 595: That woman has the skin of a piece of glass.
+Options:
+0) That woman has dead, peeling skin.
+1) That woman has smooth skin.
+
+Question 596: The novel has the emotional relatability of a boa constrictor.
+Options:
+0) The novel is not relatable.
+1) The novel is relatable.
+
+Question 597: The novel has the emotional relatability of an old friend.
+Options:
+0) The novel is not relatable.
+1) The novel is relatable.
+
+Question 598: The house is as large as the Grand Canyon
+Options:
+0) The house is enormous.
+1) The house is tiny.
+
+Question 599: The house is as large as a mousetrap
+Options:
+0) The house is enormous.
+1) The house is tiny.
+","540,0
+541,1
+542,0
+543,1
+544,0
+545,1
+546,0
+547,1
+548,0
+549,1
+550,0
+551,1
+552,0
+553,1
+554,0
+555,1
+556,0
+557,1
+558,0
+559,1
+560,0
+561,1
+562,0
+563,1
+564,0
+565,1
+566,0
+567,1
+568,0
+569,1
+570,0
+571,1
+572,0
+573,1
+574,0
+575,1
+576,0
+577,1
+578,0
+579,1
+580,0
+581,1
+582,0
+583,1
+584,0
+585,1
+586,0
+587,1
+588,0
+589,1
+590,0
+591,1
+592,0
+593,1
+594,0
+595,1
+596,0
+597,1
+598,0
+599,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 600: The movie has the depth of a Dick and Jane book
+Options:
+0) The movie is simplistic.
+1) The movie has a deep plot.
+
+Question 601: The movie has the depth of a Shakespearean play
+Options:
+0) The movie is simplistic.
+1) The movie has a deep plot.
+
+Question 602: The average person has the emotions of a complex, sentient mammal
+Options:
+0) The average person has many emotions
+1) The average person has no emotions
+
+Question 603: The average person has the emotions of a cold, unfeeling automaton
+Options:
+0) The average person has many emotions
+1) The average person has no emotions
+
+Question 604: The sponge has the absorption of a fat man at an ""All You Can Eat"" buffet
+Options:
+0) The sponge has high absorbance
+1) The sponge can absorb little
+
+Question 605: The sponge has the absorption of a one-ply piece of toilet paper
+Options:
+0) The sponge has high absorbance
+1) The sponge can absorb little
+
+Question 606: The CEO's idea was as cutting-edge as a robot with emotions
+Options:
+0) The CEO's idea was extremely novel.
+1) The CEO's idea was outdated.
+
+Question 607: The CEO's idea was as cutting-edge as MySpace
+Options:
+0) The CEO's idea was extremely novel.
+1) The CEO's idea was outdated.
+
+Question 608: The girl was as knowledgeable as Google
+Options:
+0) The girl was extremely smart.
+1) The girl was ignorant.
+
+Question 609: The girl was as knowledgeable as un untrained puppy
+Options:
+0) The girl was extremely smart.
+1) The girl was ignorant.
+
+Question 610: Peter wears shoes that could be classified as ocean going vessels.
+Options:
+0) Peter wears shoes in a very large size.
+1) Peter wears shoes in a very small size.
+
+Question 611: Peter wears shoes that could fit an elf.
+Options:
+0) Peter wears shoes in a very large size.
+1) Peter wears shoes in a very small size.
+
+Question 612: The atmosphere in Mexico City is a sauna
+Options:
+0) The atmosphere is smoggy
+1) The atmosphere is clean
+
+Question 613: The atmosphere in Mexico City is glass
+Options:
+0) The atmosphere is smoggy
+1) The atmosphere is clean
+
+Question 614: The flower has the aroma of a mother's kiss
+Options:
+0) The flower smells good
+1) The flower smells bad
+
+Question 615: The flower has the aroma of satan's kiss
+Options:
+0) The flower smells good
+1) The flower smells bad
+
+Question 616: The relationship had the length of a marathon
+Options:
+0) The relationship was long
+1) The relationship was short
+
+Question 617: The relationship had the length of paper clip
+Options:
+0) The relationship was long
+1) The relationship was short
+
+Question 618: George hit the ground like a ton of bricks
+Options:
+0) George hit the ground hard
+1) George hit the ground softly
+
+Question 619: George hit the ground like a feather
+Options:
+0) George hit the ground hard
+1) George hit the ground softly
+
+Question 620: The movie has the depth of a one dimensional cartoon character.
+Options:
+0) The movie is boring
+1) The movie is profound
+
+Question 621: The movie has the depth of an all encompassing black hole of outer space.
+Options:
+0) The movie is boring
+1) The movie is profound
+
+Question 622: The writer had the depth of an empty bathtub.
+Options:
+0) The writer was dull.
+1) The writer was profound.
+
+Question 623: The writer had the depth of the Mariana Trench.
+Options:
+0) The writer was dull.
+1) The writer was profound.
+
+Question 624: The cheerleader had the depth of an empty sink.
+Options:
+0) The cheerleader was superficial.
+1) The cheerleader was profound.
+
+Question 625: The cheerleader had the depth of the bottom of the ocean.
+Options:
+0) The cheerleader was superficial.
+1) The cheerleader was profound.
+
+Question 626: Her reaction to the cockroach was as subtle as getting electrocuted during a grand mal seizure
+Options:
+0) Her reaction to the cockroach was histrionic
+1) Her reaction to the cockroach was calm
+
+Question 627: Her reaction to the cockroach was as subtle as a scientist observing mold in a petri dish
+Options:
+0) Her reaction to the cockroach was histrionic
+1) Her reaction to the cockroach was calm
+
+Question 628: This song is as good to listen to as nails on a chalkboard.
+Options:
+0) the song is unpleasant
+1) the song is ethereally good.
+
+Question 629: This song is as good to listen to as the sound of angels ringing bells.
+Options:
+0) the song is unpleasant
+1) the song is ethereally good.
+
+Question 630: The homework has the complexity of theoretical physics
+Options:
+0) The homework is impossible to fully understand
+1) The homework is simple and straightforward
+
+Question 631: The homework has the complexity of a rock
+Options:
+0) The homework is impossible to fully understand
+1) The homework is simple and straightforward
+
+Question 632: That wave is the Sears Tower
+Options:
+0) the wave is tall
+1) the wave is short
+
+Question 633: That wave is an anthill
+Options:
+0) the wave is tall
+1) the wave is short
+
+Question 634: The temperature made it feel like I was in an icebox
+Options:
+0) The temperature was cold.
+1) The temperature was hot.
+
+Question 635: The temperature made it feel like I was in a broiler
+Options:
+0) The temperature was cold.
+1) The temperature was hot.
+
+Question 636: Listening to classical music feels like an ocean of emotions
+Options:
+0) classical music is intense
+1) classical music is dull
+
+Question 637: Listening to classical music feels like being in a coma
+Options:
+0) classical music is intense
+1) classical music is dull
+
+Question 638: The counter is a snake
+Options:
+0) The counter is curvy.
+1) The counter is straight.
+
+Question 639: The counter is a ruler.
+Options:
+0) The counter is curvy.
+1) The counter is straight.
+
+Question 640: It's about as warm as an egg in a frying pan.
+Options:
+0) It's very hot.
+1) It's not hot at all.
+
+Question 641: It's about as warm as an icecube.
+Options:
+0) It's very hot.
+1) It's not hot at all.
+
+Question 642: That book has the affect of A sleeping pill
+Options:
+0) The book is boring
+1) The book is exciting
+
+Question 643: That book has the affect of A caffine pill
+Options:
+0) The book is boring
+1) The book is exciting
+
+Question 644: You're as expressive as an actor
+Options:
+0) You're very expressive
+1) You're unexpressive
+
+Question 645: You're as expressive as a robot
+Options:
+0) You're very expressive
+1) You're unexpressive
+
+Question 646: He's as deep as a puddle
+Options:
+0) He's not a deep thinker
+1) He's a very deep thinker
+
+Question 647: He's as deep as the sea
+Options:
+0) He's not a deep thinker
+1) He's a very deep thinker
+
+Question 648: That teacher is Google.
+Options:
+0) That teacher is knowledgeable.
+1) That teacher is out-of-date.
+
+Question 649: That teacher is America Online.
+Options:
+0) That teacher is knowledgeable.
+1) That teacher is out-of-date.
+
+Question 650: Your momma is a hot air balloon.
+Options:
+0) Your momma is bloated.
+1) Your momma is sexy.
+
+Question 651: Your momma is a slick lynx.
+Options:
+0) Your momma is bloated.
+1) Your momma is sexy.
+
+Question 652: The hotel bed was as luxurious as 24 karat gold
+Options:
+0) The bed was very luxurious.
+1) The hotel bed was not luxurious at all.
+
+Question 653: The hotel bed was as luxurious as a sleeping bag
+Options:
+0) The bed was very luxurious.
+1) The hotel bed was not luxurious at all.
+
+Question 654: The dress had the thickness of cellophane.
+Options:
+0) The dress was sheer.
+1) The dress was solid.
+
+Question 655: The dress had the thickness of a solid piece of wood.
+Options:
+0) The dress was sheer.
+1) The dress was solid.
+
+Question 656: The whirlpool had the suction power of an Olympic diver coming up for air
+Options:
+0) The whirlpool had a strong suction
+1) The suction of the whirlpool was weak
+
+Question 657: The whirlpool had the suction power of a vacuum after sucking up a cheeseburger wrapper
+Options:
+0) The whirlpool had a strong suction
+1) The suction of the whirlpool was weak
+
+Question 658: Darcy had the dancing skill of Michael Jackson with bionic legs
+Options:
+0) Darcy is a great dancer
+1) Darcy can hardly dance at all
+
+Question 659: Darcy had the dancing skill of a six-legged spider on crutches
+Options:
+0) Darcy is a great dancer
+1) Darcy can hardly dance at all
+","600,0
+601,1
+602,0
+603,1
+604,0
+605,1
+606,0
+607,1
+608,0
+609,1
+610,0
+611,1
+612,0
+613,1
+614,0
+615,1
+616,0
+617,1
+618,0
+619,1
+620,0
+621,1
+622,0
+623,1
+624,0
+625,1
+626,0
+627,1
+628,0
+629,1
+630,0
+631,1
+632,0
+633,1
+634,0
+635,1
+636,0
+637,1
+638,0
+639,1
+640,0
+641,1
+642,0
+643,1
+644,0
+645,1
+646,0
+647,1
+648,0
+649,1
+650,0
+651,1
+652,0
+653,1
+654,0
+655,1
+656,0
+657,1
+658,0
+659,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 660: My anger is like a universe.
+Options:
+0) My anger is vast.
+1) My anger is fluctuating.
+
+Question 661: My anger is like a bobbing wave.
+Options:
+0) My anger is vast.
+1) My anger is fluctuating.
+
+Question 662: His arrival was as exciting as a show of fireworks
+Options:
+0) He created much excitement
+1) People were bored by his appearance
+
+Question 663: His arrival was as exciting as a snail race
+Options:
+0) He created much excitement
+1) People were bored by his appearance
+
+Question 664: He was as angry as a wild beast
+Options:
+0) He was angry
+1) He was calm, and not angry
+
+Question 665: He was as angry as a zen master
+Options:
+0) He was angry
+1) He was calm, and not angry
+
+Question 666: You're smooth as a ball
+Options:
+0) You're very smooth
+1) You're very rough and not smooth
+
+Question 667: You're smooth as a cactus
+Options:
+0) You're very smooth
+1) You're very rough and not smooth
+
+Question 668: The woman had the toughness of a rhino.
+Options:
+0) The woman was very tough.
+1) The woman was not very tough.
+
+Question 669: The woman had the toughness of a guinea pig.
+Options:
+0) The woman was very tough.
+1) The woman was not very tough.
+
+Question 670: That man had the reliability of a surgeon with ten years of experience.
+Options:
+0) The man was very reliable.
+1) The man couldn't be relied on at all.
+
+Question 671: That man had the reliability of a ten-year old surgeon.
+Options:
+0) The man was very reliable.
+1) The man couldn't be relied on at all.
+
+Question 672: The moth reminded me of the Silence of the Lambs
+Options:
+0) The moth reminded me of something frightening.
+1) The moth reminded me of something comforting.
+
+Question 673: The moth reminded me of summers at grandma's
+Options:
+0) The moth reminded me of something frightening.
+1) The moth reminded me of something comforting.
+
+Question 674: The butterfly had the coloration of A mud fence
+Options:
+0) The butterfly's coloration is drab
+1) The butterfly's coloration is beautiful
+
+Question 675: The butterfly had the coloration of A peacock's plumage
+Options:
+0) The butterfly's coloration is drab
+1) The butterfly's coloration is beautiful
+
+Question 676: The selection at the store was like that of A lonely street vendor
+Options:
+0) The store has a limited selection of items
+1) The store has a wide range of items
+
+Question 677: The selection at the store was like that of A huge department store
+Options:
+0) The store has a limited selection of items
+1) The store has a wide range of items
+
+Question 678: The CEO was a lumberer.
+Options:
+0) The CEO was clumsy
+1) The CEO was careful.
+
+Question 679: The CEO was a sculptor.
+Options:
+0) The CEO was clumsy
+1) The CEO was careful.
+
+Question 680: The man had the coordination of an acrobat
+Options:
+0) He was very coordinated
+1) He was very uncoordinated
+
+Question 681: The man had the coordination of a drunken sailor
+Options:
+0) He was very coordinated
+1) He was very uncoordinated
+
+Question 682: Adam is as strong as a tsunami.
+Options:
+0) Adam is strong.
+1) Adam is weak.
+
+Question 683: Adam is as strong as a gentle wave
+Options:
+0) Adam is strong.
+1) Adam is weak.
+
+Question 684: Lisa is sharp as an axe.
+Options:
+0) Lisa is smart.
+1) Lisa is dumb.
+
+Question 685: Lisa is sharp as an sponge.
+Options:
+0) Lisa is smart.
+1) Lisa is dumb.
+
+Question 686: His house seemed to be made out of hand sanitizer.
+Options:
+0) The house was really clean.
+1) The house was disgusting.
+
+Question 687: His house seemed to be made out of bacteria.
+Options:
+0) The house was really clean.
+1) The house was disgusting.
+
+Question 688: That haunted house has a fear factor of a bunny eating a carrot
+Options:
+0) The haunted house was mild and tame
+1) The haunted house was scary and sickening
+
+Question 689: That haunted house has a fear factor of being force fed roaches by a zombie
+Options:
+0) The haunted house was mild and tame
+1) The haunted house was scary and sickening
+
+Question 690: The students are as focused as cardiothoracic surgeons
+Options:
+0) The students are as focused as can be.
+1) The students have a total lack of focus.
+
+Question 691: The students are as focused as young puppies
+Options:
+0) The students are as focused as can be.
+1) The students have a total lack of focus.
+
+Question 692: The elephant is a whale.
+Options:
+0) The elephant is large.
+1) The elephant is small.
+
+Question 693: The elephant is a mouse.
+Options:
+0) The elephant is large.
+1) The elephant is small.
+
+Question 694: The meaning of the poem was as accessible as Virgil's Aeneid.
+Options:
+0) The meaning is not self-explanatory; it requires education from experts in understanding it.
+1) The meaning is easy to decipher without much expertise.
+
+Question 695: The meaning of the poem was as accessible as childhood fairytale.
+Options:
+0) The meaning is not self-explanatory; it requires education from experts in understanding it.
+1) The meaning is easy to decipher without much expertise.
+
+Question 696: The scene was as refreshing as lemonade
+Options:
+0) The scene was totally refreshing.
+1) The scene wasn't refreshing at all.
+
+Question 697: The scene was as refreshing as an empty glass
+Options:
+0) The scene was totally refreshing.
+1) The scene wasn't refreshing at all.
+
+Question 698: The car is a whale
+Options:
+0) The car is large
+1) The car is small
+
+Question 699: The car is a amoeba
+Options:
+0) The car is large
+1) The car is small
+
+Question 700: The chair's legs are twigs
+Options:
+0) The legs are thin and brittle
+1) The legs are thick and heavy
+
+Question 701: The chair's legs are tree trunks
+Options:
+0) The legs are thin and brittle
+1) The legs are thick and heavy
+
+Question 702: His smile was a closed door.
+Options:
+0) His smile was not inviting.
+1) His smile was inviting.
+
+Question 703: His smile was an open door.
+Options:
+0) His smile was not inviting.
+1) His smile was inviting.
+
+Question 704: That business meeting was a coup d'état
+Options:
+0) The business meeting was when they betrayed the leader.
+1) The business meeting was when they selected the leader.
+
+Question 705: That business meeting was a royal coronation.
+Options:
+0) The business meeting was when they betrayed the leader.
+1) The business meeting was when they selected the leader.
+
+Question 706: I have as many book ideas as There are days in a year
+Options:
+0) I have over 300 book ideas
+1) I only have a few book ideas.
+
+Question 707: I have as many book ideas as There are 00's in one hundred
+Options:
+0) I have over 300 book ideas
+1) I only have a few book ideas.
+
+Question 708: The bear is a puppy dog
+Options:
+0) The bear is sweet and docile
+1) The bear is aggressive
+
+Question 709: The bear is a T-rex
+Options:
+0) The bear is sweet and docile
+1) The bear is aggressive
+
+Question 710: The fact that he drives that car tells you his parents never loved him.
+Options:
+0) The car demonstrates the underlying insecurities of the driver.
+1) The car demonstrates the driver's secure sense of themselves.
+
+Question 711: The fact that he drives that car tells you he was never bullied in high school.
+Options:
+0) The car demonstrates the underlying insecurities of the driver.
+1) The car demonstrates the driver's secure sense of themselves.
+
+Question 712: The well has all the water of the hump in a camel's back
+Options:
+0) There's a lot of water in the well
+1) The well is dry
+
+Question 713: The well has all the water of the Gobi desert
+Options:
+0) There's a lot of water in the well
+1) The well is dry
+
+Question 714: The razor was sharp like a guillotine
+Options:
+0) The razor was sharp
+1) The razor was not sharp
+
+Question 715: The razor was sharp like a dull pencil
+Options:
+0) The razor was sharp
+1) The razor was not sharp
+
+Question 716: I prefer to live like an ant.
+Options:
+0) I prefee to live a life focused on working hard so that I am prepared for the future
+1) I prefer to live a life that is carefree and in the moment, with no thought of the future.
+
+Question 717: I prefer to live like a grasshopper.
+Options:
+0) I prefee to live a life focused on working hard so that I am prepared for the future
+1) I prefer to live a life that is carefree and in the moment, with no thought of the future.
+
+Question 718: Her mind is a steel trap.
+Options:
+0) She remembers everything, no matter how insignificant.
+1) She remembers nothing, and has lost half of what she once knew.
+
+Question 719: Her mind is swiss cheese.
+Options:
+0) She remembers everything, no matter how insignificant.
+1) She remembers nothing, and has lost half of what she once knew.
+","660,1
+661,0
+662,0
+663,1
+664,0
+665,1
+666,0
+667,1
+668,0
+669,1
+670,0
+671,1
+672,0
+673,1
+674,0
+675,1
+676,0
+677,1
+678,0
+679,1
+680,0
+681,1
+682,0
+683,1
+684,0
+685,1
+686,0
+687,1
+688,0
+689,1
+690,0
+691,1
+692,0
+693,1
+694,0
+695,1
+696,0
+697,1
+698,0
+699,1
+700,0
+701,1
+702,0
+703,1
+704,0
+705,1
+706,0
+707,1
+708,0
+709,1
+710,0
+711,1
+712,0
+713,1
+714,0
+715,1
+716,0
+717,1
+718,0
+719,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 720: The song was as upbeat as a football game rally
+Options:
+0) The song was really upbeat.
+1) The song was heavyhanded.
+
+Question 721: The song was as upbeat as a funeral hymn
+Options:
+0) The song was really upbeat.
+1) The song was heavyhanded.
+
+Question 722: The razor is a newly polished blade.
+Options:
+0) The razor is sharp.
+1) The razor is dull.
+
+Question 723: The razor is a pair of rusty kitchen scissors.
+Options:
+0) The razor is sharp.
+1) The razor is dull.
+
+Question 724: She rests as much as a cat.
+Options:
+0) She rests a lot.
+1) She doesn't rest much at all.
+
+Question 725: She rests as much as a mother of triplets.
+Options:
+0) She rests a lot.
+1) She doesn't rest much at all.
+
+Question 726: The ball bounced as high as the sky
+Options:
+0) The ball bounced very high
+1) The ball barely bounced at all.
+
+Question 727: The ball bounced as high as the ground
+Options:
+0) The ball bounced very high
+1) The ball barely bounced at all.
+
+Question 728: The razor had the sharpness of a sword
+Options:
+0) The razor was sharp
+1) The razor was dull
+
+Question 729: The razor had the sharpness of a stone
+Options:
+0) The razor was sharp
+1) The razor was dull
+
+Question 730: The razor is a stick of rust
+Options:
+0) The razor is rusty and old.
+1) The razor is sharp.
+
+Question 731: The razor is a knife.
+Options:
+0) The razor is rusty and old.
+1) The razor is sharp.
+
+Question 732: He has a heart of stone
+Options:
+0) He is hard
+1) He is generous
+
+Question 733: He has a heart of gold
+Options:
+0) He is hard
+1) He is generous
+
+Question 734: The giraffe is a newborn baby eel.
+Options:
+0) The giraffe is awkward.
+1) The giraffe is elegant.
+
+Question 735: The giraffe is a gazelle.
+Options:
+0) The giraffe is awkward.
+1) The giraffe is elegant.
+
+Question 736: He's as tall as a giraffe.
+Options:
+0) He's really tall.
+1) He's really short.
+
+Question 737: He's as tall as a gnome.
+Options:
+0) He's really tall.
+1) He's really short.
+
+Question 738: She laughs as much as a clown.
+Options:
+0) She laughs a lot.
+1) She doesn't laugh much at all.
+
+Question 739: She laughs as much as a a strict librarian.
+Options:
+0) She laughs a lot.
+1) She doesn't laugh much at all.
+
+Question 740: The car drove as smooth as butter
+Options:
+0) The car drove smoothly
+1) The car drove roughly
+
+Question 741: The car drove as smooth as gravel
+Options:
+0) The car drove smoothly
+1) The car drove roughly
+
+Question 742: We're as good of friends as two dogs fighting over the last bone.
+Options:
+0) They're not really good friends at all and are desperate.
+1) They are good friends and are comfortable.
+
+Question 743: We're as good of friends as two dogs enjoying a feast.
+Options:
+0) They're not really good friends at all and are desperate.
+1) They are good friends and are comfortable.
+
+Question 744: Her validity of her excuse was as sturdy as a sheet of tissue paper
+Options:
+0) Her excuse was flimsy
+1) Her excuse was solid
+
+Question 745: Her validity of her excuse was as sturdy as the Library of Congress
+Options:
+0) Her excuse was flimsy
+1) Her excuse was solid
+
+Question 746: She loved me like a mother
+Options:
+0) She loved me.
+1) She didn't love me at all.
+
+Question 747: She loved me like a wicked stepmother
+Options:
+0) She loved me.
+1) She didn't love me at all.
+
+Question 748: His voice was as quiet as a mouse
+Options:
+0) His voice was quiet.
+1) His voice was loud.
+
+Question 749: His voice was as quiet as a megaphone
+Options:
+0) His voice was quiet.
+1) His voice was loud.
+
+Question 750: The seeds have the hardness of running a marathon while carrying a boulder on your back
+Options:
+0) The seeds are hard
+1) The seeds are soft
+
+Question 751: The seeds have the hardness of a bowl of melting ice cream
+Options:
+0) The seeds are hard
+1) The seeds are soft
+
+Question 752: The meat has the smell of a freshly baked Christmas ham
+Options:
+0) The meat smells good
+1) The meat smells foul
+
+Question 753: The meat has the smell of a sweaty pair of running shoes
+Options:
+0) The meat smells good
+1) The meat smells foul
+
+Question 754: This table has the stability of a mountain
+Options:
+0) This table is very strong.
+1) This table is very flimsy.
+
+Question 755: This table has the stability of a house of cards.
+Options:
+0) This table is very strong.
+1) This table is very flimsy.
+
+Question 756: That building was built in the Jurassic period.
+Options:
+0) That building was built a long time ago
+1) That building was built very recently.
+
+Question 757: That building was built a second ago.
+Options:
+0) That building was built a long time ago
+1) That building was built very recently.
+
+Question 758: This meal is tastes as if it was made by Gordon Ramsay.
+Options:
+0) The food is delicious.
+1) The food is disgusting.
+
+Question 759: This meal is tastes as if it was made by three rats with no tongue.
+Options:
+0) The food is delicious.
+1) The food is disgusting.
+
+Question 760: The hockey player was a demolition derby.
+Options:
+0) The hockey player was sloppy.
+1) The hockey player was careful.
+
+Question 761: The hockey player was a gazelle.
+Options:
+0) The hockey player was sloppy.
+1) The hockey player was careful.
+
+Question 762: He shined like the stars
+Options:
+0) He shined brightly.
+1) He was dull and didn't shine at all.
+
+Question 763: He shined like the dirt
+Options:
+0) He shined brightly.
+1) He was dull and didn't shine at all.
+
+Question 764: She was as hot as the sun
+Options:
+0) She was hot
+1) She was not hot, but cold.
+
+Question 765: She was as hot as a popsicle
+Options:
+0) She was hot
+1) She was not hot, but cold.
+
+Question 766: The dog has the softness of a feather duster
+Options:
+0) The dog is soft
+1) The dog isn't soft
+
+Question 767: The dog has the softness of an asteroid
+Options:
+0) The dog is soft
+1) The dog isn't soft
+
+Question 768: The reviews indicated that the product quality was that of A broken down car on the freeway
+Options:
+0) The product quality was poor
+1) The product quality was excellent
+
+Question 769: The reviews indicated that the product quality was that of The most robust product ever
+Options:
+0) The product quality was poor
+1) The product quality was excellent
+
+Question 770: Life is a wonderful walk
+Options:
+0) Life is enjoyable
+1) Life is hard
+
+Question 771: Life is an arduous trek
+Options:
+0) Life is enjoyable
+1) Life is hard
+
+Question 772: Life is a dumpster fire.
+Options:
+0) Life is trash.
+1) Life is wonderful.
+
+Question 773: Life is a butterfly.
+Options:
+0) Life is trash.
+1) Life is wonderful.
+
+Question 774: The poker game had stakes as high as the sun
+Options:
+0) The poker game was high-stakes.
+1) The poker game was low-stakes.
+
+Question 775: The poker game had stakes as high as the floor
+Options:
+0) The poker game was high-stakes.
+1) The poker game was low-stakes.
+
+Question 776: Love in marriage is the cherry on top of the sundae
+Options:
+0) love in marriage is the best, finishing touch
+1) love in marriage is an unpleasant surprise that ruins it
+
+Question 777: Love in marriage is the worm inside the pretty apple
+Options:
+0) love in marriage is the best, finishing touch
+1) love in marriage is an unpleasant surprise that ruins it
+
+Question 778: Your first love is an icy road
+Options:
+0) your first love is dangerous and hard to navigate
+1) your first love is comfortable and comforting
+
+Question 779: Your first love is a warm blanket
+Options:
+0) your first love is dangerous and hard to navigate
+1) your first love is comfortable and comforting
+","720,0
+721,1
+722,0
+723,1
+724,0
+725,1
+726,0
+727,1
+728,0
+729,1
+730,0
+731,1
+732,0
+733,1
+734,0
+735,1
+736,0
+737,1
+738,0
+739,1
+740,0
+741,1
+742,0
+743,1
+744,0
+745,1
+746,0
+747,1
+748,0
+749,1
+750,0
+751,1
+752,0
+753,1
+754,0
+755,1
+756,0
+757,1
+758,0
+759,1
+760,0
+761,1
+762,0
+763,1
+764,0
+765,1
+766,0
+767,1
+768,0
+769,1
+770,0
+771,1
+772,0
+773,1
+774,0
+775,1
+776,0
+777,1
+778,0
+779,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 780: divorce is a rainbow after a storm
+Options:
+0) divorce is something surprisingly good after something devastating
+1) divorce is the feeling of failing
+
+Question 781: divorce is a sinking ship
+Options:
+0) divorce is something surprisingly good after something devastating
+1) divorce is the feeling of failing
+
+Question 782: The book was as interesting as a theme park
+Options:
+0) The book was interesting
+1) The book was boring
+
+Question 783: The book was as interesting as wet paint
+Options:
+0) The book was interesting
+1) The book was boring
+
+Question 784: The song was as delicious as a decadent chocolate
+Options:
+0) The song is excellent
+1) The song is horrible
+
+Question 785: The song was as delicious as vomit
+Options:
+0) The song is excellent
+1) The song is horrible
+
+Question 786: The boy was as tired as a marathon winner
+Options:
+0) The boy was exhausted.
+1) The boy wasn't tired at all.
+
+Question 787: The boy was as tired as the Energizer Bunny
+Options:
+0) The boy was exhausted.
+1) The boy wasn't tired at all.
+
+Question 788: The corporate hierarchy was as flat as the Grand Canyon
+Options:
+0) The corporate hierarchy was alive and well.
+1) The corporate hierarchy was nonexistent.
+
+Question 789: The corporate hierarchy was as flat as notebook paper
+Options:
+0) The corporate hierarchy was alive and well.
+1) The corporate hierarchy was nonexistent.
+
+Question 790: He's got the vision of an eagle.
+Options:
+0) He has extremely good vision.
+1) He can barely see.
+
+Question 791: He's got the vision of a blind bat.
+Options:
+0) He has extremely good vision.
+1) He can barely see.
+
+Question 792: She's got strength of a gorilla.
+Options:
+0) She's very strong.
+1) She's not strong at all.
+
+Question 793: She's got strength of a baby mouse.
+Options:
+0) She's very strong.
+1) She's not strong at all.
+
+Question 794: Her banana bread is as moist as pudding
+Options:
+0) Her banana bread is very moist
+1) Her banana bread is very dry
+
+Question 795: Her banana bread is as moist as leather
+Options:
+0) Her banana bread is very moist
+1) Her banana bread is very dry
+
+Question 796: That car moves like a snail
+Options:
+0) The car is slow
+1) The car is fast
+
+Question 797: That car moves like a rocket
+Options:
+0) The car is slow
+1) The car is fast
+
+Question 798: The melody sounded like a child's first learning to play the piano.
+Options:
+0) The melody was simplistic and randomly thrown together.
+1) The melody was complex, beautiful, and had the feel of a classic work of art.
+
+Question 799: The melody sounded like a Chopin concerto.
+Options:
+0) The melody was simplistic and randomly thrown together.
+1) The melody was complex, beautiful, and had the feel of a classic work of art.
+
+Question 800: The mattress has the comfort of a knife.
+Options:
+0) The mattress is too hard.
+1) The mattress is warm and cozy.
+
+Question 801: The mattress has the comfort of a hot tub.
+Options:
+0) The mattress is too hard.
+1) The mattress is warm and cozy.
+
+Question 802: The wind chimes had the tone of fingernails on a blackboard.
+Options:
+0) The wind chimes sound harsh.
+1) The wind chimes sound pleasing.
+
+Question 803: The wind chimes had the tone of children laughing.
+Options:
+0) The wind chimes sound harsh.
+1) The wind chimes sound pleasing.
+
+Question 804: The bake sale has enough cupcakes to fill the depths of an Olympic swimming pool
+Options:
+0) The bake sale has a ton of cupcakes.
+1) The bake sale doesn't have many cupcakes.
+
+Question 805: The bake sale has enough cupcakes to fill the depths of a thimble
+Options:
+0) The bake sale has a ton of cupcakes.
+1) The bake sale doesn't have many cupcakes.
+
+Question 806: He's got the smarts of a rocket scientist.
+Options:
+0) He's very smart.
+1) He's very dumb.
+
+Question 807: He's got the smarts of a jellyfish.
+Options:
+0) He's very smart.
+1) He's very dumb.
+
+Question 808: That steak knife cuts like a scalpel.
+Options:
+0) The knife is very sharp.
+1) The knife is not sharp at all.
+
+Question 809: That steak knife cuts like a spoon.
+Options:
+0) The knife is very sharp.
+1) The knife is not sharp at all.
+
+Question 810: He's as sharp as a razor.
+Options:
+0) He's very smart and quick.
+1) He's not smart.
+
+Question 811: He's as sharp as a butter knife.
+Options:
+0) He's very smart and quick.
+1) He's not smart.
+
+Question 812: The shoelaces have the stringiness of a Japanese ghost's hair
+Options:
+0) The shoelaces are quite stringy
+1) The shoelaces are stiff
+
+Question 813: The shoelaces have the stringiness of a petrified tree branch
+Options:
+0) The shoelaces are quite stringy
+1) The shoelaces are stiff
+
+Question 814: She dances like a fairy
+Options:
+0) she dances well
+1) she dances poorly
+
+Question 815: She dances like a turtle
+Options:
+0) she dances well
+1) she dances poorly
+
+Question 816: He dressed as sharp as a knife
+Options:
+0) He dressed well
+1) He dressed poorly
+
+Question 817: He dressed as sharp as a crayon
+Options:
+0) He dressed well
+1) He dressed poorly
+
+Question 818: The coffee is the temperature of fire
+Options:
+0) The coffee is burning hot
+1) The coffee is very cold
+
+Question 819: The coffee is the temperature of ice
+Options:
+0) The coffee is burning hot
+1) The coffee is very cold
+
+Question 820: The enemy was scary like Freddy Krueger
+Options:
+0) The enemy was scary
+1) The enemy was not scary
+
+Question 821: The enemy was scary like Snow White
+Options:
+0) The enemy was scary
+1) The enemy was not scary
+
+Question 822: The singer has the range of the Himalayas
+Options:
+0) The singer has a wide vocal range
+1) The singer has a narrow, poor range
+
+Question 823: The singer has the range of a mound of sand
+Options:
+0) The singer has a wide vocal range
+1) The singer has a narrow, poor range
+
+Question 824: The Actor has the appeal of A rainbow
+Options:
+0) The actor has a beautiful attractive countenance
+1) The actor has an uninteresting look
+
+Question 825: The Actor has the appeal of stink bug
+Options:
+0) The actor has a beautiful attractive countenance
+1) The actor has an uninteresting look
+
+Question 826: He's got the patience of an elementary school teacher.
+Options:
+0) He's really patient.
+1) He's not patient at all.
+
+Question 827: He's got the patience of a hungry shark.
+Options:
+0) He's really patient.
+1) He's not patient at all.
+
+Question 828: The meaning of the essay is as straightforward as a billboard headline
+Options:
+0) The essay's meaning is totally clear.
+1) The essay's meaning is very abstract.
+
+Question 829: The meaning of the essay is as straightforward as a Rothko painting
+Options:
+0) The essay's meaning is totally clear.
+1) The essay's meaning is very abstract.
+
+Question 830: The situation is as sticky as maple syrup
+Options:
+0) The situation is hard to get out of.
+1) The situation isn't very messy.
+
+Question 831: The situation is as sticky as water
+Options:
+0) The situation is hard to get out of.
+1) The situation isn't very messy.
+
+Question 832: The room has the feeling of a pristine forest.
+Options:
+0) The room is serene.
+1) The room is chaotic.
+
+Question 833: The room has the feeling of a rock concert.
+Options:
+0) The room is serene.
+1) The room is chaotic.
+
+Question 834: John was as motivated as a man running from the gallows.
+Options:
+0) John was really motivated.
+1) John was not motivated at all.
+
+Question 835: John was as motivated as a worker with no pay.
+Options:
+0) John was really motivated.
+1) John was not motivated at all.
+
+Question 836: The crate holds the the weight of an elephant riding a whale
+Options:
+0) The crate can hold a lot of weight
+1) The crate isn't capable of handling much weight
+
+Question 837: The crate holds the the weight of a drop of water
+Options:
+0) The crate can hold a lot of weight
+1) The crate isn't capable of handling much weight
+
+Question 838: People I help on Mturk are as grateful as hungry swine
+Options:
+0) Requesters aren't grateful.
+1) Requesters are grateful.
+
+Question 839: People I help on Mturk are as grateful as a fed pup
+Options:
+0) Requesters aren't grateful.
+1) Requesters are grateful.
+","780,0
+781,0
+782,0
+783,1
+784,0
+785,1
+786,0
+787,1
+788,1
+789,0
+790,0
+791,1
+792,0
+793,1
+794,0
+795,1
+796,0
+797,1
+798,0
+799,1
+800,0
+801,1
+802,0
+803,1
+804,0
+805,1
+806,0
+807,1
+808,0
+809,1
+810,0
+811,1
+812,0
+813,1
+814,0
+815,1
+816,0
+817,1
+818,0
+819,1
+820,0
+821,1
+822,0
+823,1
+824,0
+825,1
+826,0
+827,1
+828,0
+829,1
+830,0
+831,1
+832,0
+833,1
+834,1
+835,0
+836,0
+837,1
+838,0
+839,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 840: His critical thinking skills are like cotton candy.
+Options:
+0) He has no critical thinking skills.
+1) He has great critical thinking skills.
+
+Question 841: His critical thinking skills are a finely tuned machine.
+Options:
+0) He has no critical thinking skills.
+1) He has great critical thinking skills.
+
+Question 842: These pancakes taste a lot like cement before it hardens.
+Options:
+0) The pancakes are undercooked.
+1) The pancakes are light and fluffy.
+
+Question 843: These pancakes taste like cumulous clouds!
+Options:
+0) The pancakes are undercooked.
+1) The pancakes are light and fluffy.
+
+Question 844: The book has the depth of A mud puddle
+Options:
+0) The book is simplistic
+1) The book is profound
+
+Question 845: The book has the depth of The Mariana Trench
+Options:
+0) The book is simplistic
+1) The book is profound
+
+Question 846: Her dress is as fancy as a king's crown.
+Options:
+0) Her dress is very showy.
+1) Her dress is very plain.
+
+Question 847: Her dress is as fancy as a paper bag
+Options:
+0) Her dress is very showy.
+1) Her dress is very plain.
+
+Question 848: The motor sounded as ready as a dying man.
+Options:
+0) The motor is on its last leg.
+1) The motor is ready to go and will last a long time.
+
+Question 849: The motor sounded as ready as a marathon runner.
+Options:
+0) The motor is on its last leg.
+1) The motor is ready to go and will last a long time.
+
+Question 850: She's as tall as a giraffe
+Options:
+0) She's very tall
+1) She's very small
+
+Question 851: She's as tall as a mouse
+Options:
+0) She's very tall
+1) She's very small
+
+Question 852: My bed is a giant marshmellow.
+Options:
+0) My bed is soft.
+1) My bed is hard.
+
+Question 853: My bed is a brick.
+Options:
+0) My bed is soft.
+1) My bed is hard.
+
+Question 854: You're as smart as a brick wall
+Options:
+0) you are not very smart
+1) you are very smart
+
+Question 855: You're as smart as a genius
+Options:
+0) you are not very smart
+1) you are very smart
+
+Question 856: This place has all the charm of a murder scene
+Options:
+0) This place is terrible
+1) This place is full of wonder.
+
+Question 857: This place has all the charm of a an enchanted forest
+Options:
+0) This place is terrible
+1) This place is full of wonder.
+
+Question 858: Listening to that performance was like slamming my fingers in the car door
+Options:
+0) listening to that performance was a horrible experience
+1) listening to that performance was a wonderful experience
+
+Question 859: Listening to that performance was like ascending to paradise
+Options:
+0) listening to that performance was a horrible experience
+1) listening to that performance was a wonderful experience
+
+Question 860: Her demeanor is as cold as ice
+Options:
+0) She is standoffish
+1) She is friendly
+
+Question 861: Her demeanor is as warm as the sun
+Options:
+0) She is standoffish
+1) She is friendly
+
+Question 862: The wind has the bite of a shark
+Options:
+0) The wind is cold.
+1) The wind is warm and soothing.
+
+Question 863: The wind has the caress of a lover
+Options:
+0) The wind is cold.
+1) The wind is warm and soothing.
+
+Question 864: The hole is as deep as a cavern
+Options:
+0) The hole is deep
+1) The hole is shallow
+
+Question 865: The hole is as deep as a a puddle
+Options:
+0) The hole is deep
+1) The hole is shallow
+
+Question 866: The smell of a baby is that of the interior of a new car.
+Options:
+0) The smell of a baby is of freshness.
+1) The smell of a baby is quite stinky.
+
+Question 867: The smell of a baby is that of a roadside dumpster.
+Options:
+0) The smell of a baby is of freshness.
+1) The smell of a baby is quite stinky.
+
+Question 868: The woman was as smart as a whip
+Options:
+0) The woman was extremely smart.
+1) The woman wasnt smart at all.
+
+Question 869: The woman was as smart as a newborn baby.
+Options:
+0) The woman was extremely smart.
+1) The woman wasnt smart at all.
+
+Question 870: My comprehension is that of an ant studying physics
+Options:
+0) My comprehension is nil
+1) My comprehension is vast
+
+Question 871: My comprehension is that of a supercomputer
+Options:
+0) My comprehension is nil
+1) My comprehension is vast
+
+Question 872: The fire burns for as long as the world turns
+Options:
+0) The fire burns for a long time
+1) The fire burns out quickly
+
+Question 873: The fire burns for the time it takes to sing the ABCs
+Options:
+0) The fire burns for a long time
+1) The fire burns out quickly
+
+Question 874: The space between them was a chasm.
+Options:
+0) They are distant from one another.
+1) They are very close.
+
+Question 875: The space between them was a thread.
+Options:
+0) They are distant from one another.
+1) They are very close.
+
+Question 876: The song has the energy of a lightning bolt to the brain.
+Options:
+0) The song is full of power.
+1) The song is ordinary and dull.
+
+Question 877: The song has the energy of a dog lapping water.
+Options:
+0) The song is full of power.
+1) The song is ordinary and dull.
+
+Question 878: The budget is as tight as Spandex
+Options:
+0) The budget is very tight.
+1) The budget isn't tight at all.
+
+Question 879: The budget is as tight as a pair of extra-large sweatpants
+Options:
+0) The budget is very tight.
+1) The budget isn't tight at all.
+
+Question 880: Her labor was as easy as eating chocolate cake.
+Options:
+0) The labor was actually really easy.
+1) The labor was extremely difficult and painful.
+
+Question 881: Her labor was as easy as rolling on flaming coals.
+Options:
+0) The labor was actually really easy.
+1) The labor was extremely difficult and painful.
+
+Question 882: When taking the test she felt like a nuclear physicist.
+Options:
+0) She felt very smart while taking the test.
+1) She felt very stupid while taking the test.
+
+Question 883: When taking the test she felt like a two-month old.
+Options:
+0) She felt very smart while taking the test.
+1) She felt very stupid while taking the test.
+
+Question 884: That writer's prose is city smog
+Options:
+0) That writer's prose is difficult and unpleasant to process
+1) That writer's prose is simple and pleasant to process
+
+Question 885: That writer's prose is homemade pie
+Options:
+0) That writer's prose is difficult and unpleasant to process
+1) That writer's prose is simple and pleasant to process
+
+Question 886: My oppurtunities are like windows slammed shut
+Options:
+0) I have no options
+1) My options are wide open
+
+Question 887: My oppurtunities are like windows wide open
+Options:
+0) I have no options
+1) My options are wide open
+
+Question 888: Her voice was like a banshee.
+Options:
+0) Her voice is loud.
+1) Her voice is soft.
+
+Question 889: Her voice was like a songbird.
+Options:
+0) Her voice is loud.
+1) Her voice is soft.
+
+Question 890: The girl is as intelligent as a NASA astronomer
+Options:
+0) The girl is wildly intelligent.
+1) The girl is totally dumb.
+
+Question 891: The girl is as intelligent as an illiterate person
+Options:
+0) The girl is wildly intelligent.
+1) The girl is totally dumb.
+
+Question 892: Joes new outfit had him feeling like a million bucks
+Options:
+0) The outfit made Joe feel good
+1) The outfit made Joe feel bad
+
+Question 893: Joes new outfit had him feeling like an ant
+Options:
+0) The outfit made Joe feel good
+1) The outfit made Joe feel bad
+
+Question 894: Product placement ads are as subtle as a tuba accompanying a piccolo
+Options:
+0) ads are abrasive
+1) ads are sly
+
+Question 895: Product placement ads are as subtle as British wit
+Options:
+0) ads are abrasive
+1) ads are sly
+
+Question 896: The road is a minefield
+Options:
+0) There are many obstacles in the road
+1) The road is smooth, flat and open
+
+Question 897: The road is a runway
+Options:
+0) There are many obstacles in the road
+1) The road is smooth, flat and open
+
+Question 898: The dog has the patience of the sea
+Options:
+0) The dog can wait a long time
+1) The dog cannot wait
+
+Question 899: The dog has the patience of an infant
+Options:
+0) The dog can wait a long time
+1) The dog cannot wait
+","840,0
+841,1
+842,0
+843,1
+844,0
+845,1
+846,0
+847,1
+848,0
+849,1
+850,0
+851,1
+852,0
+853,1
+854,0
+855,1
+856,0
+857,1
+858,0
+859,1
+860,0
+861,1
+862,0
+863,1
+864,0
+865,1
+866,0
+867,1
+868,0
+869,1
+870,0
+871,1
+872,0
+873,1
+874,0
+875,1
+876,0
+877,1
+878,0
+879,1
+880,0
+881,1
+882,0
+883,1
+884,0
+885,1
+886,0
+887,1
+888,0
+889,1
+890,0
+891,1
+892,0
+893,1
+894,0
+895,1
+896,0
+897,1
+898,0
+899,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 900: Jeremy took to soccer like a fish takes to water.
+Options:
+0) Jeremy is really good at soccer.
+1) Jeremy is really bad at soccer.
+
+Question 901: Jeremy took to soccer like a fish takes to land.
+Options:
+0) Jeremy is really good at soccer.
+1) Jeremy is really bad at soccer.
+
+Question 902: Your cat is friendly as a teddy bear.
+Options:
+0) The cat is lovable and friendly.
+1) The cat is vicious and scary.
+
+Question 903: Your cat is friendly as a velociraptor.
+Options:
+0) The cat is lovable and friendly.
+1) The cat is vicious and scary.
+
+Question 904: The necklace is a star.
+Options:
+0) The necklace is shining.
+1) The necklace is dull.
+
+Question 905: The necklace is a mud pie.
+Options:
+0) The necklace is shining.
+1) The necklace is dull.
+
+Question 906: The man has the eyes of a bat
+Options:
+0) The man can't see anything.
+1) The man has clear, sharp vision.
+
+Question 907: The man has the eyes of a sniper
+Options:
+0) The man can't see anything.
+1) The man has clear, sharp vision.
+
+Question 908: The man has the patience of a baby
+Options:
+0) The man is short-tempered.
+1) The man is has a large amount of patience.
+
+Question 909: The man has the patience of a god
+Options:
+0) The man is short-tempered.
+1) The man is has a large amount of patience.
+
+Question 910: The light has the shine of a black hole
+Options:
+0) The light is very dim.
+1) The light is shining brightly.
+
+Question 911: The light has the shine of a flashing neon sign
+Options:
+0) The light is very dim.
+1) The light is shining brightly.
+
+Question 912: The conference was as fun as a carnival
+Options:
+0) The conference was fun to attend.
+1) The conference was boring.
+
+Question 913: The conference was as fun as a math lecture
+Options:
+0) The conference was fun to attend.
+1) The conference was boring.
+
+Question 914: He had the authority of Joseph Stalin.
+Options:
+0) He was too harsh and had a lot of authority.
+1) He had not authority.
+
+Question 915: He had the authority of a puppy dog.
+Options:
+0) He was too harsh and had a lot of authority.
+1) He had not authority.
+
+Question 916: Her ego was a hot air balloon.
+Options:
+0) She had a huge ego.
+1) She did not have a huge ego.
+
+Question 917: Her ego was a popped balloon.
+Options:
+0) She had a huge ego.
+1) She did not have a huge ego.
+
+Question 918: He has the emotional intelligence of a rock
+Options:
+0) He completely lacks empathy and emotional consideration for others.
+1) He is conscious of other people's problems, and reaches out constantly to help them.
+
+Question 919: He has the emotional intelligence of Dr. Phil
+Options:
+0) He completely lacks empathy and emotional consideration for others.
+1) He is conscious of other people's problems, and reaches out constantly to help them.
+
+Question 920: The monitor has the brightness of the sun
+Options:
+0) The monitor is bright
+1) The monitor is dark
+
+Question 921: The monitor has the brightness of a cave
+Options:
+0) The monitor is bright
+1) The monitor is dark
+
+Question 922: The speaker has the loudness of a concert
+Options:
+0) The speaker is loud
+1) The speaker is quiet
+
+Question 923: The speaker has the loudness of a whisper
+Options:
+0) The speaker is loud
+1) The speaker is quiet
+
+Question 924: The room has the space of an auditorium
+Options:
+0) The room is large
+1) The room is small
+
+Question 925: The room has the space of a closet
+Options:
+0) The room is large
+1) The room is small
+
+Question 926: The apartment complex was as old as the Great Pyramids
+Options:
+0) The apartment complex was very old.
+1) The apartment complex was very new.
+
+Question 927: The apartment complex was as old as a just-born baby
+Options:
+0) The apartment complex was very old.
+1) The apartment complex was very new.
+
+Question 928: The prototype ran as smooth as a car fresh off the lot
+Options:
+0) The prototype was smooth.
+1) The prototype was rough and not smooth.
+
+Question 929: The prototype ran as smooth as a car fresh off the garbage dump
+Options:
+0) The prototype was smooth.
+1) The prototype was rough and not smooth.
+
+Question 930: I found the book to be as interesting as the most amazing magic trick in the world
+Options:
+0) I found the book to be very interesting
+1) I found the book to be very boring
+
+Question 931: I found the book to be as interesting as a rote scientific lecture
+Options:
+0) I found the book to be very interesting
+1) I found the book to be very boring
+
+Question 932: This food's as healthy as medicine
+Options:
+0) The food is very healthy
+1) The food is very unhealthy
+
+Question 933: This food's as healthy as toxic waste
+Options:
+0) The food is very healthy
+1) The food is very unhealthy
+
+Question 934: The mainstream news media has the credibility of A drunken convict
+Options:
+0) The mainstream news media cannot be believed
+1) The mainstream news media is credible
+
+Question 935: The mainstream news media has the credibility of A model citizen
+Options:
+0) The mainstream news media cannot be believed
+1) The mainstream news media is credible
+
+Question 936: The health of the patient was that of A wilting flower
+Options:
+0) The patient was not healthy
+1) The patient was very healthy
+
+Question 937: The health of the patient was that of A strong horse in his prime
+Options:
+0) The patient was not healthy
+1) The patient was very healthy
+
+Question 938: He was as playful as a puppy
+Options:
+0) He was very playful
+1) He wasn't playful at all
+
+Question 939: He was as playful as a rock
+Options:
+0) He was very playful
+1) He wasn't playful at all
+
+Question 940: Today's temperature was like a typical day on Mercury.
+Options:
+0) Today was very hot.
+1) Today was extremely cool.
+
+Question 941: Today's temperature was what would expect living in a refrigerator.
+Options:
+0) Today was very hot.
+1) Today was extremely cool.
+
+Question 942: The woman's hair was a mirror.
+Options:
+0) The woman's hair was shiny.
+1) The woman's hair was dull.
+
+Question 943: The woman's hair was a mud pie.
+Options:
+0) The woman's hair was shiny.
+1) The woman's hair was dull.
+
+Question 944: The diamond was a mirror.
+Options:
+0) The diamond was shiny.
+1) The diamond was dull.
+
+Question 945: The diamond was a mud pie.
+Options:
+0) The diamond was shiny.
+1) The diamond was dull.
+
+Question 946: The deer's antlers have the fuzziness of a moss covered oak tree
+Options:
+0) The deer has very fuzzy antlers
+1) The deer's antlers aren't at all fuzzy
+
+Question 947: The deer's antlers have the fuzziness of a baby's behind
+Options:
+0) The deer has very fuzzy antlers
+1) The deer's antlers aren't at all fuzzy
+
+Question 948: He was as fast as a cheetah
+Options:
+0) He was very fast
+1) He was very slow
+
+Question 949: He was as fast as a turtle
+Options:
+0) He was very fast
+1) He was very slow
+
+Question 950: She has the heart of a stone
+Options:
+0) She is very unfriendly.
+1) She is very kind.
+
+Question 951: She has the heart of gold
+Options:
+0) She is very unfriendly.
+1) She is very kind.
+
+Question 952: She smells as good as baking cookies
+Options:
+0) She smells great
+1) She smells terrible
+
+Question 953: She smells as good as a sewer
+Options:
+0) She smells great
+1) She smells terrible
+
+Question 954: The social media influencer had as much influence as a presidential figure
+Options:
+0) The social media influencer had wide influence.
+1) The social media influencer had no influence at all.
+
+Question 955: The social media influencer had as much influence as a fly
+Options:
+0) The social media influencer had wide influence.
+1) The social media influencer had no influence at all.
+
+Question 956: The girl carried weight on her like a Sumo wrestler
+Options:
+0) The girl had a ton of weight on her body.
+1) The girl was very thin.
+
+Question 957: The girl carried weight on her like a ballerina
+Options:
+0) The girl had a ton of weight on her body.
+1) The girl was very thin.
+
+Question 958: The orcas are the serial killers of the ocean.
+Options:
+0) The orcas murder other fish.
+1) The orcas protect the ocean.
+
+Question 959: The orcas are the babysitters of the ocean.
+Options:
+0) The orcas murder other fish.
+1) The orcas protect the ocean.
+","900,0
+901,1
+902,0
+903,1
+904,0
+905,1
+906,0
+907,1
+908,0
+909,1
+910,1
+911,0
+912,0
+913,1
+914,0
+915,1
+916,0
+917,1
+918,0
+919,1
+920,0
+921,1
+922,0
+923,1
+924,0
+925,1
+926,0
+927,1
+928,0
+929,1
+930,0
+931,1
+932,0
+933,1
+934,0
+935,1
+936,0
+937,1
+938,0
+939,1
+940,0
+941,1
+942,0
+943,1
+944,0
+945,1
+946,0
+947,1
+948,0
+949,1
+950,0
+951,1
+952,0
+953,1
+954,0
+955,1
+956,0
+957,1
+958,0
+959,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 960: The world is an old garbage can.
+Options:
+0) The world is awful.
+1) The world is wonderful.
+
+Question 961: The world is an ice cream sundae.
+Options:
+0) The world is awful.
+1) The world is wonderful.
+
+Question 962: The theory has the validity of A tall tale from Paul Bunyan
+Options:
+0) The theory is not valid
+1) The theory is very solid and valid
+
+Question 963: The theory has the validity of Einstein's best work
+Options:
+0) The theory is not valid
+1) The theory is very solid and valid
+
+Question 964: The newspaper article read like a good novel.
+Options:
+0) The newspaper article was interesting, well-written, and engaging to the reader.
+1) The newspaper article was amateurish, sloppily-written, and simplistic.
+
+Question 965: The newspaper article read like the work of a middle school journalist.
+Options:
+0) The newspaper article was interesting, well-written, and engaging to the reader.
+1) The newspaper article was amateurish, sloppily-written, and simplistic.
+
+Question 966: Her attention span was as long as an infinity pool
+Options:
+0) She could pay attention for a long time.
+1) She could not pay attention.
+
+Question 967: Her attention span was as long as an Oompa Loompa
+Options:
+0) She could pay attention for a long time.
+1) She could not pay attention.
+
+Question 968: The politician has the personality of a nursing home.
+Options:
+0) The politician is senile.
+1) The politician is immature.
+
+Question 969: The politician has the personality of a kindergarten classroom.
+Options:
+0) The politician is senile.
+1) The politician is immature.
+
+Question 970: Your hair looks like a rag mop
+Options:
+0) Your hair is a mess and unappealing
+1) Your hair is beautiful and lustrous
+
+Question 971: Your hair looks like silken threads
+Options:
+0) Your hair is a mess and unappealing
+1) Your hair is beautiful and lustrous
+
+Question 972: Your perfume smells like Spoiled milk
+Options:
+0) The scent of the perfume is horrible
+1) The scent of the perfume is fragrant
+
+Question 973: Your perfume smells like A flowery forest.
+Options:
+0) The scent of the perfume is horrible
+1) The scent of the perfume is fragrant
+
+Question 974: She has the imagination of an artist
+Options:
+0) She has a good imagination
+1) She has no imagination
+
+Question 975: She has the imagination of a rock
+Options:
+0) She has a good imagination
+1) She has no imagination
+
+Question 976: The woman was as mad as a raging bull
+Options:
+0) The woman was very mad
+1) The woman was not mad
+
+Question 977: The woman was as mad as a kitten
+Options:
+0) The woman was very mad
+1) The woman was not mad
+
+Question 978: Her eyes were like two sparkling emeralds
+Options:
+0) her eyes were bright green
+1) her eyes were blue
+
+Question 979: Her eyes were like the waves of the ocean
+Options:
+0) her eyes were bright green
+1) her eyes were blue
+
+Question 980: The cookies are tasty as pie
+Options:
+0) The cookies taste good
+1) The cookies taste bad
+
+Question 981: The cookies are tasty as rotten milk
+Options:
+0) The cookies taste good
+1) The cookies taste bad
+
+Question 982: The ice cream is as delicious as sawdust.
+Options:
+0) The ice cream tastes terrible.
+1) The ice cream tastes wonderful.
+
+Question 983: The ice cream is as delicious as Sunny Delight.
+Options:
+0) The ice cream tastes terrible.
+1) The ice cream tastes wonderful.
+
+Question 984: The child was as pretty as the dog poop on my shoe.
+Options:
+0) The child was ugly.
+1) The child was beautiful.
+
+Question 985: The child was as pretty as the flower that blooms once per year.
+Options:
+0) The child was ugly.
+1) The child was beautiful.
+
+Question 986: The girl's ego is as fragile as an egg yolk
+Options:
+0) The girl's feelings are easily hurt.
+1) The girl's ego is solid.
+
+Question 987: The girl's ego is as fragile as a rock
+Options:
+0) The girl's feelings are easily hurt.
+1) The girl's ego is solid.
+
+Question 988: He is a dice missing a side.
+Options:
+0) His is unlucky.
+1) He is lucky.
+
+Question 989: He is a full bag of dice.
+Options:
+0) His is unlucky.
+1) He is lucky.
+
+Question 990: Success in life is like a casino.
+Options:
+0) Success in life is mostly based on luck.
+1) Success in life is mostly based on skill.
+
+Question 991: Success in life is like poker.
+Options:
+0) Success in life is mostly based on luck.
+1) Success in life is mostly based on skill.
+
+Question 992: The chili is as hot as El Paso in summer.
+Options:
+0) The chili is very hot.
+1) The chili is not hot at all.
+
+Question 993: The chili is as hot as a snowball.
+Options:
+0) The chili is very hot.
+1) The chili is not hot at all.
+
+Question 994: Mr. Edward wife is a goddess
+Options:
+0) Mr. Edward wife is a very good, gentle and kind-hearted person
+1) Mr. Edward wife is a crazy, stupid or an annoying person
+
+Question 995: Mr. Edward wife is a  mad cow
+Options:
+0) Mr. Edward wife is a very good, gentle and kind-hearted person
+1) Mr. Edward wife is a crazy, stupid or an annoying person
+
+Question 996: Her personality is as interesting as a New York Times headline
+Options:
+0) She has an interesting personality.
+1) She has no personality.
+
+Question 997: Her personality is as interesting as a grocery list
+Options:
+0) She has an interesting personality.
+1) She has no personality.
+
+Question 998: The casino had the ambiance of A dirty junkyard
+Options:
+0) The casino had a bad atmosphere
+1) The casino had a good atmosphere
+
+Question 999: The casino had the ambiance of A palace of gold
+Options:
+0) The casino had a bad atmosphere
+1) The casino had a good atmosphere
+
+Question 1000: She is as envious as a starving racoon
+Options:
+0) she is greedy
+1) she is nice
+
+Question 1001: She is as envious as a a nun
+Options:
+0) she is greedy
+1) she is nice
+
+Question 1002: The boss was as evil as the devil
+Options:
+0) the boss is mean
+1) the boss is nice
+
+Question 1003: The boss was as evil as an angel
+Options:
+0) the boss is mean
+1) the boss is nice
+
+Question 1004: Cleopatra had the beauty of the gods Venus and Hathor combined
+Options:
+0) Cleopatra was quite beautiful
+1) Cleopatra was very ugly
+
+Question 1005: Cleopatra had the beauty of the Ugly Duckling after being hit twice with the ugly stick
+Options:
+0) Cleopatra was quite beautiful
+1) Cleopatra was very ugly
+
+Question 1006: Love is as beautiful as a sunset
+Options:
+0) Love is beautiful
+1) Love is ugly
+
+Question 1007: Love is as beautiful as warthog
+Options:
+0) Love is beautiful
+1) Love is ugly
+
+Question 1008: The jacket was as trendy as Tik Tok
+Options:
+0) The jacket was trendy
+1) The jacket was outdated
+
+Question 1009: The jacket was as trendy as MySpace
+Options:
+0) The jacket was trendy
+1) The jacket was outdated
+
+Question 1010: Calculus is as rewarding as eating dog food
+Options:
+0) calculus is not pleasant
+1) calculus is fascinating
+
+Question 1011: Calculus is as rewarding as discovering a habitated planet
+Options:
+0) calculus is not pleasant
+1) calculus is fascinating
+
+Question 1012: Love is finding a needle in a hay stack
+Options:
+0) Finding love is hard but worth it
+1) finding love is hard and painful
+
+Question 1013: Love is a piece of hay in a stack of needles
+Options:
+0) Finding love is hard but worth it
+1) finding love is hard and painful
+
+Question 1014: he has the emotional capacity of a kitty pool
+Options:
+0) He is not emotionally-open
+1) he is very open emotionally
+
+Question 1015: he has the emotional capacity of a great lake
+Options:
+0) He is not emotionally-open
+1) he is very open emotionally
+
+Question 1016: That corporation has the integrity of a politician.
+Options:
+0) The corporation doesn't have integrity.
+1) The corporation has a lot of integrity.
+
+Question 1017: That corporation has the integrity of a monk.
+Options:
+0) The corporation doesn't have integrity.
+1) The corporation has a lot of integrity.
+
+Question 1018: He was as magical as a fresh winter snow.
+Options:
+0) He was very intriguing.
+1) He was very boring.
+
+Question 1019: He was as magical as a dull stone.
+Options:
+0) He was very intriguing.
+1) He was very boring.
+","960,1
+961,1
+962,0
+963,1
+964,0
+965,1
+966,0
+967,1
+968,1
+969,1
+970,0
+971,1
+972,0
+973,1
+974,0
+975,1
+976,0
+977,1
+978,0
+979,1
+980,0
+981,1
+982,0
+983,1
+984,1
+985,0
+986,0
+987,1
+988,0
+989,1
+990,0
+991,1
+992,0
+993,1
+994,0
+995,1
+996,0
+997,1
+998,0
+999,1
+1000,0
+1001,1
+1002,0
+1003,1
+1004,0
+1005,1
+1006,0
+1007,1
+1008,0
+1009,1
+1010,0
+1011,1
+1012,0
+1013,1
+1014,0
+1015,1
+1016,0
+1017,1
+1018,0
+1019,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 1020: Falling in love is jumping off a building with no safety net
+Options:
+0) Falling in love is scary.
+1) Falling in love is safe.
+
+Question 1021: Falling in love is being wrapped up in warm blankets
+Options:
+0) Falling in love is scary.
+1) Falling in love is safe.
+
+Question 1022: Magic is riding a unicorn through a lush forest
+Options:
+0) Magic is wonderful.
+1) Magic is awful.
+
+Question 1023: Magic is stepping in dog poop
+Options:
+0) Magic is wonderful.
+1) Magic is awful.
+
+Question 1024: The girl was as thin as a feather
+Options:
+0) The girl was so thin she was wispy.
+1) The girl was very fat.
+
+Question 1025: The girl was as thin as a blown-up balloon
+Options:
+0) The girl was so thin she was wispy.
+1) The girl was very fat.
+
+Question 1026: His eyes were made of steel.
+Options:
+0) His eyes were hard and obscured his personality.
+1) His eyes conveyed a fragile personality and shows his personality.
+
+Question 1027: His eyes were made of glass.
+Options:
+0) His eyes were hard and obscured his personality.
+1) His eyes conveyed a fragile personality and shows his personality.
+
+Question 1028: This house is as big as Abraham Lincoln's log cabin
+Options:
+0) The house is small.
+1) The house is big.
+
+Question 1029: This house is as big as the Taj Mahal
+Options:
+0) The house is small.
+1) The house is big.
+
+Question 1030: It's as real as a reverse minotaur
+Options:
+0) It doesn't exist
+1) It's very real
+
+Question 1031: It's as real as the stars in the sky
+Options:
+0) It doesn't exist
+1) It's very real
+
+Question 1032: He can run like a winning racehorse.
+Options:
+0) He can run really well.
+1) He cannot run really well.
+
+Question 1033: He can run like a dying nag.
+Options:
+0) He can run really well.
+1) He cannot run really well.
+
+Question 1034: The teenager has the depth of a kiddie pool.
+Options:
+0) The teenager is superficial.
+1) The teenager is profound.
+
+Question 1035: The teenager has the depth of the Grand Canyon.
+Options:
+0) The teenager is superficial.
+1) The teenager is profound.
+
+Question 1036: The champagne has the effervescence of lukewarm coffee.
+Options:
+0) The champagne is flat.
+1) The champagne is bubbly.
+
+Question 1037: The champagne has the effervescence of an antacid tablet.
+Options:
+0) The champagne is flat.
+1) The champagne is bubbly.
+
+Question 1038: The villain was as powerful as a god
+Options:
+0) The villain was powerful
+1) The villain was nearly powerless
+
+Question 1039: The villain was as powerful as an insect
+Options:
+0) The villain was powerful
+1) The villain was nearly powerless
+
+Question 1040: The design was held by others to be as bullet proof as a fortress
+Options:
+0) The design is sound
+1) The design is weak and ill-defined
+
+Question 1041: The design was held by others to be like an argument between ghosts
+Options:
+0) The design is sound
+1) The design is weak and ill-defined
+
+Question 1042: The war lasted as long as Napoleon's height
+Options:
+0) The war was very short.
+1) The war was long.
+
+Question 1043: The war lasted as long as Shaquille O'Neal's height
+Options:
+0) The war was very short.
+1) The war was long.
+
+Question 1044: The argument has the strength of a derelict fortress.
+Options:
+0) The argument is weak.
+1) The argument is strong.
+
+Question 1045: The argument has the strength of a weapon of war.
+Options:
+0) The argument is weak.
+1) The argument is strong.
+
+Question 1046: The girl has enough friends to fill the depths of a shoebox
+Options:
+0) The girl has almost no friends.
+1) The girl is very popular.
+
+Question 1047: The girl has enough friends to fill the depths of the Atlantic Ocean
+Options:
+0) The girl has almost no friends.
+1) The girl is very popular.
+
+Question 1048: The performance was as exciting as a hurricane.
+Options:
+0) The performance was good.
+1) The performance was bad.
+
+Question 1049: The performance was as exciting as a damp sidewalk.
+Options:
+0) The performance was good.
+1) The performance was bad.
+
+Question 1050: John's brain is A computer
+Options:
+0) John is good at calculations
+1) John processes things very slowly
+
+Question 1051: John's brain is A snail
+Options:
+0) John is good at calculations
+1) John processes things very slowly
+
+Question 1052: This mechanicalturk task is a sound from a lighthouse
+Options:
+0) This mechanicalturk task is well-explained
+1) This mechanicalturk task is vague
+
+Question 1053: This mechanicalturk task is a pollution storm
+Options:
+0) This mechanicalturk task is well-explained
+1) This mechanicalturk task is vague
+
+Question 1054: Your mom could convince a cat to veganism
+Options:
+0) Your mom is a great cook.
+1) Your mom is an awful cook.
+
+Question 1055: Your mom could compete with weight watchers
+Options:
+0) Your mom is a great cook.
+1) Your mom is an awful cook.
+
+Question 1056: The farmer planted the crops with the care of A drunken sailor
+Options:
+0) The farmer was sloppy
+1) The farmer was precise
+
+Question 1057: The farmer planted the crops with the care of An experienced surgeon
+Options:
+0) The farmer was sloppy
+1) The farmer was precise
+
+Question 1058: The brain is a computer
+Options:
+0) The brain is intelligent, beautiful, complex, and profound
+1) The brain is simple, basic, not capable of rational thought.
+
+Question 1059: The brain is jelly
+Options:
+0) The brain is intelligent, beautiful, complex, and profound
+1) The brain is simple, basic, not capable of rational thought.
+
+Question 1060: The ocean waves forced their way unto the beach shore and reached out to me with an invitation to partake in their dance and mystery
+Options:
+0) The ocean waves are soothing and healing
+1) The ocean waves are dangerous and can kill you
+
+Question 1061: The ocean waves forced their way unto the beach shore and lashed at me with loud crashing sounds and intimidating rushes of foamy water
+Options:
+0) The ocean waves are soothing and healing
+1) The ocean waves are dangerous and can kill you
+
+Question 1062: The wind approached me and spoke to me through the rustling of the tree leaves and whispered in my ear through the whistling of the branches
+Options:
+0) The wind is gentle, assuring and relaxing
+1) The wind is intense, threatening and destructive
+
+Question 1063: The wind approached me and raised it's voice at me with sudden bursts of speed that stripped the leaves from the trees and yelled at me through the crackling and breaking for the branches
+Options:
+0) The wind is gentle, assuring and relaxing
+1) The wind is intense, threatening and destructive
+
+Question 1064: The sun opened it's doors in the morning and with it's long arms brightened my surroundings with slowly intensifying light showing the colors and the shapes of life while warming my skin and being
+Options:
+0) The sun's light reveals colors and shapes and is warm
+1) The sun's light blinds our eyes and is hot and destructive
+
+Question 1065: The sun opened it's doors in the morning and with it's long arms blinded me with it's intensity and burnt my sweaty skin
+Options:
+0) The sun's light reveals colors and shapes and is warm
+1) The sun's light blinds our eyes and is hot and destructive
+
+Question 1066: I have the musical ability of a chipmunk
+Options:
+0) My music sounds scratchy and random
+1) My music is soothing and melodious
+
+Question 1067: I have the musical ability of a songbird
+Options:
+0) My music sounds scratchy and random
+1) My music is soothing and melodious
+
+Question 1068: A computer can be one's Best friend
+Options:
+0) Computers can be a great asset
+1) Computers can be a great detriment
+
+Question 1069: A computer can be one's Bitter enemy
+Options:
+0) Computers can be a great asset
+1) Computers can be a great detriment
+
+Question 1070: The beach was as hot as a desert
+Options:
+0) The beach was very warm.
+1) The beach was very cold.
+
+Question 1071: The beach was as hot as a iceberg
+Options:
+0) The beach was very warm.
+1) The beach was very cold.
+
+Question 1072: The ship went down as fast as a rock
+Options:
+0) The ship went down fast.
+1) The ship went down very slowly.
+
+Question 1073: The ship went down as fast as a floating feather
+Options:
+0) The ship went down fast.
+1) The ship went down very slowly.
+
+Question 1074: She had the grace of a deer prancing into the forest
+Options:
+0) She is graceful
+1) She is not graceful
+
+Question 1075: She had the grace of a hippo on roller blades
+Options:
+0) She is graceful
+1) She is not graceful
+
+Question 1076: This bed is as soft as a sidewalk littered with broken glass
+Options:
+0) This bed is hard
+1) This bed is soft
+
+Question 1077: This bed is as soft as a Persian cat
+Options:
+0) This bed is hard
+1) This bed is soft
+
+Question 1078: These shoes feel like a pair of red-hot vise clamps
+Options:
+0) These shoes are very uncomfortable
+1) These shoes are very comfortable
+
+Question 1079: These shoes feel like a pair of magic carpets
+Options:
+0) These shoes are very uncomfortable
+1) These shoes are very comfortable
+","1020,0
+1021,0
+1022,0
+1023,1
+1024,0
+1025,0
+1026,0
+1027,1
+1028,1
+1029,1
+1030,0
+1031,1
+1032,0
+1033,1
+1034,0
+1035,1
+1036,0
+1037,1
+1038,0
+1039,1
+1040,0
+1041,1
+1042,1
+1043,0
+1044,1
+1045,0
+1046,0
+1047,1
+1048,1
+1049,0
+1050,1
+1051,1
+1052,1
+1053,1
+1054,0
+1055,1
+1056,0
+1057,1
+1058,1
+1059,1
+1060,1
+1061,1
+1062,1
+1063,1
+1064,0
+1065,1
+1066,0
+1067,1
+1068,0
+1069,1
+1070,0
+1071,1
+1072,0
+1073,1
+1074,0
+1075,1
+1076,0
+1077,1
+1078,0
+1079,1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Question 1080: This tree has the bark of a cheese grater
+Options:
+0) The tree has rough bark.
+1) The tree has smooth bark.
+
+Question 1081: This tree has the bark of a fireman's pole
+Options:
+0) The tree has rough bark.
+1) The tree has smooth bark.
+
+Question 1082: Her combination of colors was reminiscent of the aftermath of a train derailment.
+Options:
+0) Her combination of colors was a disaster.
+1) Her combination of colors was divine.
+
+Question 1083: Her combination of color was reminiscent of the paintings of the great masters.
+Options:
+0) Her combination of colors was a disaster.
+1) Her combination of colors was divine.
+
+Question 1084: The test was As easy as A-B-C
+Options:
+0) The test was easy
+1) The test was difficult
+
+Question 1085: The test was A beast
+Options:
+0) The test was easy
+1) The test was difficult
+
+Question 1086: That man has the intelligence of a evil genius
+Options:
+0) The man is a highly intelligent person
+1) The man is basically a dumb animal
+
+Question 1087: That man has the intelligence of a field mouse
+Options:
+0) The man is a highly intelligent person
+1) The man is basically a dumb animal
+
+Question 1088: Emails are as fast as a turtle
+Options:
+0) Emails are slow.
+1) Emails are fast.
+
+Question 1089: Emails are as fast as a rocket
+Options:
+0) Emails are slow.
+1) Emails are fast.
+
+Question 1090: The dinner was as tasty as a leather shoe
+Options:
+0) The dinner was very dry and tasteless.
+1) The dinner was award winning.
+
+Question 1091: The dinner was as tasty as a Michelin star
+Options:
+0) The dinner was very dry and tasteless.
+1) The dinner was award winning.
+
+Question 1092: The explanation was like clear water
+Options:
+0) The explanation was easy and simple to understand
+1) The explanation made to sense.
+
+Question 1093: The explanation was like mud
+Options:
+0) The explanation was easy and simple to understand
+1) The explanation made to sense.
+","1080,0
+1081,1
+1082,0
+1083,1
+1084,0
+1085,1
+1086,1
+1087,0
+1088,0
+1089,1
+1090,0
+1091,1
+1092,0
+1093,1"

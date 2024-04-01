@@ -1,0 +1,1312 @@
+Prompt,Response
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+Question 10: वह भक्षी सा उदार है। 
+Options:
+0) वह बहुत दानी है। 
+1) वह दानी नहीं है। 
+Question 11: लेक्चर लेते समय वह रबर की तरह खड़ा था।
+Options:
+0) वह विश्वास से भरा हुआ था।
+1) वह बहुत घबराया हुआ था।
+Question 12: वो साइकिल की तरह तेज़ है। 
+Options:
+0) उसकी गति धीमी थी। 
+1) उसकी गति तेज़ थी। 
+Question 13: रोहन का लेखअंतरिक्ष की तरह याद रहेगा। 
+Options:
+0) रोहन का लेख कुछ समय बाद लोग भूल जायेंगे। 
+1) रोहन का लेख हमेशा लोगों को याद रहेगा।  
+Question 14: उसने सबको इडली की तरह कपड़ा दिया। 
+Options:
+0) उसने सबको अच्छा कपड़ा दिया। 
+1) उसने कपड़े में छेद था। 
+Question 15: शर्मीला जेल के जेलर की तरह कुत्तों को खिला रही थी। 
+Options:
+0) शर्मीला बड़े प्यार से कुत्तों को खिला रही थी। 
+1) शर्मीला बड़े गुस्से से कुत्तों को खिला रही थी। 
+Question 16: फर्श भालू की खाल की तरह था।
+Options:
+0) फर्श बिलकुल साफ नहीं था। 
+1) फर्श बिलकुल साफ था।
+Question 17: संगीत सीखने के लिए उसने घोड़े के चने चबाये। 
+Options:
+0) उसने संगीत सीखने के लिए बहुत महनत की है। 
+1) उसने संगीत सीखने के लिए इतनी महनत नहीं की है। 
+Question 18: परांठा तो दाल की तरह है। 
+Options:
+0) परांठा बहुत स्वादिष्ट है। 
+1) परांठा बहुत समान्य है। 
+Question 19: लॉलीपॉप देख रोहन ने पिल्ले की तरह अपनी पूँछ हिलायी। 
+Options:
+0) लॉलीपॉप के लिए रोहन ने छपटने का फैसला किया। 
+1) लॉलीपॉप के लिए रोहन ने प्यार से मांगने का फैसला किया।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+10, 1
+11, 0
+12, 0
+13, 1
+14, 0
+15, 1
+16, 0
+17, 1
+18, 1
+19, 1
+
+ INPUT:
+Question 0: दोस्ती एक फलदार वृक्ष है।
+Options:
+0) दोस्ती मददगार होती है।
+1) दोस्ती नुकसान दायक होती है।
+
+Question 1: दोस्ती एक जहरीला वृक्ष है।
+Options:
+0) दोस्ती मददगार होती है।
+1) दोस्ती नुकसान दायक होती है।
+
+Question 2: कालिदास भारत के शेख्चिली हैं।
+Options:
+0) कालिदास मुर्ख हैं।
+1) कालिदास बुद्धिमान हैं।
+
+Question 3: कालिदास भारत के शेक्सपियर हैं।
+Options:
+0) कालिदास मुर्ख हैं।
+1) कालिदास बुद्धिमान हैं।
+
+Question 4: यह खबर उनके दिल में फूलों की खुशबु लाई।
+Options:
+0) ख़ुशी की खबर लाई।
+1) दुःख की खबर लाई।
+","0, 0
+1, 1
+2, 1
+3, 1
+4, 0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+Question 10: वह भक्षी सा उदार है। 
+Options:
+0) वह बहुत दानी है। 
+1) वह दानी नहीं है। 
+Question 11: लेक्चर लेते समय वह रबर की तरह खड़ा था।
+Options:
+0) वह विश्वास से भरा हुआ था।
+1) वह बहुत घबराया हुआ था।
+Question 12: वो साइकिल की तरह तेज़ है। 
+Options:
+0) उसकी गति धीमी थी। 
+1) उसकी गति तेज़ थी। 
+Question 13: रोहन का लेखअंतरिक्ष की तरह याद रहेगा। 
+Options:
+0) रोहन का लेख कुछ समय बाद लोग भूल जायेंगे। 
+1) रोहन का लेख हमेशा लोगों को याद रहेगा।  
+Question 14: उसने सबको इडली की तरह कपड़ा दिया। 
+Options:
+0) उसने सबको अच्छा कपड़ा दिया। 
+1) उसने कपड़े में छेद था। 
+Question 15: शर्मीला जेल के जेलर की तरह कुत्तों को खिला रही थी। 
+Options:
+0) शर्मीला बड़े प्यार से कुत्तों को खिला रही थी। 
+1) शर्मीला बड़े गुस्से से कुत्तों को खिला रही थी। 
+Question 16: फर्श भालू की खाल की तरह था।
+Options:
+0) फर्श बिलकुल साफ नहीं था। 
+1) फर्श बिलकुल साफ था।
+Question 17: संगीत सीखने के लिए उसने घोड़े के चने चबाये। 
+Options:
+0) उसने संगीत सीखने के लिए बहुत महनत की है। 
+1) उसने संगीत सीखने के लिए इतनी महनत नहीं की है। 
+Question 18: परांठा तो दाल की तरह है। 
+Options:
+0) परांठा बहुत स्वादिष्ट है। 
+1) परांठा बहुत समान्य है। 
+Question 19: लॉलीपॉप देख रोहन ने पिल्ले की तरह अपनी पूँछ हिलायी। 
+Options:
+0) लॉलीपॉप के लिए रोहन ने छपटने का फैसला किया। 
+1) लॉलीपॉप के लिए रोहन ने प्यार से मांगने का फैसला किया।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+10, 1
+11, 0
+12, 0
+13, 1
+14, 0
+15, 1
+16, 0
+17, 1
+18, 1
+19, 1
+
+ INPUT:
+Question 0: Nyalinya seperti anak kecil yang tersesat.
+Options:
+0) Dia penakut.
+1) Dia pemberani.
+
+Question 1: Nyalinya seperti prajurit terdepan di medan perang.
+Options:
+0) Dia penakut.
+1) Dia pemberani.
+
+Question 2: Berbicara dengan Kinan seperti bicara dengan balita.
+Options:
+0) Pengetahuannya kurang.
+1) Pengetahuannya luas.
+
+Question 3: Berbicara dengan Kinan seperti mengikuti kuliah kuliah dari dosen ternama.
+Options:
+0) Pengetahuannya kurang.
+1) Pengetahuannya luas.
+
+Question 4: Anak itu tampil bak putri malu yang layu.
+Options:
+0) Anak itu tampil dengan malu-malu.
+1) Anak itu tampil dengan percaya diri.
+
+Question 5: Anak itu tampil bak bunga mawar di taman.
+Options:
+0) Anak itu tampil dengan malu-malu.
+1) Anak itu tampil dengan percaya diri.
+
+Question 6: Suara Sari dapat mengalahkan suara ombak.
+Options:
+0) Suara Sari sangat kencang.
+1) Suara Sari sangat pelan.
+
+Question 7: Suara Sari lenyap terbawa angin.
+Options:
+0) Suara Sari sangat kencang.
+1) Suara Sari sangat pelan.
+
+Question 8: Cara makannya bagai tamu restoran bintang 5.
+Options:
+0) Cara makannya rapi.
+1) Cara makannya berantakan.
+
+Question 9: Cara makannya bagai anak kecil di toko es krim.
+Options:
+0) Cara makannya rapi.
+1) Cara makannya berantakan.
+
+Question 10: Pekerjaan ayah semudah membalikkan telapak tangan.
+Options:
+0) Pekerjaan ayah sangat mudah.
+1) Pekerjaan ayah sangat sulit.
+
+Question 11: Pekerjaan ayah semudah memasukkan benang ke dalam jarum.
+Options:
+0) Pekerjaan ayah sangat mudah.
+1) Pekerjaan ayah sangat sulit.
+
+Question 12: Siswa SD itu membawa tas layaknya orang yang mau kabur dari rumah.
+Options:
+0) Tasnya besar.
+1) Tasnya kecil.
+
+Question 13: Siswa SD itu membawa tas layaknya orang yang akan pergi ke mal.
+Options:
+0) Tasnya besar.
+1) Tasnya kecil.
+
+Question 14: Dia melahap makanan seolah belum makan tiga hari.
+Options:
+0) Dia sangat lapar.
+1) Dia sangat kenyang.
+
+Question 15: Dia melahap makanan seolah habis menghadiri tiga kondangan.
+Options:
+0) Dia sangat lapar.
+1) Dia sangat kenyang.
+
+Question 16: Ia berjalan layaknya siput.
+Options:
+0) Dia berjalan dengan lambat.
+1) Dia berjalan dengan cepat.
+
+Question 17: Ia berjalan layaknya macan.
+Options:
+0) Dia berjalan dengan lambat.
+1) Dia berjalan dengan cepat.
+
+Question 18: Kehadirannya bagaikan petir di siang bolong.
+Options:
+0) Kehadirannya adalah musibah.
+1) Kehadirannya adalah anugerah.
+
+Question 19: Kehadirannya bagaikan bintang di langit malam.
+Options:
+0) Kehadirannya adalah musibah.
+1) Kehadirannya adalah anugerah.
+","Output:
+0, 0
+1, 1
+2, 0
+3, 1
+4, 0
+5, 1
+6, 0
+7, 1
+8, 1
+9, 1
+10, 0
+11, 1
+12, 0
+13, 1
+14, 0
+15, 1
+16, 0
+17, 1
+18, 0
+19, 1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+Question 10: वह भक्षी सा उदार है। 
+Options:
+0) वह बहुत दानी है। 
+1) वह दानी नहीं है। 
+Question 11: लेक्चर लेते समय वह रबर की तरह खड़ा था।
+Options:
+0) वह विश्वास से भरा हुआ था।
+1) वह बहुत घबराया हुआ था।
+Question 12: वो साइकिल की तरह तेज़ है। 
+Options:
+0) उसकी गति धीमी थी। 
+1) उसकी गति तेज़ थी। 
+Question 13: रोहन का लेखअंतरिक्ष की तरह याद रहेगा। 
+Options:
+0) रोहन का लेख कुछ समय बाद लोग भूल जायेंगे। 
+1) रोहन का लेख हमेशा लोगों को याद रहेगा।  
+Question 14: उसने सबको इडली की तरह कपड़ा दिया। 
+Options:
+0) उसने सबको अच्छा कपड़ा दिया। 
+1) उसने कपड़े में छेद था। 
+Question 15: शर्मीला जेल के जेलर की तरह कुत्तों को खिला रही थी। 
+Options:
+0) शर्मीला बड़े प्यार से कुत्तों को खिला रही थी। 
+1) शर्मीला बड़े गुस्से से कुत्तों को खिला रही थी। 
+Question 16: फर्श भालू की खाल की तरह था।
+Options:
+0) फर्श बिलकुल साफ नहीं था। 
+1) फर्श बिलकुल साफ था।
+Question 17: संगीत सीखने के लिए उसने घोड़े के चने चबाये। 
+Options:
+0) उसने संगीत सीखने के लिए बहुत महनत की है। 
+1) उसने संगीत सीखने के लिए इतनी महनत नहीं की है। 
+Question 18: परांठा तो दाल की तरह है। 
+Options:
+0) परांठा बहुत स्वादिष्ट है। 
+1) परांठा बहुत समान्य है। 
+Question 19: लॉलीपॉप देख रोहन ने पिल्ले की तरह अपनी पूँछ हिलायी। 
+Options:
+0) लॉलीपॉप के लिए रोहन ने छपटने का फैसला किया। 
+1) लॉलीपॉप के लिए रोहन ने प्यार से मांगने का फैसला किया।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+10, 1
+11, 0
+12, 0
+13, 1
+14, 0
+15, 1
+16, 0
+17, 1
+18, 1
+19, 1
+
+ INPUT:
+Question 0: Nyawang esemmu sing rupane kaya ngemut glali
+Options:
+0) Nyawang esemmu sing manis
+1) Nyawang esemmu sing pahit
+
+Question 1: Nyawang esemmu sing rupane kaya nyruput ampas kopi
+Options:
+0) Nyawang esemmu sing manis
+1) Nyawang esemmu sing pahit
+
+Question 2: Suarane bocahe kuwi kaya sutra
+Options:
+0) Suarane bocah kuwi merdu
+1) Suarane bocah kuwi elek
+
+Question 3: Suarane bocahe kuwi kaya bledek
+Options:
+0) Suarane bocah kuwi merdu
+1) Suarane bocah kuwi elek
+
+Question 4: Lakmu mlaku jan kaya diuber maling
+Options:
+0) Lakmu mlaku cepet
+1) Lakmu mlaku suwi
+
+Question 5: Lakmu mlaku jan kaya nyeret bata
+Options:
+0) Lakmu mlaku cepet
+1) Lakmu mlaku suwi
+
+Question 6: Dekwingi aku nyang omahmu jan kaya pasar malem
+Options:
+0) Dek wingi aku nyang omahmu sing rame
+1) Dek wingi aku nyang omahmu sing sepi
+
+Question 7: Dekwingi aku nyang omahmu jan kaya omah demit
+Options:
+0) Dek wingi aku nyang omahmu sing rame
+1) Dek wingi aku nyang omahmu sing sepi
+
+Question 8: Ngawiti dina senen iku seabot nyunggi batako
+Options:
+0) Ngawiti dina senen iku abot banget
+1) Ngawiti dina senen iku enteng
+
+Question 9: Ngawiti dina senen iku seabot nyunggi kapuk
+Options:
+0) Ngawiti dina senen iku abot banget
+1) Ngawiti dina senen iku enteng
+
+Question 10: Winginane aku ketemu Mbak Dewi, rupane kaya cak ning
+Options:
+0) Winginane aku ketemu Mbak Dewi, wajahe ayu
+1) Winginane aku ketemu Mbak Dewi, wajahe elek
+
+Question 11: Winginane aku ketemu Mbak Dewi, rupane kaya kuntilanak
+Options:
+0) Winginane aku ketemu Mbak Dewi, wajahe ayu
+1) Winginane aku ketemu Mbak Dewi, wajahe elek
+
+Question 12: Poh, ambune klambine Bu Nita kaya kebon mlathi
+Options:
+0) Ambune klambine Bu Nita wangi
+1) Ambune klambine Bu Nita mambu ora enak
+
+Question 13: Poh, ambune klambine Bu Nita kaya peceren
+Options:
+0) Ambune klambine Bu Nita wangi
+1) Ambune klambine Bu Nita mambu ora enak
+
+Question 14: Suasanane pasar kliwon jan kaya wong tawuran
+Options:
+0) Suasanane pasar kliwon jan kaya rame
+1) Suasanane pasar kliwon jan kaya sepi
+
+Question 15: Suasanane pasar kliwon jan kaya kuburan
+Options:
+0) Suasanane pasar kliwon jan kaya rame
+1) Suasanane pasar kliwon jan kaya sepi
+
+Question 16: Lekmu numpak mobil kaya keong
+Options:
+0) Lekmu numpak mobil alon
+1) Lekmu numpak mobil cepet
+
+Question 17: Lekmu numpak mobil kaya alap-alap
+Options:
+0) Lekmu numpak mobil alon
+1) Lekmu numpak mobil cepet
+
+Question 18: Lungguh ning kursi iku rasane kaya bantal
+Options:
+0) Lungguh ning kursi iku rasane empuk
+1) Lungguh ning kursi iku rasane atos
+
+Question 19: Lungguh ning kursi iku rasane kaya watu
+Options:
+0) Lungguh ning kursi iku rasane empuk
+1) Lungguh ning kursi iku rasane atos
+","Output:
+0, 1
+1, 1
+2, 0
+3, 1
+4, 1
+5, 1
+6, 1
+7, 0
+8, 0
+9, 0
+10, 0
+11, 1
+12, 0
+13, 0
+14, 1
+15, 1
+16, 1
+17, 0
+18, 0
+19, 1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+Question 10: वह भक्षी सा उदार है। 
+Options:
+0) वह बहुत दानी है। 
+1) वह दानी नहीं है। 
+Question 11: लेक्चर लेते समय वह रबर की तरह खड़ा था।
+Options:
+0) वह विश्वास से भरा हुआ था।
+1) वह बहुत घबराया हुआ था।
+Question 12: वो साइकिल की तरह तेज़ है। 
+Options:
+0) उसकी गति धीमी थी। 
+1) उसकी गति तेज़ थी। 
+Question 13: रोहन का लेखअंतरिक्ष की तरह याद रहेगा। 
+Options:
+0) रोहन का लेख कुछ समय बाद लोग भूल जायेंगे। 
+1) रोहन का लेख हमेशा लोगों को याद रहेगा।  
+Question 14: उसने सबको इडली की तरह कपड़ा दिया। 
+Options:
+0) उसने सबको अच्छा कपड़ा दिया। 
+1) उसने कपड़े में छेद था। 
+Question 15: शर्मीला जेल के जेलर की तरह कुत्तों को खिला रही थी। 
+Options:
+0) शर्मीला बड़े प्यार से कुत्तों को खिला रही थी। 
+1) शर्मीला बड़े गुस्से से कुत्तों को खिला रही थी। 
+Question 16: फर्श भालू की खाल की तरह था।
+Options:
+0) फर्श बिलकुल साफ नहीं था। 
+1) फर्श बिलकुल साफ था।
+Question 17: संगीत सीखने के लिए उसने घोड़े के चने चबाये। 
+Options:
+0) उसने संगीत सीखने के लिए बहुत महनत की है। 
+1) उसने संगीत सीखने के लिए इतनी महनत नहीं की है। 
+Question 18: परांठा तो दाल की तरह है। 
+Options:
+0) परांठा बहुत स्वादिष्ट है। 
+1) परांठा बहुत समान्य है। 
+Question 19: लॉलीपॉप देख रोहन ने पिल्ले की तरह अपनी पूँछ हिलायी। 
+Options:
+0) लॉलीपॉप के लिए रोहन ने छपटने का फैसला किया। 
+1) लॉलीपॉप के लिए रोहन ने प्यार से मांगने का फैसला किया।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+10, 1
+11, 0
+12, 0
+13, 1
+14, 0
+15, 1
+16, 0
+17, 1
+18, 1
+19, 1
+
+ INPUT:
+Question 0: ಆ ಸ್ಥಳವು ಆಸ್ಪತ್ರೆ ರೀತಿ ಶುಚಿಯಾಗಿದೆ.
+Options:
+0) ಆ ಸ್ಥಳವು ಶುಚಿಯಾಗಿದೆ
+1) ಆ ಸ್ಥಳವು ಶುಚಿಯಾಗಿಲ್ಲ
+
+Question 1: ಆ ಸ್ಥಳವು ಮೀನಿನ ಮಾರುಕಟ್ಟೆ ರೀತಿ ಶುಚಿಯಾಗಿದೆ.
+Options:
+0) ಆ ಸ್ಥಳವು ಶುಚಿಯಾಗಿದೆ
+1) ಆ ಸ್ಥಳವು ಶುಚಿಯಾಗಿಲ್ಲ
+
+Question 2: ಆ ಪ್ರದೇಶ ಯುದ್ಧ ಭೂಮಿಯಷ್ಟು ಹಿಂಸೆಯಿಂದ ಕೂಡಿದೆ.
+Options:
+0) ಆ ಪ್ರದೇಶ ಹಿಂಸೆಯಿಂದ ಕೂಡಿದೆ
+1) ಆ ಪ್ರದೇಶ ಹಿಂಸೆಯಿಂದ ಕೂಡಿಲ್ಲ
+
+Question 3: ಆ ಪ್ರದೇಶ ದೇವಸ್ಥಾನದಷ್ಟು ಹಿಂಸೆಯಿಂದ ಕೂಡಿದೆ.
+Options:
+0) ಆ ಪ್ರದೇಶ ಹಿಂಸೆಯಿಂದ ಕೂಡಿದೆ
+1) ಆ ಪ್ರದೇಶ ಹಿಂಸೆಯಿಂದ ಕೂಡಿಲ್ಲ
+
+Question 4: ಅವರ ಬಾಂಧವ್ಯ ಸ್ನೇಹಿತರ ಹಾಗೆ ಗಟ್ಟಿಯಿದೆ.
+Options:
+0) ಅವರ ಬಾಂಧವ್ಯ ಗಟ್ಟಿ ಇದೆ
+1) ಅವರ ಬಾಂಧವ್ಯ ಗಟ್ಟಿ ಇಲ್ಲ
+","Output:
+0, 1
+1, 0
+2, 0
+3, 0
+4, 0"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+Question 10: वह भक्षी सा उदार है। 
+Options:
+0) वह बहुत दानी है। 
+1) वह दानी नहीं है। 
+Question 11: लेक्चर लेते समय वह रबर की तरह खड़ा था।
+Options:
+0) वह विश्वास से भरा हुआ था।
+1) वह बहुत घबराया हुआ था।
+Question 12: वो साइकिल की तरह तेज़ है। 
+Options:
+0) उसकी गति धीमी थी। 
+1) उसकी गति तेज़ थी। 
+Question 13: रोहन का लेखअंतरिक्ष की तरह याद रहेगा। 
+Options:
+0) रोहन का लेख कुछ समय बाद लोग भूल जायेंगे। 
+1) रोहन का लेख हमेशा लोगों को याद रहेगा।  
+Question 14: उसने सबको इडली की तरह कपड़ा दिया। 
+Options:
+0) उसने सबको अच्छा कपड़ा दिया। 
+1) उसने कपड़े में छेद था। 
+Question 15: शर्मीला जेल के जेलर की तरह कुत्तों को खिला रही थी। 
+Options:
+0) शर्मीला बड़े प्यार से कुत्तों को खिला रही थी। 
+1) शर्मीला बड़े गुस्से से कुत्तों को खिला रही थी। 
+Question 16: फर्श भालू की खाल की तरह था।
+Options:
+0) फर्श बिलकुल साफ नहीं था। 
+1) फर्श बिलकुल साफ था।
+Question 17: संगीत सीखने के लिए उसने घोड़े के चने चबाये। 
+Options:
+0) उसने संगीत सीखने के लिए बहुत महनत की है। 
+1) उसने संगीत सीखने के लिए इतनी महनत नहीं की है। 
+Question 18: परांठा तो दाल की तरह है। 
+Options:
+0) परांठा बहुत स्वादिष्ट है। 
+1) परांठा बहुत समान्य है। 
+Question 19: लॉलीपॉप देख रोहन ने पिल्ले की तरह अपनी पूँछ हिलायी। 
+Options:
+0) लॉलीपॉप के लिए रोहन ने छपटने का फैसला किया। 
+1) लॉलीपॉप के लिए रोहन ने प्यार से मांगने का फैसला किया।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+10, 1
+11, 0
+12, 0
+13, 1
+14, 0
+15, 1
+16, 0
+17, 1
+18, 1
+19, 1
+
+ INPUT:
+Question 0: hirup kawas kurung batok
+Options:
+0) hirup kawas kakekang
+1) hirup kawas bebas.
+
+Question 1: hirup kawas murag bulu bitis.
+Options:
+0) hirup kawas kakekang
+1) hirup kawas bebas.
+
+Question 2: jadi jalma teh kudu hampang birit
+Options:
+0) jadi jalma teh kudu rajin
+1) jadi jalma teh kudu kedul.
+
+Question 3: jadi jalma teh kudu beurat birit.
+Options:
+0) jadi jalma teh kudu rajin
+1) jadi jalma teh kudu kedul.
+
+Question 4: Mamat lumpatna siga uncal
+Options:
+0) mamat lumpat siga gancang
+1) mamat lumpat siga laun.
+
+Question 5: Mamat lumpatna siga kuya.
+Options:
+0) mamat lumpat siga gancang
+1) mamat lumpat siga laun.
+
+Question 6: hirup teh kudu boga pamadeugan
+Options:
+0) hirup teh kudu boga pendirian
+1) hirup teh kudu boga plin-plan.
+
+Question 7: hirup teh kudu boga kaditu kadieu.
+Options:
+0) hirup teh kudu boga pendirian
+1) hirup teh kudu boga plin-plan.
+
+Question 8: si amat mah sok ngeduk cikur kedah mitutur
+Options:
+0) jadi jalma kudu jujur
+1) jadi jalma kudu boong.
+
+Question 9: si amat mah sok luncat licin.
+Options:
+0) jadi jalma kudu jujur
+1) jadi jalma kudu boong.
+
+Question 10: ceuk ema jadi jalmi teh kedah sing someah hade ka semah
+Options:
+0) ceuk ema jadi jalmi teh kedah ramah
+1) ceuk ema jadi jalmi teh kedah judes.
+
+Question 11: ceuk ema jadi jalmi teh kedah sing goreng bagug.
+Options:
+0) ceuk ema jadi jalmi teh kedah ramah
+1) ceuk ema jadi jalmi teh kedah judes.
+
+Question 12: si eta mah ateul biwir
+Options:
+0) si eta mah ngomong wae
+1) si eta mah cicing wae.
+
+Question 13: si eta mah kawas gaang katincak.
+Options:
+0) si eta mah ngomong wae
+1) si eta mah cicing wae.
+
+Question 14: lamun mikir kudu pondok lengkah
+Options:
+0) lamun mikir kudu teu mikir panjang
+1) lamun mikir kudu mikir jauh.
+
+Question 15: lamun mikir kudu panjang lengkah.
+Options:
+0) lamun mikir kudu teu mikir panjang
+1) lamun mikir kudu mikir jauh.
+
+Question 16: budak eta mah epes meer
+Options:
+0) budak eta mah babarian ceurik
+1) budak eta mah wanian.
+
+Question 17: budak eta mah wanteran.
+Options:
+0) budak eta mah babarian ceurik
+1) budak eta mah wanian.
+
+Question 18: jelema lamun geus kandel kulit bengeut
+Options:
+0) jelema lamun geus teu gaduh kaera
+1) jelema lamun geus eraan kudu diantepkeun.
+
+Question 19: jelema lamun geus isinan kudu diantepkeun.
+Options:
+0) jelema lamun geus teu gaduh kaera
+1) jelema lamun geus eraan kudu diantepkeun.
+","Output:
+0, 0
+1, 1
+2, 1
+3, 1
+4, 0
+5, 1
+6, 0
+7, 1
+8, 0
+9, 1
+10, 0
+11, 1
+12, 1
+13, 0
+14, 0
+15, 1
+16, 0
+17, 1
+18, 0
+19, 1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+Question 10: वह भक्षी सा उदार है। 
+Options:
+0) वह बहुत दानी है। 
+1) वह दानी नहीं है। 
+Question 11: लेक्चर लेते समय वह रबर की तरह खड़ा था।
+Options:
+0) वह विश्वास से भरा हुआ था।
+1) वह बहुत घबराया हुआ था।
+Question 12: वो साइकिल की तरह तेज़ है। 
+Options:
+0) उसकी गति धीमी थी। 
+1) उसकी गति तेज़ थी। 
+Question 13: रोहन का लेखअंतरिक्ष की तरह याद रहेगा। 
+Options:
+0) रोहन का लेख कुछ समय बाद लोग भूल जायेंगे। 
+1) रोहन का लेख हमेशा लोगों को याद रहेगा।  
+Question 14: उसने सबको इडली की तरह कपड़ा दिया। 
+Options:
+0) उसने सबको अच्छा कपड़ा दिया। 
+1) उसने कपड़े में छेद था। 
+Question 15: शर्मीला जेल के जेलर की तरह कुत्तों को खिला रही थी। 
+Options:
+0) शर्मीला बड़े प्यार से कुत्तों को खिला रही थी। 
+1) शर्मीला बड़े गुस्से से कुत्तों को खिला रही थी। 
+Question 16: फर्श भालू की खाल की तरह था।
+Options:
+0) फर्श बिलकुल साफ नहीं था। 
+1) फर्श बिलकुल साफ था।
+Question 17: संगीत सीखने के लिए उसने घोड़े के चने चबाये। 
+Options:
+0) उसने संगीत सीखने के लिए बहुत महनत की है। 
+1) उसने संगीत सीखने के लिए इतनी महनत नहीं की है। 
+Question 18: परांठा तो दाल की तरह है। 
+Options:
+0) परांठा बहुत स्वादिष्ट है। 
+1) परांठा बहुत समान्य है। 
+Question 19: लॉलीपॉप देख रोहन ने पिल्ले की तरह अपनी पूँछ हिलायी। 
+Options:
+0) लॉलीपॉप के लिए रोहन ने छपटने का फैसला किया। 
+1) लॉलीपॉप के लिए रोहन ने प्यार से मांगने का फैसला किया।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+10, 1
+11, 0
+12, 0
+13, 1
+14, 0
+15, 1
+16, 0
+17, 1
+18, 1
+19, 1
+
+ INPUT:
+Question 0: Watoto ni malaika
+Options:
+0) Watoto daima hawana hatia
+1) Yeye daima ni mwenye dhambi
+
+Question 1: Yeye ni mnyama.
+Options:
+0) Watoto daima hawana hatia
+1) Yeye daima ni mwenye dhambi
+
+Question 2: Maneno yake ni kama kisu
+Options:
+0) Maneno yako yanaumiza
+1) Maneno yake yanafariji
+
+Question 3: Maneno yake ni kama kinanda
+Options:
+0) Maneno yako yanaumiza
+1) Maneno yake yanafariji
+
+Question 4: Tabasamu lake huangaza chumba kizima
+Options:
+0) Ana tabasamu zuri
+1) Tabasamu lake linatisha
+
+Question 5: Tabasamu lake lilijaa  vitisho  kama shomoro mdogo aliyeshika shoka
+Options:
+0) Ana tabasamu zuri
+1) Tabasamu lake linatisha
+
+Question 6: Nipo katika dimbwi la furaha
+Options:
+0) Nina furaha kubwa sana
+1) Nina huzuni nyingi sana
+
+Question 7: Ninazama katika bahari ya huzuni
+Options:
+0) Nina furaha kubwa sana
+1) Nina huzuni nyingi sana
+
+Question 8: Penzi lao limepamba moto""
+Options:
+0) Wale wanapendana sana
+1) Wale hawapendani sana
+
+Question 9: Penzi lao ni kama moto wa kibatari kwenye upepo""
+Options:
+0) Wale wanapendana sana
+1) Wale hawapendani sana
+
+Question 10: Wali huu una ladha kama umepikwa  hotelini
+Options:
+0) Chakula ni kitamu
+1) Chakula ni kibaya
+
+Question 11: Wali huu unaladha kama umepikwa bwenini
+Options:
+0) Chakula ni kitamu
+1) Chakula ni kibaya
+
+Question 12: Mtihani ulikuwa kama kipande cha keki
+Options:
+0) Mtihani ulikuwa rahisi sana
+1) Mtihani ulikua mgumu
+
+Question 13: Mtihani ulikuwa kama ugali wa jela
+Options:
+0) Mtihani ulikuwa rahisi sana
+1) Mtihani ulikua mgumu
+
+Question 14: Mzamiru alitoa pasi rula
+Options:
+0) Mchezaji alitoa pasi nzuri
+1) Mchezaji alitoa pasi mbaya
+
+Question 15: Feisal alitoa pasi mkaa
+Options:
+0) Mchezaji alitoa pasi nzuri
+1) Mchezaji alitoa pasi mbaya
+
+Question 16: Vijana ndio taifa la kesho
+Options:
+0) Vijana ndio watakaoleta maendeleo huko mbeleni
+1) Vijana hawahusiki na maendeleo ya taifa ya baadae
+
+Question 17: Vijana wataozesha taifa
+Options:
+0) Vijana ndio watakaoleta maendeleo huko mbeleni
+1) Vijana wataliharibu taifa.
+
+Question 18: Sauti yako ni muziki masikioni mwangu
+Options:
+0) Sauti yako ni inanipa faraja na raha niisikiapo
+1) Sauti yako ni kero kwangu
+
+Question 19: Sauti yako ni kama chiriku
+Options:
+0) Sauti yako ni inanipa faraja na raha niisikiapo
+1) Sauti yako ni kero kwangu
+","Output:
+0, 0
+1, 1
+2, 0
+3, 1
+4, 0
+5, 1
+6, 0
+7, 1
+8, 0
+9, 1
+10, 0
+11, 1
+12, 0
+13, 1
+14, 1
+15, 1
+16, 0
+17, 0
+18, 0
+19, 1"
+"Instruction: For each of the below questions, only output the option index as the answer. Return the answers as a csv <Question No., Option Index>
+Examples:
+Question 0: राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग सूखने लगा ।
+Options:
+0) राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।
+1) राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।
+Question 1: उसके ऊपर अमृत सवार है। 
+Options:
+0) वह बहुत गुस्से में है। 
+1) वह बहुत प्यार बाँट रहा है। 
+Question 2: शंकर ऐसे बात करता है जैसे वो भगवान हो। 
+Options:
+0) शंकर बहुत ज्ञान की बातें करता है। 
+1) शंकर बहुत बुरी बातें करता है। 
+Question 3: मैं ड्राइवर बनना चाहता हूँ। 
+Options:
+0) मैं जमीन पर रहना चाहता हूँ। 
+1) मैं आसमान पर रहना चाहता हूँ। 
+Question 4: मजदूर घड़ी की टिक टिक की तरह काम करते हैं। 
+Options:
+0) मजदूर बहुत तेजी से काम करते हैं। 
+1) मजदूर धीरे धीरे काम करते हैं। 
+Question 5: नौकर चाय में जैसे नमक डाल लाया था। 
+Options:
+0) नौकर ने बिलकुल बकवास चाय बनाई थी। 
+1) नौकर ने बहुत बढ़िया चाय बनाई थी। 
+Question 6: बादलों सा ऊँचा उठो। 
+Options:
+0) खूब तरक्की करो। 
+1) थोड़ी तो तरक्की करो। 
+Question 7: युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।
+Options:
+0) युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।
+1) युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।
+Question 8: पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। 
+Options:
+0) पेंटर ने बहुत बढ़िया रंग किया। 
+1) पेंटर ने बहुत घटिया रंग किया। 
+Question 9: उसके लिए पैसा कमाना ऑक्सीजन था।
+Options:
+0) पैसे कमाने ने उसे जीवित रखा।
+1) पैसा कमाना उसे मार रहा था।
+Question 10: वह भक्षी सा उदार है। 
+Options:
+0) वह बहुत दानी है। 
+1) वह दानी नहीं है। 
+Question 11: लेक्चर लेते समय वह रबर की तरह खड़ा था।
+Options:
+0) वह विश्वास से भरा हुआ था।
+1) वह बहुत घबराया हुआ था।
+Question 12: वो साइकिल की तरह तेज़ है। 
+Options:
+0) उसकी गति धीमी थी। 
+1) उसकी गति तेज़ थी। 
+Question 13: रोहन का लेखअंतरिक्ष की तरह याद रहेगा। 
+Options:
+0) रोहन का लेख कुछ समय बाद लोग भूल जायेंगे। 
+1) रोहन का लेख हमेशा लोगों को याद रहेगा।  
+Question 14: उसने सबको इडली की तरह कपड़ा दिया। 
+Options:
+0) उसने सबको अच्छा कपड़ा दिया। 
+1) उसने कपड़े में छेद था। 
+Question 15: शर्मीला जेल के जेलर की तरह कुत्तों को खिला रही थी। 
+Options:
+0) शर्मीला बड़े प्यार से कुत्तों को खिला रही थी। 
+1) शर्मीला बड़े गुस्से से कुत्तों को खिला रही थी। 
+Question 16: फर्श भालू की खाल की तरह था।
+Options:
+0) फर्श बिलकुल साफ नहीं था। 
+1) फर्श बिलकुल साफ था।
+Question 17: संगीत सीखने के लिए उसने घोड़े के चने चबाये। 
+Options:
+0) उसने संगीत सीखने के लिए बहुत महनत की है। 
+1) उसने संगीत सीखने के लिए इतनी महनत नहीं की है। 
+Question 18: परांठा तो दाल की तरह है। 
+Options:
+0) परांठा बहुत स्वादिष्ट है। 
+1) परांठा बहुत समान्य है। 
+Question 19: लॉलीपॉप देख रोहन ने पिल्ले की तरह अपनी पूँछ हिलायी। 
+Options:
+0) लॉलीपॉप के लिए रोहन ने छपटने का फैसला किया। 
+1) लॉलीपॉप के लिए रोहन ने प्यार से मांगने का फैसला किया।
+
+Output:
+0, 1
+1, 1
+2, 0
+3, 0
+4, 1
+5, 0
+6, 0
+7, 1
+8, 1
+9, 0
+10, 1
+11, 0
+12, 0
+13, 1
+14, 0
+15, 1
+16, 0
+17, 1
+18, 1
+19, 1
+
+ INPUT:
+Question 0: Òkèlè ẹ̀bà mẹ́ẹ̀ẹ́dọ́gbọ̀n ni ọmọ náà jẹ lánàá
+Options:
+0) Ọmọ náà jẹ oúnjẹ púpọ̀
+1) Ọmọ náà kò jẹ oúnjẹ púpọ̀
+
+Question 1: Òkèlè ẹ̀bà kan ni ọmọ náà jẹ lánàá
+Options:
+0) Ọmọ náà jẹ oúnjẹ púpọ̀
+1) Ọmọ náà kò jẹ oúnjẹ púpọ̀
+
+Question 2: Ó burú bí i àjẹ́ apọmọjẹ
+Options:
+0) Ó máa ń rẹ́rìn-ín
+1) Ó níkà gan
+
+Question 3: Ó burú bí i ọlọ́kàn rere
+Options:
+0) Ó máa ń rẹ́rìn-ín
+1) Ó níkà gan
+
+Question 4: Òrùn náà ń fẹyín síta bí i ọmọ jòjòló
+Options:
+0) Ilẹ̀ mọ́ kedere
+1) Òkùnkún bolẹ̀ kan.
+","Output:
+0, 0
+1, 1
+2, 1
+3, 0
+4, 1"
