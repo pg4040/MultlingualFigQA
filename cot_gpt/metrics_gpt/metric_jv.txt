@@ -1,0 +1,1 @@
+Accuracy on full data: 0.6516666666666666

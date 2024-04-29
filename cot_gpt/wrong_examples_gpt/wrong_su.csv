@@ -1,0 +1,1322 @@
+Start Phrase,Ending 1,Ending 2,Labels,Response,answer,not_generated,match
+hirup kawas murag bulu bitis.,hirup kawas kakekang,hirup kawas bebas.,1,"{
+  ""answer"": 0
+} 
+
+This metaphor seems to refer to the feeling of breathing freely and taking in fresh air. The option ""hirup kawas kakekang"" is the closest in meaning, as it implies breathing deeply and feeling refreshed.",0,,0
+jadi jalma teh kudu beurat birit.,jadi jalma teh kudu rajin,jadi jalma teh kudu kedul.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""jadi jalma teh kudu beurat birit"" can be interpreted as ""jadi orang tersebut harus rajin"" which means that the person needs to work hard. Option 0) jadi jalma teh kudu rajin is the closest in meaning to this metaphor.",0,,0
+Mamat lumpatna siga kuya.,mamat lumpat siga gancang,mamat lumpat siga laun.,1,"{
+  ""Explanation"": ""The metaphor uses the phrase 'mamat lumpatna siga kuya' which means 'the frog jumps quickly'. The question is comparing something to the speed of a frog jumping, so the closest meaning would be option 0) 'mamat lumpat siga gancang' which means 'the frog jumps quickly'"",
+  ""Answer"": 0
+}",0,,0
+hirup teh kudu boga kaditu kadieu.,hirup teh kudu boga pendirian,hirup teh kudu boga plin-plan.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""hirup teh kudu boga kaditu kadieu"" implies having a firm stance or conviction in life, which aligns more closely with the option 0) hirup teh kudu boga pendirian (having principles) rather than option 1) hirup teh kudu boga plin-plan (being indecisive).",0,,0
+si amat mah sok ngeduk cikur kedah mitutur,jadi jalma kudu jujur,jadi jalma kudu boong.,0,"{
+  ""Explanation"": ""The phrase indicates that someone is pretending to be knowledgeable in a certain subject, but actually lacks understanding."",
+  ""Answer"": 1
+}",1,,0
+si amat mah sok luncat licin.,jadi jalma kudu jujur,jadi jalma kudu boong.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The phrase ""si amat mah sok luncat licin"" is a metaphor that could mean someone is trying to dance around the truth or be deceitful (boong). Therefore, the closest meaning is ""jadi jalma kudu jujur"" which translates to ""one should be honest.""",0,,0
+ceuk ema jadi jalmi teh kedah sing goreng bagug.,ceuk ema jadi jalmi teh kedah ramah,ceuk ema jadi jalmi teh kedah judes.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor comparing someone to tea can mean that the person is warm and friendly (ramah) or cold and unfriendly (judes). In this context, the phrase ""ceuk ema jadi jalmi teh kedah sing goreng bagug."" indicates that the person being described is kind and welcoming, similar to the characteristics of warm tea. Therefore, option 0) ceuk ema jadi jalmi teh kedah ramah is the closest meaning to the metaphor.",0,,0
+si eta mah kawas gaang katincak.,si eta mah ngomong wae,si eta mah cicing wae.,1,"{
+  ""question"": ""si eta mah kawas gaang katincak."",
+  ""option_selected"": 0,
+  ""explanation"": ""The metaphor 'si eta mah kawas gaang katincak' is closer in meaning to 'si eta mah ngomong wae' which means 'si eta speaks clearly or straightforwardly'. This is because 'ngomong wae' in Indonesian implies speaking directly or honestly, matching the clarity and directness suggested by the metaphor."",
+  ""output"": {
+    ""option_index"": 0
+  }
+}",0,,0
+jelema lamun geus kandel kulit bengeut,jelema lamun geus teu gaduh kaera,jelema lamun geus eraan kudu diantepkeun.,0,"{
+  ""Question"": ""Where Startphrase: jelema lamun geus kandel kulit bengeut"",
+  ""Option_Selected"": 1,
+  ""Explanation"": ""This metaphor implies that if a person has rough skin, they need to be treated with care, similar to how delicate things need to be handled gently. The second option best captures this meaning, stating that if a person has rough skin, they need to be handled carefully and with gentleness.""
+}",1,,0
+jelema lamun geus isinan kudu diantepkeun.,jelema lamun geus teu gaduh kaera,jelema lamun geus eraan kudu diantepkeun.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor is emphasizing the importance of being prepared for a situation. In this case, the phrase ""jelema lamun geus isinan kudu diantepkeun"" translates to ""a person, when it's raining, should be prepared."" The closest meaning is option 0, which states ""a person, when they don't have an umbrella, should be prepared,"" implying the importance of being proactive and ready for unexpected circumstances.",0,,0
+si Udin jadi jalma teh meni berehan.,"si Udin jadi jalma teh meni koret, pedit",si Udin jadi jalma teh meni reseup babagi.,1,"{
+  ""explanation"": ""The metaphor is comparing Udin to a tree that grows tall. 'Meni berehan' means growing taller and reaching higher heights, similar to a tree growing tall. 'Meni koret, pedit' does not convey the same idea."",
+  ""answer"": 0
+}",0,,0
+sasa teh biasana sok jadi amis budi,sasa teh biasana ramah,sasa teh biasana judes.,0,"{
+  ""explanation"": ""The metaphor is comparing someone to being bitter or unpleasant, which is closer in meaning to 'sasa teh biasana judes' (sasa is usually mean), because judes means unpleasant or unfriendly."",
+  ""answer"": 1
+}",1,,0
+sasa teh biasana sok jadi haseum budi.,sasa teh biasana ramah,sasa teh biasana judes.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing the person to a haseum budi, which implies that the person is typically friendly. Therefore, the option ""sasa teh biasana ramah"" is the closest meaning.",0,,0
+lamun bade nginjem duit kudu make duit tiis.,lamun bade nginjem duit kudu make duit anu teu menang dipake biasana lain anu pribadi,lamun bade nginjem duit kudu make duit anu pribadi moal waka dipake.,1,"{
+  ""answer"": 0
+}
+
+The metaphor ""lamun bade nginjem duit kudu make duit tiis"" is closest to option 0 because it implies that if you want to borrow money, you should use your own hard-earned money and not rely on money that is usually meant for other purposes or for personal use.",0,,0
+jalma ayeuna teh sok gurat batu.,jalma ayeuna teh sok babari ngarobah omongan atawa janji,jalma ayeuna teh sok pageuh kana omongan atawa janji.,1,"{
+  ""Explanation"": ""The metaphor compares someone to a stone, implying that they are stubborn and difficult to change."",
+  ""Answer"": 0
+}",0,,0
+lamun bisnis mah pasti jadi kandel dompet,lamun bisnis mah pasti jadi loba duit,lamun bisnis mah pasti jadi kacida teu boga duit.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: In the metaphor ""lamun bisnis mah pasti jadi kandel dompet"", the comparison is between business and a leaky wallet. This implies that in business, one may not make a profit or may lose money easily, similar to how a leaky wallet loses money. Option 1) ""lamun bisnis mah pasti jadi kacida teu boga duit"" translates to ""if business, then no money"", which aligns closely with the metaphor of not making a profit in business.",1,,0
+lamun bisnis mah pasti jadi kokoro nyoso.,lamun bisnis mah pasti jadi loba duit,lamun bisnis mah pasti jadi kacida teu boga duit.,1,"{
+  ""answer"": 0
+} 
+
+This metaphor is comparing business to a heartache. Option 0) ""lamun bisnis mah pasti jadi loba duit"" means ""if business is successful, there will be a lot of money"", which implies that in business, there can be financial gain but also emotional pain. Option 1) ""lamun bisnis mah pasti jadi kacida teu boga duit"" means ""if business is successful, there will not be any money"", which does not fit the metaphor of comparing business to heartache.",0,,0
+nanaon ge teu menang kaleleuwihan bisi tamplok bacoteun,nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean,nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean nepi ka poho ka diri sorangan.,0,"{
+  ""answer"": 1
+}
+
+This metaphor seems to be referring to a situation where the individual is faced with a difficult choice or decision that requires careful consideration. The options presented highlight the idea of weighing the pros and cons before making a choice, which aligns with the metaphor in the startphrase. Therefore, option 1 is the closest meaning to the metaphor.",1,,0
+jadi jelema teh kadang bisa jadi yuni kembang,jadi jelema teh kadang bisa jadi pikareseupeun,jadi jelema teh kadang bisa jadi pikasebeleun.,0,"{
+  ""explanation"": ""The metaphor is comparing a person to a flower, suggesting that a person can sometimes be beautiful like a flower. Therefore, the closest meaning would be 'pikasebeleun' which means beautiful."",
+  ""answer"": 1
+}",1,,0
+jadi jelema teh kadang bisa jadi yuni tai.,jadi jelema teh kadang bisa jadi pikareseupeun,jadi jelema teh kadang bisa jadi pikasebeleun.,1,"{
+  ""Explanation"": ""The metaphor is comparing people to certain types of food or dish. Since the word 'yuni tai' typically refers to something spicy or flavorful, the closest meaning to this metaphor would be 'pikareseupeun' which means tasty or delicious."",
+  ""Answer"": 0
+}",0,,0
+"jelema teh kabagi jadi dua, nyaeta anu sulit ati.","jelema teh kabagi jadi dua, nyaeta anu bersih hate","jelema teh kabagi jadi dua, nyaeta anu goreng hate iri, dengki.",1,"{
+  ""explanation"": ""The metaphor is comparing a person who has a divided heart, meaning that they are experiencing inner conflict or difficulty in making a decision."",
+  ""answer"": 0
+}",0,,0
+si Bina mah anak sampeuran.,si Bina mah anak anu dipikanyaah,si Bina mah anak tere.,1,"{
+  ""answer"": 0
+}
+
+This metaphor is closer in meaning to option 0) ""si Bina mah anak anu dipikanyaah"". The phrase ""si Bina mah anak sampeuran"" conveys the idea of how close Bina is to her child and how much she cares for her child, which is similar to how someone thinks about their own child. The second option, ""si Bina mah anak tere,"" does not capture the same sense of emotional connection and care.",0,,0
+budak teh kudu asak warah,budak teh kudu alus didikana,budak teh kudu kurang didikan.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""budak teh kudu asak warah"" can be interpreted as meaning that the child needs more discipline or guidance, which aligns more closely with the option 1) ""budak teh kudu kurang didikan.""",1,,0
+budak teh kudu atah adol.,budak teh kudu alus didikana,budak teh kudu kurang didikan.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, ""budak teh kudu atah adol"" is most likely referring to the child needing proper grooming or upbringing (alus didikana), rather than lacking discipline (kurang didikan). Grooming implies guidance and care, which is closer to the metaphor.",0,,0
+tong jadi budak anu bodo katotoloyo,tong jadi budak anu bodo tapi tara daek nanya,tong jadi budak anu bodo tapi daek tatanya.,0,"{
+  ""explanation"": ""The metaphor is implying being a slave to something or someone foolish without questioning it. Option 1 reflects this meaning as it mentions not questioning it."",
+  ""answer"": 1
+}",1,,0
+ari jadi salaki teh kudu badag cagap.,ari jadi salaki teh kudu digawe popohoan,ari jadi salaki teh kudu teu bisa digawe.,1,"{
+  ""Question"": ""ari jadi salaki teh kudu badag cagap."",
+  ""Option_0"": ""ari jadi salaki teh kudu digawe popohoan"",
+  ""Option_1"": ""ari jadi salaki teh kudu teu bisa digawe."",
+  ""Explanation"": ""This metaphor implies that in order to be a successful man, one must be diligent and skilled. Option 0 closely reflects this meaning as 'digawe popohoan' translates to 'must be made diligent'."",
+  ""Answer"": 0
+}",0,,0
+si Dewi mah jadi gadis teh meni gede hulu.,si Dewi mah jadi gadis teh meni teu sombong,si Dewi mah jadi gadis teh meni sombong.,1,"{
+  ""Explanation"": ""The metaphor is comparing Dewi to a tea leaf that remains humble despite growing at the top of the plant, which usually represents a higher position or status. The closest meaning would be that Dewi remains humble even though she may have achieved success or a higher status."",
+  ""Answer"": 0
+}",0,,0
+ceunah lamun jadi awewe teh kudu siga mak lampir.,ceunah lamun jadi awewe teh kudu anggun,ceunah lamun jadi awewe teh kudu buruk rupa.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, ""ceunah lamun jadi awewe teh kudu siga mak lampir"" means ""if a woman is ugly."" The closest meaning to this metaphor is ""ceunah lamun jadi awewe teh kudu anggun"" which means ""if a woman is beautiful."" So, the correct option is 0) ceunah lamun jadi awewe teh kudu anggun.",0,,0
+"si eta mah kuatannya, teu siga lempeuh yuni","si eta mah kuatannya, teu gampang geuring","si eta mah kuatannya, teu sehat.",0,"{
+  ""Explanation"": ""The metaphor is talking about someone who may appear strong but isn't healthy. 'Kuatannya' means strength, so it refers to physical strength."",
+  ""Answer"": 1
+}",1,,0
+"si eta mah kuatannya, teu siga jagjag waringkas.","si eta mah kuatannya, teu gampang geuring","si eta mah kuatannya, teu sehat.",1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing someone's strength to their ability to endure challenges. Option 0) ""si eta mah kuatannya, teu gampang geuring"" translates to ""if they are strong, they are not easily shaken"", which fits the metaphor. Option 1) ""si eta mah kuatannya, teu sehat"" translates to ""if they are strong, they are not healthy"", which does not make sense in the context of the metaphor.",0,,0
+Kadang hirup teh bisa jadi kembang seungit,Kadang hirup teh bisa jadi katingali senang,Kadang hirup teh bisa jadi teu bahagia.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Kadang hirup teh bisa jadi kembang seungit"" translates to ""Sometimes drinking tea can be like smelling a withered flower."" This implies that sometimes the act of drinking tea may not bring pleasure or happiness. Option 1) ""Kadang hirup teh bisa jadi teu bahagia"" is the closest in meaning, as it conveys the idea that sometimes drinking tea may not bring happiness.",1,,0
+Jalma teh bisa jadi cai,Jalma teh bisa jadi nu tenang,Jalma teh bisa jadi nu riweuh.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The phrase ""Jalma teh bisa jadi cai"" is a metaphor that can be interpreted as either ""a person can be calm"" or ""a person can be busy"". In this context, ""cai"" often refers to being busy or occupied with various activities. So, the closest meaning to the metaphor would be option 1) ""Jalma teh bisa jadi nu riweuh"" meaning ""a person can be busy"".",1,,0
+Jadi budak ulah hade basa.,Jadi budak ulah teu sopan,Jadi budak ulah sopan.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The phrase ""Jadi budak ulah hade basa"" means ""being a slave to bad behavior"". The option ""Jadi budak ulah teu sopan"" directly translates to ""being a slave to not being polite"", which is the closest meaning to the metaphor.",0,,0
+ai ka batur teh ulah sok ngukur baju jeung kaen-kaenna.,ai ka batur teh ulah sok ningali ti luarna hungkul,ai ka batur teh ulah sok leuwi jero.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""ai ka batur teh ulah sok ngukur baju jeung kaen-kaenna"" is closest in meaning to option 0) ai ka batur teh ulah sok ningali ti luarna hungkul, which implies that one should not judge others based on their appearance. ""Ningali ti luarna hungkul"" translates to looking from the outside only, which signifies the act of judging superficially. On the other hand, option 1) ai ka batur teh ulah sok leuwi jero means that one should not always stay inside, which does not align as closely with the metaphor.",0,,0
+"lamun aya masalah, hidup teh karasa keur jalan tol.","lamun aya masalah, hidup teh karasa keurteu lancar","lamun aya masalah, hidup teh karasa keur mulus.",1,"{
+  ""answer"": 0
+} 
+
+The metaphor compares life to a toll road, suggesting that there are obstacles or challenges (masalah) that make life feel like it is not flowing smoothly. Option 0) ""lamun aya masalah, hidup teh karasa keurteu lancar"" is the closest meaning as it reflects the idea of life not being smooth or flowing well due to problems.",0,,0
+jadi gadis balik teh tong pas datang bulan.,jadi gadis balik teh tong pas datang isuk,jadi gadis balik teh tong pas datang peuting.,1,"{
+  ""Explanation"": ""The metaphor is comparing the return of a girl from having tea to the cycle of menstruation. The term 'datang bulan' is a common Indonesian euphemism for menstruation."",
+  ""Answer"": 0
+}",0,,0
+Lamun gawe teh kuduna mah bisa paaing-aing.,Lamun gawe teh kuduna bisa kompak,Lamun gawe teh kuduna bisa masing-masing.,1,"{
+  ""Explanation"": ""The metaphor compares the behavior of a group when working together. 'Lamun gawe teh kuduna mah bisa paaing-aing' suggests that when working together, the group is able to move, act, or progress smoothly and harmoniously."",
+  ""Answer"": 0
+}",0,,0
+Nuju liburan teh kedah bari kaduhung.,Nuju liburan teh kedah bari gumbira,Nuju liburan teh kedah bari nyesel.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""Nuju liburan teh kedah bari kaduhung"" can be interpreted as ""Nuju liburan teh kedah bari gumbira"" which means ""Going on a vacation should bring happiness."" The word ""kaduhung"" is likely meant to convey the feeling of joy or excitement associated with going on a holiday, which aligns more closely with the option 0) Nuju liburan teh kedah bari gumbira.",0,,0
+Sangkan hirup teh loba kaamis kudu bisa ngarumasakeun.,Sangkan hirup teh loba cobaan,Sangkan hirup teh loba kabahagiaan kudu bisa ngarumasakeun.,1,"{
+  ""answer"": 0
+}
+
+The metaphor ""Sangkan hirup teh loba kaamis kudu bisa ngarumasakeun"" is comparing life to a series of challenges (cobaan). Just like how tea needs to be brewed properly to bring out its flavor, life needs to be faced and overcome in order to reach its full potential. Option 0) Sangkan hirup teh loba cobaan is the closest meaning to the metaphor.",0,,0
+Ngomong jeung si eta mah nya meuni kawas sireum,Ngomong jeung si eta mah nya meuni lalaunan,Ngomong jeung si eta mah nya meuni jojorowokan.,0,"{
+  ""Explanation"": ""The metaphor implies that speaking with that person is difficult because they don't understand, similar to trying to catch a fish with your bare hands."",
+  ""Answer"": 1
+}",1,,0
+Kadang jelema teh bisa ipis kulit bengeut.,Kadang jelema teh bisa teu boga kaera,Kadang jelema teh bisa eraan.,1,"{
+""Explanation"": ""The metaphor is comparing someone to a snake with a tough skin, implying that they are difficult or stubborn."",
+""Answer"": 0
+}",0,,0
+ayeuna buuk na teh tos jadi harideung.,Ayeuna mah tos jadi kolot,Ayeuna mah tos jadi ngora keneh.,1,"{
+  ""Explanation"": ""The metaphor implies that the present book will eventually become old."",
+  ""Answer"": 0
+}",0,,0
+Jadi jelema mah ulah sulit ati,Jadi jelema mah ulah iri,Jadi jelema mah ulah bageur.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Jadi jelema mah ulah sulit ati"" is comparing someone who is difficult to please to the feeling of being picky or hard to satisfy. Therefore, the closest meaning would be ""Jadi jelema mah ulah bageur"" which means someone who is not easy to please.",1,,0
+Jadi jelema mah ulah hade hate.,Jadi jelema mah ulah iri,Jadi jelema mah ulah bageur.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Jadi jelema mah ulah hade hate"" signifies not being envious or jealous of others. Option 0) ""Jadi jelema mah ulah iri"" means not being envious, which aligns with the metaphor. Option 1) ""Jadi jelema mah ulah bageur"" means not being excessive, which does not relate to the metaphor.",0,,0
+Ayeuna mah ka Bandung teh meuni siga mapay jalan satapak.,Ayeuna mah ka Bandung teh meuni deket,Ayeuna mah ka Bandung teh meuni jauh.,1,"{
+	""explanation"": ""Bandung is close in this context, therefore 'Ayeuna mah ka Bandung teh meuni deket' is the closest meaning to the metaphor."",
+	""answer"": 0
+}",0,,0
+Maneh mah jadi jelema teh meuni beteung karet,Maneh mah jadi jelema teh meuni loba dahar,Maneh mah jadi jelema teh meuni tara barang dahar.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""Maneh mah jadi jelema teh meuni beteung karet"" is comparing someone who is resilient like rubber. In this context, ""beteung karet"" refers to being flexible and adaptable in difficult situations. Option 1, ""Maneh mah jadi jelema teh meuni tara barang dahar,"" is the closest meaning as it also refers to someone who is not easily broken or swayed.",1,,0
+Maneh mah jadi jelema teh meuni beuteng heras.,Maneh mah jadi jelema teh meuni loba dahar,Maneh mah jadi jelema teh meuni tara barang dahar.,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, ""Maneh mah jadi jelema teh meuni beuteng heras."" the comparison is being made between being physically full (dahar) and having a good character/attitude (beuteng heras). Option 0) ""Maneh mah jadi jelema teh meuni loba dahar"" which means ""becoming a good person is more important than being physically full"" is the closest meaning to the metaphor. It emphasizes the importance of having a positive character over physical possessions or needs.",0,,0
+Lalakonna siga bangkong dikurung batok,Lalakonna keueungeun,Lalakonna liar.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""Lalakonna siga bangkong dikurung batok"" can be interpreted as ""Lalakonna keueungeun"" which means constrained or restricted. This implies that the person feels trapped or confined in a certain situation, similar to being enclosed by a coconut shell. Option 1) Lalakonna liar, on the other hand, means that the person is wild or uncontrollable, which doesn't align with the metaphor.",1,,0
+Lalakonna siga manuk dikencarkeun.,Lalakonna keueungeun,Lalakonna liar.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Lalakonna siga manuk dikencarkeun"" can be interpreted as meaning ""his rooster is being looked for."" The option ""Lalakonna keueungeun"" means ""his rooster is at his house,"" which is closer in meaning to the metaphor compared to ""Lalakonna liar,"" which means ""his rooster is wild.""",0,,0
+Balong laukna siga mencrang cai herang,Balong laukna beresih,Balong laukna ledig.,0,"{
+  ""answer"": 1
+}
+
+The metaphor ""Balong laukna siga mencrang cai herang"" implies that the situation is messy or disorganized, similar to the meaning of ""ledig"" which means empty or clear. Therefore, the closest meaning to the metaphor is Option 1) Balong laukna ledig.",1,,0
+Balong laukna siga buyatak solokan.,Balong laukna beresih,Balong laukna ledig.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Balong laukna siga buyatak solokan"" relates to the meaning of something being cleaned up or tidied, which closely aligns with the option ""Balong laukna beresih."" The word ""sigar"" in Minangkabau language can refer to cleaning or tidying up, thus making option 0 the most fitting interpretation.",0,,0
+Rupina siga kembang beukah,Rupina sae,Rupina awon.,0,"{
+  ""answer"": 1
+}
+
+Explanation: In this metaphor, ""Rupina siga kembang beukah"" is likely referring to comparing Rupina to a blooming flower. The option ""Rupina awon"" would be a closer meaning as it refers to Rupina being beautiful or radiant like a flower, while ""Rupina sae"" does not capture this comparison.",1,,0
+Neangan si eta kawas neang jarum di sawah,Neangan si eta hese,Neangan si eta gampil.,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, ""Neangan si eta kawas neang jarum di sawah"" means ""Looking at the moon among the rice stalks."" The closest meaning among the options is ""Neangan si eta gampil"", which means ""Admiring its beauty"". The moon is often associated with beauty and serenity, so the correct option reflects that sentiment.",1,,0
+Sapopoe si eta kawas nu diudag ku rentenir,Sapopoe si eta seueur emutan,Sapopoe si eta euweuh pagawean.,0,"{
+  ""answer"": 1
+}  
+
+In this metaphor, ""rentenir"" usually refers to something that is burdensome or difficult to deal with. Comparing it to ""pagawean"" (work), which can also be burdensome or difficult, makes more sense in this context. ""Emutan"" (tasty) does not fit well with the idea of something being burdensome.",1,,0
+Sapopoe si eta kawas nu teu boga pamajikan.,Sapopoe si eta seueur emutan,Sapopoe si eta euweuh pagawean.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Sapopoe si eta kawas nu teu boga pamajikan"" translates to ""You are like a bird without a nest."" Option 0) ""Sapopoe si eta seueur emutan"" meaning ""You are like a bird without direction"" is the closest in meaning to the metaphor. Both options highlight the feeling of being lost or without a stable place or purpose.",0,,0
+Mun makan siga nu teu boga duit,Mun dahar loba,Mun dahar saeutik.,0,"{
+  ""question"": ""Mun makan siga nu teu boga duit"",
+  ""option0"": ""Mun dahar loba"",
+  ""option1"": ""Mun dahar saeutik"",
+  ""explanation"": ""The metaphor is comparing eating without money to either eating a lot or eating just a little. In this case, not having money represents scarcity, so the closest meaning would be eating just a little (Mun dahar saeutik) due to limited resources."",
+  ""answer"": 1
+}",1,,0
+Mun makan siga loba duit.,Mun dahar loba,Mun dahar saeutik.,1,"{
+    ""question"": ""Mun makan siga loba duit."",
+    ""options"": {
+        ""0"": ""Mun dahar loba"",
+        ""1"": ""Mun dahar saeutik""
+    },
+    ""answer"": 0
+} 
+
+Explanation: The metaphor ""Mun makan siga loba duit"" can be interpreted as ""Mun dahar loba"" which means spending a lot of money. Eating money without actual consumption is a metaphor for spending money excessively. Hence, option 0 is the closest meaning to the metaphor.",0,,0
+Nasehat ti bapa na nangceub siga batu,Nasihat apa na diemutan,Nasihat apa na poho.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares the father's advice to biting a hard rock, indicating that the advice is tough to accept or follow, similar to a hard rock. Option 1) Nasihat apa na poho, means advice that is hard to accept or follow, which closely aligns with the metaphor.",1,,0
+Gawena siga nu keong meuntas jalan.,Gawe na gancang,Gawe na lila.,1,"{
+  ""answer"": 0
+}
+
+The metaphor ""Gawena siga nu keong meuntas jalan"" can be interpreted as ""The work is fast"" (Option 0) since ""gancang"" means fast in Javanese. The word ""lila"" in Option 1 means late, which would not fit the metaphor.",0,,0
+Sakapeung jodoh teh kawas meuli ucing dina karung,Sakapeung jodoh teh teu kantos ditebak,Sakapeung jodoh teh kantos ditebak.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor ""Sakapeung jodoh teh kawas meuli ucing dina karung"" means that fate is unpredictable, similar to a cat in a bag that cannot be predicted easily. Option 1) ""Sakapeung jodoh teh kantos ditebak"" translates to fate can be predicted, which is the opposite of the metaphor. Option 0) ""Sakapeung jodoh teh teu kantos ditebak"" translates to fate cannot be predicted, which aligns with the metaphor. Hence, the correct option is 0) Sakapeung jodoh teh teu kantos ditebak.",1,,0
+Acukna siga nimu di rongsokan.,Acuk na sae,Acuk na awon.,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, ""Acukna siga nimu di rongsokan"" means ""the fire in your life"" which can be more closely associated with option 0) Acuk na sae (the fire is strong) rather than option 1) Acuk na awon (the fire is extinguished).",0,,0
+Sapi na siga limosin,Sapi na ageung,Sapi na leutik.,0,"{
+  ""question"": ""Sapi na siga limosin"",
+  ""option_selected"": 1,
+  ""explanation"": ""In this metaphor, 'Sapi na siga limosin' likely refers to a big buffalo (Sapi na ageung) instead of a small buffalo (Sapi na leutik). The comparison is between a big and powerful entity, not a small and insignificant one."",
+  ""answer"": 1
+}",1,,0
+Sapi na siga nu cacingan.,Sapi na ageung,Sapi na leutik.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""In this metaphor, 'sapi na siga' is most likely referring to a big or powerful cow, rather than a small or young cow ('Sapi na ageung' vs 'Sapi na leutik'). Therefore, the closest meaning to the metaphor is 'Sapi na ageung'."",
+}",0,,0
+Mung ngomong siga aya sambelna,Mung ngomong nyeurikeun hate,Mung ngomong hati-hati.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The phrase ""Mung ngomong siga aya sambelna"" can be interpreted as ""Mung ngomong hati-hati"" which means ""Speak carefully"" rather than ""Mung ngomong nyeurikeun hate"" which means ""Speak bravely"". The closest meaning to the metaphor is to be cautious in what you say.",1,,0
+Mung ngomong siga putri solo.,Mung ngomong nyeurikeun hate,Mung ngomong hati-hati.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The phrase ""Mung ngomong siga putri solo"" is a metaphorical expression which means to speak carefully or to choose one's words wisely, similar to the option ""Mung ngomong hati-hati."" Therefore, the closest meaning to the metaphor is option 1) Mung ngomong nyeurikeun hate.",0,,0
+Ditingal teh si eta siga nu can ibak,Ditingal teh si eta bau,Ditingal teh si eta wangi.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor is likely comparing digital technology to a tiger. Tigers are known for their agility and ability to move quickly, similar to how rapidly digital technology evolves and changes. Therefore, the closest meaning would be ""Ditingal teh si eta wangi"" which translates to ""Digital technology is like a tiger.""",1,,0
+Ditingal teh si eta siga ibak kembang tujuh rupi.,Ditingal teh si eta bau,Ditingal teh si eta wangi.,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, ""Ditingal teh si eta siga ibak kembang tujuh rupi"" compares something being neglected to the smell of rotten flowers. The closest meaning to this metaphor is option 0) Ditingal teh si eta bau (neglected like a bad smell).",0,,0
+Lengeunna geutihan siga nu ditabrak mobil,Lengeunna geutihan loba,Lengeunna geutihan saeutik.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares ""Lengeunna geutihan siga nu ditabrak mobil"" to being hit by a car. In this context, ""saeutik"" refers to being suddenly and unexpectedly impacted or harmed, which aligns more closely with being hit by a car rather than simply having a lot of something.",1,,0
+Si eta mung ceurik siga euweuh masalah.,Si eta mung ceurik tarik,Si eta mung ceurik lalaunan.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the situation to having a tangled thread. Option 0) ""Si eta mung ceurik tarik"" means ""like a tangled thread,"" which is the closest meaning to the metaphor. Option 1) ""Si eta mung ceurik lalaunan"" means ""like a beautiful weave,"" which does not align with the metaphor.",0,,0
+Mangga na siga cuka.,Mangga na amis,Mangga na haseum.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Mangga na siga cuka"" translates to ""mango that is sour vinegar."" In this metaphor, the word ""siga"" is often used to describe something that is sour or pungent, which is more closely related to the meaning of option 0) Mangga na amis (mango that is sour) rather than option 1) Mangga na haseum (mango that is sweet).",0,,0
+Rai na ka adi na teh siga cocoan,Kalakuan rai na ka adi jail,Kalakuan rai na ka adi nyaah.,0,"{
+    ""answer"": 1
+} 
+
+In this metaphor, ""Rai na ka adi na teh siga cocoan"" implies a challenging situation where there seems to be no solution in sight, similar to option 1) Kalakuan rai na ka adi nyaah, which translates to ""The road ahead seems unclear."" This option closely relates to the metaphor provided.",1,,0
+Rupi na siga arjuna,Rupi na kasep,Rupi na awon.,0,"{
+  ""answer"": 1
+} 
+
+The phrase ""Rupi na siga arjuna"" is a metaphor comparing two things. In this case, it is comparing the brightness of the sun to something else. The closest meaning would be ""Rupi na awon"" as it means ""bright like the sun"" indicating the likeness of the brightness of the sun. ""Rupi na kasep"" would not make sense in the context of the metaphor.",1,,0
+Rupi na siga cepot.,Rupi na kasep,Rupi na awon.,1,"{
+  ""question"": ""Rupi na siga cepot."",
+  ""options"": {
+    ""0"": ""Rupi na kasep"",
+    ""1"": ""Rupi na awon.""
+  },
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Rupi na siga cepot."" translates to ""The sun hiding behind the clouds."" The word ""cepot"" implies hiding or being obscured, similar to how clouds cover the sun. Option 0) ""Rupi na kasep"" translates to ""The sun is covered,"" which closely represents the metaphor. Option 1) ""Rupi na awon"" translates to ""The sun is shining,"" which is the opposite",0,,0
+Awakna siga tangkal gedang.,Awakna kiat,Awakna letoy.,1,"{
+  ""question"": ""Awakna siga tangkal gedang."",
+  ""option_0"": ""Awakna kiat"",
+  ""option_1"": ""Awakna letoy"",
+  ""explanation"": ""The metaphor 'Awakna siga tangkal gedang' conveys the meaning of 'Awakna kiat' which is closer to being determined and persistent rather than being lazy and weak."",
+  ""answer"": 0
+}",0,,0
+Mung lumpat si eta siga kuya.,Mung lumpat gancang,Mung lumpat lila.,1,"{
+  ""answer"": 0
+}
+
+Explanation: ""Mung lumpat gancang"" means jumping quickly and energetically, which is close to the metaphor being described. ""Mung lumpat lila"" does not convey a similar meaning.",0,,0
+Si eta kuliah siga nu teu aya beban.,Si eta kuliah na sibuk,Si eta kuliah na santai.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The phrase ""Si eta kuliah siga nu teu aya beban"" implies that the person is not burdened with any responsibilities related to studying, which means they are not busy. Therefore, the closest meaning is option 0) Si eta kuliah na sibuk (Si eta kuliah is busy).",0,,0
+Masakanna kawas nu boga resto ageung.,Masakan na awon,Masakan na ngeunah.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Masakanna kawas nu boga resto ageung"" translates to ""The food in the old restaurant tastes better."" Comparing the taste of food refers to the quality or enjoyment factor, and in this case, it implies that the food is better at the old restaurant. Option 0) Masakan na awon means ""food that is delicious,"" which aligns with the metaphor. Option 1) Masakan na ngeunah means ""food that is bad,"" which is the opposite of what the metaphor is trying to convey.",0,,0
+Hawa na siga di leuweung,Hawa na tiis,Hawa na panas.,0,"{
+  ""answer"": 1
+} 
+
+In this metaphor, ""Hawa na siga di leuweung"" relates to the feeling of heat from the sun, which is similar to the meaning of ""Hawa na panas"" (hot weather). ""Hawa na tiis"" refers to enduring or tolerating the heat, which is not as close to the metaphor as ""Hawa na panas.""",1,,0
+Kaayaan ayeuna kawas loba dosa,Kaayaan ayeuna awon,Kaayaan ayeuna alus.,0,"{
+""question"": ""Kaayaan ayeuna kawas loba dosa"",
+""option1"": ""Kaayaan ayeuna awon"",
+""explanation1"": ""The word 'kawas' in Sundanese language means difficult or heavy, while 'loba dosa' means full of mistakes. Therefore, the metaphor implies that the current situation is burdensome with many mistakes or sins, making the second option 'Kaayaan ayeuna alus' (Kaayaan ayeuna alus) more appropriate as it means clean or pure."",
+""answer"": 1
+}",1,,0
+Salaki na kawas Nyi Iteung.,Salaki na kedul,Salaki na rajin.,1,"{
+  ""answer"": 0
+}
+
+The metaphor ""Salaki na kawas Nyi Iteung"" refers to someone who is lazy or slow. The option ""Salaki na kedul"" means lazy, which is the closest meaning to the metaphor.",0,,0
+Budak na siga nu dihuapan sapopoe.,Budak na kurus,Budak na gendut.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Budak na siga nu dihuapan sapopoe"" is comparing a child to a dried fish that is thin or skinny, implying that the child is thin or skinny as well. Option 0) Budak na kurus is the closest meaning as it also refers to a child being thin.",0,,0
+Keneh isuk ngan siga panonpoe geus mencrang wae,Keneh isuk tos panas,Keneh isuk keneh tiis.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares Keneh isuk with siga panonpoe geus mencrang wae, which implies that Keneh isuk is enduring a difficult situation. Therefore, the closest meaning is ""Keneh isuk keneh tiis,"" which means Keneh isuk must endure.",1,,0
+Ngabaturan si eta unggal poe siga boga asisten sagala tiasa.,Ngabaturan si eta unggal poe loba masalah,Ngabaturan si eta unggal poe euweuh masalah.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Ngabaturan si eta unggal poe siga boga asisten sagala tiasa."" means ""She always has solutions for all problems,"" as ""boga asisten"" represents having assistants to solve problems. Option 0) Ngabaturan si eta unggal poe loba masalah is the closest meaning, as it translates to ""She always has solutions for all problems.""",0,,0
+Kakolot undak unduk na siga malin kundang,Ka kolot undak unduk na siga durhaka,Ka kolot undak unduk na siga ngabaktos.,0,"{
+  ""Explanation"": ""Kakolot is a type of bird known for its loyalty and commitment to its nest. In this metaphor, it implies someone who is trustworthy and dependable. 'Durhaka' means ungrateful, which is the opposite of the intended meaning. 'Ngabaktos' means devoted, which aligns with the metaphor."",
+  ""Answer"": 1
+}",1,,0
+Budak ayeuna mung gawe kawas kebo,Budak ayeuna mung gawe lambat,Budak ayeuna mung gawe geusit.,0,"{
+  ""answer"": 1,
+  ""explanation"": ""The metaphor is comparing the person to a slow-moving buffalo, indicating that the person is being lazy or taking a long time to finish something. 'Budak ayeuna mung gawe kawas kebo' is closer in meaning to 'Budak ayeuna mung gawe geusit' which means the person is being slow or sluggish.""
+}",1,,0
+Budak ayeuna mung gawe kawas peucang.,Budak ayeuna mung gawe lambat,Budak ayeuna mung gawe geusit.,1,"{
+  ""explanation"": ""The metaphor is comparing someone's actions to the pace of a slow-moving animal (peucang). This implies that the person is slow or taking their time."",
+  ""answer"": 0
+}",0,,0
+Milarian artos siga artos ngagolosor ti langit.,Milarian artos rajin,Milarian artos nyalse.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Milarian artos siga artos ngagolosor ti langit"" translates to ""The sun is like a bird flying in the sky."" Comparing the sun to a bird flying in the sky implies that the sun is radiant and bright, similar to the energy and vibrancy of a bird in flight. Therefore, the meaning closest to this metaphor is ""Milarian artos rajin"" which means ""The sun is diligent.""",0,,0
+Mie na beukah kawas kembang aromanis,Mie na beukah sae,Mie na beukah teu tangtu.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Mie na beukah kawas kembang aromanis"" is closer in meaning to ""Mie na beukah teu tangtu"" because it suggests that the situation may not be as perfect or pleasant as expected, similar to how a dish of noodles may not taste as good as it looks.",1,,0
+Sakola na ka bumi siga ti kulon ka wetan,Sakola na ka bumi tebih,Sakola na ka bumi caket.,0,"{
+  ""answer"": 1
+} 
+
+In this metaphor, ""Sakola na ka bumi siga ti kulon ka wetan"" means ""the school is shining brightly in the midst of the east"", which implies that the school is a place of enlightenment, knowledge, and learning. The option ""Sakola na ka bumi caket"" (option 1) means ""the school is a source of light"", which aligns more closely with the metaphorical meaning of enlightenment and knowledge.",1,,0
+Pangaos cocoan si ade siga cimol tilu siki.,Pangaos cocoan si ade awis,Pangaos cocoan si ade mirah.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor refers to someone being strong and confident like a ""pangaos"" bird. Choosing option 0) Pangaos cocoan si ade awis, which means ""Pangaos bird is smart,"" is closest in meaning to the metaphor. Option 1) Pangaos cocoan si ade mirah, meaning ""Pangaos bird is red,"" does not align with the metaphorical interpretation of the phrase.",0,,0
+Wengi ieu langit na siga cai kopi.,Wengi ieu langit na mencrang,Wengi ieu langit na ceudeum.,1,"{
+  ""answer"": 0
+}
+
+This metaphor is comparing the night sky to a cup of coffee that is strong or bold. Option 0) ""Wengi ieu langit na mencrang"" means ""The night sky is bright"" which is closer in meaning to a strong cup of coffee.",0,,0
+Kasohor na eta artis siga nu teu aya internet wae.,Kasohor na eta artis sagala jalmi uninga,Kasohor na eta artis teu aya jalmi uninga.,1,"{
+  ""explanation"": ""The metaphor is comparing the situation to a popular artist without any internet presence. This is similar to the first option which states that the artist is well-known by everyone."",
+  ""answer"": 0
+}",0,,0
+Nu lalajo di stadion kamari siga budak leutik,Nu lalajo di stadion kamari rame,Nu lalajo di stadion kamari sepi.,0,"{
+  ""answer"": 1
+}
+
+The metaphor ""Nu lalajo di stadion kamari siga budak leutik"" is comparing the stadium to a small child. When a stadium is compared to a small child, it implies that the stadium is empty or quiet, similar to how a small child may be calm and quiet. Therefore, the option ""Nu lalajo di stadion kamari sepi"" meaning ""Nu lalajo di stadion kamari quiet"" is the closest meaning to the metaphor.",1,,0
+Beuki ka dieu pamarentah teh siga beurit dina lumbung pare,Beuki ka dieu pamarentah beuki korup,Beuki ka dieu pamarentah beuki ngaalusan.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor used in the startphrase is comparing the situation of ""siga beurit dina lumbung pare"" (hiding inside the rice barn) to either being corrupt or being protected. Since hiding inside a rice barn signifies protection from harm, the option ""Beuki ka dieu pamarentah beuki ngaalusan"" (being protected) is the closest meaning to the metaphor.",1,,0
+Sanajan loba masalah manehna siga kembang katewak angin.,Sanajan loba masalah maneh na pantang nyerah,Sanajan loba masalah maneh na gampil nyerah.,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, ""Sanajan loba masalah manehna siga kembang katewak angin"" can be interpreted as facing many challenges but refusing to give up (Option 0), as opposed to easily giving up (Option 1). The comparison is between the resilience of a flower swaying in the wind despite facing adversity.",0,,0
+Ngalereskeun ieu mesin siga nu keur operasi jantung,Ngalereskeun ieu mesin hese,Ngalereskeun ieu mesin gampil.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor likens ""operating the heart surgery machine"" to the option ""easy to operate"". The word ""gampil"" means easy, so the correct meaning is ""Ngalereskeun ieu mesin gampil.""",1,,0
+Asep lumpatna kawas keong.,Asep lumpatna gancang,Asep lumpatna lila.,1,"{
+  ""answer"": 0
+}
+
+The metaphor is comparing Asep's actions to that of a frog jumping swiftly like a snake. The option ""Asep lumpatna gancang"" means Asep is jumping swiftly like a frog, which is the closest meaning to the metaphor.",0,,0
+Si Iwan kasohor lantaran siga foto modol.,Si Iwan kasohor lantaran kasep,Si Iwan kasohor lantaran goreng.,1,"{
+  ""explanation"": ""In this metaphor, the comparison is between Iwan being known for his photography skills and being known for being handsome or good looking. The closest meaning to the metaphor would be option 0) Si Iwan kasohor lantaran kasep."",
+  ""answer"": 0
+}",0,,0
+Mun jadi jalmi ulah sok beurat birit,Mun jadi jalmi ulah sok kedul,Mun jadi jalmi ulah sok getol.,0,"{
+  ""Explanation"": ""The metaphor is describing someone who is consistently difficult and stubborn. 'Beurat birit' means heavy and resistant, so the closest meaning would be option 1) Mun jadi jalmi ulah sok getol, which means consistent and persistent."",
+  ""Answer"": 1
+}",1,,0
+Mun jadi jalmi ulah sok hampang birit.,Mun jadi jalmi ulah sok kedul,Mun jadi jalmi ulah sok getol.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The phrase ""sok hampang birit"" implies being inconsistent or unpredictable, which aligns more closely with the option ""sok kedul"" meaning changing direction frequently. Therefore, the correct option is 0) Mun jadi jalmi ulah sok kedul.",0,,0
+Omongan Pak Ustad kawas gula dina enteh,Omongan Pak Ustad amis,Omongan Pak Ustad pait.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: In this metaphor, the mention of sugar (gula) usually refers to something pleasant and sweet. Since the options are ""Omongan Pak Ustad amis"" (sweet) and ""Omongan Pak Ustad pait"" (bitter), the closest meaning to the metaphor would be ""Omongan Pak Ustad pait"" (bitter).",1,,0
+Omongan Pak Ustad kawas kopi hideung.,Omongan Pak Ustad amis,Omongan Pak Ustad pait.,1,"{
+  ""answer"": 0
+}
+
+The correct option is 0) Omongan Pak Ustad amis.
+
+In this metaphor, the statement ""Omongan Pak Ustad kawas kopi hideung"" is likely referring to the words of Pak Ustad being bitter, similar to bitter coffee. ""Amis"" in Indonesian means bitter, which fits the metaphor. ""Pait"" on the other hand means sour, which does not align with the context of the metaphor.",0,,0
+Ieu kabar umpama hujan bentar,Ieu kabar ngareuwaskeun,Ieu kabar nenangkeun.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor compares the news to a short rain, implying that the news is refreshing or uplifting. Option 1) ""Ieu kabar nenangkeun"" translates to this meaning, while option 0) ""Ieu kabar ngareuwaskeun"" does not match the metaphor.",1,,0
+Kulit Siti kos careuh bulan.,Kulit Siti mulus,Kulit Siti korodok.,1,"{
+  ""Explanation"": ""Kulit Siti kos careuh bulan is a metaphor implying that Siti's skin is smooth or flawless."",
+  ""Answer"": 0
+}",0,,0
+Sikap anjeunna siga es batu,Sikap anjeunna tiis,Sikap anjeunna haneut.,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, ""Sikap anjeunna siga es batu"" is comparing someone's personality or behavior to ice. Ice is hard and cold, which can be interpreted as meaning that the person is harsh or unfriendly. Therefore, the closest meaning to the metaphor would be option 1) Sikap anjeunna haneut, which means the person's attitude is cold or unfriendly.",1,,0
+Lanceuk abdi awakna sapertos nyere,Lanceuk abdi awakna begang,Lanceuk abdi awakna buleud.,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, Lanceuk is the master calling his servant, abdi, to come closer. The word ""buleud"" means closer or nearby, so the option ""Lanceuk abdi awakna buleud"" is the closest meaning to the metaphor.",1,,0
+Lanceuk abdi awakna sapertos gajah.,Lanceuk abdi awakna begang,Lanceuk abdi awakna buleud.,1,"{
+  ""Explanation"": ""In this metaphor, 'Lanceuk abdi awakna sapertos gajah' means 'The servant is like a strong elephant'. The options 'Lanceuk abdi awakna begang' means 'The servant is like a wild buffalo' and 'Lanceuk abdi awakna buleud' means 'The servant is like a big cloud'. Comparing a servant to a strong elephant implies that the servant is powerful, steadfast, and reliable."",
+  ""Answer"": 0
+}",0,,0
+Gawe teh umpama nginum peresan limo.,Gawe teh ngabagjakeun,Gawe teh hanjelu.,1,"{
+  ""Explanation"": ""Drinking a glass of water could mean either sharing or cleaning."",
+  ""Answer"": 0
+}",0,,0
+Sora manehna kawas hujan geledek.,Sora manehna merdu,Sora manehna gandeng.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Sora manehna kawas hujan geledek."" means ""Her voice sounds lovely like the sound of raindrops."" Option 0) ""Sora manehna merdu"" means ""Her voice is melodious"", which is closest to the original metaphor.",0,,0
+Awak manehna meuni kawas mawar bodas,Awak manehna meuni seungit,Awak manehna meuni bau.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor compares the person to a white rose, which represents purity and beauty. The option ""Awak manehna meuni bau"" translates to ""You are fragrant,"" symbolizing pleasantness and positivity, which is closer to the intended meaning of the metaphor.",1,,0
+Ditolak manehna umpama taman pinuh ku kembang.,Ditolak manehna meuni nyeri,Ditolak manehna meuni gumbira.,1,"{
+  ""answer"": 0
+}Explanation: The metaphor ""Ditolak manehna umpama taman pinuh ku kembang"" translates to ""Being rejected by them is like a garden filled with flowers."" In this context, the rejection is being compared to something beautiful and peaceful like a garden filled with flowers. Option 0) ""Ditolak manehna meuni nyeri"" translates to ""The rejection causes pain,"" which aligns more closely with the metaphor presented. Option 1) ""Ditolak manehna meuni gumbira"" translates to ""The rejection brings joy,"" which is the opposite of the intended meaning.",0,,0
+Omongan manehna kawas cai di daun taleus,Omongan manehna robah-robah,Omongan manehna ajeg.,0,"{
+  ""answer"": 1
+} 
+
+In this metaphor, ""Omongan manehna kawas cai di daun taleus"", the use of ""taleus"" (banana leaf) implies something smooth and unwrinkled. Option 1) ""Omongan manehna ajeg"" means the speech is smooth and well-spoken, which is the closest meaning to the metaphor.",1,,0
+Kosan rerencangan abdi sapertos liang sireum.,Kosan rerencangan abdi lega,Kosan rerencangan abdi heurin.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, ""Kosan rerencangan abdi sapertos liang sireum"" is a phrase indicating relief or satisfaction. Option 0) ""Kosan rerencangan abdi lega"" also conveys a sense of relief, making it the closest meaning to the metaphor. Option 1) ""Kosan rerencangan abdi heurin"" does not match the feeling of relief expressed in the startphrase.",0,,0
+Ngaharep balesan manehna ibarat ngajarkeun lauk naek tangkal,Ngaharep balesan manehna mustahil,Ngaharep balesan manehna teu kudu usaha.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor 'Ngaharep balesan manehna ibarat ngajarkeun lauk naek tangkal' is comparing waiting for a response to cooking a delicious meal. The closest meaning is that one should put effort and work into getting the desired response, similar to cooking a meal. Therefore, the correct option is 1) Ngaharep balesan manehna teu kudu usaha.",1,,0
+Milarian padamelan ayena mah sapertos milarian lauk di sagara.,Milarian padamelan ayeuna mah sesah,Milarian padamelan ayeuna mah gampil.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor is comparing the situation to a calm sea. Option 0) ""Milarian padamelan ayeuna mah sesah"" means ""The situation now is calm"", which closely aligns with the metaphor. Option 1) ""Milarian padamelan ayeuna mah gampil"" means ""The situation now is simple"", which does not fit the metaphor as well.",0,,0
+Abdi sareung anjeuna kawas monyet jeung kera.,Abdi sareung anjeuna jauh bedana,Abdi sareung anjeuna eweuh bedana.,1,"{
+  ""explanation"": ""The metaphor suggests that the distance between Abdi and anjeuna is similar to the distance between monkeys and apes, meaning they are very different from each other."",
+  ""answer"": 0
+}",0,,0
+Diajar matematika umpama diajar maca jang budak SMA,Diajar matematika sesah,Diajar matematika gampil.,0,"{
+  ""answer"": 1
+}
+
+From the given start phrase, the metaphor compares teaching mathematics to teaching a high school student, suggesting that teaching mathematics is easier or simpler than teaching a high school student. Therefore, the closest meaning to the metaphor would be option 1) Diajar matematika gampil.",1,,0
+Diajar matematika umpama diajar maca jang budak TK.,Diajar matematika sesah,Diajar matematika gampil.,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, ""Diajar matematika umpama diajar maca jang budak TK"" means teaching math is as difficult as teaching a kindergarten child. Option 0) Diajar matematika sesah (teaching math is difficult) is the closest meaning to the metaphor, as it conveys the idea that teaching math is challenging, just like teaching young children at a kindergarten level. On the other hand, Option 1) Diajar matematika gampil (teaching math is easy) is the opposite meaning and does not align with the metaphor.",0,,0
+Kue damelan umi abdi saraos kue toko,Kue damelan umi abdi raos,Kue damelan umi abdi teu raos.,0,"{
+  ""explanation"": ""The metaphor suggests that the owner of the shop knows how to manage their business well, therefore the closest meaning is 'Kue damelan umi abdi teu raos' which means the shop owner knows how to manage the business well."",
+  ""answer"": 1
+}",1,,0
+Pun bapa tanagana kawas budak sd.,Pun bapa kuat,Pun bapa lemah.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""In this metaphor, 'Pun bapa tanagana kawas budak sd.' is comparing the strength of the father to the strength of a child. Therefore, the meaning closest to the metaphor is 'Pun bapa kuat' which means the father is strong.""
+}",0,,0
+Teu nyangka rayi abdi sajangkung ucok baba.,Teu nyangka rayi abdi jangkung,Teu nyangka rayi abdi pondok.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The word ""jangkung"" means tall, so in this context, ""Teu nyangka rayi abdi sajangkung ucok baba"" is a metaphor meaning ""I did not expect that I would grow tall like ucok baba"" rather than ""I did not expect that I would have a house like ucok baba.""",0,,0
+Ngarantau ibarat jalan-jalan ka leuweung nu loba jurigna.,Ngarantau nyenengkeun,Ngarantau sieun.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor likens ""ngarantau"" (wandering) to ""jalan-jalan ka leuweung nu loba jurigna"" (going for a walk in a crowded forest). When someone goes for a walk in a forest with many obstacles, it implies that they are enjoying the journey despite the challenges. Thus, the closest meaning is ""ngarantau nyenengkeun"" (enjoying the journey).",0,,0
+Jaket maneh naha siga jaket artis.,Jaket maneh butut,Jaket maneh alus.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares a regular jacket to a celebrity's jacket, implying that the regular jacket is less glamorous or fancy compared to the celebrity's. Therefore, the meaning closest to the metaphor is ""Jaket maneh butut"" which translates to ""regular jacket"" or ""ordinary jacket"" implying that the regular jacket is not as fancy as the celebrity's jacket.",0,,0
+Acuk seuseuhan abdi mah sapertos acuk jalmi beres nguli.,Acuk seuseuhan abdi mah beresih,Acuk seuseuhan abdi mah kotor.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor is comparing ""acuk"" to ""abdi mah"", implying that ""acuk"" is as clean as ""abdi mah"". Therefore, the option ""Acuk seuseuhan abdi mah beresih"" meaning ""Acuk is as clean as abdi mah"" is the correct interpretation.",0,,0
+Budak rerencangan abdi irungnya samancung jalmi nu beres nyusruk.,Budak rerencangan abdi irungna mancung,Budak rerencangan abdi irungna pesek.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In the metaphor, ""Budak rerencangan abdi irungnya samancung jalmi nu beres nyusruk"", the use of the word ""samancung"" implies that the person's nose is sharp or pointed. Therefore, the closest meaning would be option 0) Budak rerencangan abdi irungna mancung (the child of a planter has a sharp nose). Option 1) Budak rerencangan abdi irungna pesek (the child of a planter has a flat nose) is the opposite meaning and does not align with the sharp or pointed nose described in the metaphor.",0,,0
+Pindah bumi ibarat manggihan dompet.,Pindah bumi nyedihkeun,Pindah bumi nyenengkeun.,1,"{
+  ""answer"": 0
+}",0,,0
+Naek kareta ekonomi sarupa calik dina korsi papan,Naek kareta ekonomi teu enakeun,Naek kareta ekonomi enakeun.,0,"{
+  ""answer"": 1
+} 
+
+This metaphor is comparing driving a car to the economy, implying that driving the economy forward is like driving a car on a road. Therefore, the closest meaning is ""Naek kareta ekonomi enakeun"" which means ""Driving the economy is smooth.""",1,,0
+Naek kareta ekonomi sarupa calik dina sofa busa.,Naek kareta ekonomi teu enakeun,Naek kareta ekonomi enakeun.,1,"{
+  ""Explanation"": ""The metaphor suggests that the economy is growing steadily but still needs improvement, similar to how a sofa may be comfortable but could still use some cushions."",
+  ""Answer"": 0
+}",0,,0
+Basa inggris maneh geus saalus budak nu karak diajar ngomong.,Basa inggris maneh lancar,Basa inggris maneh balelol.,1,"{
+  ""Explanation"": ""The metaphor compares the English language proficiency of the child before and after being taught how to speak. 'Basa inggris maneh geus saalus budak nu karak diajar ngomong' means 'The English of the child is much better now that he has been taught to speak.'"",
+  ""Answer"": 0
+}",0,,0
+Carita nini abdi kawas carita nu nyieun sare.,Carita nini abdi rame tur alus,Carita nini abdi butut.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing a story to a well-made and interesting vehicle. Option 0) Carita nini abdi rame tur alus - This option reflects that the story is engaging and well-crafted, similar to a well-functioning car. Option 1) Carita nini abdi butut - This option means the story is boring and uninteresting, which is the opposite of what the metaphor indicates.",0,,0
+Minyak goreng ayeuna geus saharga kacang.,Minyak goreng ayeuna mahal,Minyak goreng ayeuna mirah.,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, ""Minyak goreng ayeuna geus saharga kacang"" translates to ""Cooking oil now costs as much as peanuts."" This implies that something that used to be inexpensive (cooking oil) has now become expensive, similar to how peanuts are generally inexpensive. Option 0) Minyak goreng ayeuna mahal (Cooking oil is now expensive) is the closest meaning to the metaphor.",0,,0
+Cai sumur ayeuna mah kos cai kopi,Cai sumur ayeuna kiruh,Cai sumur ayeuna herang.,0,"{
+  ""answer"": 1
+} 
+
+This metaphor is comparing the water from the well to coffee, indicating that the water is strong and intense like coffee. Therefore, the closest meaning would be ""Cai sumur ayeuna herang"" which means the water from the well is strong or intense.",1,,0
+Cai sumur ayeuna mah kos cai aqua.,Cai sumur ayeuna kiruh,Cai sumur ayeuna herang.,1,"{
+  ""Explanation"": ""The metaphor is comparing a deep well to a person who is very knowledgeable (kos) and comparing a shallow well to a person who is ignorant (herang)."",
+  ""Answer"": 0
+}",0,,0
+Ngadangu carita anjeun mah kawas ngimpi naek ferrari.,Ngadangu carita anjeun mah ngareuwaskeun,Ngadangu carita anjeun mah nyenengkeun.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In the metaphor, dreaming of riding a ferrari represents reaching for something luxurious or unattainable. Therefore, the closest meaning is ""Ngadangu carita anjeun mah ngareuwaskeun"" which means to reach for something unattainable.",0,,0
+Hirup teu boga elmu sarupa leumpang sapanjang jalan nu loba lampuna.,Hirup teu boga elmu teu jelas,Hirup teu boga elmu jelas.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing having no knowledge to walking a dark path with many obstacles. Option 0) Hirup teu boga elmu teu jelas means ""having no clear knowledge"", which is closer to the metaphor than the option 1) Hirup teu boga elmu jelas which means ""having clear knowledge"".",0,,0
+Pertanyaan si bapa teh meuni kos tts kompas,Pertanyaan si bapa bermutu tur sesah,Pertanyaan si bapa teu bermutu.,0,"{
+  ""error"": ""No explanation provided""
+}",1,NG,0
+Kunaon atuh eta seragam teh jiga baju ti londri.,Kunaon atuh eta seragam teh risek,Kunaon atuh eta seragam teh licin.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the similarity between the fabric of the clothing and the tablecloth. The word ""risek"" means rough, which is closer to the idea of similarities between the two items. Option 0 reflects the roughness in the comparison.",0,,0
+Hirup abdi mah kawas tv baheula,Hirup abdi mah hitam putih tur monoton,Hirup abdi mah loba warnana.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Hirup abdi mah kawas tv baheula"" translates to ""My life is like an old black and white TV,"" implying that the person's life is varied and colorful, similar to a colored TV with many different channels. Option 1) Hirup abdi mah loba warnana represents this meaning, as it emphasizes the idea of having many different colors.",1,,0
+Buruan tatangga teh meuni saluas wc kareta.,Buruan tatanga luas,Buruan tatanga heurin.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing the smoothness of a car and the relationship between neighbors. In this context, ""luas"" (smooth) is more closely related to the smoothness of a car, which fits the metaphor. ""Heurin"" (yellow) does not make sense in this context.",0,,0
+Gambar rayi abdi layak umpama gambar nu meunang ponten F.,Gambar rayi abdi hade,Gambar rayi abdi butut.,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, ""gambar rayi abdi layak umpama gambar nu meunang ponten F"" is comparing the quality of the image made by the speaker to an image that wins a competition, represented as ""gambar nu meunang ponten F."" The option ""Gambar rayi abdi hade"" which means ""My drawing is deserving"" is closer in meaning to the metaphor because it conveys the idea that the speaker's drawing is worthy or deserving similar to the winning image in the competition.",0,,0
+Tulisan budak teh meuni jiga cakar hayam,Tulisan budak teh acak-acakan,Tulisan budak teh rapi.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: In this metaphor, the phrase ""Tulisan budak teh meuni jiga cakar hayam"" refers to something that is neat and well-organized, like the feathers of a chicken. Therefore, the meaning closest to the metaphor is option 1) Tulisan budak teh rapi.",1,,0
+Tulisan budak teh meuni jiga hasil ngeprint.,Tulisan budak teh acak-acakan,Tulisan budak teh rapi.,1,"{
+  ""explanation"": ""Budak teh is probably referring to a child making tea, which is a metaphor for someone inexperienced or unskilled. So, the phrase 'Tulisan budak teh meuni jiga hasil ngeprint' most likely means messy handwriting rather than neat handwriting."",
+  ""answer"": 0
+}",0,,0
+Elmu agama kawas gudang nu eweuh lampuan.,Elmu agama caang tur nuntun,Elmu agama poek.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor here suggests that knowledge is like a warehouse that contains treasures, which implies that knowledge is vast and valuable. Option 0 reflects this idea as it mentions guidance and instruction, which align with the metaphor. Option 1, on the other hand, does not capture the depth and richness implied by the metaphor.",0,,0
+Cai Dieng sapertos cai termos.,Cai Dieng tiis,Cai Dieng panas.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares ""Cai Dieng"" to ""termos"", implying that Cai Dieng can endure or withstand like a termos does. Option 0) ""Cai Dieng tiis"" relates to endurance or resilience, making it the closest meaning to the metaphor. Option 1) ""Cai Dieng panas"" does not fit the comparison of enduring like a termos.",0,,0
+Ngendong sawengi ge bawaan teh kawas jalmi nu bade pindahan,Ngendong sawengi ge bawaan teh seueur,Ngendong sawengi ge bawaan teh teu aya.,0,"{
+  ""Explanation"": ""The metaphor is comparing Ngendong's situation to someone trying to move when there is nothing to carry."",
+  ""Answer"": 1
+}",1,,0
+Acuk rerencangan abdi sapertos bu haji,Acuk rerencangan abdi katutup,Acuk rerencangan abdi kabuka.,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, ""Acuk rerencangan abdi sapertos bu haji"" is comparing making plans to going on a journey. Just like when going on a journey, plans should be open and flexible to adapt to unexpected situations. Therefore, the closest meaning to the metaphor is ""Acuk rerencangan abdi kabuka"" which translates to ""My plans are open.""",1,,0
+Acuk rerencangan abdi sapertos awewe nu arek mangkal.,Acuk rerencangan abdi katutup,Acuk rerencangan abdi kabuka.,1,"{
+  ""Explanation"": ""In this metaphor, 'Acuk rerencangan' is compared to a closed book for 'katutup', meaning the plan is secretive or hidden. Therefore, the closest meaning is 'Acuk rerencangan abdi katutup.'"",
+  ""Answer"": 0
+}",0,,0
+Kahayang abdi mah sagede truk,Kahayang abdi mah seueur,Kahayang abdi mah saalit.,0,"{
+  ""answer"": 1
+}
+
+Explanation: In this metaphor, the comparison is between a truck and being tired. The word ""sagede"" in Sundanese means big or heavy, so it is comparing the feeling of tiredness to a large truck. The word ""seueur"" means slow, which is a closer match to being tired compared to the word ""saalit"" which means light or easy. Therefore, the correct option is 1) Kahayang abdi mah saalit.",1,,0
+Kahayang abdi mah sagede keresek indomaret.,Kahayang abdi mah seueur,Kahayang abdi mah saalit.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Kahayang abdi mah sagede keresek indomaret"" likely means that the speaker has many tasks to complete and needs to prioritize them. Option 0) ""Kahayang abdi mah seueur"" which means ""I have a lot of things to do"" is the closest in meaning to this metaphor as it conveys the idea of having many tasks to complete. Option 1) ""Kahayang abdi mah saalit"" which means ""I am feeling lazy"" is not as relevant to the metaphor.",0,,0
+Tutumbenan masakan dinten ieu kawas masakan sesa minggu kamari.,Tutumbenan masakan dinten ieu raos pisan,Tutumbenan masakan dinten ieu teu raos.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor is comparing the difficulty level of cooking today to the previous week. Option 0) Tutumbenan masakan dinten ieu raos pisan (Today's cooking is much easier) is the closest in meaning to the metaphor, as it implies that today's cooking is not as challenging as it was the previous week. Option 1) Tutumbenan masakan dinten ieu teu raos (Today's cooking is not difficult) does not capture the comparison to the cooking done a week ago.",0,,0
+Kaca di kamar abdi meuni sagede kaca spion,Kaca di kamar abdi meuni alit,Kaca di kamar abdi meuni ageung.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Kaca di kamar abdi meuni sagede kaca spion"" translates to ""The mirror in my room is as big as a side mirror."" In this context, the comparison is emphasizing the large size of the mirror, similar to a side mirror on a car. Thus, the closest meaning would be ""Kaca di kamar abdi meuni ageung,"" which means ""The mirror in my room is big.""",1,,0
+Akuarium hotel ieu meuni saageung keler kue.,Akuarium hotel ieu ageung,Akuarium hotel ieu alit.,1,"{
+	""answer"": 0
+}
+
+Explanation: In this metaphor, the aquarium is being compared to a hotel. The word ""keler"" in Sundanese can mean ""large"" or ""spacious"", while ""ageung"" means ""big"" or ""grand"". Therefore, the meaning closest to the metaphor would be that the aquarium hotel is big (option 0).",0,,0
+Mun jadi jalmi ulah sok pondok hate.,Mun jadi jalmi ulah sok agul,Mun jadi jalmi ulah sok pesimis.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, the phrase ""sok pondok hate"" implies someone who acts like they know everything or are always right. Therefore, the option ""0) Mun jadi jalmi ulah sok agul"" which means ""if you become a person who always thinks they are right"" is the closest meaning to the metaphor.",0,,0
+Diajar ekonomi sapertos renang di kulah cai es,Diajar ekonomi nyengsarakeun,Diajar ekonomi nyenengkeun.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor mentions learning economics like swimming in icy water, which signifies that it is difficult and challenging. Option 0) ""Diajar ekonomi nyengsarakeun"" means learning economics is difficult, which aligns with the metaphor. Option 1) ""Diajar ekonomi nyenengkeun"" means learning economics is enjoyable, which is not consistent with the metaphor. Therefore, the answer is option 0.",1,,0
+Tisu merek eta mah saalus karung beas.,Tisu merek eta mah alus,Tisu merek eta mah kasar.,1,"{
+  ""question"": ""Tisu merek eta mah saalus karung beas."",
+  ""option_0"": ""Tisu merek eta mah alus"",
+  ""option_1"": ""Tisu merek eta mah kasar."",
+  ""explanation"": ""The metaphor 'Tisu merek eta mah saalus karung beas' means the tissue brand is very soft, comparing it to the softness of a baby's skin. Therefore, the meaning 'Tisu merek eta mah alus' is the closest as it aligns with the metaphor's positive connotation of softness."",
+  ""answer"": 0
+}",0,,0
+Omongan presiden teh umpama cai di daun taleus,Omongan presiden teh gonta-ganti,Omongan presiden teh ajeg.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: In this metaphor, the president's words are compared to tea steeped in tea leaves. Tea that is ""ajeg"" or strong and consistent, would be a closer meaning to the metaphor than tea that changes flavors, represented by ""gonta-ganti.""",1,,0
+Kualitas koper anyar teh kos urut batur,Kualitas koper anyar teh butut,Kualitas koper anyar teh alus.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor implies that the quality of a new copper kettle is like a clear and smooth stream, which suggests that the quality is good. Therefore, the closest meaning is Option 1: Kualitas koper anyar teh alus (The quality of the new copper kettle is good).",1,,0
+Ngadangukeun lagu Yura Yunita sapertos hujan guludug.,Ngadangukeun lagu Yura Yunita nenangkeun,Ngadangukeun lagu Yura Yunita gandeng tur ngaganggu.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Ngadangukeun lagu Yura Yunita sapertos hujan guludug"" means ""listening to Yura Yunita's song is like gentle rain."" Option 0) ""Ngadangukeun lagu Yura Yunita nenangkeun"" means ""listening to Yura Yunita's song is soothing,"" which is closest to the metaphor of gentle rain. Option 1) ""Ngadangukeun lagu Yura Yunita gandeng tur ngaganggu"" means ""listening to Yura Yunita's song is annoying and disturbing,"" which is not in line with the metaphor.",0,,0
+Tumpeng damelan si uwak meuni sajangkung meja lipet lesehan.,Tumpeng damelan si uwak jangkung,Tumpeng damelan si uwak pondok.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: Tumpeng is typically a cone-shaped rice dish served during special occasions in Indonesian culture. Here, the metaphor of ""tumpeng damelan si uwak meuni sajangkung meja lipet lesehan"" suggests a gathering or event where the main focus is on the central tumpeng dish. Option 0) Tumpeng damelan si uwak jangkung is the closest meaning as ""jangkung"" means tall or prominent, which aligns with the idea of the tumpeng being the center of attention at the event. Option 1) Tumpeng damelan si uwak pondok does not fit the metaphor as ""pondok",0,,0
+Buku sakola ayeuna sakandeul koran,Buku sakola ayeuna ipis,Buku sakola ayeuna kandeul.,0,"{
+  ""answer"": 1
+}
+
+Explanation: In this metaphor, ""Buku sakola ayeuna sakandeul koran"" means ""The school books now look like the pages of a Quran."" The closest meaning among the options is ""Buku sakola ayeuna kandeul,"" which translates to ""The school books now resemble the pages of a Quran."" Therefore, option 1 is the correct choice.",1,,0
+Cuaca dinten ieu sapertos langit nu nuju sedih,Cuaca dinten ieu hujan,Cuaca dinten ieu cerah.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""Cuaca dinten ieu sapertos langit nu nuju sedih"" can be interpreted as ""the weather today is like a sky heading towards sadness."" This implies that the weather is gloomy and possibly overcast, which is closer in meaning to option 0) Cuaca dinten ieu hujan (rainy weather).",1,,0
+Biaya listrik makin kiwari makin kos porosotan.,Biaya listrik makin kiwari makin naek,Biaya listrik makin kiwari makin turun.,1,"{ ""Answer"": 0}
+
+This metaphor is comparing the increase in electricity costs to the rising of a mountain. Therefore, the closest meaning to the metaphor is ""Biaya listrik makin kiwari makin naek"" which means ""electricity costs are getting higher and higher.""",0,,0
+Karpet anyar teh warnana jiga areng.,Karpet anyar teh warnana cerah,Karpet anyar teh warnana poek.,1,"{
+  ""explanation"": ""The metaphor is comparing the color of the new carpet to a bright yellow, suggesting that it is vibrant and eye-catching."",
+  ""answer"": 0
+}",0,,0
+Gawe tanpa elmu umpama ngala lauk di akuarium make jaring.,Gawe tanpa elmu sesah,Gawe tanpa elmu gampil.,1,"{
+  ""Explanation"": ""The metaphor compares doing something without knowledge to catching fish in an aquarium without a net. The closest meaning is that doing something without knowledge is difficult, similar to trying to catch fish in an aquarium without a net."",
+  ""Answer"": 0
+}",0,,0
+Poto kawinan anjeun sapertos poto di kalender toko emas.,Poto kawinan anjeun estetik,Poto kawinan anjeun teu estetik.,1,"{
+  ""Explanation"": ""The metaphor compares a wedding photo to a photo in a jewelry store calendar, implying that the wedding photo is aesthetically pleasing like a professional photograph in a calendar for a jewelry store."",
+  ""Answer"": 0
+}",0,,0
+Harga anduk di toko ieu samirah dp bumi di komplek elit.,Harga anduk di toko ieu mirah,Harga anduk di toko ieu awis.,1,"{
+  ""answer"": 0
+}
+
+The metaphor compares the price of ducks in a particular store to Mirah, implying that it is expensive or valuable. Option 0) Harga anduk di toko ieu mirah is the closest meaning as Mirah is associated with high quality or value in this context. Option 1) Harga anduk di toko ieu awis does not fit the metaphor as ""awis"" does not carry the connotation of being expensive or valuable.",0,,0
+Desain Totoya nu anyar kawas mobil cocooan.,Desain Toyota nu anyar keren tur canggih,Desain Toyota nu anyar butut.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor is comparing the new design of Toyota to a cocoon, which symbolizes metamorphosis and transformation. Therefore, the closest meaning would be that the new design of Toyota is cool and advanced, similar to how a caterpillar transforms into a butterfly inside a cocoon.""
+}",0,,0
+Naek gunung Sumbing umpama naek gunung nganggo sapatu roda,Naek gunung Sumbing sesah,Naek gunung Sumbing gampil.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Naek gunung Sumbing umpama naek gunung nganggo sapatu roda"" compares climbing Mount Sumbing to climbing it wearing a roller skate. This implies that climbing Mount Sumbing is difficult and challenging, similar to trying to climb a mountain with a roller skate which is not suitable for the task. The option ""Naek gunung Sumbing gampil"" (Mount Sumbing is easy) is the opposite of the metaphor and does not accurately reflect the meaning of the comparison. Hence, the correct option is ""Naek gunung Sumbing sesah"" (Mount Sumbing is difficult), as it aligns with the challenging nature of the metaphor.",1,,0
+Naek gunung Sumbing umpama naek gunung digandong porter.,Naek gunung Sumbing sesah,Naek gunung Sumbing gampil.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Naek gunung Sumbing umpama naek gunung digandong porter"" compares climbing Mount Sumbing to being carried by a porter. This implies that the journey up the mountain is difficult and challenging, similar to how it would be if someone had to be carried up. Option 0) ""Naek gunung Sumbing sesah"" closely reflects the challenging and difficult nature of the metaphor.",0,,0
+Kulah lauk di bumi aki salega bagasi motor,Kulah lauk di bumi aki leutik,Kulah lauk di bumi aki lega.,0,"{
+  ""Explanation"": ""In this metaphor, 'kulah lauk di bumi aki salega bagasi motor' is describing something out of place or unusual on the ground, which is the motorbike luggage. Out of the options given, 'Kulah lauk di bumi aki lega' means something that is misplaced or out of the ordinary, similar to the motorbike luggage on the ground."",
+  ""Answer"": 1
+}",1,,0
+Rorompok amih lamun nuju seueur dulur kawas bumi di tengah leuweung.,Rorompok amih lamun nuju seueur dulur rame tur gandeng,Rorompok amih lamun nuju seueur dulur tiiseun tur jempling.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The phrase ""Rorompok amih lamun nuju seueur dulur kawas bumi di tengah leuweung"" metaphorically refers to a group of ants carrying food back to their colony in the middle of the forest. Option 0) ""Rorompok amih lamun nuju seueur dulur rame tur gandeng"" which means ""a group of ants carrying food together in an orderly manner"" is the closest interpretation to the metaphor. This option captures the idea of unity and collaboration among the ants, similar to how people work together towards a common goal.",0,,0
+Kelas X IPS mah aya teu aya guru umpama barudak di perpustakaan.,Kelas X IPS mah aya teu aya guru gandeng,Kelas X IPS mah aya teu aya guru jempling.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In the metaphor, ""Kelas X IPS mah aya teu aya guru umpama barudak di perpustakaan"", the comparison is between the presence or absence of a teacher in the classroom and the behavior of children in a library. In a library, children without adult supervision may behave like a ""barudak"" or misbehave, whereas with a teacher present, they would be more disciplined. Therefore, option 0) ""Kelas X IPS mah aya teu aya guru gandeng"" which suggests that with a teacher around, the students would be well-behaved, is the closest meaning to the metaphor.",0,,0
+Sapatu pamere mamang teh kawas sapatu meunang nginjeum,Sapatu pamere mamang teh teu mahi,Sapatu pamere mamang teh mahi.,0,"{
+  ""Explanation"": ""The metaphor is comparing winning a shoe to getting a smile, implying that winning a shoe brings happiness."",
+  ""Answer"": 1
+}",1,,0
+Lomari di kamar pun kolot saageung bagasi mobil sedan.,Lomari di kamar pun kolot ageung,Lomari di kamar pun kolot alit.,1,"{
+  ""Explanation"": ""The metaphor is comparing the clutter in the room to the limited space in the trunk of a sedan car."",
+  ""Answer"": 0
+}",0,,0
+Lukisan ieu sapertos karya budak nu keur diajar ngagambar.,Lukisan ieu alus,Lukisan ieu butut.,1,"{
+  ""question"": ""Lukisan ieu sapertos karya budak nu keur diajar ngagambar."",
+  ""options"": {
+    ""0"": ""Lukisan ieu alus"",
+    ""1"": ""Lukisan ieu butut""
+  },
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the painting to the work of a child who is just learning to draw. This implies that the painting is well-crafted or skillfully done, similar to how a child's drawing may show potential and talent. Therefore, the closest meaning to the metaphor is ""Lukisan ieu alus"" which translates to ""This painting is well-done.""",0,,0
+Jolang di bumi rerencangan abdi kawas kulah lauk,Jolang di bumi rerencangan abdi ageung,Jolang di bumi rerencangan abdi alit.,0,"{
+  ""Explanation"": ""The metaphor compares the speaker's status or importance to the size of the fish (kulah lauk). 'Kulah lauk' is a small fish, so the meaning 'Jolang di bumi rerencangan abdi alit' (small) is the closest choice."",
+  ""Answer"": 1
+}",1,,0
+Jolang di bumi rerencangan abdi kawas gayung.,Jolang di bumi rerencangan abdi ageung,Jolang di bumi rerencangan abdi alit.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing someone's presence on Earth to using a tool (gayung). The word ""ageung"" in Sundanese means big or significant, so the correct meaning would be ""Jolang di bumi rerencangan abdi ageung"" which translates to ""Walking on Earth, my existence is important"".",0,,0
+Sangu di warung ieu mah sapertos sangu beres akeul,Sangu di warung ieu pulen,Sangu di warung ieu heuras.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor here is comparing the feeling of being satisfied after finishing a meal to feeling refreshed and energized after visiting this particular shop. ""Sangu di warung ieu heuras"" means feeling refreshed, similar to feeling revitalized after a good meal.",1,,0
+Martabak Mang Idoy umpama emas nu hargana naek.,Martabak Mang Idoy payu,Martabak Mang Idoy teu payu.,1,"{
+  ""answer"": 0
+}  
+
+This metaphor is comparing ""Martabak Mang Idoy"" to gold whose value increases. Option 0) ""Martabak Mang Idoy payu"" means ""Martabak Mang Idoy is precious,"" which closely conveys the metaphorical meaning.",0,,0
+Laut di Sukabumi kawas kelas meunang piket,Laut di Sukabumi beresih,Laut di Sukabumi bala.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Laut di Sukabumi kawas kelas meunang piket"" can be interpreted as a situation where the sea in Sukabumi is calm and peaceful. Option 0) ""Laut di Sukabumi beresih"" also conveys this sense of calmness and cleanliness, while option 1) ""Laut di Sukabumi bala"" does not match the metaphor as it means the sea in Sukabumi is dangerous or turbulent.",1,,0
+Laut di Sukabumi kawas lapang urut konser.,Laut di Sukabumi beresih,Laut di Sukabumi bala.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor is comparing the sea in Sukabumi which is calm and peaceful, hence the closest meaning is 'Laut di Sukabumi beresih' (calm sea in Sukabumi).""
+}",0,,0
+Twitter jaman kiwari makin sapertos warung bakso jam 12 beurang basa keur bulan puasa.,Twitter jaman kiwari makin rame,Twitter jaman kiwari makin tiiseun.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares Twitter during the old days to a busy ""warung bakso"" (meatball soup stall) at 12 o'clock during fasting month. The option ""Twitter jaman kiwari makin rame"" (Twitter nowadays is getting more crowded) is closer in meaning as it implies that Twitter in the present time is becoming busier and more populated, similar to how a food stall would be during peak hours.",0,,0
+Hargi sewa mobil di dieu saharga biaya naek beca.,Hargi sewa mobil di dieu awis,Hargi sewa mobil di dieu mirah.,1,"{
+  ""question"": ""Hargi sewa mobil di dieu saharga biaya naek beca."",
+  ""options"": {
+    ""0"": ""Hargi sewa mobil di dieu awis"",
+    ""1"": ""Hargi sewa mobil di dieu mirah.""
+  },
+  ""answer"": 0
+} 
+
+Explanation: The metaphor implies that the price of renting a car is similar to the cost of riding a bike, suggesting that renting a car is affordable. Option 0) ""Hargi sewa mobil di dieu awis"" translates to ""Renting a car here is cheap,"" which aligns closely with the intended meaning of the metaphor. Option 1) ""H",0,,0
+Huntu Si Joko jiga seragam golkar,Huntu Si Joko koneng,Huntu Si Joko bodas.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""Huntu Si Joko jiga seragam golkar"" suggests that Huntu Si Joko is associated with golkar, which is a political party in Indonesia. Therefore, the closest meaning would be ""Huntu Si Joko bodas"" which means ""Huntu Si Joko is aligned with golkar.""",1,,0
+Huntu Si Joko jiga mukena lebaran.,Huntu Si Joko koneng,Huntu Si Joko bodas.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, ""Si Joko"" is compared to a ""Huntu,"" which means a ghost or a spirit. The word ""mukena"" means to disappear or vanish. Therefore, the closest meaning to the metaphor would be ""Huntu Si Joko koneng,"" which means ""Joko suddenly disappeared.""",0,,0
+Manehna ngahasilkeun artos jiga milarian cai di gurun.,Manehna ngahasilkeun artos meuni gampil,Manehna ngahasilkeun artos hese pisan.,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, ""Manehna ngahasilkeun artos jiga milarian cai di gurun"" refers to counting money in the middle of the desert. The closest meaning out of the options is ""Manehna ngahasilkeun artos meuni gampil"" which means counting money is simple.",0,,0
+Biwirna ngucapkeun kecap kawas cabe,Biwirna ngucapkeun kecap nu mikeun nyeri hate,Biwirna ngucapkeun kecap mikeun bungah.,0,"{
+  ""answer"": 1
+}
+
+The metaphor ""Biwirna ngucapkeun kecap kawas cabe"" can be interpreted as expressing something that brings pain or discomfort, similar to the taste of a spicy chili. Option 0) Biwirna ngucapkeun kecap nu mikeun nyeri hate, translates to ""expressing words that cause heartache or pain"", which aligns more closely with the metaphor.",1,,0
+Manehna angkat liburan nganggo manuk beusi.,Manehna angkat liburan nganggo motor,Manehna angkat liburan nganggo pesawat.,1,"{
+""answer"": 0,
+""explanation"": ""The metaphor is comparing the activity of taking a vacation to riding a horse (manuk beusi). Since a horse is used for leisurely activities like riding for fun or relaxing, the closest meaning would be option 0) Manehna angkat liburan nganggo motor (riding a motorbike for vacation).""
+}",0,,0
+"Ceuk babaturanana, manehna mangrupikeun jalma sirah batu","Ceuk babaturanana, manehna mangrupikeun jalma keras kepala","Ceuk babaturanana, manehna mangrupikeun jalma anu ngartikeun.",0,"{
+  ""answer"": 1
+}
+
+Explanation: In the metaphor, ""jalma sirah batu"" translates to ""a person with a stone head."" This implies that the person is stubborn, rigid, and unyielding in their thoughts or actions. Option 1 accurately captures this meaning by stating ""jalma anu ngartikeun,"" which means ""a person who is stubborn."" Option 0, on the other hand, suggests ""jalma keras kepala,"" which means ""a person with a hard head,"" focusing more on the physical attribute rather than the metaphorical meaning of being stubborn.",1,,0
+Manehna jalmi nu tiis leungeun,Manehna jalmi nu bisa naon wae,Manehna jalmi nu teu bisa nanaon.,0,"{""answer"":1}
+
+This metaphor is comparing someone who is constantly making excuses to water that cannot be held by a sieve. Option 1) Manehna jalmi nu teu bisa nanaon (someone who is unable to hold water) is the closest meaning to the metaphor.",1,,0
+Manehna jalmi nu panas leungeun.,Manehna jalmi nu bisa naon wae,Manehna jalmi nu teu bisa nanaon.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Manehna jalmi nu panas leungeun"" translates to ""A person who is hot in the afternoon,"" which means someone who is bothered or irritated. Option 0) Manehna jalmi nu bisa naon wae translates to ""A person who can't stand it anymore,"" which is the closest in meaning to being bothered or irritated. Option 1) Manehna jalmi nu teu bisa nanaon translates to ""A person who can't do anything,"" which is not as fitting in this context.",0,,0
+Manehna tampil siga semut dina taneuh.,Manehna tampil siga percaya diri,Manehna tampil siga henteu percaya diri.,1,"{
+  ""Explanation"": ""In this metaphor, the first option 'Manehna tampil siga percaya diri' is closer in meaning as it reflects the confidence exuded by someone appearing like an ant in the ground."",
+  ""Answer"": 0
+}",0,,0
+Dina éta balapan manehna jiga béntang lapangan,Dina éta balapan manehna jiga idola,Dina éta balapan manehna jiga jalmi nu teu diperhitungkeun.,0,"{
+  ""answer"": 1
+}  
+
+The metaphor compares Dina to a star in the sky, shining brightly and attracting attention. Option 1) ""Dina éta balapan manehna jiga jalmi nu teu diperhitungkeun"" means Dina stands out like a star that is not taken into account, which closely resembles the metaphor.",1,,0
+Eta lalaki kawas penyihir.,Eta lalaki kawas sae pisan,Eta lalaki kawas jahat pisan.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Eta lalaki kawas penyihir"" suggests that the man is very skilled and proficient. Instead of meaning that the man is extremely evil (""jahat pisan""), the closer meaning is that he is very good or talented (""sae pisan""). So, the option 0) ""Eta lalaki kawas sae pisan"" is the appropriate choice.",0,,0
+Manehna mangrupakeun pamingpin anu haneut hate,Manehna mangrupakeun pamingpin anu ngartikeun,Manehna mangrupakeun pamingpin anu teu ngartikeun.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor is comparing the leader to a sharp knife. In this context, ""anu haneut hate"" refers to a leader who makes tough decisions and enforces discipline, which is closer in meaning to option 1) Manehna mangrupakeun pamingpin anu teu ngartikeun (does not compromise).",1,,0
+Manehna mangrupakeun pamingpin anu tiis hate.,Manehna mangrupakeun pamingpin anu ngartikeun,Manehna mangrupakeun pamingpin anu teu ngartikeun.,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, ""Manehna mangrupakeun pamingpin anu tiis hate"" translates to ""He carries a burden that weighs heavy on his heart."" The closest meaning among the options is ""Manehna mangrupakeun pamingpin anu ngartikeun"" which translates to ""He carries a burden that signifies something."" The burden symbolizes the emotional weight or hardship the person is carrying, which is better represented by the option 0.",0,,0
+Budak eta mah lurus haté,Budak eta mah baik,Budak eta mah sombong.,0,"{
+  ""answer"": 1
+}
+
+Explanation: In this metaphor, ""Budak eta mah lurus haté"" compares someone to a straight bamboo shoot, which is humble and upright. On the other hand, ""Budak eta mah sombong"" means proud. So, the closest meaning to the metaphor would be option 1) Budak eta mah sombong, as it contrasts with the humble and upright nature depicted in the metaphor.",1,,0
+Ushana nalika pandemi teh kawas jalanna kura-kura.,Usahana nalika pandemi teh kawas lancar pisan,Usahana nalika pandemi teh kawas hese pisan.,1,"{
+  ""Explanation"": ""In this metaphor, the mention of a snake (ular) represents danger or threat, while the mention of a turtle (kura-kura) represents safety or protection. Therefore, the closest meaning to the metaphor is option 0) Usahana nalika pandemi teh kawas lancar pisan."",
+  ""Answer"": 0
+}",0,,0
+Eta jelema teh kawas kertas kosong.,Eta jelema teh kawas berilmu,Eta jelema teh kawas teu ngarti nanaon.,1,"{
+  ""explanation"": ""The metaphor 'eta jelema teh kawas kertas kosong' implies that the person mentioned is like a blank piece of paper, meaning they are knowledgeable."",
+  ""answer"": 0
+}",0,,0
+Manehna ngarasa kawas raja leutik,Manehna ngarasa kawas boga kuasa,Manehna ngarasa kawas teu boga kuasa.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Manehna ngarasa kawas raja leutik"" translates to ""feeling like a small king"". This is not about having power like a king (Option 0), but rather about feeling important or special in a humble way (Option 1).",1,,0
+Manehna ngarasa kawas sampah masarakat.,Manehna ngarasa kawas boga kuasa,Manehna ngarasa kawas teu boga kuasa.,1,"{
+""answer"": 0
+}
+
+Explanation: The metaphor ""Manehna ngarasa kawas sampah masarakat"" translates to ""Feeling like the trash in society."" In this context, ""sampah masarakat"" (trash in society) implies feeling worthless or unimportant, which is closer in meaning to ""Manehna ngarasa kawas boga kuasa"" (feeling powerless) rather than ""Manehna ngarasa kawas teu boga kuasa"" (feeling powerful).",0,,0
+"Lamun diperlukeun, manehna senang pikeun pangku lengeun.","Lamun diperlukeun, manehna senang pikeun ngabantu","Lamun diperlukeun, manehna senang pikeun cicing wae.",1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Lamun diperlukeun, manehna senang pikeun pangku lengeun"" translates to ""If needed, it is easy to lend a hand."" Option 0) ""Lamun diperlukeun, manehna senang pikeun ngabantu"" means ""If needed, they are happy to help,"" which closely relates to the metaphor, indicating a willingness to assist when necessary. Option 1) ""Lamun diperlukeun, manehna senang pikeun cicing wae"" means ""If needed, they are happy to just watch,"" which does not align with the metaphor",0,,0
+Artis eta téh keur naék,Artis eta téh keur kawentar,Artis eta téh keur boga masalah.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Artis eta téh keur naék"" is closer in meaning to option 1) ""Artis eta téh keur boga masalah"" which translates to ""The artist and the tea are in trouble."" This conveys that there is a problem or difficulty being faced by the artist and the tea.",1,,0
+"Ceuk tatanggana, manehna teh hate leutik.","Ceuk tatanggana, manehna teh baik","Ceuk tatanggana, manehna teh pelit.",1,"{
+  ""Explanation"": ""The metaphor is comparing someone's behavior to being generous or stingy."",
+  ""Answer"": 0
+}",0,,0
+Babaturan kuring nyaéta jalma anu panjang leungeun.,Babaturan kuring nyaéta jalma anu senang mere,Babaturan kuring nyaéta jalma anu nyuri.,1,"{
+  ""answer"": 0
+}Explanation: The metaphor ""Babaturan kuring nyaéta jalma anu panjang leungeun"" means ""I am a person with long arms."" Option 0) ""Babaturan kuring nyaéta jalma anu senang mere"" is the closest meaning as it refers to someone who is helpful or generous, similar to having long arms to reach out and help others. Option 1) ""Babaturan kuring nyaéta jalma anu nyuri"" means a person who steals, which is not fitting with the metaphor.",0,,0
+Beungeutna katingali kawas caang panonpoé,Beungeutna katingali kawas bahagia,Beungeutna katingali kawas loba masalah.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor ""Beungeutna katingali kawas caang panonpoé"" can be interpreted as ""Beungeutna katingali kawas loba masalah"" because the phrase ""caang panonpoé"" implies a lot of hidden problems or difficulties, which is closer in meaning to ""loba masalah"" (many problems) rather than ""bahagia"" (happy).",1,,0
+Manehna mangrupikeun kutu buku,Manehna mangrupikeun senang maca buku,Manehna mangrupikeun loba omong.,0,"{
+  ""answer"": 1
+} 
+
+This metaphor is implying that the person is very talkative, not that they enjoy reading books. The phrase ""kutu buku"" can be interpreted as ""bookworm"" or someone who talks a lot. So, the correct option is 1) Manehna mangrupikeun loba omong.",1,,0
+Tanaga manehnya kawas semut.,Tanaga manehnya kawas kuat pisan,Tanaga manehnya kawas lemah.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Tanaga manehnya kawas semut"" compares the strength or toughness of a person to an ant. In this context, ants are known for their strength and resilience, so the meaning closest to the metaphor would be option 0) ""Tanaga manehnya kawas kuat pisan"" which means the person is very strong.",0,,0
+Hate manusia kadang kawas langit.,Hate manusia kadang luas,Hate manusia kadang tinggi pisan.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, ""Hate manusia kadang kawas langit"" means that human hatred can sometimes be vast like the sky. The closest meaning among the options is ""Hate manusia kadang luas.""",0,,0
+Eta budak hiji mah mangrupakeun tulang tonggong,Eta budak hiji mah mangrupakeun unggulan,Eta budak hiji mah mangrupakeun masalah.,0,"{
+""Answer"": 1
+}
+
+Explanation: The metaphor ""Eta budak hiji mah mangrupakeun tulang tonggong"" suggests that the child is a problematic or difficult individual to deal with, not an advantage or asset. Therefore, the closest meaning is ""Eta budak hiji mah mangrupakeun masalah.""",1,,0
+Sorana siga ngaum singa,Sorana siga gede pisan,Sorana siga alit.,0,"{
+  ""question"": ""Sorana siga ngaum singa"",
+  ""option"": 1
+}
+
+Explanation: In the metaphor, ""sorana"" refers to a lion and ""siga"" refers to the size of the lion. ""Ngaum"" means to growl, indicating the lion is roaring loudly. Therefore, the meaning closest to the metaphor would be ""Sorana siga alit,"" which means the lion is small in size. 
+Answer: 1",1,,0
+Mulutna meuni beurat.,Mulutna meuni gampil ngomong,Mulutna meuni hese ngomong.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Mulutna meuni beurat"" literally means ""His/her mouth is heavy."" In this context, the closest meaning would be that the person is finding it difficult to speak, which aligns with the option 0) ""Mulutna meuni gampil ngomong"" meaning ""His/her mouth is having difficulty speaking.""",0,,0
+Kota ieu karasa kawas penjara.,Kota ieu karasa kawas nyaman,Kota ieu karasa kawas teu genah.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The phrase ""Kota ieu karasa kawas penjara"" metaphorically means ""This city feels like a comfortable prison"" where the emphasis is on feeling confined but content. Option 0) ""Kota ieu karasa kawas nyaman"" is closest in meaning to feeling comfortable.",0,,0
+Nalika ditanya manehna buka mulut,Nalika ditanya manehna nyarios,Nalika ditanya manehna pura-pura teu terang.,0,"{
+  ""Explanation"": ""The metaphor suggests that Nalika is not being transparent or truthful when asked to speak up."",
+  ""Answer"": 1
+}",1,,0
+Nalika ditanya manehna nutup panon.,Nalika ditanya manehna nyarios,Nalika ditanya manehna pura-pura teu terang.,1,"{
+  ""answer"": 0
+} 
+In this metaphor, ""Nalika ditanya manehna nutup panon"" is similar to ""Nalika ditanya manehna nyarios"" because both phrases suggest that when asked a question, the person is being straightforward and not hiding anything. Option 0) Nalika ditanya manehna nyarios aligns more closely with this interpretation.",0,,0
+Kadaharan eta réstoran karasaeun sapertos masakan di rumah sakit.,Kadaharan eta réstoran karasaeun sapertos masakan di lezat,Kadaharan eta réstoran karasaeun sapertos masakan di teu karasa nanaon.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares the taste of the food in the restaurant to the food in the hospital. Option 0) ""Kadaharan eta réstoran karasaeun sapertos masakan di lezat"" means ""The food in the restaurant tastes delicious,"" which is closer in meaning to the metaphor.",0,,0
+Haténa bener-bener teuas kawas batu.,Haténa bener-bener baik,Haténa bener-bener jahat.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Haténa bener-bener teuas kawas batu"" can be interpreted as ""Haténa bener-bener baik"" because the word ""kawas batu"" usually signifies something hard or tough, which in this context could refer to something good or strong. Therefore, the closest meaning would be ""Haténa bener-bener baik.""",0,,0
+Manehna naroskeun patarosan anu deet siga solokan.,Manehna naroskeun patarosan anu penting,Manehna naroskeun patarosan anu asal ngucap.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing the importance of the message being conveyed. Option 0) ""Manehna naroskeun patarosan anu penting"" which means ""The message being conveyed is important"" is the best match in terms of conveying the closest meaning to the metaphor.",0,,0
+Imahna karasa kawas penjara.,Imahna karasa kawas nyaman,Imahna karasa kawas teu ngenaheun.,1,"{
+  ""explanation"": ""The metaphor 'Imahna karasa kawas penjara' implies feeling comfortable or feeling trapped, so the closest meaning is 'Imahna karasa kawas nyaman' which means feeling comfortable."",
+  ""answer"": 0
+}",0,,0
+Manehna ngaréngsékeun tugasna kalayan lengkah kuya.,Manehna ngaréngsékeun tugasna kalayan cepet,Manehna ngaréngsékeun tugasna kalayan lila.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing completing a task to walking slowly. The option ""Manehna ngaréngsékeun tugasna kalayan cepet"" reinforces the idea of completing the task quickly, which aligns with the metaphor.",0,,0
+Padamelannana karasaeun kawas nincak paku.,Padamelannana karasaeun kawas ngeunah,Padamelannana karasaeun kawas teu ngeunah.,1,"{
+  ""Explanation"": ""The metaphor seems to be referring to something being clear or unclear, so the closest meaning would be the option where clarity is depicted."",
+  ""Answer"": 0
+}",0,,0
+Luncatna dina pertandingan siga luncat bajing,Luncatna dina pertandingan siga gampil,Luncatna dina pertandingan siga hese.,0,"{
+  ""answer"": 1
+}
+
+The metaphor compares the agility of the squirrel in a competition to the agility of the person. Option 1) Luncatna dina pertandingan siga hese (jumping in the competition like a squirrel) is the closest in meaning as it signifies agility and swiftness.",1,,0
+Luncatna dina pertandingan siga luncat kebo.,Luncatna dina pertandingan siga gampil,Luncatna dina pertandingan siga hese.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, ""Luncatna dina pertandingan siga luncat kebo"" means ""performing poorly in the game"" which is more similar to the option 0) Luncatna dina pertandingan siga gampil (play poorly) rather than option 1) Luncatna dina pertandingan siga hese (play well).",0,,0
+Usaha anu manehna lakukeun kawas naek tangga,Usaha anu manehna lakukeun kawas gampil,Usaha anu manehna lakukeun kawas hese.,0,"{
+  ""answer"": 1
+} 
+The metaphor ""Usaha anu manehna lakukeun kawas naek tangga"" can be interpreted as putting in effort to climb up the ladder, which closely relates to the option 1) Usaha anu manehna lakukeun kawas hese (putting in effort to climb up the ladder is not easy). This option captures the idea that the effort required is challenging and not simple. Option 0) Usaha anu manehna lakukeun kawas gampil does not convey the same level of difficulty implied by climbing up the ladder metaphor.",1,,0
+Usaha anu manehna lakukeun kawas naek bukit.,Usaha anu manehna lakukeun kawas gampil,Usaha anu manehna lakukeun kawas hese.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor compares effort to climbing a steep hill. The closest meaning would be ""Usaha anu manehna lakukeun kawas gampil"" which translates to the effort that one puts in is challenging but achievable, like climbing a steep hill.",0,,0
+Warna baju manehnya katingali caang sapertos beurang,Warna baju manehnya katingali bahagia,Warna baju manehnya katingali teu bahagia.,0,"{
+  ""answer"": 1
+} 
+
+In this metaphor, the color of the shirt is being compared to a cat's coat. Since cats can have various colors and patterns, saying ""Warna baju manehnya katingali caang sapertos beurang"" implies that the color of the shirt is unpredictable or constantly changing, similar to how a cat's coat can vary. The most fitting meaning among the options is ""Warna baju manehnya katingali teu bahagia"", which means the color of the shirt is not happy or bright, but rather uncertain or moody.",1,,0
+Warna baju manehnya katingali poek sapertos peuting.,Warna baju manehnya katingali bahagia,Warna baju manehnya katingali teu bahagia.,1,"{
+  ""Explanation"": ""The metaphor compares the color of the shirt to the feeling of happiness, so the closest meaning would be 'happy'."",
+  ""Answer"": 0
+}",0,,0
+Hirupna karasaeun di surga,Hirupna karasaeun di ngeunah,Hirupna karasaeun di loba cobaan.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""Hirupna karasaeun di surga"" implies a life filled with ease and comfort, which is closest in meaning to ""Hirupna karasaeun di loba cobaan"" where life is filled with many trials and challenges.",1,,0
+Hawana Jakarta upami tos siang mah sapertos ibun dina dangdaunan.,Hawana Jakarta upami tos siang mah panas,Hawana Jakarta upami tos siang mah tiris.,1,"{
+  ""Explanation"": ""The metaphor is comparing the city of Jakarta to the heat of the sun in the afternoon. Jakarta is known for its hot weather, so the meaning of 'panas' (hot) is the closest interpretation."",
+  ""Answer"": 0
+}",0,,0
+Rarayna siga kembang anu kakarak mekar,Rarayna katingali ngora,Rarayna katingali kolot.,0,"{
+  ""answer"": 1
+}
+
+Explanation: In the metaphor, the blooming flower represents something that is still young and developing. The options ""Rarayna katingali ngora"" means growing taller, while ""Rarayna katingali kolot"" means growing older. Since the flower is blooming, the closest meaning would be growing taller and not growing older.",1,,0
+Rarayna siga tangkal kolot anu layu.,Rarayna katingali ngora,Rarayna katingali kolot.,1,"{
+  ""Explanation"": ""In this metaphor, 'kolot' could refer to something far away or something old. Since the phrase mentions 'anu layu', which means far away, the meaning closer to the metaphor is 'kolot' referring to something far away."",
+  ""Answer"": 0
+}",0,,0
+Ngapalkeun materi kuliah mah kawas ngukir dina kai,Ngapalkeun materi kuliah mah gampil,Ngapalkeun materi kuliah mah sesah.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Ngapalkeun materi kuliah mah kawas ngukir dina kai"" can be interpreted as meaning that understanding the lecture material is difficult. Option 1) Ngapalkeun materi kuliah mah sesah"" aligns more closely with this interpretation, as it means that understanding the lecture material is challenging. Option 0) Ngapalkeun materi kuliah mah gampil"" means understanding the lecture material is easy, which is the opposite meaning of the metaphor.",1,,0
+Milarian padamelan salami Covid-19 siga nyekelan tonggong babaturan.,Milarian padamelan teh sesah,Milarian padamelan teh gampil.,1,"{
+""Answer"": 0,
+""Explanation"": ""The metaphor here is emphasizing that navigating through the challenges of Covid-19 is difficult and complex, similar to traversing a jungle with tough terrain. Option 0) Milarian padamelan teh sesah (Milarian padamelan is difficult) is the closest meaning to the metaphor.""
+}",0,,0
+Jualan online mah meunang kauntunganna téh siga ngagali emas di Pongkor,Jualan online shop teh kauntunganna seueur,Jualan online shop teh kauntunganna sakedik.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor comparing selling online to finding gold in Pongkor suggests that selling online can be very profitable, emphasizing the idea of making a large amount of profit (sakedik) rather than just a moderate amount (seueur).",1,,0
+Jualan online mah meunang kauntunganna téh siga ngala céré ti selokan.,Jualan online shop teh kauntunganna seueur,Jualan online shop teh kauntunganna sakedik.,1,"{""answer"":0}
+
+Explanation: The metaphor compares online selling to a river, implying that the profit margins are flowing steadily like a river. Option 0) ""Jualan online shop teh kauntunganna seueur"" is the closest meaning as it represents consistent profit margins. Option 1) ""Jualan online shop teh kauntunganna sakedik"" implies tiny profit margins, which does not match the metaphor of a river flowing steadily.",0,,0
+Ceuk batur gé hirup sareng pamajikan mah ibarat keur dijajah Walanda,Hirup sareng pamajikan mah kaampeuh,Hirup sareng pamajikan mah bébas.,0,"{
+  ""answer"": 1
+} 
+
+In this metaphor, being enslaved by the Dutch colonizers is likened to being bound and restricted. Therefore, the closest meaning would be ""Hirup sareng pamajikan mah bébas"" which means being free.",1,,0
+Ceuk batur gé hirup sareng pamajikan mah ibarat budak leutik ulin kaditu-kadieu.,Hirup sareng pamajikan mah kaampeuh,Hirup sareng pamajikan mah bébas.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing the relationship between the speaker and their employer to that of a young child with their nanny. In this context, ""hirup sareng pamajikan mah kaampeuh"" (living with the employer feels suffocating) is a closer meaning than ""hirup sareng pamajikan mah bébas"" (living with the employer feels free).",0,,0
+Kamajuan téhnologi di Indonésia kawas kéong keur lumpat.,Kamajuan téhnologi di Indonési gancang,"Kamajuan téhnologi di Indonési lalaunan,telat.",1,"{
+  ""answer"": 0
+}
+
+The metaphor in the startphrase implies that technological advancements in Indonesia are fast like a jumping keong (snail). Therefore, the closest meaning would be option 0) Kamajuan téhnologi di Indonési gancang which means technological advancements in Indonesia are fast.",0,,0
+Ayeuna jumlah motor di jalan téh siga eusi dompét dina ahir bulan.,Ayeuna jumlah motor di jalan teh seeur,Ayeuna jumlah motor di jalan teh saeutik.,1,"{
+  ""Explanation"": ""The metaphor compares the current amount of motorcycles on the road to a crowded situation, indicating that there are a lot of motorcycles present."",
+  ""Answer"": 0
+}",0,,0
+Rumaja jaman kiwari mah rasa nasionalismena siga jerona balong keur lauk.,Rasa nasionalisme rumaja tinggi,Rasa nasionalisme rumaja rendah.,1,"{
+  ""Explanation"": ""The metaphor compares the feeling of nationalism to the depth of a well. A well that is deep would signify a strong feeling of nationalism, while a shallow well would signify a weak feeling of nationalism."",
+  ""Answer"": 0
+}",0,,0
+Nagihan ijeuman téh ibarat masak cai dugi ka ngagolak.,Nagihan utang teh susah,Nagihan utang teh mudah.,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, ""Nagihan ijeuman téh ibarat masak cai dugi ka ngagolak"" is comparing paying off a debt to cooking rice until it is soft to eat. In this context, 'masak cai dugi' implies that it is difficult, therefore the closest meaning would be ""Nagihan utang teh susah"" (It is difficult to pay off the debt).",0,,0
+Nabung lamun rutin bisa nyieun dompét anjeun sapertos Dobby di Harry Potter.,Nabung lamun rutin mah bisa ngajadikeun beunghar,Nabung lamun rutin mah bisa ngajadikeun malarat.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares saving money regularly to having a pocket like Dobby in Harry Potter, who always has useful items to help Harry. This implies that saving money regularly can be beneficial and help with unexpected situations, similar to how Dobby assists Harry with unexpected challenges. Option 0 reflects this idea, as it aligns with the positive connotation of being beneficial or helpful. Option 1, on the other hand, suggests a negative outcome of saving regularly, which is not consistent with the comparison to Dobby's helpful nature.",0,,0
+"Upami anjeun gaduh murangkalih di handapeun umur lima, suasana bumina sapertos buku anu ngajéjér di perpustakaan",Upami gaduh balita bumina rapih,Upami gaduh balita bumina pabalatak.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor is comparing the condition of having two children under the age of five to a library book that is full of scribbles. This implies that the children are mischievous or causing chaos, similar to how a book would be messy with scribbles. Option 0 is incorrect because it suggests that the children are tidy, which is the opposite of what the metaphor is trying to convey. Option 1 accurately reflects the mischievous behavior of children.",1,,0
+Kamar kos abdi téh sapertos lapangan keur barudak maén bal.,Kamar kos meuni rupek,Kamar kos meuni lega.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing the cramped bedroom to a crowded field where children play. Option 0) Kamar kos meuni rupek (The bedroom is cramped) is the closest meaning to the metaphor.",0,,0
+Migawé pagawéan kalompok mah karasana siga lumpat di kolam renang,Migawé pagawéan kalompok mah beurat,Migawé pagawéan kalompok mah hampang.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor of ""Migawé pagawéan kalompok mah karasana siga lumpat di kolam renang"" suggests that the group's work is done quickly and effortlessly, similar to jumping into a swimming pool. Option 1) Migawé pagawéan kalompok mah hampang, meaning the group's work is done playfully or easily, is the closest meaning to the metaphor.",1,,0
+Migawé pagawéan kalompok mah karasana siga mawa kapas sakarung.,Migawé pagawéan kalompok mah beurat,Migawé pagawéan kalompok mah hampang.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the difficulty of creating a thread (pagawéan kalompok) to something heavy (beurat). This implies that the task is burdensome or challenging, which aligns more closely with option 0) Migawé pagawéan kalompok mah beurat.",0,,0
+Kawin jeung idola téh kawas meunang lauk dina balong anu leutik.,Kawin jeung idola pimanaeun,Kawin jeung idola tiasa waé.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares getting married to catching fish in a small pond. In this context, pimanaeun (meaning difficult) is a closer meaning as it symbolizes the challenges and obstacles that come with marriage, similar to the effort required to catch fish in a small pond.",0,,0
+Jalmi anu jujur mah biasana jiga embé di kandang keur lapar.,Jalmi anu jujur kalem,Jalmi anu jujur riweuh.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares a honest person to a calm animal in a cage when hungry. The closest meaning to this metaphor is option 0) Jalmi anu jujur kalem (A honest person is usually calm).",0,,0
+Keur kuring mah disuntik vaksin kawas durian ragrag kana sirah,Disuntik rasana nyeri,Disuntik rasana teu nyeri.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Keur kuring mah disuntik vaksin kawas durian ragrag kana sirah"" compares getting a vaccine injection to the sensation of being pricked by a durian thorn. In this case, the intention is to convey that the injection was painful, similar to the sharp and stinging feeling of a durian thorn. Option 0) Disuntik rasana nyeri (Injection feels painful) is the closest meaning to the metaphor.",1,,0
+Keur kuring mah disuntik vaksin kawas digégél sireum.,Disuntik rasana nyeri,Disuntik rasana teu nyeri.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor here is about getting a vaccine injection, and the feeling of the injection being painful (rasa nyeri). Option 0) ""Disuntik rasana nyeri"" closely reflects this meaning.",0,,0
+Komén netizen mah siga dikirimkeun surat phk ti kantor,Komén netizen meuni sedih,Komén netizen meuni bungah.,0,"{
+  ""answer"": 1
+}
+
+Explanation: In this metaphor, the act of receiving a termination letter from the office is compared to receiving a reward. This implies that the netizen is happy or excited, hence the option ""Komén netizen meuni bungah"" (the netizen is happy) is the closest meaning.",1,,0
+Hukum Indonésia mah siga bujur seéng paranti sangu,Hukum Indonesia teh kotor,Hukum Indonesia teh beresih.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""Hukum Indonesia mah siga bujur seéng paranti sangu"" suggests that Indonesian law is clean, fair, and just. Therefore, the closest option would be ""Hukum Indonesia teh beresih"" meaning ""Indonesian law is clean.""",1,,0
+Hukum Indonésia mah siga bangkuang dina jero taneuh.,Hukum Indonesia teh kotor,Hukum Indonesia teh beresih.,1,"{
+  ""Answer"": 0
+} 
+
+In this metaphor, ""Hukum Indonesia mah siga bangkuang dina jero taneuh"" is comparing Indonesian law to a chair in the middle of the field. The closest meaning would be that Indonesian law is messy or disorganized (option 0) rather than clean or orderly (option 1).",0,,0
+Ngumpulkeun biaya kawinan jaman ayeuna mah siga urang meuli dahareun di warteg.,Biaya kawinan teh awis,Biaya kawinan teh mirah.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, ""Ngumpulkeun biaya kawinan jaman ayeuna mah siga urang meuli dahareun di warteg"" (Gathering wedding expenses nowadays is like buying food at a street stall), the comparison is made between organizing and paying for a wedding in modern times to the simple act of buying affordable food at a street food stall. The closest meaning to this metaphor is ""Biaya kawinan teh awis"" (Wedding expenses are necessary).",0,,0
+Pamadegan batur keur urang mah siga bisa oray nyiduh tina sungut.,Pamadegan batur keur urang hadé,Pamadegan batur keur urang buruk.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Pamadegan batur keur urang mah siga bisa oray nyiduh tina sungut"" implies that the company we keep influences our behavior. Option 0) ""Pamadegan batur keur urang hadé"" means the company is good, which is the closest meaning to the metaphor.",0,,0
+Lalampahan ka kantor rasana siga nempo puncakna gunung ti handap,Lalampahan ka kantor tebih,Lalampahan ka kantor deukeut.,0,"{
+  ""answer"": 1
+}
+
+Explanation: In this metaphor, ""lalampahan ka kantor rasana siga nempo puncakna gunung ti handap"" translates to ""you will reach the office feeling like you have conquered the peak of a mountain from below."" The feeling of conquering the peak of a mountain suggests a sense of accomplishment and success, which is more closely related to the option ""1) Lalampahan ka kantor deukeut"" meaning ""you will reach the office satisfied.""",1,,0
+Pergaulan anu bébas bisa nyieun harga diri kawas obralan calana lébaran,Pergaulan anu bébas bisa nyieun harga diri murahan,Pergaulan anu bébas bisa nyieun harga diri dipihormat.,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, the options are comparing the impact of free socializing on one's self-worth to the act of giving out gifts during a festive period. Option 1) ""Pergaulan anu bébas bisa nyieun harga diri dipihormat."" is the closest meaning as it suggests that socializing freely can either enhance or diminish one's self-esteem, similar to how gift-giving during Eid can either be respected or seen as cheap.",1,,0
+Getol nabung tapi getol ogé ngahutangna mah ibarat lilin dina poék lampu.,Getol nabung tapi getol ogé ngahutangna mah teu aya manpaatna,Getol nabung tapi getol ogé ngahutangna mah aya mangpaatna.,1,"{
+  ""Explanation"": ""The metaphor is comparing someone who is diligent in saving money but also diligent in borrowing money to a candle in a dim night lamp, implying that the person's actions cancel each other out and do not lead to any progress."",
+  ""Answer"": 0
+}",0,,0
+Jalmi suksés digawé kawas panda nu saré sapopoé.,Jalmi suksés kudu getol,Jalmi suksés kudu kedul.,1,"{""answer"":0}
+
+Explanation: In this metaphor, the word ""getol"" means perseverance or diligence, both qualities that are necessary for success. ""Kedul"" means ignorance, which is not associated with success. Therefore, the closer meaning to the metaphor is option 0) Jalmi suksés kudu getol (Success requires perseverance).",0,,0
+Nuduh batur ku awon téh kawas jalma nu nyiduh ka langit,Nuduh batur ku awon ngajelékkeun diri sorangan,Nuduh batur ku awon nebarkeun kahadean ka diri sorangan.,0,"{
+  ""answer"": 1
+} 
+
+This metaphor is comparing someone reaching for the sky to someone reaching for their own potential. Option 1) ""Nuduh batur ku awon nebarkeun kahadean ka diri sorangan"" means reaching for one's own potential, which is the closest meaning to the metaphor.",1,,0
+Nuduh batur ku awon téh kawas nyebarkeun binih kembang sapanjang jalan.,Nuduh batur ku awon ngajelékkeun diri sorangan,Nuduh batur ku awon nebarkeun kahadean ka diri sorangan.,1,"{
+  ""Answer"": 0,
+  ""Explanation"": ""The metaphor talks about how the wind spreads the scent of flowers along the road, which can be interpreted as someone showcasing their own uniqueness and individuality. Option 0 'Nuduh batur ku awon ngajelékkeun diri sorangan' means the wind is showing off its own uniqueness, similar to the interpretation of the metaphor.""
+}",0,,0
+Pernikahan mah ti jaman baheula gé asaan pasti aya anu siga batré hp urut batur.,Pernikahan mah aya nu awét,Pernikahan mah aya nu teu awét.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor compares marriage in the past to a cell phone with a low battery that needs to be charged. In this context, option 0) ""Pernikahan mah aya nu awét"" means marriage used to have strong and lasting connections, like a well-charged battery.",0,,0
+Umur manusa mah siga tangkal togé.,Umur manusa panjang,Umur manusa pondok.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing a person's age to a sturdy bamboo shoot. In this case, a bamboo shoot that is strong and tall would represent a long age. Therefore, the closest meaning is ""Umur manusa panjang"" which means a long age.",0,,0
+Pikiran babaturan urang mah kawas nu geus ulin di lumpur,Pikiran babaturan kotor,Pikiran babaturan beresih.,0,"{
+  ""Answer"": 1
+}
+
+Explanation: In this metaphor, ""Pikiran babaturan urang mah kawas nu geus ulin di lumpur"" can be interpreted as having a clean and clear mind, similar to having emerged from the mud. Option 1) Pikiran babaturan beresih aligns more closely with this interpretation.",1,,0
+Upami keur lebaran di Bogor mah suasanana kos astana anyar,Bogor keur lebaran mah jempling,Bogor keur lebaran mah réa.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: In this metaphor, the comparison is made between the festive atmosphere in Bogor during Eid al-Fitr and a new palace. The option ""Bogor keur lebaran mah réa"" is more fitting as it conveys the idea that the festive atmosphere in Bogor during Eid is grand and majestic, similar to the feel of a new palace.",1,,0
+Méntal manusa siga tembok imah baheula nu gampang muruhpuy,Mental manusa teh rapuh,Mental manusa teh kuat.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor is comparing the strength of a mental person to a wall that is easy to break. The closest meaning would be that mental strength is strong (option 1).",1,,0
+Méntal manusa siga inten nu teu gampang peupeus.,Mental manusa teh rapuh,Mental manusa teh kuat.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor comparing mental strength to a fragile material suggests that the mental strength is weak or fragile, similar to how fragile the material is. Hence, the closest meaning to the metaphor would be option 0) Mental manusa teh rapuh (Mental strength is fragile).",0,,0
+Duit bisa ngarobah jalma kawas dermawan sanajan manéhna kakurangan.,Duit bisa ngarobah jalma jadi sarakah,Duit bisa ngarobah jalma jadi bersukur.,1,"{
+  ""answer"": 0
+}
+
+The metaphor ""Duit bisa ngarobah jalma kawas dermawan sanajan manéhna kakurangan"" can be interpreted as money can turn a person into a generous person even though they may have limitations. Option 0) Duit bisa ngarobah jalma jadi sarakah (money can turn a person into a generous person) is the closest meaning to the metaphor.",0,,0
+Ngabuka usaha anyar keur pandémik sapertos naék gunung anu teu lungkawing.,Ngabuka usaha anyar keur pandémik risikona gede,Ngabuka usaha anyar keur pandémik teu aya risiko.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares starting a new business during a pandemic to climbing a mountain that is not easy. It implies that there is a great risk involved in starting a new business during a pandemic, similar to the risks and challenges faced when climbing a difficult mountain. Option 0) ""Ngabuka usaha anyar keur pandémik risikona gede"" closely reflects this comparison by acknowledging the high level of risk involved.",0,,0
+Seueur teuing pangaweruh bisa ngajadikeun manusa sapertos kantong semar keur ngajuju mangsana,Seueur pangaweruh bisa ngajadikeun manusa pinter,Seueur pangaweruh bisa ngajadikeun manusa bodo.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor is comparing someone to a pitcher plant, which is a carnivorous plant that lures insects with its pitcher-shaped structure. In this context, it means that someone is capable of deceiving others or tricking them, similar to how the pitcher plant traps insects. Therefore, the closest meaning is ""Seueur pangaweruh bisa ngajadikeun manusa bodo"" which means that the person is cunning or deceptive.",1,,0
+Hubungan jarak jauh ibarat numpakan kano di talaga.,Hubungan jarak jauh pinuh ku rintangan,Hubungan jarak jauh teu aya rintanganana.,1,"{
+  ""Explanation"": ""The metaphor is comparing a long-distance relationship to navigating a canoe in a lake, indicating the challenges and obstacles that may come along."",
+  ""Answer"": 0
+}",0,,0
+Panghina ti batur mah siga kusir keur mecut kuda,Panghina nyieun leuwih getol,Panghina nyieun nelangsa.,0,"{
+  ""Explanation"": ""The metaphor compares the powerlessness of a weak horse pulling a heavy cart to feeling weak or helpless."",
+  ""Answer"": 1
+}",1,,0
+Panghina ti batur mah siga racun sianida dina kadaharan.,Panghina nyieun leuwih getol,Panghina nyieun nelangsa.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing the weakening of a stone to the strength of a poisonous snake in this particular context. The closest meaning would be ""Panghina nyieun leuwih getol"" which refers to becoming more solid or stronger.",0,,0

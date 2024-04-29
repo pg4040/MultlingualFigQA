@@ -1,0 +1,1704 @@
+Start Phrase,Ending 1,Ending 2,Labels,Response,answer,not_generated,match
+कालिदास भारत के शेख्चिली हैं।,कालिदास मुर्ख हैं।,कालिदास बुद्धिमान हैं।,0,"{
+  ""answer"": 1
+} 
+
+The metaphor compares Kalidas to a peacock, known for its wisdom and intelligence. Option 1) ""कालिदास बुद्धिमान हैं।"" reflects this comparison accurately.",1,,0
+जीवन एक सपना है।,जीवन हकीकत है।,जीवन एक मिथ्या है।,1,"{
+  ""Explanation"": ""Here, the metaphor comparing life to a dream signifies the fleeting and transient nature of life, similar to how a dream is temporary and intangible."",
+  ""Answer"": 0
+}",0,,0
+जीवन काँटों की सेज नहीं है।,जीवन में खुशिओं भी होती हैं।,जीवन में दुःख भी आते हैं।,0,"{
+  ""answer"": 1
+} 
+
+Explanation: In this metaphor, the phrase ""जीवन काँटों की सेज नहीं है।"" implies that life is not just filled with happiness and joy (जीवन में खुशिओं भी होती हैं), but also with pain and suffering (जीवन में दुःख भी आते हैं). The metaphor highlights the presence of difficulties and challenges in life, making option 1 the closest in meaning.",1,,0
+वह आजकल आलस्य में व्यस्त है।,वह बहुत बढ़िया काम कर रहा है।,वह काम चोरी कर रहा है।,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor here is ""आलस्य में व्यस्त है"" which means being busy in laziness. The closest meaning is that the person is not actually busy with important work, but rather being lazy. So, option 0) वह बहुत बढ़िया काम कर रहा है। is the correct interpretation.",0,,0
+यह एक खुली किताब है।,"यह नेक इंसान हैं, यह सब जानते हैं।",यह नेक हैं या नहीं इसके बारे में कोई नहीं जनता।,0,"{
+  ""Explanation"": ""The phrase 'खुली किताब है' is a metaphorical expression which means that something is open to interpretation or understanding, just like an open book with its content exposed and accessible. It does not directly imply that the subject is inherently good or knowledgeable."",
+  ""Answer"": 1
+}",1,,0
+जीवन मीठा गुलकन्द है।,जीवन अच्छा है।,जीवन बुरा है।,1,"{
+	""Explanation"": ""गुलकन्द स्वादिष्ट होता है जिससे जीवन की मिठास को दर्शाने के लिए इस्तेमाल किया जाता है। इसलिए यह महसूस कराता है कि जीवन मीठा है।"",
+	""Answer"": 0
+}",0,,0
+वो स्केल की तरह सीधा है।,वो मासूम है।,वो चालक है।,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor comparing someone to a scale being straight implies that the person is honest, fair, and balanced in their actions, similar to how a scale needs to be straight to give accurate measurements. Therefore, the closest meaning is ""वो चालक है।"" (They are honest/fair).",1,,0
+जीवन एक गाँव की गली है।,जीवन बहुत छोटा होता है।,जीवन बहुत लम्बा होता है।,0,"{
+  ""Explanation"": ""In this metaphor, life is compared to a village lane, implying that life is full of twists and turns, obstacles, and surprises just like a narrow lane in a village."",
+  ""Answer"": 1
+}",1,,0
+उसकी नज़रें चिड़िया की तरह हैं।,उसकी सोच छोटी है।,वह दूर की सोचता है।,0,"{
+  ""answer"": 1,
+  ""explanation"": ""The metaphor compares the person's vision to that of a bird, which typically sees far away. So, the closest meaning would be 'वह दूर की सोचता है।'""
+}",1,,0
+उसकी काया मैदान जैसी है।,उसका शरीर छोटा है।,उसका शरीर विशाल है।,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares the person's body to a battlefield, implying that the person is strong and resilient. Therefore, the closest meaning to the metaphor is ""उसका शरीर विशाल है।"" (Option 1).",1,,0
+गाय की तरह मजबूत है।,वह कोमल है।,वह सख्त है।,0,"{
+  ""answer"": 1,
+  ""explanation"": ""In the metaphor 'गाय की तरह मजबूत है', the comparison is being made between strength and resilience similar to that of a cow, which is known for being sturdy and strong. Therefore, the closest meaning to the metaphor is 'वह सख्त है' which means 'she is strong'.""
+}",1,,0
+वह आदमी ठंडी बर्फ जैसा व्यवहार कर रहा था।,वह आदमी बहुत मस्त था।,वह आदमी बहुत गुस्सैल था।,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor compares the man's behavior to cold snow, which signifies that he was being very angry or cold in his behavior. Option 1 reflects this meaning accurately.",1,,0
+रामदीन की चेहरा कोयले की तरह है।,रामदीन बहुत कला है।,रामदीन बहुत गोरा है।,0,"{
+  ""Explanation"": ""The metaphor is comparing Ramdeen's face to that of a coal, implying that Ramdeen's face is black/dark. So, the meaning closest to the metaphor is 'Ramdeen is very dark/black.'"",
+  ""Answer"": 1
+}",1,,0
+उसका मन रेत की तरह ठंडा था।,वह बहुत शांत सुभाव का था।,वह थोड़ी देर के लिए शांत था।,1,"{
+  ""Explanation"": ""The metaphor is comparing the person's mind to sand which is cold, indicating that the person was calm and composed."",
+  ""Answer"": 0
+}",0,,0
+विराट कछुए की तरह चुस्त है।,विराट सुस्त है।,विराट तेज है।,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor compares Virat to a quick-moving tortoise, implying that Virat is fast. Therefore, the closest meaning is ""विराट तेज है।"" (Virat is fast).",1,,0
+महेश दुकान बकरी की तरह चलाता है।,महेश शराफत से दूकान चलाता है।,महेश धोकेबाजी से दूकान चलाता है।,0,"{
+  ""Explanation"": ""Comparing Mahesh running his shop to a goat implies mischief or trickery."",
+  ""Answer"": 1
+}",1,,0
+उसके चेहरे पर अभिव्यक्ति सूरज की तरह थी।,उसके चहरे पर गुस्सा साफ नज़र आ रहा था।,उसके चहरे पर धैर्य साफ़ नज़र आ रहा था।,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""उसके चेहरे पर अभिव्यक्ति सूरज की तरह थी।"" implies that the expression on his face was like the sun, which typically represents patience, serenity, and calmness. Therefore, the option closest in meaning is ""उसके चहरे पर धैर्य साफ़ नज़र आ रहा था।"" (option 1).",1,,0
+मेरी पत्नी सुबह के समय घोंघे की तरह व्यस्त रहती है।,मेरी पत्नी काम में बहुत आलसी है।,मेरी पत्नी काम में बहुत तेज है।,0,"{
+  ""Explanation"": ""The metaphor compares the busyness of the wife in the morning to the buzzing activity of a bee, indicating that she is very active and energetic."",
+  ""Answer"": 1
+}",1,,0
+नौकरानी ने हॉल काली चादर सा साफ है।,नौकरानी ने सब अच्छे से साफ़ किया।,नौकरानी ने सब अच्छे से साफ़ नहीं किया।,1,"{
+  ""Explanation"": ""The metaphor compares the cleanliness of the hall with a white sheet, implying that it is thoroughly clean."",
+  ""Answer"": 0
+}",0,,0
+राकेश की दिमाग पत्थर सा तेज है।,राकेश का दिम्माग बहुत धीमा है।,राकेश का दिम्माग बहुत तेज़ है।,0,"{
+  ""Explanation"": ""The metaphor compares Rakesh's brain to a stone, indicating that it is very sharp and quick, like a polished stone."",
+  ""Answer"": 1
+}",1,,0
+हार्दिक उगते सूरज की तरह ताजा है।,वह बहुत चुस्त है।,वह बहुत थका हुआ है।,1,"{
+  ""Explanation"": ""The metaphor compares someone to the rising sun, which signifies freshness and energy."",
+  ""Answer"": 0
+}",0,,0
+लेक्चर लेते समय वह बोर्ड की तरह खड़ा था।,वह विश्वास से भरा हुआ था।,वह बहुत घबराया हुआ था।,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares the person standing while taking a lecture to a board. A board is filled with information and knowledge, so the closest meaning would be that the person was filled with confidence, like a board filled with information. Thus, option 0) वह विश्वास से भरा हुआ था। is the correct answer.",0,,0
+पोस्टिंग की खबर सुन वह पागल सांड की तरह नाचने लगा।,पोस्टिंग की खबर से वो बहुत दुखी हुआ।,पोस्टिंग की खबर से वो बहुत खुश हुआ।,0,"{
+  ""Explanation"": ""In this metaphor, the person is dancing like a crazy bull, which suggests excitement and happiness rather than sadness."",
+  ""Answer"": 1
+}",1,,0
+उसके द्वारा दिया गया प्रोत्साहन एक हवा के झोंके के समान था। ,उसके द्वारा दिया प्रोत्साहन बहुत असरदार था। ,उसके द्वारा दिया प्रोत्साहन कुछ असरदार नहीं था। ,1,"{
+  ""Startphrase"": ""उसके द्वारा दिया गया प्रोत्साहन एक हवा के झोंके के समान था।"",
+  ""Options"": {
+    ""0"": ""उसके द्वारा दिया प्रोत्साहन बहुत असरदार था।"",
+    ""1"": ""उसके द्वारा दिया प्रोत्साह",0,NG,0
+किशोर एक मेमने की तरह है।,किशोर बहुत मासूम है।,किशोर बहुत चलाक है।,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor compares the teenager to a meme, which is usually associated with being clever, witty, and humorous. Hence, the closest meaning would be ""किशोर बहुत चलाक है।"" (option 1).",1,,0
+वह एक आग की तरह चमकीली लगती है!,वह बहुत कठोर दिल की लगती है।,वह बहुत कोमल दिल की लगती है।,0,"{
+  ""Explanation"": ""The metaphor compares the person to a shiny fire, implying that they are full of energy, attractive, and vibrant."",
+  ""Answer"": 1
+}",1,,0
+वह बॉक्सर बच्चे की तरह मजबूत है।,वह बॉक्सर कमजोर है।,वह बॉक्सर बहुत ताकतवर है।,0,"{
+  ""answer"": 1
+} 
+
+The correct option is 1) वह बॉक्सर बहुत ताकतवर है। because the metaphor compares the boxer to a strong child, implying that the boxer is very powerful and not weak.",1,,0
+साहूकार का दिल ख़रगोश के चमड़े की तरह है।,साहूकार बहुत निर्दयी है।,साहूकार बहुत दयालु है।,1,"{
+  ""Explanation"": ""Here, the metaphor compares the heart of a moneylender to that of a rabbit's skin, implying that the moneylender is hard-hearted."",
+  ""Answer"": 0
+}",0,,0
+राज साँप की तरह सीधा है।,राज बहुत टेढ़ा आदमी है।,राज बहुत सीधा आदमी है।,0,"{
+  ""answer"": 1
+}
+
+The metaphor comparing Raj to a snake implies that Raj is very cunning and not straightforward. Therefore, the meaning closest to the metaphor is option 0) राज बहुत टेढ़ा आदमी है।",1,,0
+नाटक में एक खाई सी गहराई है। ,नाटक में बहुत गहरा अर्थ दर्शाया गया है।,नाटक में बस ऊपरी दिखावा दर्शाया गया है।,1,"{
+  ""Startphrase"": ""नाटक में एक खाई सी गहराई है।"",
+  ""Options"": {
+    ""0"": ""नाटक में बहुत गहरा अर्थ दर्शाया गया है।"",
+    ""1"": ""नाटक में बस ऊपरी दिखावा दर्शाया गया है।""
+  },
+  ""Answer"": 0
+}",0,,0
+कोमल उल्लू जितनी बुद्धिमान है।,कोमल बहुत बुद्धिमान है।,कोमल बहुत बेवक़ूफ़ है।,1,"{
+  ""Explanation"": ""In this metaphor, the comparison is being made between the intelligence of a soft owl. Owls are generally considered wise, so the comparison implies that the owl is intelligent."",
+  ""Answer"": 0
+}",0,,0
+नदी का पानी कीचड की तरह साफ है।,नदी का पानी बहुत ज्यादा गंदा है।,नदी का पानी बहुत ज्यादा स्वच्छ है।,0,"{
+  ""answer"": 1
+}
+
+The metaphor ""नदी का पानी कीचड की तरह साफ है।"" implies that the river water is extremely clean, similar to how mud is clean. Therefore, the closest meaning to this metaphor is option 1) नदी का पानी बहुत ज्यादा स्वच्छ है।",1,,0
+उसकी वाणी टाट सी कोमल है।,उसकी वाणी बहुत कर्कश है।,उसकी वाणी बहुत मधुर है।,0,"{
+  ""answer"": 1,
+  ""explanation"": ""The metaphor compares the person's voice to that of a soft thread, indicating that their voice is gentle and sweet. Option 1) उसकी वाणी बहुत मधुर है।, closely aligns with this meaning.""
+}",1,,0
+उसके शदों में शीशे सी ताकत है।,उसके वादों पर विश्वास किया जा सकता है।,उसके वादों पर भरोसा नहीं किया जा सकता है।,1,"{
+  ""Startphrase"": ""उसके शदों में शीशे सी ताकत है।"",
+  ""Options"": {
+    ""0"": ""उसके वादों पर विश्वास किया जा सकता है।"",
+    ""1"": ""उसके वादों पर भरोसा नहीं किया जा सकता है।""
+  },
+  ""Explanation"": ""In this metaphor, the comparison is made to",0,NG,0
+उनके चुंबन में प्रेमियों के विवाह सा जुनून है।,उनके चुंबन प्रदर्शनकारी और तीव्र हैं।,उनका चुंबन भावहीन है।,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor ""चुंबन में प्रेमियों के विवाह सा जुनून है"" compares the passion in their kisses to the intense emotion of lovers getting married. This implies that their kisses are filled with deep and emotional love, hence the option ""उनका चुंबन भावहीन है"" is the closest meaning to the metaphor.",1,,0
+उनके चुम्बन में प्रेमहीन विवाह सा जुनून है।,उनके चुंबन प्रदर्शनकारी और तीव्र हैं।,उनका चुंबन भावहीन है।,1,"{
+  ""explanation"": ""The metaphor compares the intensity and passion of their kisses to the fervor of a loveless marriage, indicating that the kisses are passionate and intense."",
+  ""answer"": 0
+}",0,,0
+यह सर्दी उतनी ही ठंडी है जितनी मेरी दोपहर की चारपाई। ,बहुत ठंड है। ,बहुत गरमी है। ,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor is comparing the coldness of the weather to the thickness of the blanket during the day. So, the closest meaning is 'बहुत ठंड है।'""
+}",0,,0
+कुत्ता एक नर्सरी शिक्षक की तरह क्रोधित था। ,वह बहुत गुस्से में था। ,वह बहुत अच्छा था। ,1,"{
+  ""answer"": 0,
+  ""explanation"": ""In this metaphor, the dog being compared to a nursery teacher is most likely angry because nursery teachers are known for being patient, nurturing, and kind. Therefore, the correct option is that the dog was in a very angry mood (वह बहुत गुस्से में था।).""
+}",0,,0
+उनके पास एक भिखारी की सम्पति है। ,वह अमीर है। ,वह गरीब है। ,1,"{
+	""answer"": 0
+}
+
+Explanation: The metaphor ""भिखारी की सम्पति होना"" is used to imply that someone is very wealthy. Hence, the closest meaning is option 0) वह अमीर है।",0,,0
+वार्तालाप एक मुफ्त के कूपन की तरह होती है। ,बातचीत सार्थक है।,वार्तालाप व्यर्थ है।,1,"{
+  ""Explanation"": ""Just like a coupon, conversation is also considered valuable and beneficial."",
+  ""Answer"": 0
+}",0,,0
+रोहन ने संजय का चेहरा तवे की तरह कर दिया।  ,रोहन ने संजय का चेहरा मार मार के चपटा कर दिया।  ,रोहन ने संजय का चेहरा मार मार के सूजा दिया।  ,1,"{
+  ""Explanation"": ""The metaphor is comparing Sanjay's face to a cooking griddle, implying that Rohan did something harsh to him."",
+  ""Answer"": 0
+}",0,,0
+पिछली समुद्र यात्रा मक्खन की तरह निकली।  ,पिछली समुद्र यात्रा बहुत आसान थी।  ,पिछली समुद्र यात्रा बहुत मुश्किल थी।  ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor here is comparing the previous sea journey to something as smooth as butter. This implies that the previous sea journey was very smooth and easy. Therefore, the option closest in meaning is option 0) पिछली समुद्र यात्रा बहुत मुश्किल थी।",1,,0
+स्कूल के छात्र ने दवा की तरह मदद की। ,छात्र ने लम्बी राहत पहुँचाई। ,छात्र ने बस कुछ पल की राहत पहुँचाई। ,0,"{
+""answer"": 1
+} 
+
+In this metaphor, the student helped like a medicine, which implies that the student provided temporary relief, just like medicine provides temporary relief from illness. Option 1) छात्र ने बस कुछ पल की राहत पहुँचाई।, closely aligns with the temporary relief connotation.",1,,0
+वह वक्ता बहते पानी की तरह बोल रहा था।,वक्ता बहुत शांत था।,वक्ता बहुत जोश में था। ,0,"{
+  ""Explanation"": ""Here, the metaphor is comparing the speaker to flowing water, which implies that the speaker was talking energetically and passionately."",
+  ""Answer"": 1
+}",1,,0
+कोमल के गाल आग की तरह खिल ऊठे।,कोमल को बहुत गुस्सा आया। ,कोमल शर्मा गई। ,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, the phrase ""कोमल के गाल आग की तरह खिल ऊठे"" compares Komal's blushing cheeks to fire. Fire is typically associated with the color red, which is also the color of blushing cheeks. So, the closest option to this metaphor is ""कोमल शर्मा गई।"".",1,,0
+वह ट्रिप प्लानर धोकेबाज़ था।,ट्रिप प्लानर ने सारा ट्रिप बर्बाद कर दिया। ,ट्रिप प्लानर ने सारा ट्रिप शानदार बना दिया। ,0,"{
+  ""Startphrase"": ""वह ट्रिप प्लानर धोकेबाज़ था।"",
+  ""Options"": {
+    ""0"": ""ट्रिप प्लानर ने सारा ट्रिप बर्बाद कर दिया।"",
+    ""1"": ""ट्रिप प्लानर ने सारा ट्रिप शानदार बना दिया।""
+  },
+  ""Explanation"": ""In this metaphor, the phrase 'ध",1,NG,0
+नर्तकी हाथी की तरह नाची। ,नर्तकी का नाच बहुत सुंदर था। ,नर्तकी का नाच बहुत बकवास था। ,1,"{
+  ""answer"": 0
+}  
+The metaphor ""नर्तकी हाथी की तरह नाची"" implies that the dancer danced gracefully like an elephant. Therefore, the option ""नर्तकी का नाच बहुत सुंदर था।"" meaning ""the dancer's dance was very beautiful"" is the closest in meaning.",0,,0
+महिला एक कैदी की तरह दयालु थी। ,महिला दयालु थी। ,महिला क्रूर थी। ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor comparing a woman to a kind prisoner implies that the woman was kind and compassionate. Therefore, the option ""महिला दयालु थी।"" is the closest in meaning to the metaphor.",0,,0
+परीक्षा रॉकेट बनाने जितनी आसान थी। ,परीक्षा आसान थी। ,परीक्षा कठिन थी। ,1,"{
+  ""answer"": 0
+} 
+Explanation: The metaphor ""परीक्षा रॉकेट बनाने जितनी आसान थी"" implies that making a rocket for the exam was easy. So, the meaning closest to the metaphor is ""परीक्षा आसान थी।"" , hence Option 0 is the correct answer.",0,,0
+खिलाड़ियों को सोने की तरह होना चाहिए। ,खिलाड़ियों को अभ्यास की जरुरत नहीं होनी चाहिए। ,खिलाड़ियों को सख्त अभ्यास की जरुरत होती है। ,0,"{
+    ""answer"": 1
+} 
+
+In this metaphor, the comparison is made between athletes and gold. Gold needs to be refined and molded into its final shape, symbolizing the hard work and dedication required for athletes to reach their full potential. Therefore, option 1) खिलाड़ियों को सख्त अभ्यास की जरुरत होती है। is the closest meaning to the metaphor.",1,,0
+होटल का बिस्तर फट्टे की तरह था। ,होटल का बिस्तर नरम था।,होटल का बिस्तर सख्त था।,1,"{
+  ""Explanation"": ""The metaphor compares the hotel bed to a torn mattress, indicating poor quality or condition."",
+  ""Answer"": 0
+}",0,,0
+नाटक के कलाकार जैसे चूहे बिल्ली का खेल रहे थे। ,नाटक के कलाकारों का प्रदर्शन बहुत ख़राब था। ,नाटक के कलाकारों का प्रदर्शन बहुत अच्छा था।,0,"{
+  ""explanation"": ""The metaphor compares the actors in a play to mice playing cat and mouse. This indicates that the actors were performing exceptionally well."",
+  ""answer"": 1
+}",1,,0
+लड़की का व्यक्तित्व अंगूर की तरह मीठा था। ,लड़की का व्यक्तित्व बहुत ही असभ्य था।,लड़की का व्यक्तित्व प्यारा था।,0,"{
+  ""Explanation"": ""The metaphor compares the girl's personality to a sweet grape, implying that her personality was pleasing or likable."",
+  ""Answer"": 1
+}",1,,0
+बाँसुरी की आवाज़ सड़क की तरह चिकनी थी। ,बाँसुरी की आवाज़ बहुत मधुर थी।,बाँसुरी की आवाज़ बहुत बेसुरी थी।,1,"{
+  ""Explanation"": ""The metaphor compares the sound of the flute to the smoothness of the road, indicating that the sound was smooth and melodious like the road."",
+  ""Answer"": 0
+}",0,,0
+उसका दिल शहरों के मकानों की तरह विशाल था।,दिल बहुत बड़ा था। ,दिल बहुत छोटा था।,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""उसका दिल शहरों के मकानों की तरह विशाल था।"" compares the size of the heart to the houses in a city, indicating that the heart was large. Therefore, the correct option is ""दिल बहुत बड़ा था।"" (Option 0).",0,,0
+उसके पैरों में गधे सी तेजी थी। ,वह बहुत तेज़ दौड़ता था। ,वह बहुत तेज़ नहीं दौड़ता था। ,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor 'उसके पैरों में गधे सी तेजी थी' is comparing the speed of the person to that of a donkey. Donkeys are known for their speed, so the closest meaning would be 'वह बहुत तेज़ दौड़ता था।'""
+}",0,,0
+स्ट्रीट लाईट की रौशनी मोमबत्ती सी तेज थी। ,स्ट्रीट लाईट की रौशनी बहुत जयादा थी। ,स्ट्रीट लाईट की रौशनी बहुत थोड़ी थी।,1,"{
+  ""Explanation"": ""The metaphor compares the brightness of the street light to a candle, implying that it was very bright."",
+  ""Answer"": 0
+}",0,,0
+होटल में एक औरत के पर्स सी जगह थी। ,होटल में बहुत कम जगह थी।,होटल में बहुत ज्यादा जगह थी।,1,"{
+  ""explanation"": ""The metaphor implies that there was very little space available in the hotel, so the correct option is 0) होटल में बहुत कम जगह थी।"",
+  ""answer"": 0
+}",0,,0
+कमरे में कांच की बॉटल के टूटने की आवाज़ परमाणु बम की तरह थी। ,बोतल टूटने की आवाज बहुत ज्यादा थी। ,बोतल टूटने की आवाज बहुत काम थी।,0,"{""answer"":1}
+
+The metaphor compares the sound of the glass bottle breaking to that of an atomic bomb, emphasizing the loud and powerful nature of the sound. Therefore, the closest option is: बोतल टूटने की आवाज बहुत काम थी। (the sound of the bottle breaking was very minimal).",1,,0
+कमरे में कांच की बॉटल के टूटने की आवाज़ सुतली बम की तरह थी। ,बोतल टूटने की आवाज बहुत ज्यादा थी। ,बोतल टूटने की आवाज बहुत काम थी।,1,"{
+  ""explanation"": ""The metaphor compares the sound of a breaking glass bottle to a subtle bomb explosion, indicating that the sound was loud and impactful."",
+  ""answer"": 0
+}",0,,0
+डॉक्टर ने रात का खाना एक चूहे की तरह खाने को कहा है। ,डॉक्टर ने बहुत रात को बहुत काम खाने को कहा है।,डॉक्टर ने बहुत रात को बहुत ज्यादा खाने को कहा है।,0,"{
+  ""Startphrase"": ""डॉक्टर ने रात का खाना एक चूहे की तरह खाने को कहा है।"",
+  ""Options"": [
+   ""डॉक्टर ने बहुत रात को बहुत काम खाने को कहा है।"",
+   ""डॉक्टर ने बहुत रात को बहुत ज्यादा",1,NG,0
+वह अपने खिलौने की देखभाल एक जंगली शेर की तरह करता है।,वह अपने खिलौने का बिलकुल ख्याल नहीं रखता है।  ,वह अपने खिलौने का बहुत ख्याल रखता है।  ,0,"{
+""Explanation"": ""The metaphor compares the way the person takes care of their toy to how a wild lion would take care of their territory, indicating that they take a lot of care."",
+""Answer"": 1
+}",1,,0
+वकील ने समझौते की बात एक औरत के दूकानदार से मोलभाव की तरह की। ,वकील ने समझौते की बात विस्तार से और अच्छे की।,वकील ने समझौते की बात छोटी और बुरी की।,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor is comparing the negotiation of a settlement by a lawyer to the bargaining with a shopkeeper. Just like in a negotiation with a shopkeeper, the lawyer probably discussed the terms of the settlement in detail and with respect, which is similar to the first option where the negotiation is elaborated and good.""
+}",0,,0
+शीशे का जग टूट के आधे चाँद सा बिखर गया।,शीशे के जग के बहुत सारे टुकड़े हो गए।,शीशे के जग के दो टुकड़े हो गए।,1,"{
+  ""answer"": 0
+}  
+
+Explanation: The metaphor ""शीशे का जग टूट के आधे चाँद सा बिखर गया"" compares the situation to a broken glass where a lot of pieces are scattered. Option 0) ""शीशे के जग के बहुत सारे टुकड़े हो गए।"" reflects the widespread scattering of the glass pieces, making it the closest meaning to the metaphor.",0,,0
+रोशन में दानव सी विशेषता थी।,रोशन बहुत अच्छा इंसान था।,रोशन बहुत गंदा इंसान था।,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, ""रोशन"" is being compared to a ""दानव"" (demon) which implies that ""रोशन"" is not a good person. Hence, the closest meaning to the metaphor would be option 1) रोशन बहुत गंदा इंसान था।",0,,0
+ऋषभ बकरी सा चलाक था।,ऋषभ बहुत ज्यादा चलाक था।,ऋषभ बहुत ज्यादा भोला था।,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares Rishabh to a clever goat, implying that Rishabh was very cunning. Therefore, the option ""0) ऋषभ बहुत ज्यादा चलाक था।"" is the closest in meaning to the metaphor.",0,,0
+वह आदमी मोम जैसा जिद्दी है।,उसका निर्णय बदलना मुश्किल है।,उसका निर्णय बदलना इतना मुश्किल नहीं है।,1,"{
+  ""Explanation"": ""Comparing a person to stubborn wax signifies that changing their decision is difficult."",
+  ""Answer"": 0
+}",0,,0
+अपने दोस्तों को मूक चलचित्र की तरह खामोश देख वो समझ गया कुछ गड़बड़ है। ,उसके दोस्त कुछ शैतानी प्लान बना रहे थे।,उसके दोस्त बहुत गंभीर सोच में दुबे थे।,0,"{""answer"":1}",1,,0
+अपने दोस्तों को कब्र की तरह खामोश देख वो समझ गया कुछ गड़बड़ है। ,उसके दोस्त कुछ शैतानी प्लान बना रहे थे।,उसके दोस्त बहुत गंभीर सोच में दुबे थे। ,1,"{
+  ""Startphrase"": ""अपने दोस्तों को कब्र की तरह खामोश देख वो समझ गया कुछ गड़बड़ है।"",
+  ""Options"": {
+    ""0"": ""उसके दोस्त कुछ शैतानी प्लान बना रहे थे।"",
+    ""1"": ""उसके दोस्त बहुत गं",0,NG,0
+यह शाल पंख की तरह हलकी है। ,यह शाल बहुत पतले धागे से बानी है। ,यह शाल बहुत मोटे धागे से बानी है। ,1,"{
+  ""Explanation"": ""The metaphor mentions that the shawl is light like a feather, indicating that it is light and not heavy."",
+  ""Answer"": 0
+}",0,,0
+उसकी दादी की प्रेम कहानी पहाड़ियों जितनी ही पुरानी थी।,उसकी दादी की प्रेम कहानियाँ बहुत पुरानी थी। ,उसकी दादी की प्रेम कहानियाँ बहुत पुरानी नहीं थी।,1,"{
+  ""explanation"": ""The metaphor compares the love story to mountains, emphasizing its age and longevity. Therefore, the meaning 'उसकी दादी की प्रेम कहानियाँ बहुत पुरानी थी।' is the closest in meaning as it implies that the love stories were very old."",
+  ""answer"": 0
+}",0,,0
+"आप उस पर भरोसा कर सकते हैं, वह पहिये की तरह सीधा है।",वह भरोसे के लायक है।,वह भरोसे के लायक बिलकुल नहीं है।,1,"{
+    ""answer"": 0
+}
+
+Explanation: The metaphor compares the person to a wheel, implying that they are trustworthy and reliable like a wheel that moves forward smoothly. Option 0) वह भरोसे के लायक है। aligns with this interpretation.",0,,0
+वह चिड़िया की तरह खाती है। ,वह बहुत कम खाना खाती है। ,वह बहुत ज्यादा खाना खाती है। ,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, ""वह चिड़िया की तरह खाती है।"", the comparison is being made with a bird. Birds are known to eat small amounts frequently throughout the day. Therefore, the closest meaning would be option 1) वह बहुत ज्यादा खाना खाती है।, as it implies that the person eats small amounts frequently.",1,,0
+राधा एक चुलबुले बच्चे की तरह सो गई।,राधा बहुत थक गई थी।,राधा बहुत मस्ती में थी।,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor compares Radha to a playful child, indicating that she was in a carefree and cheerful mood rather than being tired. Option 1) राधा बहुत मस्ती में थी।, is the closest in meaning to the metaphor.",1,,0
+राधा एक लकड़ी के लट्ठे की तरह सो गई। ,राधा बहुत थक गई थी। ,राधा बहुत मस्ती में थी।,1,"{
+  ""Explanation"": ""Sleeping like a log is a commonly used phrase which means being in a deep sleep. Here, the metaphor suggests that Radha is sleeping deeply like a log."",
+  ""Answer"": 0
+}",0,,0
+यह कालीन मगरमछ की खाल की तरह कोमल था।,कालीन बहुत सख्त था। ,कालीन बहुत नर्म था।,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor is comparing the softness of the black crocodile's skin to the softness of something else. So, the correct option is ""कालीन बहुत नर्म था"" which means the crocodile was very soft.",1,,0
+उसके मन का मैल चीनी की तरह छलनी से निकल गया। ,उसके मन में जो बुराई थी वो निकल गई।,उसके मन में कोई बुराई नहीं थी।,1,"{
+  ""Explanation"": ""This metaphor describes the purification or cleansing of one's mind, similar to how impurities are removed while straining sugar through a sieve."",
+  ""Answer"": 0
+}",0,,0
+हवाई जहाज चील की तरह उड़ गया। ,हवाई जहाज बहुत ऊँचा उड़ गया।,हवाई जहाज बहुत ऊँचा नहीं उड़ सका।,1,"{
+  ""Startphrase"": ""हवाई जहाज चील की तरह उड़ गया।"",
+  ""Options"": {
+    ""0"": ""हवाई जहाज बहुत ऊँचा उड़ गया।"",
+    ""1"": ""हवाई जहाज बहुत ऊँचा नहीं उड़ सका।""
+  },
+  ""Explanation"": ""The metaphor 'हवाई जहाज ची",0,NG,0
+पुलिस इंस्पेक्टर भेड़िये की तरह शरीफ थी।,पुलिस इंस्पेक्टर रिश्वतखोर था। ,पुलिस इंस्पेक्टर रिश्वतखोर नहीं था। ,0,"{
+  ""explanation"": ""The metaphor here is comparing the police inspector to a wolf in sheep's clothing, meaning that the inspector may seem innocent or harmless but actually is corrupt or deceitful."",
+  ""answer"": 1
+}",1,,0
+न्यूज़ रिपोर्टर के सवाल रिक्शा की तरह तेज थे।,न्यूज़ रिपोर्टर बहुत ढीली थी। ,न्यूज़ रिपोर्टर बहुत तेज थी।,0,"{
+  ""explanation"": ""Just like a rickshaw moves quickly, the news reporter also asked questions quickly."",
+  ""answer"": 1
+}",1,,0
+बैंक मैनेजर साँप की तरह सोया हुआ है।,बैंक मैनेजर ने बैंक बहुत अच्छे से संभाला हुआ है। ,बैंक मैनेजर को बैंक चलाना नहीं आता है।,0,"{
+  ""explanation"": ""The metaphor compares the bank manager to a sleeping snake, indicating that the bank manager is not alert or active in managing the bank."",
+  ""answer"": 1
+}",1,,0
+राहुल का टीवी हाथी जितना बड़ा था। ,राहुल का टीवी बहुत बड़ा था।,राहुल का टीवी बहुत छोटा था।,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The comparison here is between Rahul's TV and an elephant, both of which are big in size. Therefore, the correct option is 'राहुल का टीवी बहुत बड़ा था।'""
+}",0,,0
+अध्यापक आम की तरह सख्त है। ,अध्यापक बहार से सख्त मगर दिल के अच्छे हैं।,अध्यापक बाहर से भी और दिल के भी बहुत अच्छे हैं।,1,"{
+  ""explanation"": ""The metaphor compares the teacher to a mango, indicating that the teacher may seem strict on the outside like the tough outer skin of a mango, but inside they are kind and sweet like the flesh of a ripe mango."",
+  ""answer"": 0
+}",0,,0
+रहीम को उसकी पत्नी पुरानी चादर की तरह चुभती है।,रहीम को अपनी पत्नी से कोई परेशानी नहीं है। ,रहीम को अपनी पत्नी से बहुत तंग है।,0,"{
+  ""explanation"": ""The metaphor compares Rahim's wife to an old bedsheet that is irritating him, indicating that there may be some trouble or annoyance that Rahim is facing in his relationship with his wife."",
+  ""answer"": 1
+}",1,,0
+राजू लोहे जैसा अच्छा है।,राजू बहुत अच्छा नहीं है।,राजू बहुत अच्छा है।,0,"{
+  ""Explanation"": ""The metaphor compares Raju to iron, indicating strength, resilience, and reliability. Thus, it suggests that Raju is very good."",
+  ""Answer"": 1
+}",1,,0
+कार झरने के पानी की तरह साफ है। ,कार बहुत ज्यादा अच्छे से साफ़ है।,कार बहुत अच्छे से साफ़ नहीं है।,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, the car being compared to the water of a waterfall implies that the car is very clean, like the water falling from a waterfall. Therefore, the option ""कार बहुत ज्यादा अच्छे से साफ़ है।"" is the closest meaning.",0,,0
+पेंट करना किसी रोमांटिक फिल्म देखने के समान है।,पेंट करना बहुत अच्छा लगता है। ,पेंट करना बहुत उबाऊ लगता है।,0,"{
+  ""Startphrase"": ""पेंट करना किसी रोमांटिक फिल्म देखने के समान है।"",
+  ""Options"": {
+    ""0"": ""पेंट करना बहुत अच्छा लगता है।"",
+    ""1"": ""पेंट करना बहुत उबाऊ लगता है।""
+  },
+  ""Explanation"": ""The metaphor is comparing painting to watching a romantic",1,NG,0
+पेंट करना किसी आर्ट फिल्म देखने के समान है। ,पेंट करना बहुत अच्छा लगता है।,पेंट करना बहुत उबाऊ लगता है।,1,"{
+  ""Explanation"": ""The metaphor compares painting to watching an art film, which means that painting is similar to watching an art film in some way."",
+  ""Answer"": 0
+}",0,,0
+लगता है शर्मा जी संग्रहालय के दरबान की तरह व्यस्त हैं। ,शर्मा जी को ज्यादा काम नहीं है। ,शर्मा जी बहुत ज्यादा काम है।,0,"{
+  ""explanation"": ""The metaphor here is comparing Sharma Ji to a museum guard, which implies that Sharma Ji is very busy and occupied."",
+  ""answer"": 1
+}",1,,0
+शंकर कार राजधानी की तरह चला रहा है।,शंकर कार बहुत तेज चला रहा है। ,शंकर कार बहुत धीरे चला रहा है।,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor comparing Shankar's car to the capital implies that Shankar's car is moving slowly and steadily, just like how the capital city moves in a predictable and methodical manner. Therefore, the option ""शंकर कार बहुत धीरे चला रहा है।"" is the closest meaning to the metaphor.",1,,0
+सविता इस फिल्म में बर्फ के गोले की तरह लग रही है। ,सविता इस फिल्म में बहुत आकर्षक लग रही हैं।,सविता इस फिल्म में बिलकुल भी आकर्षक नहीं लग रही हैं।,1,"{
+  ""Startphrase"": ""सविता इस फिल्म में बर्फ के गोले की तरह लग रही है।"",
+  ""Options"": {
+    ""0"": ""सविता इस फिल्म में बहुत आकर्षक लग रही हैं।"",
+    ""1"": ""सविता इस फिल्म में बिलकुल भी आकर",0,NG,0
+शीला स्कूल में मुँह में हरी मिर्च खा के आती हैं।,शीला स्कूल में बहुत बोलती है। ,शीला स्कूल में बहुत कम बोलती है।,0,"{
+  ""Startphrase"": ""शीला स्कूल में मुँह में हरी मिर्च खा के आती हैं।"",
+  ""Options"": {
+    ""0"": ""शीला स्कूल में बहुत बोलती है।"",
+    ""1"": ""शीला स्कूल में बहुत कम बोलती है।""
+  },
+  ""Explanation"": ""Eating green chili and coming to school with 'mouth",1,NG,0
+राधा डिबेट में बिल्ली की तरह हो गयी।,राधा डिबेट में बहुत अच्छे से बोली। ,राधा डिबेट में कुछ भी ना बोल सकी।,0,"{
+  ""explanation"": ""The metaphor here is comparing Radha to a cat, which is typically seen as being silent and observant rather than vocal. So, the closest meaning is that Radha was unable to say anything in the debate, similar to a cat being silent."",
+  ""answer"": 1
+}",1,,0
+पढाई करना केक खाने जैसा है।,पढाई बहुत आसान है। ,पढाई बहुत मुश्किल है। ,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor here is comparing studying to eating cake. Eating cake is often seen as enjoyable and easy, which is why the closest meaning would be ""पढाई बहुत मुश्किल है।"" (Studying is very difficult). So, option 1 is the correct answer.",1,,0
+बॉक्स बड़े पेड़ जैसा हल्का है।,बॉक्स बहुत भारी है। ,बॉक्स बहुत हल्का है। ,0,"{
+  ""Explanation"": ""The phrase is comparing the weight of the box to a large tree, implying that the box is very light."",
+  ""Answer"": 1
+}",1,,0
+साइकल चलना हाथी से लड़ने जितना आसान है।,साइकल चलाना बहुत मुश्किल है। ,साइकल चलाना बहुत आसान है।,0,"{
+  ""Explanation"": ""The metaphor is emphasizing that riding a bicycle is easier than fighting against an elephant, implying that riding a bicycle is very easy."",
+  ""Answer"": 1
+}",1,,0
+इम्तेहान का नतीजा देख वो हिमेश की तरह गायक हो गया।,इम्तेहान का नतीजा देख वो बहुत खुश हुआ। ,इम्तेहान का नतीजा देख वो बहुत दुखी हुआ।,0,"{
+  ""Explanation"": ""The metaphor here is comparing the person's reaction upon seeing the exam results to that of a singer, specifically Himesh Reshammiya who is known for his emotive singing. In this context, the comparison implies that the person's reaction was melodramatic or expressive."",
+  ""Answer"": 1
+}",1,,0
+फर्श भालू की खाल की तरह था।,फर्श बिलकुल साफ नहीं था। ,फर्श बिलकुल साफ था।,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, the floor being compared to a bear's skin implies that the floor was very clean, smooth, and well-maintained like a bear's skin. Therefore, the closest meaning would be ""फर्श बिलकुल साफ था।"" (Option 1).",1,,0
+बैंगन जैसा स्वादिष्ट व्यंजन था। ,व्यंजन बिलकुल अच्छा नहीं था। ,व्यंजन बहुत अच्छा था।,0,"{
+  ""Explanation"": ""बैंगन is being compared to the taste of the dish, indicating that the dish was delicious like eggplant. Therefore, the meaning closest to the metaphor is that the dish was very good."",
+  ""Answer"": 1
+}",1,,0
+कपड़ा बूढ़े के हाथों सा मुलायम था।,कपड़ा मुलायम नहीं था। ,कपड़ा बहुत मुलायम था।,0,"{
+  ""answer"": 1
+}  
+The metaphor ""कपड़ा बूढ़े के हाथों सा मुलायम था"" is comparing the softness of the cloth to the tenderness of an elderly person's hands. Option 1) ""कपड़ा बहुत मुलायम था"" is the closest meaning to the metaphor as it emphasizes the high level of softness.",1,,0
+स्कूल का माहौल जंगल सा शांत था। ,स्कूल का माहौल बिलकुल भी शांत नहीं था। ,स्कूल का माहौल बिलकुल शांत था।,0,"{
+    ""Explanation"": ""The metaphor compares the peaceful atmosphere of the school to a tranquil jungle, implying that the school atmosphere was indeed peaceful."",
+    ""Answer"": 1
+}",1,,0
+हम मिटटी के घड़े जितनी मजबूत जमीन पर खड़े हैं।,हम कमज़ोर जमीन पर खड़े हैं।  ,हम मजबूत जमीन पर खड़े हैं।,0,"{
+    ""Explanation"": ""The metaphor compares individuals to pots made of clay standing on strong ground, implying that the individuals themselves are strong and stable."",
+    ""Answer"": 1
+}",1,,0
+जूस आम की तरह खट्टा है।,जूस बहुत अच्छा है। ,जूस बहुत अच्छा नहीं है।,0,"{
+  ""Explanation"": ""The metaphor used here is comparing the juice to the taste of a mango, which is sour. So, the correct option is that the juice is not very good."",
+  ""Answer"": 1
+}",1,,0
+उसका निशाना गुलेल की तरह दूर तक जाता है। ,वह दूर की सोचता है।  ,वह दूर की नहीं सोचता है।,1,"{
+  ""Explanation"": ""The metaphor compares the aim of the person to a slingshot, which travels far. This implies that the person is able to focus on long-term goals and targets that are far-reaching."",
+  ""Answer"": 0
+}",0,,0
+हवा मेंढक की तरह कोमल थी।,हवा तेज थी। ,हवा धीरे थी।,0,"{
+  ""explanation"": ""The metaphor comparing someone to a delicate frog in the wind suggests that the person was fragile and vulnerable, rather than suggesting that the wind was fast."",
+  ""answer"": 1
+}",1,,0
+वह शेर की तरह नाचने लगी।,वह गुस्से में आ गई। ,वह बहुत खुश हुई।,0,"{""answer"":1}
+
+Explanation: The metaphor ""वह शेर की तरह नाचने लगी।"" implies that the person started dancing like a lion, which signifies grace, power, and confidence. So the closest meaning to this metaphor would be ""वह बहुत खुश हुई।"" (she became very happy).",1,,0
+उसकी रंगीन चादर में दाग लग गया।,उसकी दागदारी में इल्जाम लग गया। ,उसकी शराफत में इल्जाम लग गया।,0,"{
+  ""Explanation"": ""The metaphor refers to a colorful blanket with a stain, implying that the person's reputation (शराफत) has been tarnished."",
+  ""Answer"": 1
+}",1,,0
+उसकी सफ़ेद चादर में दाग लग गया। ,उसकी दागदारी में इल्जाम लग गया।,उसकी शराफत में इल्जाम लग गया।,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""उसकी सफ़ेद चादर में दाग लग गया।"" means that there is a stain on his/her white sheet which is similar to accusing someone of having a flaw or mistake. Therefore, the meaning closest to the metaphor is ""उसकी दागदारी में इल्जाम लग गया।"" which translates to ""accusations were made on his/her stained reputation.""",0,,0
+आपके हाथ राजस्थान की तरह ठंडे हैं।,आपके हाथ ठन्डे नहीं है। ,आपके हाथ बहुत ठन्डे हैं।,0,"{
+  ""Explanation"": ""Rajasthan is known for its hot climate, so the metaphor implies that the hands are cold."",
+  ""Answer"": 1
+}",1,,0
+उनका दिमाग एक ग्रामीण बैंक की तरह है।,आपका दिम्माग बहुत कमजोर है। ,आपका दिम्माग बहुत तेज है।,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares their mind to a rural bank, which implies that their mind is simple, organized, and perhaps efficient like a rural bank. Therefore, the closest option is ""आपका दिम्माग बहुत तेज है।"" (your mind is very sharp).",1,,0
+उसकी नज़रें चिड़िया की तरह तेज हैं।,उसकी नजरें बहुत तेज नहीं हैं। ,उसकी नजरें बहुत तेज हैं।,0,"{
+  ""answer"": 1
+} 
+
+In this metaphor, the comparison is drawn between the sharpness or quickness of the eyes to that of a bird (चिड़िया). Just like a bird's eyes are quick and alert, the person's eyes are also very quick and sharp. Therefore, the option ""1) उसकी नजरें बहुत तेज हैं।"" is the closest meaning to the metaphor.",1,,0
+यह सुबह की धुप की तरह नम थी।,वह खुश नहीं थी। ,वह खुश थी।,0,"{
+  ""answer"": 1
+} 
+
+The metaphor here is comparing the person to the morning sun, which is associated with brightness and positivity. Therefore, the closest meaning to the metaphor is that ""वह खुश थी।"" (she was happy).",1,,0
+वह भेड़ की तरह खोया हुआ था।,वह अपनों से बिछड़ा मगर डरा हुआ नही था।,वह अपनों से बिछड़ा कर डरा हुआ था।,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, the person is compared to a lost sheep. The sheep is lost like the person, but the emphasis is on the person being separated from their loved ones and not on being scared. Therefore, the closest meaning is option 0) वह अपनों से बिछड़ा मगर डरा हुआ नही था।",0,,0
+उसने अपना घर बनाने के लिए एक चोरों की तरह मेहनत की है।,उसने अपना घर बनाने के लिए दूसरों को लुटा है। ,उसने बड़ी मेहनत से अपना घर बनाया है। ,0,"{
+  ""explanation"": ""The metaphor here is comparing the hard work put in by the person to build a house to that of thieves, who work hard to steal. This implies that the person has worked tirelessly to build their home."",
+  ""answer"": 1
+}",1,,0
+राशी अपनी सहेली के साथ गुलाब की तरह पेश आती थी।,राशी अपनी सहेली के साथ बहुत प्यार से रहती थी। ,राशी अपनी सहेली के साथ बहुत कड़वाहट से रहती थी।,0,"{
+	""Startphrase"": ""राशी अपनी सहेली के साथ गुलाब की तरह पेश आती थी।"",
+	""Options"": {
+		""0"": ""राशी अपनी सहेली के साथ बहुत प्यार से रहती थी।"",
+		""1"": ""राशी अपनी सहेली के साथ बहुत कड़वाहट से रहती",1,NG,0
+लॉलीपॉप देख रोहन ने शेर की तरह अपनी पूँछ हिलायी।,लॉलीपॉप के लिए रोहन ने छपटने का फैसला किया।,लॉलीपॉप के लिए रोहन ने प्यार से मांगने का फैसला किया।,0,"{
+    ""explanation"": ""The metaphor here is comparing Rohan's action of gently moving the lollipop to the way a lion moves its tail, indicating a gesture of affection rather than aggression."",
+    ""answer"": 1
+}",1,,0
+लॉलीपॉप देख रोहन ने पिल्ले की तरह अपनी पूँछ हिलायी। ,लॉलीपॉप के लिए रोहन ने छपटने का फैसला किया। ,लॉलीपॉप के लिए रोहन ने प्यार से मांगने का फैसला किया।,1,"{
+	""Startphrase"": ""लॉलीपॉप देख रोहन ने पिल्ले की तरह अपनी पूँछ हिलायी।"",
+	""Options"": {
+		""0"": ""लॉलीपॉप के लिए रोहन ने छपटने का फैसला किया।"",
+		""1"": ""लॉलीपॉप के लिए रोहन ने प्य",0,NG,0
+बच्चे खेल के मैदान में ताजी मिट्टी पाकर चूहे की तरह खुश थे।,बच्चों का मैदान ख़राब था मगर वो कुछ नहीं कर सकते थे। ,बच्चों का मैदान बढ़िया हो गया था इसलिए वो खुश थे।,0,"{
+  ""Explanation"": ""The metaphor compares children to mice playing in the field, implying they were happy like the mouse in fresh soil. This indicates that the children were happy because the field was good for playing, hence option 1 is the closest meaning."",
+  ""Answer"": 1
+}",1,,0
+चोर अपनी ड्रेस में फैंटम लग रहा था।,चोर बहुत स्मार्ट लग रहा था।,चोर बहुत बेवक़ूफ़ लग रहा था।,0,"{
+  ""Explanation"": ""The metaphor implies that the thief was looking foolish in his attempt to deceive others with his appearance."",
+  ""Answer"": 1
+}",1,,0
+वह सांभर की तरह लग रही थी।,वह बहुत चुलबुली लग रही थी। ,वह बहुत मस्त लग रही थी।,0,"{
+  ""answer"": 1,
+  ""explanation"": ""The comparison is between the person and a saambhar which is a traditional South Indian dish known for its unique taste. So, the metaphor implies that the person seemed very delightful or appealing, similar to the delicious taste of saambhar.""
+}",1,,0
+वो तवे की तरह लग रही थी।,वो बहुत गोरी लग रही थी।,वो बहुत काली लग रही थी।,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor compares the person to a tava (griddle), which indicates that the person was looking very fair, like the color of a griddle.""
+}",0,,0
+उसके दांत सोने जैसे सफेद थे।,उसके दांत साफ़ नहीं थे। ,उसके दांत साफ़ थे।,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""उसके दांत सोने जैसे सफेद थे।"" suggests that the teeth were as white as gold, indicating that the teeth were clean and sparkling. Therefore, the closest meaning is option 1) उसके दांत साफ़ थे।.",1,,0
+वह मोरनी की चाल से आगे बढ़ी। ,वह आत्मविश्वास से आगे बढ़ी।,वह सेहमी से आगे बढ़ी।,1,"{
+  ""Explanation"": ""The movement of a peacock is confident and graceful, so the metaphor likely implies that the person moved forward confidently."",
+  ""Answer"": 0
+}",0,,0
+वह आंधी में पेड़ से पत्तों की तरह टूट गई। ,वह मुश्किलों से बहुत देर तक लड़ी। ,वह मुश्किलों से बहुत जल्दी हार गई। ,1,"{
+  ""Explanation"": ""The metaphor compares the person to leaves falling off a tree during a storm, which implies facing challenges and difficulties for a long time."",
+  ""Answer"": 0
+}",0,,0
+राकेश गिद्ध की तरह मासूम है।,राकेश बहुत चलाक है। ,राकेश बहुत शरीफ है। ,0,"{
+  ""Explanation"": ""Comparing Rakesh to a vulture implies that he is innocent like a bird of prey."",
+  ""Answer"": 1
+}",1,,0
+माँ का दिल उँगलियों की तरह सख्त है।,माँ का दिल बहुत नरम होता है। ,माँ का दिल बहुत कठोर होता है। ,0,"{
+  ""answer"": 1
+}  
+
+Explanation: The metaphor here is comparing a mother's heart to fingers. Fingers are often associated with being firm and tough, therefore the intended meaning is that a mother's heart is tough and strict, similar to how fingers are firm. Hence, option 1) माँ का दिल बहुत कठोर होता है। is the closest meaning to the metaphor.",1,,0
+उसकी दूकान नए सोने की तरह चमक रही थी। ,उसकी दूकान बहुत बढ़िया से सजाई गई थी।,उसकी दूकान बहुत गंदे से सजाई गई थी।,1,"{
+  ""explanation"": ""The metaphor compares the shine of the shop to new gold, indicating that it was well-kept and shining. This implies that the shop was nicely decorated and well-maintained."",
+  ""answer"": 0
+}",0,,0
+किशोर कीसंतरे सी मीठी आवाज है।,किशोर की आवाज में मजा नहीं है। ,किशोर की आवाज में मिठास है। ,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""किशोर कीसंतरे सी मीठी आवाज है"" translates to ""The voice of a teenager is sweet like jaggery"". The comparison here is between the sweetness of jaggery and the sweetness in the teenager's voice. Option 1) ""किशोर की आवाज में मिठास है।"" best reflects the intended meaning as it directly correlates to the metaphor used.",1,,0
+उसकी गर्दन कबूतर सी लम्बी है। ,उसकी गर्दन बहुत छोटी है। ,उसकी गर्दन बहुत लम्बी है। ,0,"{
+  ""Explanation"": ""This is a metaphor comparing someone's neck to that of a pigeon which is known to have a long neck. Therefore, the correct meaning would be that the person has a long neck."",
+  ""Answer"": 1
+}",1,,0
+होमवर्क बस की तरह हल्का है। ,होमवर्क बहुत ज्यादा है। ,होमवर्क बहुत कम है।,0,"{
+  ""Explanation"": ""Just like a bus, homework is light and manageable."",
+  ""Answer"": 1
+}",1,,0
+शंकर चिमगादड़ के बच्चे जितना प्यारा है।,शंकर बहुत भद्दा है। ,शंकर बहुत सुंदर है।,0,"{
+  ""Explanation"": ""The metaphor here compares Shankar to a baby Chimpgadar, emphasizing the cuteness and innocence of Shankar. Therefore, the closest option is \""Shankar is very beautiful.\"""",
+  ""Answer"": 1
+}",1,,0
+डॉक्टरचन्दन की लकड़ी की तरह कीमती है।,डॉक्टर बहुत जरूरी है। ,सिर्फ अच्छे डॉक्टर जरूरी है।,0,"{
+  ""answer"": 1
+}
+
+Explanation: In this metaphor, the comparison is made between sandalwood and a doctor. Sandalwood is known for its high value and importance. Similarly, the metaphor implies that just like good quality sandalwood is valuable, having a good doctor is essential. Therefore, option 1) सिर्फ अच्छे डॉक्टर जरूरी है। is the closest meaning to the metaphor.",1,,0
+राहुल नटवरलाल बनना चाहता है। ,राहुल चोर बनना चाहता है। ,राहुल वैज्ञानिक बनना चाहता है। ,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor used in the startphrase is about Rahul wanting to become like Natwarlal, who was known for his clever tricks and swindling people. Therefore, the closest meaning is that Rahul wants to become a scientist, as Natwarlal was known for his intelligence and cunningness.",1,,0
+उसकी जुबान मोती की तरह काली है।,वह जुबान से अच्छी है। ,वह जुबान से गंदी है।,0,"{
+  ""answer"": 1
+} 
+
+Explanation: In this metaphor, the comparison is between the person's tongue and a black pearl. Since pearls are usually associated with cleanliness and purity, the closest meaning would be that the tongue is dirty or impure, similar to the black color of a pearl. Therefore, option 1) वह जुबान से गंदी है। is the correct interpretation.",1,,0
+डॉक्टर शैतान का रूप होता है। ,डॉक्टर जान बचाने वाले होते हैं। ,डॉक्टर जान से मारने वाले होते हैं।,0,"{
+  ""answer"": 1
+} 
+
+In this metaphor, ""शैतान का रूप होता है"" implies that doctors are harmful or dangerous, similar to the meaning of options 1) डॉक्टर जान से मारने वाले होते हैं। On the other hand, option 0) डॉक्टर जान बचाने वाले होते हैं would suggest the opposite, which is not in line with the metaphor.",1,,0
+डॉक्टर भगवान का रूप होता है। ,डॉक्टर जान बचाने वाले होते हैं।,डॉक्टर जान से मारने वाले होते हैं।,1,"{
+  ""Explanation"": ""The metaphor compares a doctor to God, suggesting that doctors are like a form of God on Earth."",
+  ""Answer"": 0
+}",0,,0
+गुस्से में रामु टमाटर की तरह लाल हो गया। ,रामु को बहुत प्यार आया। ,रामु को बहुत गुस्सा आया। ,0,"{
+  ""explanation"": ""The metaphor uses the color 'red' to indicate anger, similar to how a tomato turns red when it ripens or gets crushed."",
+  ""answer"": 1
+}",1,,0
+भिखारी चिड़िया की तरह भूखा था।,भिकारी को खाने का लालच नहीं था। ,भिकारी को खाने का लालच था। ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares the beggar to a hungry bird, implying that the beggar was eager or greedy for food. Therefore, the closest meaning to the metaphor is option 1) भिकारी को खाने का लालच था।",1,,0
+उसकी आत्मा गंदगी जितनी सस्ती थी।,वह बिलकुल भी भ्रष्ट नहीं है। ,वह बहुत ज्यादा भ्रष्ट है। ,1,"{
+  ""Explanation"": ""The metaphor is comparing the cheapness of the soul to dirt, implying that the soul is not worth much."",
+  ""Answer"": 0
+}",0,,0
+उसका मन नाले के पानी की तरह साफ है।,वह दिल का बहुत अच्छा है। ,वह दिल का बहुत ख़राब है।,1,"{
+    ""answer"": 0
+}
+
+Explanation: In this metaphor, the phrase ""उसका मन नाले के पानी की तरह साफ है।"" is comparing the clarity of someone's mind to the clear water of a canal. Here, the comparison implies that the person has a pure and clear mind, similar to clean water. Option 0) वह दिल का बहुत अच्छा है। aligns with this interpretation, as it suggests that the person has a good heart, which can be metaphorically compared to having a clear and pure mind.",0,,0
+वह कुम्ब्करण सा सोता है।,उसे बहुत कम नींद आती है।  ,उसे बहुत ज्यादा नींद आती है।  ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor comparing someone to Kumbhakaran, a character who slept for long durations in the Indian epic Ramayana, suggests that the person sleeps very deeply or for a long time. Therefore, the option ""उसे बहुत कम नींद आती है।"" (He gets very little sleep) is the closest meaning to the metaphor.",0,,0
+वह मिर्च की तरह शांत है। ,वह बहुत विनम्र है। ,वह बहुत असभ्य है। ,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, comparing someone to a chili means that they are like a chili - calm. Therefore, the closest meaning would be option 0) वह बहुत विनम्र है। (he is very humble).",0,,0
+वह चमगादड़ की तरह अँधा है। ,उसे असल में समझ नहीं आया है। ,उसे असल में समझ आया है। ,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The comparison is between the person and a bat, which is blind. This implies that the person is unable to see the truth or reality clearly, similar to how a bat is blind. Therefore, the closest meaning is 'उसे असल में समझ नहीं आया है।'""
+}",0,,0
+नर्स एक लोहे की छड़ी की तरह जलती रही।,नर्स गुस्से से काम करती रही।,नर्स दिल से सबकी सेवा करती रही।,0,"{
+  ""Explanation"": ""The metaphor comparing the nurse to a burning iron rod implies that the nurse was working tirelessly and with dedication, similar to how a burning iron rod signifies constant heat and energy."",
+  ""Answer"": 1
+}",1,,0
+इसकी छवि पुरानी हवेली सी सुन्दर है। ,यह बिलकुल भी सुन्दर नहीं है। ,यह बहुत सुन्दर है। ,0,"{
+  ""explanation"": ""The metaphor compares the image to an old mansion, implying that it is beautiful. Therefore, the meaning closest to the metaphor is 'यह बहुत सुन्दर है।'"",
+  ""answer"": 1
+}",1,,0
+उसे माँ की मार सा दर्द हो रहा है। ,उसे बिलकुल भी दर्द नहीं हो रहा है।,उसे बहुत दर्द हो रहा है।,0,"{
+  ""answer"": 1
+} 
+
+The metaphor here compares the pain someone is feeling to a mother's beating. This indicates that the person is feeling a lot of pain, so the closest meaning is ""उसे बहुत दर्द हो रहा है।"" (Option 1).",1,,0
+वह औरतों की तरह लड़ रहे हैं। ,"वह अभी लड़ रहे हैं, अभी दोस्त बन जायेंगे। ",यह लड़ाई अब कभी खत्म नहीं होगी। ,1,"{
+  ""explanation"": ""The metaphor comparing the person to women fighting implies that they are currently in a conflict or argument."",
+  ""answer"": 0
+}",0,,0
+स्नेहा बिलकुल गोबी के पत्ते की तरह लग रही थी। ,स्नेहा बिलकुल भी सुन्दर नहीं लग रही थी। ,स्नेहा बहुत सुन्दर लग रही थी। ,0,"{
+  ""Startphrase"": ""स्नेहा बिलकुल गोबी के पत्ते की तरह लग रही थी।"",
+  ""Options"": {
+    ""0"": ""स्नेहा बिलकुल भी सुन्दर नहीं लग रही थी।"",
+    ""1"": ""स्नेहा बहुत सुन्दर लग रही थी।""
+  },
+  ""Explanation"": ""The metaphor comparing",1,NG,0
+महेश अपने काम में दरवाज़े की कुंडी की तरह सुस्त है। ,महेश काम धीरे मगर अच्छा करता है। ,महेश काम धीरे और गंदा करता है। ,1,"{
+  ""Explanation"": ""The metaphor used here is comparing Mahesh to a door latch, which means he is slow or lazy in his work."",
+  ""Answer"": 0
+}",0,,0
+राहुल अपने घर का नजरबट्टू है। ,राहुल किसी काम का नहीं है। ,राहुल अपने घर की शान है।  ,0,"{
+  ""Explanation"": ""The metaphor 'नजरबट्टू' means someone who takes care of the house and ensures its well-being, which can be interpreted as being a source of pride for the house."",
+  ""Answer"": 1
+}",1,,0
+विधा पढाई में चाँद की तरह चमकती है।,विधा को जब पढ़ाओ नहीं वह पड़ती नहीं है।,विधा पढ़ाओ में बहुत होशियार है।,0,"{
+  ""Explanation"": ""In the metaphor, comparing the brilliance of Vidha's studies to the shine of the moon implies that Vidha excels in her studies."",
+  ""Answer"": 1
+}",1,,0
+वैज्ञानिक पेड़ की तरह होशियार हैं।,वैज्ञानिक अपने ज्ञान को बाँटते हैं। ,वैज्ञानिक बहुत चालक हैं। ,0,"{
+  ""Explanation"": ""The metaphor compares scientists to smart trees, implying they are wise and quick-thinking."",
+  ""Answer"": 1
+}",1,,0
+फुटबॉल कोच नदी की तरह सिरफिरा है।,फूटबाल कोच सिखाने के लिए कहीं भी घुस जाता है। ,फूटबाल कोच कभी भी गुस्से में आ जाता है। ,0,"{
+	""Startphrase"": ""फुटबॉल कोच नदी की तरह सिरफिरा है।"",
+	""Options"": {
+		""0"": ""फूटबाल कोच सिखाने के लिए कहीं भी घुस जाता है।"",
+		""1"": ""फूटबाल कोच कभी भी गुस्से में आ जाता ह",1,NG,0
+फुटबॉल कोच बम की तरह सिरफिरा है। ,फूटबाल कोच सिखाने के लिए कहीं भी घुस जाता है। ,फूटबाल कोच कभी भी गुस्से में आ जाता है। ,1,"{
+	""Startphrase"": ""फुटबॉल कोच बम की तरह सिरफिरा है।"",
+	""Options"": {
+		""0"": ""फूटबाल कोच सिखाने के लिए कहीं भी घुस जाता है।"",
+		""1"": ""फूटबाल कोच कभी भी गुस्से में आ जाता है",0,NG,0
+दादाजी एक पुराने किले की तरह बात करते हैं। ,दादाजी को सिर्फ कुछ ही बातें याद हैं। ,दादाजी को बहुत सारी जानकारी है।  ,0,"{
+    ""Explanation"": ""Just like an old fort which has memories from the past etched in its walls, the metaphor suggests that grandpa's words are full of wisdom and life experiences."",
+    ""Answer"": 1
+}",1,,0
+मजदूर घड़ी की टिक टिक की तरह काम करते हैं। ,मजदूर बहुत तेजी से काम करते हैं। ,मजदूर धीरे धीरे काम करते हैं। ,1,"{
+  ""answer"": 0
+} 
+
+The metaphor is comparing the laborers to the ticking of a clock, indicating that they work steadily and consistently, similar to the movement of a clock. Option 0) मजदूर बहुत तेजी से काम करते हैं। (The laborers work very quickly) is the closest meaning to the metaphor as it aligns with the steady and continuous work implied by the ticking clock comparison.",0,,0
+सच्चाई उसकी जुबान पर शराब की तरह थी।,वह सच नहीं बोलता था। ,वह हमेशा सच बोलता था। ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares the truth spoken by the person to alcohol, implying that it flowed freely and openly from their mouth. Therefore, the closest meaning is that the person always spoke the truth, option 1.",1,,0
+हमले के बाद गाँव के सभी लोग लोमड़ी की तरह हो गए। ,हमले के बाद से सब सेहम गए हैं। ,हमले के बाद से सब सतर्क हो गए हैं। ,0,"{
+  ""Explanation"": ""The metaphor comparing the people in the village to foxes indicates that they have become alert and cautious after the attack."",
+  ""Answer"": 1
+}",1,,0
+हमले के बाद गाँव के सभी लोग मोम की मूर्तियों की तरह हो गए। ,हमले के बाद से सब सेहम गए हैं। ,हमले के बाद से सब सतर्क हो गए हैं। ,1,"{
+""Explanation"": ""The metaphor comparing the villagers to statues of wax implies that they have become scared or paralyzed with fear after the attack."",
+""Answer"": 0
+}",0,,0
+मेरी माँ की रसोई एक जंग के मैदान के समान है।,मेरी माँ रसोई को साफ़ सुथरा नहीं रखती है। ,मेरी माँ रसोई को बहुत साफ़ सुथरा रखती है। ,0,"{
+  ""explanation"": ""The metaphor comparing the mother's kitchen to a battlefield signifies that the kitchen is a place of hard work and intense activity, just like a battlefield."",
+  ""answer"": 1
+}",1,,0
+उस अजनबी से हाथ मिलाना गर्म रेत के जैसा लगा।,वह अजनबी एक दोस्त की तरह लगा। ,वह अजनबी एक दुश्मन की तरह लगा। ,1,"{
+  ""Explanation"": ""The warmth of sand can be comforting and pleasant, therefore, the metaphor likely implies a feeling of friendship or warmth."",
+  ""Answer"": 0
+}",0,,0
+उसके साथ बहस करना फुटबॉल से खलने जैसा है। ,उसके साथ बहस करना बहुत आसान है। ,उसके साथ बहस करना बहुत मुश्किल है। ,0,"{
+  ""Startphrase"": ""उसके साथ बहस करना फुटबॉल से खलने जैसा है।"",
+  ""Options"": {
+    ""0"": ""उसके साथ बहस करना बहुत आसान है।"",
+    ""1"": ""उसके साथ बहस करना बहुत मुश्किल है।""
+  },
+  ""Explanation"": ""In this metaphor, the comparison is made between",1,NG,0
+उसके साथ बहस करना हथगोले से खलने जैसा है। ,उसके साथ बहस करना बहुत आसान है। ,उसके साथ बहस करना बहुत मुश्किल है। ,1,"{
+  ""Startphrase"": ""उसके साथ बहस करना हथगोले से खलने जैसा है।"",
+  ""Options"": {
+    ""0"": ""उसके साथ बहस करना बहुत आसान है।"",
+    ""1"": ""उसके साथ बहस करना बहुत मुश्किल है।""
+  },
+  ""Explanation"": ""The metaphor used here is comparing arguing with that person to",0,NG,0
+कक्षा बॉक्सिंग रिंग की तरह शांत थी।,कक्षा में लड़ाई चल रही थी। ,कक्षा में पढाई चल रही थी। ,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor compares the classroom to a boxing ring which is calm and peaceful. This implies that there was studying going on in the classroom, rather than fighting. Therefore, the closest meaning is option 1) कक्षा में पढाई चल रही थी।",1,,0
+सुकुमार ने अपनी पत्नी की तारीफ ऐसे की जैसे इतिहास का मास्टर महाभारत के कौरवों की करता है। ,सुकुमार ने अपनी पत्नी की बेज्जती की। ,सुकुमार ने अपनी पत्नी की बहुत तारीफ की। ,0,"{
+  ""Explanation"": ""Comparing his wife's praise to the way the Master Mahabharat praises the Kauravas indicates that Sukumar must have praised his wife a lot."",
+  ""Answer"": 1
+}",1,,0
+बादल आसमान में भूतों के महल की तरह थे।,बदल काले और घने थे। ,बदल साफ़ और सुन्दर थे। ,0,"{
+	""answer"": 1
+}
+The metaphor compares the clouds in the sky to palaces of ghosts, implying that the clouds were magnificent and beautiful. So, the option ""1) बदल साफ़ और सुन्दर थे।"" is the closest in meaning.",1,,0
+"जब वह पहाड़ी की चोटी पर पहुँचा, तो उसे पानी के गुब्बारे जैसा मजबूत महसूस हुआ।",छोटी पर पहुँच वह बहुत थक गे था। ,छोटी पर पहुँच वह आत्मविश्वास से भर गया था। ,0,"{
+  ""Explanation"": ""The metaphor compares reaching the mountain top to feeling as strong as a bubble of water, which implies feeling confident and empowered."",
+  ""Answer"": 1
+}",1,,0
+वह शेर सी पानी में तैरती है।,वह बहुत आसानी से तैर लेती है। ,तैरने के लिए उसे बहुत जोर लगाना पड़ता है। ,0,"{
+  ""explanation"": ""The metaphor comparing someone swimming in water to a lion indicates that it is very difficult for them to swim, just like lions are not naturally inclined to swim."",
+  ""answer"": 1
+}",1,,0
+वह मछली सी पानी में तैरती है। ,वह बहुत आसानी से तैर लेती है। ,तैरने के लिए उसे बहुत जोर लगाना पड़ता है। ,1,"{
+  ""Explanation"": ""The phrase 'वह मछली सी पानी में तैरती है' is a metaphor suggesting that something is effortlessly easy for the person. Fish swim effortlessly in water, so the metaphor implies that the person does something with ease."",
+  ""Answer"": 0
+}",0,,0
+वे बच्चे पानी में लहरों की तरह दौड़े।,वे बच्चे बड़ी मुश्किल से दौड़े। ,वे बच्चे बड़े आराम से दौड़े। ,1,"{
+  ""answer"": 0
+}
+
+Explanation: In the metaphor, the children are compared to waves in water, which implies that they are running or playing around energetically. Therefore, the closest meaning is ""वे बच्चे बड़ी मुश्किल से दौड़े।"" (They children ran with great difficulty).",0,,0
+उसके बाल घने जंगल की तरह थे। ,उसके बाल बहुत उलझे हुए थे। ,उसके बाल बहुत बढ़िया से बनाए हुए थे। ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares the thickness of the person's hair to a dense jungle, indicating that the person has thick and lush hair. Option 1) उसके बाल बहुत बढ़िया से बनाए हुए थे। (His hair was made very well) is the closest in meaning as it also refers to the quality and appearance of the person's hair.",1,,0
+उसके बाल मकड़ी के जाले की तरह थे।,उसके बाल बहुत उलझे हुए थे। ,उसके बाल बहुत बढ़िया से बनाए हुए थे। ,1,"{
+""answer"": 0
+} 
+
+Explanation: The metaphor comparing the person's hair to a spider's web indicates that the person's hair was tangled and messy, similar to how a spider's web is intricate and tangled. Option 0 reflects this meaning, as it states that the hair was very tangled.",0,,0
+एक एक इंसान इस प्रोजेक्ट में जादू की छड़ी सा था।,यह प्रोजेक्ट पैसे की वजह से पूरा हुआ। ,यह प्रोजेक्ट बड़ी मेहनत और लगन से पूरा हुआ। ,0,"{
+  ""explanation"": ""The metaphor comparing a person to a magic wand implies that the person had a significant impact or influence on the project, similar to how a magic wand can create magical effects."",
+  ""answer"": 1
+}",1,,0
+एक एक पैसा इस प्रोजेक्ट में जादू की छड़ी सा था। ,यह प्रोजेक्ट पैसे की वजह से पूरा हुआ। ,यह प्रोजेक्ट बड़ी मेहनत और लगन से पूरा हुआ। ,1,"{
+  ""Startphrase"": ""एक एक पैसा इस प्रोजेक्ट में जादू की छड़ी सा था।"",
+  ""Options"": {
+    ""0"": ""यह प्रोजेक्ट पैसे की वजह से पूरा हुआ।"",
+    ""1"": ""यह प्रोजेक्ट बड़ी मेहनत और लगन से पूरा हुआ।",0,NG,0
+उसने मेरा हाथ सर्दी के कम्बल सा पकड़े रखा। ,उसने मेरा हाथ बड़े प्यार से पकड़े रखा। ,उसने मेरा हाथ बड़ी नफरत से पकड़े रखा। ,1,"{
+  ""Explanation"": ""The metaphor here is comparing holding the hand to holding a warm blanket, which signifies care and affection."",
+  ""Answer"": 0
+}",0,,0
+मेरा घर मुग़लों के महलों के समान है।,मैं दुसरो की कमाई से जीता हूँ। ,मैं अपने परिश्रम की कमाई से जीता हूँ। ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""मेरा घर मुग़लों के महलों के समान है।"" implies that the speaker's home is grand and majestic like the palaces of the Mughal emperors. This suggests that the speaker is comparing their own hard work and efforts (परिश्रम) to the grandeur of the palaces, indicating that their home is a result of their own efforts rather than relying on someone else's earnings. Therefore, the closest option is ""मैं अपने परिश्रम की कमाई से",1,,0
+उसकी बातों में सुनार के हथोड़े का जोर था। ,उसकी बातों में बहुत वजन था।,उसकी बातों में बहुत वजन था।,1,"{
+  ""Explanation"": ""The metaphor compares the strength and impact of the person's words to the force of a goldsmith's hammer."",
+  ""Answer"": 0
+}",0,,0
+नौकरी मिलना सीढ़ियाँ चढ़ने जैसा था। ,नौकरी आसानी से मिल गई। ,नौकरी बहुत मुश्किल से मिली। ,0,"{
+  ""explanation"": ""Climbing stairs is usually associated with difficulty and effort, hence the metaphor implies that getting the job was not easy."",
+  ""answer"": 1
+}",1,,0
+उसकी आवाज में पुलिस वाले का जादू है। ,उसकी आवाज से प्यार छलकता है। ,उसकी आवाज से गुस्सा छलकता है। ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor here is comparing the person's voice to a police officer's magic. In this context, the magic of a police officer usually refers to their authoritative presence or control over a situation, which can evoke fear or anger in some individuals. Therefore, the closest meaning to the metaphor is ""उसकी आवाज से गुस्सा छलकता है।"" (Anger erupts from his voice).",1,,0
+उसकी आवाज में लता मंगेशकर का जादू है। ,उसकी आवाज से प्यार छलकता है। ,उसकी आवाज से गुस्सा छलकता है। ,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, the phrase ""उसकी आवाज में लता मंगेशकर का जादू है।"" implies that the person's voice has the magic of Lata Mangeshkar. Lata Mangeshkar is known for her melodious and enchanting voice, so the closest meaning to this metaphor would be that love overflows from the person's voice, option 0.",0,,0
+वह तालाब के पानी की तरह काम करता है। ,वह केवल अपने हिसाब से काम करता है। ,वह सबके साथ मिल कर काम करता है। ,0,"{
+  ""answer"": 1
+} 
+The metaphor ""वह तालाब के पानी की तरह काम करता है।"" implies that the person works like the water of a pond, which signifies that they work in collaboration with others (वह सबके साथ मिल कर काम करता है) rather than working alone (वह केवल अपने हिसाब से काम करता है).",1,,0
+घाव से खून साहूकार की तिजोरी के पैसे की तरह निकलने लगा।,घाव से बहुत थोड़ा खून निकला। ,घाव से बहुत ज्यादा खून निकला। ,0,"{
+  ""explanation"": ""The metaphor is comparing the amount of blood flowing from the wound to the money being taken out of a money chest. Just like money would flow out in large amounts from a treasure chest, in this case, a lot of blood is flowing out from the wound."",
+  ""answer"": 1
+}",1,,0
+रोहन स्कूल में ऐसे जाता है जैसे कोई माइन फील्ड हो। ,रोहन को स्कूल में बहुत मजा आता है। ,रोहन को स्कूल में मजा नहीं आता है। ,1,"{
+  ""Startphrase"": ""रोहन स्कूल में ऐसे जाता है जैसे कोई माइन फील्ड हो।"",
+  ""Options"": {
+    ""0"": ""रोहन को स्कूल में बहुत मजा आता है।"",
+    ""1"": ""रोहन को स्कूल में मजा नहीं आता है।""
+  },
+  ""Explanation"": ""The metaphor comparing",0,NG,0
+शाम ने अपने काम को ऐसे किया जैसे कोई सौतेली माँ अपने बच्चे का ध्यान रखती है। ,शाम ने अपने काम को अच्छी तरह नहीं किया। ,शाम ने अपने काम को बहुत अच्छी तरह किया। ,0,"{
+  ""Startphrase"": ""शाम ने अपने काम को ऐसे किया जैसे कोई सौतेली माँ अपने बच्चे का ध्यान रखती है।"",
+  ""Options"": {
+    ""0"": ""शाम ने अपने काम को अच्छी तरह नहीं किया।"",
+    ""1"": ""शाम ने अपन",1,NG,0
+परीक्षा में सोहन ने ऐसा लिखा जैसे किसी ने चीटियाँ चला दी हों। ,परीक्षा में सोहन ने बहुत सूंदर लिखावट में लिखा। ,परीक्षा में सोहन ने बहुत घटिया लिखावट में लिखा। ,1,"{
+  ""explanation"": ""The metaphor suggests that Sohan wrote in an exceptional manner, as if someone else had cheated for him, implying that the content was too good to be his own work."",
+  ""answer"": 0
+}",0,,0
+राजेश आज उतने ही मोटे हैं जितने हाथी के बच्चे। ,राजेश बिलकुल भी मोटे नहीं हुए हैं। ,राजेश बहुत मोटे हो गए हैं। ,1,"{
+  ""explanation"": ""The metaphor compares Rajesh's current weight to that of an elephant's baby, implying that he hasn't gained much weight."",
+  ""answer"": 0
+}",0,,0
+उसकी सोच में नेता की सिखलाई है।,उसकी सोच लालच से भरी हुई है। ,उसकी सोच में सब के लिए समानता है। ,0,"{
+  ""answer"": 1
+} 
+The metaphor comparing the person's thoughts to a leader's teachings implies that the person's thoughts are filled with principles of equality and fairness, similar to a leader who imparts important lessons for the benefit of all. Therefore, the closest option is 1) उसकी सोच में सब के लिए समानता है।",1,,0
+संगीत एक दंगल की लड़ाई सा असर दिखता है। ,संगीत मुझे बिलकुल पसंद नहीं है। ,संगीत मुझे मेरे दुखो से बचाता है। ,0,"{
+  ""Explanation"": ""The metaphor compares music to a wrestling match, implying that music has a powerful impact."",
+  ""Answer"": 1
+}",1,,0
+संगीत एक डॉक्टर की दवाई का असर दिखता है। ,संगीत मुझे बिलकुल पसंद नहीं है। ,संगीत मुझे मेरे दुखो से बचाता है। ,1,"{
+  ""Startphrase"": ""संगीत एक डॉक्टर की दवाई का असर दिखता है।"",
+  ""Options"": {
+    ""0"": ""संगीत मुझे बिलकुल पसंद नहीं है।"",
+    ""1"": ""संगीत मुझे मेरे दुखो से बचाता है।""
+  },
+  ""Explanation"": ""This metaphor compares music to the effect of",0,NG,0
+तुम्हारी मुस्कान पुरे चाँद की तरह दिखती है। ,तुम्हारे चेहरे की मुस्कान हमेशा दिखती है। ,तुम्हारे चेहरे की मुस्कान कभी कभी दिखती है। ,1,"{
+  ""Explanation"": ""The metaphor is comparing the brightness and beauty of the smile to the full moon, implying that the smile is always radiant and prominent like the moon."",
+  ""Answer"": 0
+}",0,,0
+उसको देख कर मेरा दिल एक बच्चे की तरह हो जाता है। ,उसको देख कर मेरे दिल में कुछ महसूस नहीं होता है।,उसको देख कर मेरे दिल में बहुत प्यार उमड़ पड़ता है।,1,"{
+  ""Startphrase"": ""उसको देख कर मेरा दिल एक बच्चे की तरह हो जाता है।"",
+  ""Options"": {
+    ""0"": ""उसको देख कर मेरे दिल में कुछ महसूस नहीं होता है।"",
+    ""1"": ""उसको देख कर मेरे दिल में बहुत प्यार",0,NG,0
+राधेश्याम हमारे परिवार में चाय में नमक की तरह मिल गया। ,राधेश्याम हमारे परिवार के साथ रिश्ता नहीं जोड़ पाया।  ,राधेश्याम हमारे परिवार के साथ अच्छे से रिश्ता जोड़ पाया।  ,0,"{
+  ""Startphrase"": ""राधेश्याम हमारे परिवार में चाय में नमक की तरह मिल गया।"",
+  ""Options"": {
+    ""0"": ""राधेश्याम हमारे परिवार के साथ रिश्ता नहीं जोड़ पाया।"",
+    ""1"": ""राधेश्याम हमारे परिवार के साथ अ",1,NG,0
+उसकी बातें रंगीन काँच के टुकड़ो की तरह शीतल थीं।,उसकी बातें पूरी तरह समझ नहीं आती हैं। ,उसकी बातें पूरी तरह समझ आती हैं। ,0,"{
+  ""explanation"": ""The metaphor compares the colorful glass pieces to the person's interesting and cool words, implying that they were easy to understand."",
+  ""answer"": 1
+}",1,,0
+लगता है जब फूल पड़ेंगे तभी मेरी बात समझ में आएगी।,जब डाँट पड़ेगी तब समझ में आएगी।,जब तारीफ़ होगी तब समझ में आएगी।,1,"{
+  ""Explanation"": ""The metaphor here is comparing the understanding to the blooming of a flower, indicating that it will happen at a certain future point."",
+  ""Answer"": 0
+}",0,,0
+युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।,युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।,युद्ध में हमारे सैनिकों ने आसानी से विजय प्राप्त की।,1,"{
+	""Startphrase"": ""युद्ध के मैदान में हमारे सैनिकों ने फ़ूलों पर पैर रखकर विजय प्राप्त की।"",
+	""Options"": {
+		""0"": ""युद्ध में हमारे सैनिकों ने मुश्किलों से विजय प्राप्त की।"",
+		""1"":",0,NG,0
+उससे झगड़ा लेकर व्यर्थ ही पत्थर सिर पर मत धरो।,उससे झगड़ा कर व्यर्थ ही विपत्ति मोल मत लो ।,उससे झगड़ा कर व्यर्थ ही अपना समय बर्बाद ना करो।,0,"{
+  ""error"": ""No reasoning provided""
+}",1,NG,0
+कभी तो काम में बंद दरवाजे को खोला करो?,कभी तो काम में दूसरों की मादा लेना बंद करो। ,कभी तो काम में दूसरों की मादा लिया करो। ,1,"{
+  ""Explanation"": ""The metaphor is suggesting to open up a closed door at work, which symbolizes being more open to new opportunities or ideas."",
+  ""Answer"": 0
+}",0,,0
+राम के अभिषेक की बात सुनकर कौशल्या का अंग-अंग फूले नहीं समाया।,राम के अभिषेक की बात सुनकर कौशल्या बहुत प्रसन्न हुई ।,राम के अभिषेक की बात सुनकर कौशल्या बहुत दुखी हुई ।,0,"{
+  ""explanation"": ""The metaphor implies that hearing about Ram's coronation did not bring joy to Kaushalya, indicating a negative emotional response."",
+  ""answer"": 1
+}",1,,0
+अकबर के नवरत्नों में बीरबल तो जैसे अंगूठी का नगीना थे।,अकबर के नवरत्नों में बीरबल अत्यधिक सम्मानित व्यक्ति थे।,अकबर के नवरत्नों में बीरबल अत्यधिक सामान्य व्यक्ति थे।,0,"{
+  ""Startphrase"": ""अकबर के नवरत्नों में बीरबल तो जैसे अंगूठी का नगीना थे।"",
+  ""Options"": {
+    ""0"": ""अकबर के नवरत्नों में बीरबल अत्यधिक सम्मानित व्यक्ति थे।"",
+    ""1"": ""अकबर क",1,NG,0
+"यह पहाड़ी कोई धनिये का पौधा तो है नहीं, जिसे हटाकर रेल की पटरी ना बिछाई जा सके।",इस पहाड़ी को काट कर रेल की पटरी बिछाना अति दुष्कर कार्य है ।,इस पहाड़ी को काट कर रेल की पटरी बिछाना अति सरल कार्य है ।,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor is implying that the task of cutting down this mountain and laying train tracks is extremely difficult, akin to not being able to uproot a coriander plant. Therefore, the correct option is: इस पहाड़ी को काट कर रेल की पटरी बिछाना अति दुष्कर कार्य है ।",0,,0
+दुर्योधन स्कूल में चरने जाता था।,दुर्योधन की बुद्धि भ्रष्ट हो गई थी।,दुर्योधन बहुत बुद्धिमान था।,0,"{
+  ""explanation"": ""दुर्योधन स्कूल में चरने जाता था। implies Duryodhan was going to school, which indicates he was intelligent and not foolish."",
+  ""answer"": 1
+}",1,,0
+दुर्योधन स्कूल में पढ़ने जाता था।,दुर्योधन की बुद्धि भ्रष्ट हो गई थी।,दुर्योधन बहुत बुद्धिमान था।,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, the context of Duryodhan going to school implies that his intellect had become corrupted or flawed. Option 0) दुर्योधन की बुद्धि भ्रष्ट हो गई थी। aligns more closely with this meaning as it suggests that Duryodhan's intellect had degraded. Option 1) दुर्योधन बहुत बुद्धिमान था। would not make sense in this context because the metaphor implies the opposite of Duryodhan being",0,,0
+"तुम स्वयं तो अक्ल के पीछे लाठी लिये फिरते हो, हम तुम्हारी क्या सहायता करें।","तुम स्वयं मूर्खतापूर्ण कार्य करते हो, हम तुम्हारी क्या सहायता करें।","तुम स्वयं अक्लमंद हो, हम तुम्हारी क्या सहायता करें।",0,"{
+  ""Startphrase"": ""तुम स्वयं तो अक्ल के पीछे लाठी लिये फिरते हो, हम तुम्हारी क्या सहायता करें।"",
+  ""Options"": {
+    ""0"": ""तुम स्वयं मूर्खतापूर्ण कार्य करते हो, हम तुम्हारी क्या सहायता करें।",1,NG,0
+"तुम स्वयं तो अक्ल के पीछे माला लिये फिरते हो, हम तुम्हारी क्या सहायता करें।","तुम स्वयं मूर्खतापूर्ण कार्य करते हो, हम तुम्हारी क्या सहायता करें।","तुम स्वयं अक्लमंद हो, हम तुम्हारी क्या सहायता करें।",1,"{
+  ""Startphrase"": ""तुम स्वयं तो अक्ल के पीछे माला लिये फिरते हो, हम तुम्हारी क्या सहायता करें।"",
+  ""Options"": [
+    ""तुम स्वयं मूर्खतापूर्ण कार्य करते हो, हम तुम्हारी क्या सहायता करें।"",
+    ""त",0,NG,0
+सरकार कालाबाजारी को आँख खोल के देख रही है।,सरकार कालाबाज़ारी को बढ़ावा दे रही है।,सरकार कालाबाज़ारी को खत्म करने में लगी है।,1,"{
+  ""Explanation"": ""The metaphor of 'सरकार कालाबाजारी को आँख खोल के देख रही है' implies that the government is closely monitoring and observing the illegal activities going on."",
+  ""Answer"": 0
+}",0,,0
+"यहाँ कोई ऐसा नहीं है, जो तुम्हारे लिए काँटे बिछाए बैठा रहेगा।",कोई भी तुम्हारा आदरपूर्वक स्वागत नहीं करेगा।,सब तुम्हारा आदरपूर्वक स्वागत करेंगे।,1,"{
+  ""explanation"": ""The metaphor implies that no one will intentionally make things difficult for you."",
+  ""answer"": 0
+}",0,,0
+रमेश अपने माता-पिता का सपूत है।,रमेश अपने माता-पिता का अच्छा बच्चा था।,रमेश अपने माता-पिता का बुरा बच्चा था।,0,"{
+  ""Startphrase"": ""रमेश अपने माता-पिता का सपूत है।"",
+  ""Options"": {
+    ""0"": ""रमेश अपने माता-पिता का अच्छा बच्चा था।"",
+    ""1"": ""रमेश अपने माता-पिता का बुरा बच्चा था।""
+  },
+  ""Explanation"": ""In this metaphor, 'रमेश अप",1,NG,0
+रमेश अपने माता-पिता का कपूत है।,रमेश अपने माता-पिता का अच्छा बच्चा था।,रमेश अपने माता-पिता का बुरा बच्चा था।,1,"{
+  ""Startphrase"": ""रमेश अपने माता-पिता का कपूत है।"",
+  ""Options"": {
+    ""0"": ""रमेश अपने माता-पिता का अच्छा बच्चा था।"",
+    ""1"": ""रमेश अपने माता-पिता का बुरा बच्चा था।""
+  },
+  ""Explanation"": ""In this metaphor, 'कपूत' means",0,NG,0
+राम की आँखों में सपना झोंककर उसे किसी ने नकली नोट दे दिया।,राम को धोके से किसी ने नकली नोट दे दिया।,राम को प्यार से किसी ने नकली नोट दे दिया।,1,"{
+  ""Explanation"": ""In this metaphor, 'राम की आँखों में सपना झोंककर' suggests that someone planted a dream in Ram's eyes, which implies misleading or deceiving him. Therefore, the closest meaning is 'राम को धोके से किसी ने नकली नोट दे दिया।'"",
+  ""Answer"": 0
+}",0,,0
+आपकी भाषा नाली सी साफ़ है।,आपकी भाषा बहुत अच्छी है।,आपकी भाषा बहुत भद्दी है।,1,"{
+	""Explanation"": ""Comparing the clarity and cleanliness of language to a clear sewer pipe, indicating that the language is good and well-maintained."",
+	""Answer"": 0
+}",0,,0
+मोहन तोते की तरह बोले जा रहा था। ,मोहन सब गलत बोल रहा था। ,मोहन को जैसे सब रटा हुआ था।,0,"{
+  ""Explanation"": ""The metaphor compares Mohan's way of speaking to that of a parrot, implying that he was repeating something without understanding it."",
+  ""Answer"": 1
+}",1,,0
+अपने इम्तिहान का नतीजा देख रोशन पानी-पानी हो गया। ,अपने इम्तिहान का नतीजा देख रोशन शर्मिंदा हो गया।,अपने इम्तिहान का नतीजा देख रोशन ख़ुशी से भर गया।,0,"{
+  ""Explanation"": ""The metaphor uses the imagery of shining water, which typically symbolizes clarity and brightness. In this context, it implies that the exam results were excellent, leading to a sense of joy or satisfaction."",
+  ""Answer"": 1
+}",1,,0
+अपने इम्तिहान का नतीजा देख रोशन गदगद होना हो गया। ,अपने इम्तिहान का नतीजा देख रोशन शर्मिंदा हो गया।,अपने इम्तिहान का नतीजा देख रोशन ख़ुशी से भर गया।,1,"{
+  ""Startphrase"": ""अपने इम्तिहान का नतीजा देख रोशन गदगद होना हो गया।"",
+  ""Options"": {
+    ""0"": ""अपने इम्तिहान का नतीजा देख रोशन शर्मिंदा हो गया।"",
+    ""1"": ""अपने इम्तिहान का नती",0,NG,0
+प्रदीप रामलाल के माकन पर साँप की तरह बैठ गया। ,प्रदीप कपटी मित्र है।,प्रदीप अच्छा मित्र है।,0,"{
+  ""answer"": 1,
+  ""explanation"": ""The metaphor comparing someone to a snake sitting on a house typically implies that the person is a good friend, as snakes are often seen as protectors or guardians of homes in many cultures.""
+}",1,,0
+प्रदीप रामलाल के माकन पर साँप की तरह बैठ गया। ,प्रदीप कपटी मित्र है।,प्रदीप अच्छा मित्र है।,1,"{
+  ""Explanation"": ""Here, the metaphor comparing someone to a snake usually implies that Pradeep is someone who is deceitful or untrustworthy."",
+  ""Answer"": 0
+}",0,,0
+कुछ लोग कोयल की तरह बात करते हैं। ,कुछ लोग बड़ी बेवकूफी भरी बात करते हैं। ,कुछ लोग बड़ी अच्छी तरह बात करते हैं। ,1,"{
+  ""Startphrase"": ""कुछ लोग कोयल की तरह बात करते हैं।"",
+  ""Options"": [
+    {
+      ""कुछ लोग बड़ी बेवकूफी भरी बात करते हैं।"": ""This option implies that some people talk like a crow, which is usually associated with making loud and foolish noises. This does not align with the metaphor, so it is not the correct interpretation.""
+    },
+    {
+      ""कुछ लोग ब",0,NG,0
+रमेश अपनी पत्नी को उँगलियों पर रखता है।,रमेश अपनी का बिलकुल ख्याल नहीं रखता है। ,रमेश अपनी का बहुत ख्याल रखता है। ,0,"{
+  ""Explanation"": ""This metaphor suggests that Ramesh takes great care of his wife by being attentive and affectionate towards her, which is represented by option 1."",
+  ""Answer"": 1
+}",1,,0
+"जिससे ईश्वर भी आँखे फेर ले, कोई उसकी सहायता कैसे कर सकता है।","जिसकी उपेक्षा ईश्वर करने लगे, उसकी सहयता कोई नहीं कर सकता है।",जिसके साथ ईश्वर हो उसको किसी और की जरूरत नहीं है।,0,"{
+  ""Startphrase"": ""जिससे ईश्वर भी आँखे फेर ले, कोई उसकी सहायता कैसे कर सकता है।"",
+  ""Options"": {
+    ""0"": ""जिसकी उपेक्षा ईश्वर करने लगे, उसकी सहयता कोई नहीं कर सकता है।"",
+    ""1"": ""ज",1,NG,0
+मोहन को दो रोटियाँ देना तो ऊँट के मुँह में जीरा देने के समान है।,दो रोटियों से मोहन का पेट बिलकुल नहीं भर सकता है। ,दो रोटियों से मोहन का पेट आराम से भर जाता है। ,0,"{
+	""Startphrase"": ""मोहन को दो रोटियाँ देना तो ऊँट के मुँह में जीरा देने के समान है।"",
+	""Options"": {
+		""0"": ""दो रोटियों से मोहन का पेट बिलकुल नहीं भर सकता है।"",
+		""1"": ""दो रोटियों से",1,NG,0
+मोहन को दो रोटियाँ देना तो ऊँट के मुँह में तरबूज देने के समान है।,दो रोटियों से मोहन का पेट बिलकुल नहीं भर सकता है। ,दो रोटियों से मोहन का पेट आराम से भर जाता है। ,1,"{
+  ""Explanation"": ""Just like it is impossible to fit a watermelon in a camel's mouth, giving two rotis to Mohan will not satisfy his hunger."",
+  ""Answer"": 0
+}",0,,0
+जीत पर मंत्री जी को लोगों ने फूलों की माला पहनाई। ,लोग मंत्री जी की जीत से बहुत खुश थे।,लोग मंत्री जी की जीत से बहुत दुखी थे।,0,"{
+  ""Startphrase"": ""जीत पर मंत्री जी को लोगों ने फूलों की माला पहनाई।"",
+  ""Options"": {
+    ""0"": ""लोग मंत्री जी की जीत से बहुत खुश थे।"",
+    ""1"": ""लोग मंत्री जी की जीत से बहुत दुखी थे।""
+  },
+  ""Explanation"": ""The",1,NG,0
+"सच्चा शासक वही होता है, जो सबको पत्थर के समान देखता है। ",सच्चा शासक सबके साथ अच्छा व्यवहार करता है। ,सच्चा शासक सबके साथ बुरा व्यवहार करता है। ,1,"{
+  ""Explanation"": ""The metaphor compares a true ruler to someone who sees everyone as equal to a stone, implying that a true ruler treats everyone the same without discrimination."",
+  ""Answer"": 0
+}",0,,0
+किताबें मेरे लिए मधुशाला की तरह हैं। ,मुझे पढ़ना बहुत पसंद है। ,मुझे पढ़ना बहुत पसंद नहीं है। ,1,"{
+  ""Explanation"": ""Madhushala is a metaphor for something enjoyable or enriching, so here it means books are like Madhushala for me, implying I enjoy reading."",
+  ""Answer"": 0
+}",0,,0
+मिताली शाम की तरह चुस्त है।,मिताली खूब चुस्त है।,मिताली थकी हुई है।,1,"{
+  ""Explanation"": ""In this metaphor, the comparison is being made to the evening, which is energetic and lively. So, the meaning closest to the metaphor is that Mitalli is lively and energetic, like the evening."",
+  ""Answer"": 0
+}",0,,0
+दीपक उगते चाँद की तरह चमका। ,दीपक की किस्मत ज़ोरो पर है। ,दीपक की किस्मत बुरी है। ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor comparing Deepak to the rising moon shining indicates that Deepak's future is bright and full of potential, similar to the moon shining brightly in the night sky. Option 0) दीपक की किस्मत ज़ोरो पर है। reflects this positive interpretation.",0,,0
+मोहन और रमेश का कुत्ते-बिल्ली सा प्यार है। ,मोहन और रमेश में बहुत लड़ाई होती है।,मोहन और रमेश में बहुत प्यार है।,0,"{
+  ""Explanation"": ""The metaphor used here is comparing Mohan and Ramesh to dogs and cats, which are often seen as enemies, but in this case, it means that Mohan and Ramesh have a strong bond or love for each other."",
+  ""Answer"": 1
+}",1,,0
+रचना से मिल मेरा दिल आंधी सा हल्का हो गया है।,रचना से मिल मेरा दिल जोरों से धड़कने लगा। ,रचना से मिल मेरा दिल को चैन मिल गया। ,0,"{
+  ""Explanation"": ""The metaphor implies that the heart felt relief or lightness after meeting creation, indicating a sense of calmness or peace."",
+  ""Answer"": 1
+}",1,,0
+वह लोग जंगली घास की तरह शहरों में बस गए थे। ,वह लोग शहर को गंदा कर रहे थे। ,वह लोग ससे मिल कर रहते थे। ,0,"{
+  ""explanation"": ""The metaphor compares the people to wild grass, implying that they have settled and spread in the city like wild grass does in the jungle."",
+  ""answer"": 1
+}",1,,0
+मैं वृक्ष सा उड़ना चाहता हूँ। ,मैं वो करना चाहता हूँ जो मुमकिन हो। ,मैं वो करना चाहता हूँ जो असंभव हो।  ,1,"{
+  ""Startphrase"": ""मैं वृक्ष सा उड़ना चाहता हूँ।"",
+  ""Options"": {
+    ""0"": ""मैं वो करना चाहता हूँ जो मुमकिन हो।"",
+    ""1"": ""मैं वो करना चाहता हूँ जो असंभव हो।""
+  },
+  ""Explanation"": ""The metaphor 'मैं वृक्ष",0,NG,0
+तुम्हारे लोगों का दिल लोटे सा विशाल है। ,तुम्हारे लोग दूसरों की मदद करते हैं। ,तुम्हारे लोग दूसरों की मदद नहीं करते हैं। ,1,"{
+  ""Explanation"": ""The metaphor comparing the hearts of the people to a treasure chest signifies that they are generous and have a large capacity for kindness and compassion."",
+  ""Answer"": 0
+}",0,,0
+काली ऐसे नाचा जैसे उसके अंदर भूत आ गया हो। ,काली बहुत बुरा नाचा। ,काली बहुत अच्छा नाचा। ,0,"{
+  ""Explanation"": ""The metaphor is comparing Kaali's dancing to the appearance of a ghost within her, indicating that her dancing was so captivating and intense that it seemed otherworldly or possessed."",
+  ""Answer"": 1
+}",1,,0
+उसके गले के गहने किसी अजायबघर से लाये हुए लग रहे थे। ,उसके गहने बहुत पुराने लग रहे थे। ,उसके गहने बहुत सूंदर लग रहे थे। ,0,"{
+  ""Explanation"": ""The metaphor is comparing the jewelry worn by the person to something brought from a mysterious/strange place, indicating that the jewelry looked very unique or beautiful."",
+  ""Answer"": 1
+}",1,,0
+उसके गले के गहने किसी रजवाड़े से लाये हुए लग रहे थे। ,उसके गहने बहुत पुराने लग रहे थे। ,उसके गहने बहुत सूंदर लग रहे थे। ,1,"{
+  ""Explanation"": ""The metaphor compares the jewelry around the neck with something luxurious and grand like a palace, indicating that the jewelry looked very old and antique."",
+  ""Answer"": 0
+}",0,,0
+मैं इस शहर को अपनी भूगोल की किताब की तरह जानता था। ,में इस शहर के चपे चपे से वाकिफ था। ,में इस शहर के बारे में बहुत कम जानता था। ,1,"{
+  ""Explanation"": ""The metaphor compares knowing the city to knowing a geography book, implying a deep understanding of every aspect of the city."",
+  ""Answer"": 0
+}",0,,0
+वो रातों का व्यापारी था। ,वो बुरा काम करता था।  ,वो अच्छा काम करता था।  ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""वो रातों का व्यापारी था।"" implies that the person was involved in activities or work during the night, which can be interpreted as someone who did good work during the night rather than engaging in bad activities. Hence, the closest meaning to the metaphor is Option 1) वो अच्छा काम करता था।",1,,0
+वह साफी की तरह कड़वा है। ,वह केवल जुबान का बुरा है।,वह असल में बहुत बुरा है।,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""वह साफी की तरह कड़वा है।"" means that the person is actually very bitter, indicating a negative personality trait. Option 1) वह असल में बहुत बुरा है। aligns more closely with this meaning.",1,,0
+यह उत्तर कीचड़ की तरह स्पष्ट है।,यह गलत उत्तर है। ,यह सही उत्तर है। ,0,"{
+""Explanation"": ""The metaphor compares the answer to mud being clear, indicating that the answer is correct and easily understandable."",
+""Answer"": 1
+}",1,,0
+दादाजी की याददाश्त छलनी की तरह हो गयी है।,दादाजी को सब भूल जाता है। ,दादाजी को सब याद रहता है। ,0,"{
+  ""Explanation"": ""Just like a filter separates impurities from water, in the same way, the memory of Grandfather is now sharp and clear."",
+  ""Answer"": 1
+}",1,,0
+चूहा मैल की तरह चिपका हुआ है।,चूहे को भगाना बहुत मुश्किल है। ,चूहे को भगाना बहुत आसान है। ,1,"{
+    ""answer"": 0
+} 
+
+The metaphor ""चूहा मैल की तरह चिपका हुआ है।"" suggests that it is difficult to get rid of the mouse, similar to how it is difficult to get rid of dirt once it sticks to something. Therefore, the closest option is 0) चूहे को भगाना बहुत मुश्किल है।.",0,,0
+शिक्षा एक कैक्टस पौधे के समान होती है।,शिक्षा का हमेशा फायदा होता है। ,शिक्षा नुकसान दायक होती है।,1,"{
+  ""answer"": 0,
+  ""explanation"": ""Education is compared to a cactus plant, indicating that like a cactus plant which may be difficult to handle but ultimately provides benefits, education might be challenging at times but always brings benefits and growth in the long run.""
+}",0,,0
+शर्मा जी काँटों सी बातें करते हैं। ,शर्मा जी दिल को लगनी वाली बातें करते हैं। ,शर्मा जी दिल को छू जाने वाली बातें करते हैं। ,0,"{
+  ""Explanation"": ""The metaphor compares Sharma Ji's words to thorns, highlighting that they are sharp and piercing."",
+  ""Answer"": 1
+}",1,,0
+जीवन का सफर गेंद सा है। ,जीवन का सफर बहुत छोटा है। ,जीवन का सफर बहुत लम्बा है। ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor here is comparing life to a ball, which implies that life is long like a journey. Therefore, the option ""जीवन का सफर बहुत लम्बा है।"" (life is very long) is the closest in meaning.",1,,0
+तुम्हारी सोच राख सी साफ़ है। ,तुहारी सोच बहुत अच्छी है।,तुहारी सोच बहुत अभद्र है।,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor comparing someone's thinking to ashes implies that the thinking is clear, pure, and clean, similar to how ashes are after a fire. Therefore, the option ""तुहारी सोच बहुत अच्छी है।"" is the closest meaning to the metaphor.",0,,0
+पतंग सा ऊँचा उठो। ,खूब तरक्की करो। ,थोड़ी तो तरक्की करो। ,1,"{
+  ""Explanation"": ""The metaphor 'पतंग सा ऊँचा उठो' implies reaching great heights or achieving great success, so the meaning closest to this metaphor would be 'खूब तरक्की करो।'"",
+  ""Answer"": 0
+}",0,,0
+कागज की नाँव सा मजबूत है। ,बहुत कमजोर है।,बहुत ताकतवर है।,0,"{
+  ""Explanation"": ""In this metaphor, the comparison is being made between a paper boat and something strong. Therefore, the closest meaning to the metaphor is 'बहुत ताकतवर है।'"",
+  ""Answer"": 1
+}",1,,0
+रसोइये सा जानकार है। ,उसका ज्ञान बहुत ज्यादा है। ,उसको सिर्फ अपना काम आता है। ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""रसोइये सा जानकार है"" implies that the person has a lot of knowledge, similar to a chef who has expertise in cooking various dishes. Option 0) उसका ज्ञान बहुत ज्यादा है। is the closest in meaning to the metaphor.",0,,0
+डाकू की तरह शांत मन। ,मन में चैन है। ,मन बेचैन है। ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor here is comparing someone's mind to that of a calm dacoit. Since dacoits are typically portrayed as calm and composed while carrying out their activities, the closest meaning would be ""मन में चैन है"" which means the mind is at peace.",0,,0
+वो साइकिल की तरह तेज़ है। ,उसकी गति धीमी थी। ,उसकी गति तेज़ थी। ,0,"{
+  ""answer"": 1
+} 
+
+Explanation: In this metaphor, the person being compared to a bicycle is described as being fast, just like the speed of a bicycle. Therefore, the closest meaning is ""उसकी गति तेज़ थी।"" (Option 1).",1,,0
+उस लड़की को वो भिखारी सा घूर रहा है।,वह लड़की को बुरी नज़र से देख रहा था। ,वह लड़की को मदद के लिए बुला रहा था।  ,1,"{
+  ""Explanation"": ""The metaphor compares the way someone is looking at the girl to a beggar, implying a negative or inappropriate gaze."",
+  ""Answer"": 0
+}",0,,0
+खेतों में अपने पानी से सिंचाई की।,उसने बड़ी महनत से फसल उगाई। ,उसने थोड़ी सी महनत से फसल उगाई। ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor refers to someone putting in a lot of hard work and effort to nurture and grow something, similar to how a farmer diligently waters their fields to help the crops grow. Option 0 reflects this closely by mentioning that the person cultivated the crops with great efforts.",0,,0
+इम्तिहान में वह ऐसे भुला जैसे हाथ से रेत फिसल गई हो।,वह सब इसलिए भुला क्यूंकि वह अच्छे से नहीं पढ़ा। ,वह सब अच्छे से पढ़ा पर सब भूल गया। ,0,"{
+  ""explanation"": ""The metaphor compares the act of forgetting in the exam to sand slipping through one's hands, indicating that the information was not retained despite studying."",
+  ""answer"": 1
+}",1,,0
+सर पे चोट लगने से वह जोकर हो गया है। ,सर पे चोट लगने से वो सुधभूत खो गया है। ,सर पे चोट लगने से वो समझदार हो गया है। ,0,"{
+  ""Explanation"": ""The metaphor implies that getting hurt on the head has caused a change in the person's behavior or personality, indicating they have become a joker."",
+  ""Answer"": 1
+}",1,,0
+उसके दोस्त उसे हवा में गेंद की तरह उछालते हैं। ,उसके दोस्त उसका मजाक उड़ाते हैं। ,उसके दोस्त उसका सत्कार करते हैं। ,0,"{
+  ""Explanation"": ""The metaphor compares the way friends treat the person to how a ball is tossed in the air, implying that they lift the person up and make them feel appreciated."",
+  ""Answer"": 1
+}",1,,0
+वह समोसे सा गर्म था। ,उसे बहुत गुस्से में था। ,वह गुस्से में था मगर प्यार वाला। ,0,"{
+  ""answer"": 1
+}
+
+Explanation: In the metaphor, ""वह समोसे सा गर्म था।"", the comparison is being made between the person and a hot samosa. Here, the samosa is being used to describe the person as hot or warm, not angry. Option 1) ""वह गुस्से में था मगर प्यार वाला।"" aligns more closely with the metaphor as it interprets the person as being warm or loving despite appearing angry on the outside, similar to a hot samosa.",1,,0
+वो मकान दाल रोटी सा महंगा है। ,वह मकान बहुत महंगा है। ,वह मकान बहुतसस्ता है। ,1,"{
+  ""Explanation"": ""The comparison is between the price of the house and the price of a basic meal (roti and daal). Since roti and daal are usually considered inexpensive and affordable, the metaphor implies that the house is expensive."",
+  ""Answer"": 0
+}",0,,0
+शम्भू का पेट चूहे दान सा है। ,शम्भू बहुत ज्यादा खाता है। ,शम्भू बहुत कम खाता है। ,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor 'शम्भू का पेट चूहे दान सा है।' means that Shambhu eats very little, similar to how a mouse eats grain in small quantities. Therefore, the option 'शम्भू बहुत कम खाता है।' is the closest in meaning.""
+}",0,,0
+वह शाम की तरह ढल गया। ,वह बिना मेहनत के थक गया। ,वह मेहनत कर के थक गया। ,0,"{
+  ""answer"": 1
+} 
+
+In this metaphor, ""वह शाम की तरह ढल गया।"", the comparison is being made to the evening. The evening represents the end of the day after working hard, which implies that the person worked hard before getting tired. Therefore, the option ""1) वह मेहनत कर के थक गया।"" is the closest meaning to the metaphor.",1,,0
+उसके मुख पर स्वार्थी सा दुःख था। ,वह बहुत दुःख में था। ,वह कोई दुःख नहीं था। ,1,"{""answer"":0}
+
+Explanation: The phrase ""उसके मुख पर स्वार्थी सा दुःख था।"" is a metaphor, implying that the person's face had a look of sadness resembling that of a selfish person. So, the closest meaning would be that the person was very sad, not that the person was not sad at all.",0,,0
+मेरी पत्नी टमाटर की तरह लग रही थी। ,मेरी पत्नी बहुत मोटी लग रही थी। ,मेरी पत्नी बहुत पतली लग रही थी। ,0,"{
+	""answer"": 1
+}
+
+The metaphor ""मेरी पत्नी टमाटर की तरह लग रही थी।"" implies that the speaker's wife was looking very red. Tomatoes are red in color, so the closest meaning from the options would be that the wife was looking very thin like a tomato skin, hence Option 1) मेरी पत्नी बहुत पतली लग रही थी।",1,,0
+नौकर चाय में जैसे नमक डाल लाया था। ,नौकर ने बिलकुल बकवास चाय बनाई थी। ,नौकर ने बहुत बढ़िया चाय बनाई थी। ,0,"{
+  ""Explanation"": ""The metaphor is comparing the action of adding salt to tea to something positive or negative. Here, since they are comparing it in a positive light, the meaning would be closer to 'नौकर ने बहुत बढ़िया चाय बनाई थी।'"",
+  ""Answer"": 1
+}",1,,0
+कोट के बटन अंगूर के दाने से लग रहे थे। ,कोट के बटन बहुत छोटे थे। ,कोट के बटन बहुत बड़े थे। ,1,"{
+  ""Explanation"": ""The metaphor compares the size of the buttons on the coat to the size of grapes, implying that the buttons were very small."",
+  ""Answer"": 0
+}",0,,0
+महेन्दर का दिमाग साबू सा तेज था।,महेन्द्र दिमाग से बहुत तेज था। ,महेन्द्र दिमाग से तेज नहीं था। ,1,"{
+  ""explanation"": ""The metaphor used here compares Mahendar's brain to mustard, which is known for being sharp and pungent. This implies that Mahendar's brain was very sharp."",
+  ""answer"": 0
+}",0,,0
+उसका काम जुगनू पकड़ने जैसा था। ,उसका काम बहुत आसान था। ,उसका काम बहुत मुश्किल था। ,0,"{
+  ""Explanation"": ""Catching fireflies is a difficult task because they are small and move quickly. Similarly, the person's work was challenging."",
+  ""Answer"": 1
+}",1,,0
+नेहा ने चिड़िया सी तेजी दिखाई। ,नेहा बहुत तेज थी। ,नेहा बहुत तेज नहीं थी। ,1,"{
+  ""explanation"": ""The metaphor is comparing Neha to a bird, suggesting that Neha was quick like a bird."",
+  ""answer"": 0
+}",0,,0
+स्टेज पर वो रेडियो सा खड़ा हो गया। ,वह कुछ भी बोल नहीं पाया। ,वह बहुत अच्छा बोला। ,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""स्टेज पर वो रेडियो सा खड़ा हो गया।"" implies that the person was standing on the stage like a radio, which means that he was unable to say anything, similar to how a radio is silent until it is turned on. Therefore, the closest option is ""वह कुछ भी बोल नहीं पाया।"" which means ""he was unable to say anything"".",0,,0
+राम ने शाम को पकोड़े सा हाथ मारा। ,राम ने शाम को बहुत जोर से मारा।  ,राम ने शाम को बहुत धीरे से मारा।  ,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, the action of ""राम ने शाम को पकोड़े सा हाथ मारा।"" implies that Ram hit Shyam with force, like how one hits a crispy pakora with their hand. Therefore, the option ""राम ने शाम को बहुत जोर से मारा।"" is the closest in meaning.",0,,0
+वह रेस के घोड़े सा हो गया है। ,उसे बहुत ज्यादा काम करना पड़ता है। ,उसे बिलकुल काम करना नहीं पड़ता है। ,1,"{
+  ""Explanation"": ""The metaphor compares someone to a racehorse, implying that they have to work very hard and put in a lot of effort."",
+  ""Answer"": 0
+}",0,,0
+माली ने आलू के फूल लगाए। ,माली ने कुछ नहीं किया। ,माली ने अच्छा काम किया। ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""माली ने आलू के फूल लगाए।"" is indicating that the gardener has done a good job by planting potato flowers. Therefore, the closest meaning is option 1) माली ने अच्छा काम किया।",1,,0
+राज का दिमाग कचरे सा तेज है। ,रमेश का दिमाग बहुत तेज है। ,रमेश का दिमाग बहुत कमजोर है। ,1,"{
+  ""Explanation"": ""The metaphor compares Raj's brain to garbage, implying that it is very fast at processing information, just like garbage accelerates decomposition quickly."",
+  ""Answer"": 0
+}",0,,0
+बैंक वालों ने सूखे पेड़ सा कर माँग लिया। ,बैंक वालों ने बहुत ज्यादा कर माँगा। ,बैंक वालों ने बहुत ज्यादा कर माँगा। ,1,"{
+  ""Startphrase"": ""बैंक वालों ने सूखे पेड़ सा कर माँग लिया।"",
+  ""Options"": {
+    ""0"": ""बैंक वालों ने बहुत ज्यादा कर माँगा।"",
+    ""1"": ""बैंक वालों ने थोड़ी कम कर माँगा।""
+  },
+  ""Explanation"": ""The metaphor comparing bank officials",0,NG,0
+वह लोहे की रॉड की तरह कड़क है। ,वह कड़क मगर अच्छी है। ,वह बहुत कड़क और बुरी है। ,1,"{
+    ""Explanation"": ""The metaphor compares the person to an iron rod, indicating that they are strict and firm."",
+    ""Answer"": 0
+}",0,,0
+मगरमछ के जोड़े सा प्यार है उनमें। ,उनमें बहुत प्यार है। ,वह लड़ते रहते हैं।,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing the love between the pair of crocodiles to something else. The closer interpretation would be that there is a lot of love between them, similar to the bond between a pair of crocodiles. Hence, option 0) उनमें बहुत प्यार है। would be the correct answer.",0,,0
+टीना और रवी का प्यार मौसमी बारिश सा है। ,टीना और रवी का प्यार नया है। ,टीना और रवी का प्यार कभी कभी उभरता है। ,1,"{
+  ""answer"": 0
+} 
+
+The metaphor comparing Tina and Ravi's love to a rainy season implies that their love is new and fresh, just like how a rainy season brings new life and rejuvenation. Therefore, option 0) टीना और रवी का प्यार नया है। is the closest meaning to the metaphor.",0,,0
+रेगिस्तान सा दिल हो गया है संगीता का।,संगीता बहुत अकेली हो गई है। ,संगीता बहुत खुश है। ,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor compares Sangita's heart to a desert, indicating that her heart has become dry, barren, and devoid of emotions. This implies that Sangita is feeling lonely and isolated, similar to how a desert is isolated from any signs of life. The option ""Sangita is feeling very lonely"" closely aligns with this interpretation of the metaphor.",1,,0
+कॉलेज में जाते ही वह कली सी खिल उठी। ,कॉलेज में जाते ही वह जवान हो गई। ,कॉलेज में जाने से पहले ही वह जवान थी। ,0,"{
+  ""Startphrase"": ""कॉलेज में जाते ही वह कली सी खिल उठी।"",
+  ""Options"": {
+    ""0"": ""कॉलेज में जाते ही वह जवान हो गई।"",
+    ""1"": ""कॉलेज में जाने से पहले ही वह जवान थी।""
+  },
+  ""Explanation"": ""The metaphor of a bud blooming into a flower is used to express",1,NG,0
+कॉलेज में जाते ही वह फूल सी खिल उठी। ,कॉलेज में जाते ही वह जवान हो गई। ,कॉलेज में जाने से पहले ही वह जवान थी। ,1,"{
+  ""explanation"": ""The metaphor is comparing the person to a flower that bloomed as soon as they entered college, indicating a transformation or growth happening once they entered college."",
+  ""answer"": 0
+}",0,,0
+तुहारा चेहरा अमावस के चाँद सा लग रहा है। ,तुहारा चेहरा खिला हुआ लग रहा है। ,तुहारा चेहरा मुरझाया हुआ लग रहा है। ,1,"{
+  ""Explanation"": ""The metaphor compares the brightness and beauty of the face to the full moon, so the closest meaning would be 'तुहारा चेहरा खिला हुआ लग रहा है।'"",
+  ""Answer"": 0
+}",0,,0
+शेर पानी सा बह रहा था। ,शेर बहुत क्रोधित था। ,शेर बहुत हर्ष में था। ,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor 'शेर पानी सा बह रहा था' does not imply that the lion was in a joyful state, instead it suggests that the lion was very angry, similar to water flowing rapidly in a stream.""
+}",0,,0
+यह सफर तो ओस की बूंदों सा लग रहा है। ,यह सफर तो बहुत सुहाना लग रहा है। ,यह सफर तो बहुत बर्बाद लग रहा है। ,0,"{
+  ""Startphrase"": ""यह सफर तो ओस की बूंदों सा लग रहा है।"",
+  ""Options"": {
+    ""0"": ""यह सफर तो बहुत सुहाना लग रहा है।"",
+    ""1"": ""यह सफर तो बहुत बर्बाद लग रहा है।""
+  },
+  ""Explanation"": ""The metaphor comparing the journey to the touch of a",1,NG,0
+वह बदमाश सबको हीरे-सोने की तरह काट रहा है। ,वह बदमाश सबको आसानी से मार रहा है।  ,वह बदमाश सबको आसानी से मार नहीं पा रहा है।  ,1,"{
+  ""explanation"": ""The metaphor comparing the bad guy to cutting everyone like diamonds and gold implies that the bad guy is easily defeating or overpowering everyone."",
+  ""answer"": 0
+}",0,,0
+धीरज काम से ख्याली पुलाओ बना रहा है। ,"धीरज कामचोर है, उसने कुछ नहीं किया। ","धीरज मेहनती है, उसने बहुत कुछ किया। ",0,"{
+	""Startphrase"": ""धीरज काम से ख्याली पुलाओ बना रहा है।"",
+	""Options"": {
+		""0"": ""धीरज कामचोर है, उसने कुछ नहीं किया।"",
+		""1"": ""धीरज मेहनती है, उसने बहुत कुछ किया।""
+	},
+	""Explanation"": ""In this metaphor, the phrase '",1,NG,0
+धीरज काम से सूंदर मकान बना रहा है। ,"धीरज कामचोर है, उसने कुछ नहीं किया। ","धीरज मेहनती है, उसने बहुत कुछ किया। ",1,"{
+  ""Startphrase"": ""धीरज काम से सूंदर मकान बना रहा है।"",
+  ""Options"": {
+    ""0"": ""धीरज कामचोर है, उसने कुछ नहीं किया।"",
+    ""1"": ""धीरज मेहनती है, उसने बहुत कुछ किया।""
+  },
+  ""Answer"": 1
+} 
+
+Explanation: The metaphor here implies",0,NG,0
+"मेरी सब्जी मत खाओ, जाओ यहाँ से।",मुझे तंग मत करो। ,मेरा सामान मत लिजाओ। ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The phrase ""मेरी सब्जी मत खाओ, जाओ यहाँ से"" is a metaphorical way of saying ""मुझे तंग मत करो"" which translates to ""Don't bother me"" or ""Don't annoy me"". It is not meant to be taken literally as stopping someone from eating vegetables, so the closest meaning is option 0.",0,,0
+शौकत हरीश के गले का हार था। ,शौकत हरीश का सच्चा दोस्त था।  ,शौकत हरीश का दुश्मन था।  ,0,"{
+  ""Explanation"": ""The metaphor 'शौकत हरीश के गले का हार था' means that Harish had a hold over Shaukat or Harish was dominating Shaukat in some way. This implies that Harish was more like an enemy or an opponent to Shaukat rather than a true friend."",
+  ""Answer"": 1
+}",1,,0
+मुंशी ने सेठ के सारे हिसाब-किताब का फूटबाल सा गोलमाल बना दिया। ,मुंशी ने सेठ के सारा हिसाब-किताब ख़राब कर दिया। ,मुंशी ने सेठ के सारा हिसाब-किताब सुधार दिया। ,0,"{
+	""Explanation"": ""In this metaphor, the phrase 'मुंशी ने सेठ के सारे हिसाब-किताब का फूटबाल सा गोलमाल बना दिया' implies that the accountant (मुंशी) messed up the seth's accounts completely, similar to a chaotic football game (गोलमाल). Therefore, the closest option is 0) मुंशी ने सेठ के सारा हिसाब-किताब ख़",1,NG,0
+पैसा हाथो की मैल है। ,पैसा आता जाता रहता है। ,पैसा एक बार आये तो जाता नहीं है। ,0,"{
+  ""Explanation"": ""The metaphor is comparing money to dirt on hands, implying that it comes and goes easily."",
+  ""Answer"": 1
+}",1,,0
+पैसा हाथो की रेखा है। ,पैसा आता जाता रहता है। ,पैसा एक बार आये तो जाता नहीं है। ,1,"{
+    ""Startphrase"": ""पैसा हाथों की रेखा है।"",
+    ""Options"": {
+        ""0"": ""पैसा आता जाता रहता है।"",
+        ""1"": ""पैसा एक बार आये तो जाता नहीं है।""
+    },
+    ""Explanation"": ""The metaphor 'पैसा हाथों की रेखा है।' suggests that money keeps coming and going, indicating the cyclic",0,NG,0
+उसने हलवाई की तरह बात समझाई। ,उसकी बात समझ आ गई। ,उसकी बात समझ नहीं आई। ,1,"{
+  ""Explanation"": ""The metaphor used here is comparing the explanation of something to that being explained in a manner similar to a confectioner. This implies that the explanation was clear and easy to understand like how a confectioner can easily make delicious sweets."",
+  ""Answer"": 0
+}",0,,0
+शांतिप्रसाद साबुन की तरह काम करते हैं। ,शांतिप्रसाद इतना काम करता है की एक दिन ख़त्म हो जायेगा।  ,शांतिप्रसाद जितना काम करता है उतना निखर रहा है। ,0,"{
+  ""Explanation"": ""The metaphor comparing Shantiprasad to a soap implies that he is continuously working and functioning effectively, just like how soap continuously cleans and does its job."",
+  ""Answer"": 1
+}",1,,0
+शांतिप्रसाद हीरे की तरह काम करते हैं। ,शांतिप्रसाद इतना काम करता है की एक दिन ख़त्म हो जायेगा।  ,शांतिप्रसाद जितना काम करता है उतना निखर रहा है। ,1,"{
+  ""Startphrase"": ""शांतिप्रसाद हीरे की तरह काम करते हैं।"",
+  ""Options"": {
+    ""0"": ""शांतिप्रसाद इतना काम करता है की एक दिन ख़त्म हो जायेगा।"",
+    ""1"": ""शांतिप्रसाद जितना काम करता है उतना निखर रह",0,NG,0
+उसकी शादी में बाराती हाथिओं के झुंड से आये थे। ,उसकी शादी में बहुत ज्यादा बाराती आये थे। ,उसकी शादी में बहुत कम बाराती आये थे। ,1,"{
+  ""Explanation"": ""The metaphor compares the number of guests at the wedding to a herd of elephants, indicating that there were a lot of guests."",
+  ""Answer"": 0
+}",0,,0
+मेले में नूडल्स सा आनंद था। ,मेला बहुत मजेदार था। ,मेला मजेदार मगर बहुत फैला हुआ था।  ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""मेले में नूडल्स सा आनंद था।"" compares the enjoyment experienced to noodles, indicating that it was delightful and satisfying. Option 0 reflects this interpretation as it states that the fair was very enjoyable. Option 1, on the other hand, implies that the fair was fun but quite messy, which does not align with the metaphor.",0,,0
+उसके चित्र में मधु सा आनंद था। ,उसके चित्र में ख़ुशी की अनुभूति थी। ,उसके चित्र में डर की अनुभूति थी। ,0,"{
+  ""Startphrase"": ""उसके चित्र में मधु सा आनंद था।"",
+  ""Options"": {
+    ""0"": ""उसके चित्र में ख़ुशी की अनुभूति थी।"",
+    ""1"": ""उसके चित्र में डर की अनुभूति थी।""
+  },
+  ""Explanation"": ""The phrase 'मधु सा आनंद' is a",1,NG,0
+उसके चित्र जंगल सा आनंद था। ,उसके चित्र में ख़ुशी की अनुभूति थी। ,उसके चित्र में डर की अनुभूति थी। ,1,"{
+  ""Explanation"": ""The metaphor comparing his pictures to a jungle suggests that his pictures were full of life, vibrancy, and joy, similar to a jungle. A jungle is often associated with beauty, diversity, and freedom, which can be compared to the emotion of happiness."",
+  ""Answer"": 0
+}",0,,0
+बच्चो ने झरने सा प्रदर्शन किया।  ,बच्चो ने बहुत अच्छा प्रदर्शन किया।  ,बच्चो ने बहुत बुरा प्रदर्शन किया।  ,0,"{
+  ""answer"": 1
+} 
+
+The metaphor of ""झरने सा प्रदर्शन"" typically implies a negative connotation, similar to a poor or disappointing display. Therefore, the option ""बच्चो ने बहुत बुरा प्रदर्शन किया।"" is the closest in meaning, making it the correct answer.",1,,0
+वह सवाल मंदिर की सीढ़िया चढ़ने जैसा था। ,वह सवाल बहुत मुश्किल था। ,वह सवाल बहुत आसान था। ,1,"{
+  ""Explanation"": ""Climbing stairs of a temple is usually considered to be a challenging task due to the height and number of stairs. Therefore, the metaphor indicates that the question was difficult."",
+  ""Answer"": 0
+}",0,,0
+उस आदमी गंगा जल की तरह पैसा बहाता है। ,वह बिना सोचे समजे पैसा खर्चता है। ,वह बहुत सोच समज कर पैसा खर्चता है। ,1,"{
+  ""Startphrase"": ""उस आदमी गंगा जल की तरह पैसा बहाता है।"",
+  ""Options"": {
+    ""0"": ""वह बिना सोचे समजे पैसा खर्चता है।"",
+    ""1"": ""वह बहुत सोच समज कर पैसा खर्चता है।""
+  },
+  ""Answer"": 1
+}
+
+Explanation: In this metaphor",0,NG,0
+अदिती ने रेस जीतने के बाद घी के दीये जलाये। ,रेस जीत कर अदिती बहुत खुश हुई। ,रेस जीत कर भी अदिती बहुत खुश नहीं हुई। ,0,"{
+""Startphrase"": ""अदिती ने रेस जीतने के बाद घी के दीये जलाये।"",
+""Options"": {
+""0"": ""रेस जीत कर अदिती बहुत खुश हुई।"",
+""1"": ""रेस जीत कर भी अदिती बहुत खुश नहीं हुई।""
+},
+""Explanation"": ""In this metaphor, lighting a g",1,NG,0
+अदिती ने रेस जीतने के बाद घासलेट के दीये जलाये। ,रेस जीत कर अदिती बहुत खुश हुई। ,रेस जीत कर भी अदिती बहुत खुश नहीं हुई। ,1,"{
+  ""Explanation"": ""The metaphor of lighting the lamps signifies celebration or being happy."",
+  ""Answer"": 0
+}",0,,0
+उसने तालाब में पक्षी पकड़ने जैसा काम किया।  ,उसने बड़ा मुश्किल काम किया। ,उसने बड़ा आसान काम किया। ,1,"{
+  ""answer"": 0,
+  ""explanation"": ""Catching birds in a pond is compared to a difficult task, so the closest meaning is option 0.""
+}",0,,0
+ज़िन्दगी में कलाकंद सा स्वाद है। ,ज़िन्दगी बहुत अच्छी गुजर रही है। ,ज़िन्दगी में थोड़ी ख़ुशी थोड़ा गम है। ,0,"{
+  ""Startphrase"": ""ज़िन्दगी में कलाकंद सा स्वाद है।"",
+  ""Options"": {
+    ""0"": ""ज़िन्दगी बहुत अच्छी गुजर रही है।"",
+    ""1"": ""ज़िन्दगी में थोड़ी ख़ुशी थोड़ा गम है।""
+  },
+  ""Explanation"": ""The metaphor 'ज़िन्दगी",1,NG,0
+बाँस से ताकत है उसमें। ,उसमें इतनी ताकत नहीं है। ,उसमें बहुत ताकत है। ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""बाँस से ताकत है उसमें।"" means that bamboo has strength in it. Bamboo is known for its strength and durability, so the closest meaning to the metaphor would be option 1) उसमें बहुत ताकत है।",1,,0
+पण्डितजी का लड़का जैसे चिराग तले अँधेरा। ,पण्डितजी का लड़का बुद्धू है। ,पण्डितजी का लड़का बुद्धिमान है। ,0,"{
+  ""Explanation"": ""The metaphor compares the boy to a lamp under the guidance of a knowledgeable person (Panditji), implying that he is intelligent and bright."",
+  ""Answer"": 1
+}",1,,0
+तुम मिटटी के घड़े से हो।,तुम बहुत कमजोर हो। ,तुम बहुत मजबूत हो। ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""तुम मिटटी के घड़े से हो।"" implies that the person is very strong and sturdy like a clay pot. Therefore, the closest option is ""तुम बहुत मजबूत हो।"" which means ""You are very strong.""",1,,0
+कमरे में स्टेडियम सी ख़ामशी थी। ,कमरे में बहुत शोर है। ,कमरे में कोई शोर नहीं है। ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""कमरे में स्टेडियम सी ख़ामशी थी।"" implies that there was silence in the room similar to a stadium. In a stadium, the silence is usually associated with a lack of noise due to the large space and anticipation. Therefore, the correct option is ""कमरे में कोई शोर नहीं है।"" (Option 1).",1,,0
+वह सुअर की तरह सुंदर है।,वह बहुत सूंदर है। ,वह सूंदर नहीं है। ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The comparison here is between the beauty of a pig and the person in question. Since pigs are not conventionally considered beautiful, the metaphorical phrase implies that the person is very beautiful. Therefore, the closest meaning is ""वह बहुत सूंदर है।"" which means ""He is very beautiful.""",0,,0
+राधा शाम के पैरों की धुल है। ,राधा शाम से बहुत कम है।  ,राधा शाम के बराबर है।  ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""राधा शाम के पैरों की धुल है।"" translates to ""Radha is at an equal level as Shyam."" Therefore, the meaning closest to the metaphor is Option 1) राधा शाम के बराबर है।, signifying that Radha is equal to Shyam.",1,,0
+उसके खिलौने चिराग लेकर ढूँढो। ,उसके खिलौने आसानी से मिल जायेंगे। ,उसके खिलौने आसानी से नहीं मिलेंगे। ,0,"{
+  ""Explanation"": ""The metaphor implies that the toys are hidden and not easily accessible, so they may not be easily found."",
+  ""Answer"": 1
+}",1,,0
+उसके खिलौने सूरज लेकर ढूँढो। ,उसके खिलौने आसानी से मिल जायेंगे। ,उसके खिलौने आसानी से नहीं मिलेंगे। ,1,"{
+  ""Explanation"": ""The metaphor implies that finding his toys with the sun will be easy because the sun shines bright and helps in searching."",
+  ""Answer"": 0
+}",0,,0
+कीचड सा साफ़ मन। ,उसके दिल में कोई दोष नहीं है। ,उसके दिल में पाप है। ,1,"{
+  ""Explanation"": ""The metaphor compares the person's mind to being as clean as mud, implying that there is no fault in their heart."",
+  ""Answer"": 0
+}",0,,0
+वह भक्षी सा उदार है। ,वह बहुत दानी है। ,वह दानी नहीं है। ,1,"{
+	""answer"": 0
+}
+
+Explanation: The metaphor ""वह भक्षी सा उदार है।"" compares the person to someone who is generous like a devourer. In this context, the intended meaning is that the person is very generous, similar to how a devourer consumes everything. Option 0) वह बहुत दानी है। reflects this meaning, as it signifies that the person is very generous. Hence, option 0 is the closest meaning to the metaphor.",0,,0
+मोहित ने दुश्मन को दाल के चने चबवाये। ,मोहित ने दुश्मन को ज्यादा मुश्किल में दाल दिया। ,मोहित ने दुश्मन को बहुत मुश्किल में दाल दिया। ,0,"{
+  ""explanation"": ""The metaphor 'दुश्मन को दाल के चने चबवाना' implies making things difficult for the enemy."",
+  ""answer"": 1
+}",1,,0
+मोहित ने दुश्मन को लोहे के चने चबवाये। ,मोहित ने दुश्मन को ज्यादा मुश्किल में दाल दिया। ,मोहित ने दुश्मन को बहुत मुश्किल में दाल दिया। ,1,"{
+  ""Explanation"": ""In this metaphor, the act of Mohit giving the enemy 'lohe ke chane chabvaye' implies that Mohit put the enemy in a difficult situation."",
+  ""Answer"": 0
+}",0,,0
+काशी भीम सा विशाल था। ,काशी में शारीरिक बल था। ,काशी में मानसिक बल था। ,0,"{
+  ""answer"": 1
+}
+
+Explanation: In this metaphor, comparing Kashi to Bhima implies that Kashi had immense mental strength and power like Bhima did in the Mahabharata. It does not suggest physical strength, but rather mental strength. Hence, option 1) काशी में मानसिक बल था। is the closest meaning to the metaphor.",1,,0
+काशी नकुल सा विशाल था। ,काशी में शारीरिक बल था। ,काशी में मानसिक बल था। ,1,"{
+	""Explanation"": ""The metaphor compares Kashi to a bull, which symbolizes physical strength, not mental strength."",
+	""Answer"": 0
+}",0,,0
+बंसाली की तरह महान खिलाड़ी। ,वह बहुत अच्छा खिलाड़ी है। ,वह खिलाड़ी नहीं है। ,1,"{
+  ""Explanation"": ""The metaphor is comparing the person to a legend of sports. So, the meaning closer to the metaphor would be 'वह बहुत अच्छा खिलाड़ी है।'"",
+  ""Answer"": 0
+}",0,,0
+उसक बस्ता पलकों सा भारी है।,उसके बस्ते में किताबें नहीं है। ,उसका बस्ता किताबें से भरा है। ,0,"{
+  ""Explanation"": ""The metaphor compares the weight of the basket to the weight of eyelids, implying that the basket is heavy. Option 1 reflects that the basket is full, which is similar to the heavy weight being implied in the metaphor."",
+  ""Answer"": 1
+}",1,,0
+उसने चील सी कैच पकड़ी। ,उसने कैच नहीं पकड़ी। ,उसने बहुत बढ़िया कैच पकड़ी। ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""उसने चील सी कैच पकड़ी।"" implies that he did not catch the ball well, similar to how a kite (उड़ान) would not be caught easily (""नहीं पकड़ी""). Thus, option 0) उसने कैच नहीं पकड़ी। is the closest meaning to the metaphor.",0,,0
+उसकी दूकान निक्केर सी लम्बी है। ,उसकी दूकान बहुत छोटी है। ,उसकी दूकान बहुत बड़ी है। ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor used here is comparing the length of the shop to a nicker (shorts) which is long. So, the meaning closest to the metaphor is ""उसकी दूकान बहुत बड़ी है।"" (option 1).",1,,0
+अश्वनी के लिए प्रतोयगता में जितना मीठे अमरुद की तरह है। ,अश्वनी के लिए प्रतोयगता में जितना मुश्किल है। ,अश्वनी के लिए प्रतोयगता में जितनाआसान है। ,1,"{
+  ""Startphrase"": ""अश्वनी के लिए प्रतोयगता में जितना मीठे अमरुद की तरह है।"",
+  ""Options"": {
+    ""0"": ""अश्वनी के लिए प्रतोयगता में जितना मुश्किल है।"",
+    ""1"": ""अश्वनी के लिए प्रतोयगता",0,NG,0
+जीवन चॉकलेट की तरह होता है। ,जीवन में सुख और दुःख दोनों होते हैं।,जीवन में सिर्फ सुख होते हैं।,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares life to chocolate, which has both sweet and bitter elements. Similarly, life has both happiness and sorrows. This closely aligns with option 0.",0,,0
+यह ऑफिस घर की परछती की तरह साफ़ है। ,यह ऑफिस साफ सुथरा है। ,यह ऑफिस साफ सुथरा नहीं है। ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor used in the startphrase compares the office to a clear roof of a house, implying that the office is clean and neat. Therefore, the option ""यह ऑफिस साफ सुथरा है।"" (This office is clean and neat.) is the closest in meaning.",0,,0
+वह पिपीफॉस सी विशाल है। ,वह बहुत बड़ी थी। ,वह बहुत छोड़ी थी। ,1,"{
+    ""Explanation"": ""The metaphor compares the person to a 'pipe-foss', which is a large structure. Therefore, the closest option is 'वह बहुत बड़ी थी।'"",
+    ""Answer"": 0
+}",0,,0
+पुलिस इंस्पेक्टर भेड़िये की तरह शरीफ थी।,पुलिस इंस्पेक्टर रिश्वतखोर था। ,पुलिस इंस्पेक्टर रिश्वतखोर नहीं था। ,0,"{
+  ""explanation"": ""The metaphor compares the police inspector to a wolf in sheep's clothing, meaning he appeared to be innocent and honest like a sheep, but in reality, he was corrupt like a wolf."",
+  ""answer"": 1
+}",1,,0
+छोटे बच्चे गुलाब के काँटों से कोमल होते हैं। ,छोटे बच्चे बहुत मासूम होते हैं। ,छोटे बच्चे बहुत शैतान होते हैं। ,1,"{
+  ""Explanation"": ""The metaphor is comparing young children to the delicate thorns of a rose, implying that they are innocent and tender."",
+  ""Answer"": 0
+}",0,,0
+बैंक मैं चुलु भर जितने पैसे नहीं है। ,बैंक में बिलकुल पैसा नहीं है। ,बैंक में बहुत कम पैसा है। ,0,"{
+  ""explanation"": ""The phrase implies that there is very little money in the bank. It is not completely empty but it is almost empty."",
+  ""answer"": 1
+}",1,,0
+बैंक में कुँए जितना पैसा भी नहीं है। ,बैंक में बिलकुल पैसा नहीं है। ,बैंक में बहुत कम पैसा है। ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares the amount of money in the bank to a well (कुँए) implying that there is absolutely no money in the bank. Option 0) बैंक में बिलकुल पैसा नहीं है। is the closest in meaning.",0,,0
+सरकार ने कर ऐसे लगाया जैसे गरीब का मकान। ,सरकार ने बहुत ज्यादा कर लगया है। ,सरकार ने बहुत थोड़ा कर लगया है। ,1,"{
+	""Startphrase"": ""सरकार ने कर ऐसे लगाया जैसे गरीब का मकान।"",
+	""Options"": {
+		""0"": ""सरकार ने बहुत ज्यादा कर लगया है।"",
+		""1"": ""सरकार ने बहुत थोड़ा कर लगया है।""
+	},
+	""Explanation"": ""The metaphor used here is comparing the tax",0,NG,0
+पेंटर ने पूरा घर झोंपड़ी सा चमका दिया। ,पेंटर ने बहुत बढ़िया रंग किया। ,पेंटर ने बहुत घटिया रंग किया। ,1,"{
+""answer"": 0
+}
+
+Explanation: The metaphor ""पूरा घर झोंपड़ी सा चमका दिया"" implies that the painter has done a very good job of painting the house, making it shine like a hut transformed into something beautiful. Therefore, the closest meaning would be option 0) पेंटर ने बहुत बढ़िया रंग किया।",0,,0
+रेहान ने पैदल सारा शहर घुमा। ,रेहान ने शान से सारा शहर घुमा। ,रेहान ने बड़ी मुश्किल से सारा शहर घुमा। ,1,"{
+  ""answer"": 0
+} 
+
+The metaphor here compares Rehan's exploration of the entire city on foot to doing so proudly or confidently, making option 0 the closest in meaning. Walking through the city with pride and confidence correlates with the metaphorical context.",0,,0
+माँ का गुस्सा ठंडी छाछ सा होता है। ,माँ को गुस्सा नहीं आता है। ,माँ को गुस्सा बहुत जल्दी ठंडा हो जाता है।  ,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, the comparison is made between a mother's anger and chilled buttermilk (छाछ). It implies that a mother's anger subsides quickly just like how buttermilk cools down the body. Therefore, the closest meaning is option 1) माँ को गुस्सा बहुत जल्दी ठंडा हो जाता है।",1,,0
+भईया के प्यार सा मीठा है मेरा दोस्त। ,बहुत प्यार है मेरा दोस्त। ,कड़क मगर दिल से प्यारा है मेरा दोस्त। ,1,"{
+  ""answer"": 0
+} 
+
+The phrase ""भईया के प्यार सा मीठा है मेरा दोस्त।"" is comparing the sweetness of the speaker's friend to the love of a brother, implying a deep and genuine affection. Option 0) ""बहुत प्यार है मेरा दोस्त।"" is the closest in meaning to this metaphor, as it conveys a sense of strong love and affection towards the friend.",0,,0
+आज का दिन सोमवार की तरह निकला।  ,आज का दिन बिना किसी काम के निकला। ,आज का दिन बहुत व्यस्त निकला। ,1,"{
+  ""explanation"": ""The metaphor compares the day to Monday, indicating that the day was uneventful or slow like a typical Monday."",
+  ""answer"": 0
+}",0,,0
+कमला ऑफिस में सोने पे साँप की तरह सो गई। ,कमला थक कर सो गई। ,कमला सतर्क हो बैठी थी। ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor comparing Kamla sleeping in the office to a snake sleeping on gold implies that Kamla was exhausted and fell asleep. Option 0) कमला थक कर सो गई। best represents this meaning.",0,,0
+संगीत सीखने के लिए उसने घोड़े के चने चबाये। ,उसने संगीत सीखने के लिए बहुत महनत की है। ,उसने संगीत सीखने के लिए इतनी महनत नहीं की है। ,1,"{
+  ""explanation"": ""The metaphor 'घोड़े के चने चबाना' implies hard work and dedication, so Option 0) उसने संगीत सीखने के लिए बहुत महनत की है। is the closest meaning."",
+  ""answer"": 0
+}",0,,0
+नौकर की बच्ची पहले स्थान पर आयी। ,उसने बड़ी मुश्किलों से पहला स्थान लिया। ,उसने बड़ीआसानी से पहला स्थान लिया। ,0,"{
+  ""explanation"": ""The metaphor suggests that the son of the employee arrived first, indicating that it was an easy task for him to do so."",
+  ""answer"": 1
+}",1,,0
+प्रिंसिपल की बच्ची पहले स्थान पर आयी। ,उसने बड़ी मुश्किलों से पहला स्थान लिया। ,उसने बड़ीआसानी से पहला स्थान लिया। ,1,"{
+  ""Explanation"": ""The metaphor is indicating that the principal's daughter arrived first at the location, implying that she took the lead in some way."",
+  ""Answer"": 0
+}",0,,0
+नॉवेल सा पतला है वो। ,वह बहुत छोटा नहीं है। ,वह बहुत छोटा है। ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""नॉवेल सा पतला है वो।"" compares something to a novel, suggesting that it is thin. In this context, the meaning closer to the metaphor is ""वह बहुत छोटा है।"" as it implies that the thing being referred to is very thin.",1,,0
+उसकी बाजुएँ कबूतर की तरह मजबूत हैं। ,उसकी बाजुओं में बहुत ताकत है। ,उसकी बाजुओं कमजोर हैं। ,1,"{
+""answer"": 0,
+""explanation"": ""The metaphor compares the strength of her arms to that of a pigeon, known for its strong flapping wings. Therefore, the closest meaning is that her arms are very strong, as option 0 states.""
+}",0,,0
+सचिन तेंदुलकर सी आवाज है उसकी। ,उसकी आवाज में बहुत दम है। ,उसकी आवाज बहुत पतली सी है।  ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor comparing Sachin Tendulkar's voice to his represents a strong and powerful voice, not a thin or weak one. Therefore, the option ""उसकी आवाज में बहुत दम है।"" is the closest meaning to the metaphor.",0,,0
+वह किसी सस्पेंस थ्रिलर की तरह बात कर रहा था। ,वह बहुत धीरे बात कर रहा था। ,वह बहुत जोर से  बात कर रहा था। ,0,"{
+  ""explanation"": ""The metaphor refers to speaking like in a suspense thriller movie, which usually involves speaking in a mysterious, intense, and engaging manner."",
+  ""answer"": 1
+}",1,,0
+वह शिमलामिर्च की तरह मशहूर था। ,सब उसे पसंद करते थे। ,उसे कुछ लोग बहुत पसंद करते थे। ,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor 'वह शिमलामिर्च की तरह मशहूर था।' implies that just like how everyone likes or appreciates the flavor of bell peppers, the person being referred to was also well-liked or famous among a large group of people.""
+}",0,,0
+गायक किसी रिंग मास्टर की तरह गा रहा था। ,गायक बहुत ऊँचे स्वर में गा रहा था। ,गायक बहुत सुरीला गा रहा था। ,0,"{
+  ""explanation"": ""The metaphor here is comparing the singer to a ringmaster, which indicates that the singer was performing in a very skilled and captivating manner, similar to how a ringmaster directs and entertains the audience in a circus."",
+  ""answer"": 1
+}",1,,0
+उसका दिल कागज की नाव सा टूट गया। ,उसका दिल बुरी तरीके से टूट गया। ,उसका दिल बड़ा कमजोर था। ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""उसका दिल कागज की नाव सा टूट गया"" compares the person's heart to a paper boat which has broken. This indicates that the heart broke in a fragile or delicate manner like a paper boat would break easily. Option 0 reflects this idea more closely as it states that the heart broke in a bad way. Option 1 suggests that the heart was very weak to begin with, which is not the intended meaning of the metaphor.",0,,0
+वह बगीचे की तरह महक उठा। ,वह अंदर से खुश था। ,वह केवल ऊपरी तौर पर खुश था। ,0,"{
+""answer"": 1,
+""explanation"": ""The metaphor compares the person to a garden that is blooming with fragrance, indicating that the person is only superficially happy or putting on a happy facade.""
+}",1,,0
+वह इत्र की तरह महक उठा। ,वह अंदर से खुश था। ,वह केवल ऊपरी तौर पर खुश था। ,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""वह इत्र की तरह महक उठा।"" compares someone to the fragrance of perfume. Just like perfume has a strong and pleasant fragrance that emanates from within, Option 0) ""वह अंदर से खुश था।"" implies that the person was genuinely happy from within. Option 1) ""वह केवल ऊपरी तौर पर खुश था।"" implies that the person was only superficially happy, which does not align with the metaphor.",0,,0
+उसने संजय की तरह अपने दोस्त का मार्गदर्शन किया। ,उसने अपने दोस्त को सब कुछ बताया। ,उसने अपने दोस्त को जीत के लिए तैयार किया। ,0,"{
+  ""Startphrase"": ""उसने संजय की तरह अपने दोस्त का मार्गदर्शन किया।"",
+  ""Options"": {
+    ""0"": ""उसने अपने दोस्त को सब कुछ बताया।"",
+    ""1"": ""उसने अपने दोस्त को जीत के लिए तैयार किया।""
+  },",1,NG,0
+कुसुम को दरवाजा खोलने में चिड़िया सा जोर लगाना पड़ा। ,कुसुम को दरवाजा खोलने में बहुत कम जोर लगाना पड़ा। ,कुसुम को दरवाजा खोलने में बहुत जोर लगाना पड़ा। ,0,"{
+  ""Startphrase"": ""कुसुम को दरवाजा खोलने में चिड़िया सा जोर लगाना पड़ा।"",
+  ""Options"": {
+    ""0"": ""कुसुम को दरवाजा खोलने में बहुत कम जोर लगाना पड़ा।"",
+    ""1"": ""कुसुम को दरवाजा खोलने में बह",1,NG,0
+उसकी रिश्तेदारी शीशे की तरह मजबूत है। ,उसकी रिश्तेदारी बहुत मजबूत है। ,उसकी रिश्तेदारी बहुत कमजोर है। ,1,"{
+  ""explanation"": ""The metaphor compares the strength of the relationship to the strength of glass, implying that the relationship is strong."",
+  ""answer"": 0
+}",0,,0
+उसकी आवाज में मुंगेरी लाल का दर्द है। ,उसकी आवाज दिल को छू जाती है।  ,उसकी आवाज को कोई याद नहीं रखता।   ,1,"{
+  ""Explanation"": ""The phrase 'मुंगेरी लाल का दर्द' signifies deep pain and emotional turmoil, so the closest meaning would be option 0."",
+  ""Answer"": 0
+}",0,,0
+शमशेर का घर बैंक की तिजोरी की तरह हमेशा खुला था। ,शमशेर का दिल बहुत बढ़ा था। ,शमशेर का दिल बहुत छोटा था। ,1,"{
+  ""Explanation"": ""The metaphor compares Shamsher's house to a bank safe which is always open, indicating that Shamsher is someone who is always welcoming and never closed off."",
+  ""Answer"": 0
+}",0,,0
+उसकी बहन स्कूल की चपरासी है। ,उसकी बहन स्कूल में बहुत ऊँची पोस्ट पर है। ,उसकी बहन स्कूल में बहुत छोटी पोस्ट पर है। ,1,"{
+  ""Startphrase"": ""उसकी बहन स्कूल की चपरासी है।"",
+  ""Options"": {
+    ""0"": ""उसकी बहन स्कूल में बहुत ऊँची पोस्ट पर है।"",
+    ""1"": ""उसकी बहन स्कूल में बहुत छोटी पोस्ट पर है।""
+  },
+  ""Explanation"": ""The metaphor 'उस",0,NG,0
+मेहक ने चंडी का रूप ले लिया। ,मेहक बहुत गुस्से में आ गई। ,मेहक बहुत सुन्दर लग रही थी। ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor here is comparing Mehak to the beauty of silver (चंडी). So, the meaning closest to the metaphor is Option 1) Mehak was looking very beautiful.",1,,0
+गंगू ने अंगूठी के लिए लड़ाई की। ,गंगू ने छोटी सी बात पे लड़ाई की। ,गंगू ने बड़ी कमाई के लिए लड़ाई की। ,1,"{
+	""Explanation"": ""The metaphor of fighting for a ring signifies fighting for something small or trivial."",
+	""Answer"": 0
+}",0,,0
+उसने सबको वड़े की तरह कपड़ा दिया। ,उसने सबको अच्छा कपड़ा दिया। ,उसने कपड़े में छेद था। ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor used here is ""वड़े की तरह कपड़ा दिया"", which translates to ""gave clothes like a blanket"". This implies that the person provided clothing generously and abundantly, similar to how a blanket covers and protects. Therefore, the closest meaning is that the person gave good quality clothes to everyone, option 0).",0,,0
+उसकी कला ऐसी है जैसे इंदरधनुष। ,उसकी कला बहुत ही बकवास है। ,उसकी कला बहुत ही अच्छी है। ,0,"{
+  ""answer"": 1
+}
+
+The metaphor compares ""उसकी कला"" to ""इंदरधनुष"" (rainbow), which is usually associated with beauty, vibrancy, and wonder. Therefore, the closest meaning to the metaphor is option 1) उसकी कला बहुत ही अच्छी है।",1,,0
+उसे हर कोई घंटी की तरह समझता है। ,उसे हर कोई तंग करता है। ,सब उस से डरते हैं। ,0,"{
+	""Explanation"": ""The metaphor used is comparing the person to a clock, indicating that everyone understands him easily and is familiar with him, similar to how everyone understands the functioning of a clock."",
+	""Answer"": 1
+}",1,,0
+पिता की डांट बर्फ की तरह होती है। ,पिता की डांट कुछ पल के लिए ही होती है। ,पिता की डांट गुस्से से भरी होती है।  ,0,"{
+  ""Explanation"": ""The metaphor is comparing a father's scolding to ice, which implies that it can be cold or harsh."",
+  ""Answer"": 1
+}",1,,0
+उसका आना शराब की चुस्की की तरह था। ,उसका आना बहुत सुहाना था। ,उसका आना बहुत बुरा था। ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: Here, the metaphor compares the arrival of the person to taking a sip of alcohol. Since taking a sip of alcohol is usually associated with a positive or pleasurable experience, the closest meaning would be ""उसका आना बहुत सुहाना था।"" (Option 0).",0,,0
+भारत की गलियों सा बड़ा है वो महल।  ,वो महल बहुत बड़ा और सुंदर है। ,वो महल बहुत छोटा और तंग है।  ,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, the phrase ""भारत की गलियों सा बड़ा है वो महल"" is comparing the size of the palace to the narrow streets of India. Since the streets in India are known to be narrow and crowded, the intended meaning here is that the palace is very big and spacious. Therefore, the option 0) वो महल बहुत बड़ा और सुंदर है। is the closest in meaning as it correctly interprets the metaphor as the palace being large and beautiful.",0,,0
+उसका सर अंडों सा चमक रहा है। ,उसके सर पे बाल नहीं है। ,उसके सर बालों से भरा हुआ है। ,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor ""उसका सर अंडों सा चमक रहा है।"" is comparing the shine on his head to that of an egg. Since eggs are shiny, the closest meaning would be ""उसके सर बालों से भरा हुआ है।"" which means his head is filled with hair, similar to comparing the shine on his head to an egg.",1,,0
+उसकी बातें बिजली के झटकों की तरह है। ,उसकी बातें कड़वी हैं। ,उसकी बातें मीठी हैं।,0,"{
+  ""answer"": 1
+}
+
+Explanation: Lightning shocks are often associated with sudden, intense reactions. Therefore, the phrase ""उसकी बातें बिजली के झटकों की तरह है"" implies that the person's words are impactful and powerful, similar to the sudden and intense nature of lightning. Hence, the closest meaning is option 1) उसकी बातें मीठी हैं।, indicating that the person's words are sweet or pleasant.",1,,0
+उसकी बातें झूले के झटकों की तरह है। ,उसकी बातें कड़वी हैं। ,उसकी बातें मीठी हैं। ,1,"{
+""answer"": 0,
+""explanation"": ""The metaphor compares the person's words to the jolts of a swing, indicating that the person's words are harsh or bitter. Option 0) उसकी बातें कड़वी हैं।""
+}",0,,0
+उसकी कमाई दिये की तरह उड़ गयी। ,उसके पैसे बहुत जल्दी खत्म हो गई। ,उसके पैसे बहुत धीरे धीरे उपयोग हुई। ,1,"{
+  ""explanation"": ""The metaphor is comparing the earnings to the oil that has evaporated, which implies that the earnings were spent very quickly."",
+  ""answer"": 0
+}",0,,0
+रोहन का लेख इतिहास की तरह याद रहेगा। ,रोहन का लेख कुछ समय बाद लोग भूल जायेंगे। ,रोहन का लेख हमेशा लोगों को याद रहेगा।  ,0,"{
+  ""explanation"": ""The metaphor draws a comparison between Rohan's writing and history, suggesting that like history, Rohan's writing will be remembered by people."",
+  ""answer"": 1
+}",1,,0
+वह जमीन रेगमार की तरह चकिनी हो गई। ,उस जमीन पर सब फिसलने लगे। ,उस जमीन से पैर कटने लगे। ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the ground to slippery clay, implying that everything is slipping on it. Therefore, the closest option is ""उस जमीन पर सब फिसलने लगे।"" (everything started slipping on that ground).",0,,0
+उसकी बनाई मशीनपौराणिक युग का प्रतीक है। ,उसकी मशीन बहुत ही बढ़िया है। ,उसकी मशीन बढ़िया नहीं है। ,1,"{
+  ""Explanation"": ""The phrase is comparing his creation to the industrial age, implying that his machine is a symbol of progress and development."",
+  ""Answer"": 0
+}",0,,0
+तुम्हारी अमीरी मेरे टुकड़ों पर चल रही है। ,तुम मेरी वजह से गरीब हो। ,तुम मेरी वजह से अमीर हो। ,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, the speaker is implying that the wealth of the listener is dependent on the speaker's sacrifices or hard work (टुकड़ों). Therefore, the closest meaning would be ""तुम मेरी वजह से गरीब हो।"" (You are poor because of me.). So, the answer is Option 0.",0,,0
+इस पिच में दरारे पड़ गई हैं। ,यह पिच अभी भी खेलने लायक है। ,यह पिच खेलने लायक नहीं  रही।  ,0,"{
+  ""Explanation"": ""The phrase 'इस पिच में दरारे पड़ गई हैं' indicates that the pitch has cracks, which could mean that it is no longer suitable for playing. Therefore, the closest meaning is option 1."",
+  ""Answer"": 1
+}",1,,0
+वह हमारा भक्षक था। ,वह हमें बचाने वाला था। ,वह हमें फ़साने वाला था। ,1,"{
+    ""answer"": 0
+}
+
+Explanation: The metaphor here is comparing someone to a protector or savior, as indicated by the phrase ""भक्षक था"" which translates to ""eater"" but metaphorically can mean someone who protects or saves. Therefore, the closest meaning would be ""वह हमें बचाने वाला था।"" (He was our savior).",0,,0
+उसकी मेहनत धारा जैसी है।,वह रोज पहले से बेहतर काम करने की कोशिश करता है।  ,वह बस रोज एक समान ही काम करता है। ,0,"{
+  ""Explanation"": ""The metaphor compares someone's hard work to a stream, indicating that their effort is consistent and continuous."",
+  ""Answer"": 1
+}",1,,0

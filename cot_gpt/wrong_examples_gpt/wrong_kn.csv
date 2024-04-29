@@ -1,0 +1,2465 @@
+Start Phrase,Ending 1,Ending 2,Labels,Response,answer,not_generated,match
+ಆ ಪ್ರದೇಶ ದೇವಸ್ಥಾನದಷ್ಟು ಹಿಂಸೆಯಿಂದ ಕೂಡಿದೆ.,ಆ ಪ್ರದೇಶ ಹಿಂಸೆಯಿಂದ ಕೂಡಿದೆ,ಆ ಪ್ರದೇಶ ಹಿಂಸೆಯಿಂದ ಕೂಡಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor suggests that the area is filled with violence, so the option 0) is the closest meaning as it states that the area is filled with violence."",
+  ""answer"": 0
+}",0,,0
+ಅವರ ಬಾಂಧವ್ಯ ಶತ್ರುಗಳು ಹಾಗೆ ಗಟ್ಟಿಯಿದೆ.,ಅವರ ಬಾಂಧವ್ಯ ಗಟ್ಟಿ ಇದೆ,ಅವರ ಬಾಂಧವ್ಯ ಗಟ್ಟಿ ಇಲ್ಲ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, the phrase ""ಬಾಂಧವ್ಯ ಶತ್ರುಗಳು"" suggests that the relationship is like enemies, meaning it is strong and difficult. Option 0) ""ಅವರ ಬಾಂಧವ್ಯ ಗಟ್ಟಿ ಇದೆ"" directly relates to this idea, stating that their relationship is strong. So, this option is the closest meaning to the metaphor.",0,,0
+ಆ ಜಾಗವು ಟ್ರಾಫಿಕ್ ಜಾಮ್ನಷ್ಟು ನಿಶ್ಯಬ್ದವಾಗಿದೆ.,ಆ ಜಾಗವು ನಿಶಬ್ದವಾಗಿದೆ,ಆ ಜಾಗವು ನಿಶಬ್ದವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the place to a traffic jam, indicating that the place is very noisy and crowded."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ಯುವಕನಷ್ಟು ದುರ್ಬಲನಿದ್ದಾನೆ,ಅವನು ದುರ್ಬಲನಾಗಿದ್ದಾನೆ,ಅವನು ದುರ್ಬಲನಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the person to a young man, implying that he is as weak as a young man."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ವೃದ್ಧನಷ್ಟು ಬಲಿಷ್ಠನಿದ್ದಾನೆ.,ಅವನು ಬಲಿಷ್ಠನಿದ್ದಾನೆ,ಅವನು ಬಲಿಷ್ಠನಿಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor uses the comparison of being as strong as an old man, implying that the person is very strong. Option 0) ""ಅವನು ಬಲಿಷ್ಠನಿದ್ದಾನೆ"" translates to ""He is as strong."" This meaning aligns closer with the metaphor.",0,,0
+ಅದು ನೀರಿನಂತೆ ಕೆಂಪು ಬಣ್ಣ ಹೊಂದಿದೆ.,ಅದು ಕೆಂಪು ಬಣ್ಣ ಹೊಂದಿದೆ,ಅದು ಕೆಂಪು ಬಣ್ಣ ಹೊಂದಿಲ್ಲ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The phrase ""ಅದು ನೀರಿನಂತೆ ಕೆಂಪು ಬಣ್ಣ ಹೊಂದಿದೆ"" is a metaphor comparing something to the color red like water. Option 0) ""ಅದು ಕೆಂಪು ಬಣ್ಣ ಹೊಂದಿದೆ"" translates to ""It is red in color,"" which is the closest meaning to the metaphor. This option emphasizes the similarity in",0,,0
+ಅದರ ವೇಗ ಆಮೆಯಷ್ಟು ನಿಧಾನವಾಗಿದೆ.,ಅದರ ವೇಗ ತುಂಬಾ ನಿಧಾನ,ಅದರ ವೇಗ ನಿಧಾನವಾಗಿಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor compares the speed of something to that of a tortoise, indicating that it is very slow."",
+  ""answer"": 1
+}",1,,0
+ಆ ವಸ್ತು ಟೆಲಿಫೋನ್ನಷ್ಟು ಹಳೆಯದು.,ಆ ವಸ್ತು ಹಳೆಯದು,ಆ ವಸ್ತು ಹೊಸದಾಗಿದೆ,0,"{
+  ""question"": ""ಆ ವಸ್ತು ಟೆಲಿಫೋನ್ನಷ್ಟು ಹಳೆಯದು."",
+  ""options"": {
+    ""0"": ""ಆ ವಸ್ತು ಹಳೆಯದು"",
+    ""1"": ""ಆ ವಸ್ತು ಹೊಸದಾಗಿದೆ""
+  },
+  ""answer"": 1
+}",1,,0
+ಆ ವಸ್ತು ಮೊಬೈಲ್ನಷ್ಟು ಹಳೆಯದು.,ಆ ವಸ್ತು ಹಳೆಯದು,ಆ ವಸ್ತು ಹೊಸದಾಗಿದೆ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares the object to something as old as a mobile phone, implying that the object is very old. Option 0) translates to ""The object is old"", which is the closest meaning to the metaphor.",0,,0
+ಆಹಾರವು ಮ್ಯಾಗಿ ಯಂತೆ ಪೌಷ್ಟಿಕತೆ ಹೊಂದಿದೆ.,ಈ ಆಹಾರವು ಪೌಷ್ಟಿಕತೆಯಿಂದ ಕೂಡಿದೆ,ಈ ಆಹಾರವು ಪೌಷ್ಟಿಕತೆಯಿಂದ ಕೂಡಿಲ್ಲ,1,"{
+  ""answer"": 0
+}  
+
+Explanation: The metaphor ""food is like a magnet"" implies that the food is attracting something, in this case, nutrients. Thus, option 0, which states that ""This food is filled with nutrition,"" is the closest meaning to the metaphor.",0,,0
+ಆ ಪ್ರದೇಶ ಕ್ಲಾಸ್ ರೂಮ್ನಂತೆ ವಿಶಾಲವಾಗಿದೆ.,ಆ ಪ್ರದೇಶ ತುಂಬಾ ವಿಶಾಲವಾಗಿದೆ,ಆ ಪ್ರದೇಶ ತುಂಬಾ ವಿಶಾಲವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""Comparing the area to a classroom means that it is spacious."",
+  ""answer"": 0
+}",0,,0
+ಆಟಗಾರರ ಪ್ರದರ್ಶನ ಸೋತವರಂತೆ ಇತ್ತು.,ಆಟಗಾರರ ಪ್ರದರ್ಶನ ಚೆನ್ನಾಗಿತ್ತು,ಆಟಗಾರರ ಪ್ರದರ್ಶನ ಚೆನ್ನಾಗಿರಲಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor is comparing the performance to that of losers, so the meaning would be closer to 'ಪ್ರದರ್ಶನ ಸೋತವರಂತೆ ಇತ್ತು.'"",
+  ""Answer"": 0
+}",0,,0
+ಆ ವಸ್ತು ಪಕ್ಷಿ ಥರ ಸಣ್ಣದಿದೆ,ಆ ವಸ್ತುವಿನ ಗಾತ್ರ ಸಣ್ಣದು,ಆ ವಸ್ತುವಿನ ಗಾತ್ರ ದೊಡ್ಡದು,1,"{
+  ""explanation"": ""In this metaphor, the focus is on the size of the object being compared to a bird's egg, so the meaning of 'ಆ ವಸ್ತುವಿನ ಗಾತ್ರ ಸಣ್ಣದು' (the size of the object is small) is the closest to the metaphor."",
+  ""answer"": 0
+}",0,,0
+ಆ ಹವ್ಯಾಸ ಧ್ಯಾನದಂತೆ ಕೆಟ್ಟದ್ದು.,ಆ ಹವ್ಯಾಸ ಕೆಟ್ಟದ್ದು,ಆ ಹವ್ಯಾಸ ಒಳ್ಳೆಯದು,1,"{
+  ""explanation"": ""The metaphor is comparing the habit to meditation, implying that it is bad."",
+  ""answer"": 0
+}",0,,0
+ಆ ಪ್ರಾಣಿ ಆನೆಯಷ್ಟು ಹಳೆಯದು.,ಆ ಪ್ರಾಣಿ ಹಳೆಯದು,ಆ ಪ್ರಾಣಿ ಹಳೆಯದೇನಲ್ಲ,1,"{
+  ""Explanation"": ""Comparing the age of an animal to that of an elephant suggests that the animal is very old."",
+  ""Answer"": 0
+}",0,,0
+ಉಸಿರಾಡಲು ಆಕ್ಸಿಜನ್ ನಂತೆ ಅಗತ್ಯವಾಗಿದೆ.,ಉಸಿರಾಡಲು ಆಕ್ಸಿಜನ್ ತುಂಬಾ ಅಗತ್ಯ,ಉಸಿರಾಡಲು ಆಕ್ಸಿಜನ್ ತುಂಬಾ ಅಗತ್ಯವೇನಲ್ಲ,0,"{
+  ""Startphrase"": ""ಉಸಿರಾಡಲು ಆಕ್ಸಿಜನ್ ನಂತೆ ಅಗತ್ಯವಾಗಿದೆ."",
+  ""Options"": {
+    ""0"": ""ಉಸಿರಾಡಲು ಆಕ್ಸಿಜನ್ ತುಂಬಾ ಅಗತ್ಯ"",
+    ""1"": ""ಉಸಿರಾಡ",1,NG,0
+ಉಸಿರಾಡಲು ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್ ನಂತೆ ಅಗತ್ಯವಾಗಿದೆ.,ಉಸಿರಾಡಲು ಆಕ್ಸಿಜನ್ ತುಂಬಾ ಅಗತ್ಯ,ಉಸಿರಾಡಲು ಆಕ್ಸಿಜನ್ ತುಂಬಾ ಅಗತ್ಯವೇನಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, ""breathing is necessary like carbon dioxide"" implies that oxygen is necessary for breathing, similar to how carbon dioxide is necessary for processes like photosynthesis. Option 0) ""ಉಸಿರಾಡಲು ಆಕ್ಸಿಜನ್ ತುಂಬಾ ಅಗತ್ಯ"" aligns better with this comparison, emphasizing the necessity of oxygen for breathing.",0,,0
+ಆ ಸ್ಥಳ ತಲುಪಲು ಕಾರ್ ನಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ.,ಆ ಸ್ಥಳ ತಲುಪಲು ಕಡಿಮೆ ಸಮಯ ಬೇಕು,ಆ ಸ್ಥಳ ತಲುಪಲು ಹೆಚ್ಚು ಸಮಯ ಬೇಕು,0,"{
+  ""Explanation"": ""This metaphor implies that reaching the destination takes a lot of time, suggesting that it requires more time than usual."",
+  ""Answer"": 1
+}",1,,0
+ಆ ಸ್ಥಳ ತಲುಪಲು ಸೈಕಲ್ ನಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ.,ಆ ಸ್ಥಳ ತಲುಪಲು ಕಡಿಮೆ ಸಮಯ ಬೇಕು,ಆ ಸ್ಥಳ ತಲುಪಲು ಹೆಚ್ಚು ಸಮಯ ಬೇಕು,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares reaching a place to riding a bicycle, implying that it requires less time. Therefore, the meaning closer to the metaphor is option 0) ಆ ಸ್ಥಳ ತಲುಪಲು ಕಡಿಮೆ ಸಮಯ ಬೇಕು (less time is needed to reach that place).",0,,0
+ಆಹಾರವು ಬ್ರೇಕ್ ಫಾಸ್ಟ್ ನಷ್ಟು ವಿಶೇಷವಾಗಿತ್ತು .,ಆಹಾರವು ತುಂಬಾ ವಿಶೇಷವಾಗಿತ್ತು,ಆಹಾರವು ಸಾಮಾನ್ಯವಾಗಿತ್ತು,1,"{
+  ""explanation"": ""The metaphor compares food to breakfast, implying that the food was special or exceptional."",
+  ""answer"": 0
+}",0,,0
+ಅದರ ಬೆಲೆ ಸಿನಿಮಾ ಟಿಕೆಟ್ ನಷ್ಟು ದುಬಾರಿ.,ಅದರ ಬೆಲೆ ದುಬಾರಿ,ಅದರ ಬೆಲೆ ಅಗ್ಗ,1,"{
+  ""explanation"": ""Comparing the value of something to the cost of a movie ticket getting lost or wasted."",
+  ""answer"": 0
+}",0,,0
+ಅವನ ನಂಬಿಕೆಗಳು ಗಾಜಿನಂತೆ ಬಲಿಷ್ಠವಾಗಿವೆ.,ಅವನ ನಂಬಿಕೆ ಬಲಿಷ್ಟವಾಗಿದೆ,ಅವನ ನಂಬಿಕೆ ಬಲಿಷ್ಟವಾಗಿಲ್ಲ,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, comparing someone's beliefs to glass symbolizes strength and solidity. Therefore, the correct option is 0) ಅವನ ನಂಬಿಕೆ ಬಲಿಷ್ಟವಾಗಿದೆ (his beliefs are strong).",0,,0
+ಅದು ಕೋಡಿಂಗ್ ನಂತೆ ಸುಲಭ.,ಅದು ತುಂಬಾ ಸುಲಭ,ಅದು ಕಷ್ಟ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, ""ಕೋಡಿಂಗ್"" refers to coding, which is considered to be something that is easy to understand and manage once you get the hang of it. Therefore, the closest meaning would be ""ಅದು ತುಂಬಾ ಸುಲಭ"" which translates to ""It is very easy.""",0,,0
+ಅವನು ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ಸೂಟ್ ಧರಿಸಿದ್ದಾನೆ.,ಅವನು ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ಧರಿಸಿದ್ದಾನೆ,ಅವನು ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ಧರಿಸಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor is comparing the traditional attire of wearing a suit to the person's clothing choice."",
+  ""Answer"": 0
+}",0,,0
+ಆ ವಿಷಯವು ವಿಜ್ಞಾನದಷ್ಟು ಲಾಜಿಕ್ ಹೊಂದಿದೆ.,ಆ ವಿಷಯ ಲಾಜಿಕ್ ಹೊಂದಿದೆ,ಆ ವಿಷಯ ಲಾಜಿಕ್ ಹೊಂದಿಲ್ಲ,0,"{
+	""Startphrase"": ""ಆ ವಿಷಯವು ವಿಜ್ಞಾನದಷ್ಟು ಲಾಜಿಕ್ ಹೊಂದಿದೆ."",
+	""Options"": {
+		""0"": ""ಆ ವಿಷಯ ಲಾಜಿಕ್ ಹೊಂದಿದೆ"",
+		""1"": ""ಆ ವಿಷಯ ಲಾಜಿಕ್ ಹ",1,NG,0
+ಆ ವಿಷಯವು ಮ್ಯಾಜಿಕ್ನಷ್ಟು ಲಾಜಿಕ್ ಹೊಂದಿದೆ.,ಆ ವಿಷಯ ಲಾಜಿಕ್ ಹೊಂದಿದೆ,ಆ ವಿಷಯ ಲಾಜಿಕ್ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the subject to something magical and logical, emphasizing an unusual and intriguing quality. Therefore, the closest meaning is option 0) ಆ ವಿಷಯ ಲಾಜಿಕ್ ಹೊಂದಿದೆ (The subject has both magical and logical qualities)."",
+  ""answer"": 0
+}",0,,0
+ಅವಳು ನಮ್ಮ ಸಂಸ್ಕೃತಿ ಬಿಂಬಿಸುವ ಸ್ಕರ್ಟ್ ಧರಿಸಿದ್ದಳು .,ಅವಳು ನಮ್ಮ ಸಂಸ್ಕೃತಿಯನ್ನು ಬಿಂಬಿಸುತ್ತಿದ್ದಳು,ಅವಳು ನಮ್ಮ ಸಂಸ್ಕೃತಿಯನ್ನು ಬಿಂಬಿಸುತ್ತಿರಲಿಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor here is comparing the act of wearing a skirt to reflecting our culture. Option 0) ""ಅವಳು ನಮ್ಮ ಸಂಸ್ಕೃತಿಯನ್ನು ಬಿಂಬಿಸುತ್ತಿದ್ದಳು"" is the closer meaning, stating that she was reflecting our culture by wearing the skirt. Option 1) ""ಅವಳು ನಮ್ಮ ಸಂ",0,,0
+ಅವನು ನಾಗರಿಕರಷ್ಟು ಪ್ರಭಾವಶಾಲಿ.,ಅವನು ಪ್ರಭಾವಶಾಲಿ,ಅವನು ಸಾಮಾನ್ಯ,1,"{
+  ""Explanation"": ""The metaphor compares the person to being as influential as the citizens."",
+  ""Answer"": 0
+}",0,,0
+ಆ ಸ್ಥಳವು ನಗರದಂತೆ ಹಸಿರಾಗಿದೆ .,ಆ ಸ್ಥಳವು ಹಸಿರಾಗಿದೆ,ಆ ಸ್ಥಳವು ಹಸಿರಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the place to being green like a city, implying that the place is vibrant, lively, and bustling like a city."",
+  ""answer"": 0
+}",0,,0
+ಅರಬ್ ದೇಶಗಳಲ್ಲಿ ಪೆಟ್ರೋಲಿಯಂನಿಂದ ಶ್ರೀಮಂತಿಕೆ ಹೊಂದಿವೆ.,ಅರಬ್ ದೇಶಗಳು ಪೆಟ್ರೋಲಿಯಂನಿಂದ ಶ್ರೀಮಂತವಾಗಿವೆ,ಅರಬ್ ದೇಶಗಳು ಪೆಟ್ರೋಲಿಯಂನಿಂದ ಶ್ರೀಮಂತವಾಗಿಲ್ಲ,0,"{
+  ""error"": ""Explanation required.""
+}",1,NG,0
+ಆಕಾಶವು ಬೇಸಿಗೆಯಂತೆ ಮೋಡದಿಂದ ಕೂಡಿದೆ .,ಆಕಾಶವು ಹೆಚ್ಚು ಮೋಡದಿಂದ ಕೂಡಿದೆ,ಆಕಾಶವು ಕಡಿಮೆ ಮೋಡದಿಂದ ಕೂಡಿದೆ,1,"{
+  ""explanation"": ""The metaphor is comparing the sky to the rainy season, indicating that the sky is filled with clouds like during monsoon. Therefore, the meaning closer to the metaphor is 'ಆಕಾಶವು ಹೆಚ್ಚು ಮೋಡದಿಂದ ಕೂಡಿದೆ'"",
+  ""answer"": 0
+}",0,,0
+ಆ ಜಾಗವು ಸರ್ಕಾರಿ ಆಫೀಸ್ ನಂತೆ ಸುಂದರವಾಗಿದೆ.,ಆ ಜಾಗ ಸುಂದರವಾಗಿದೆ,ಆ ಜಾಗ ಸುಂದರವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""This metaphor is comparing the place to a government office, implying that it is well-organized and attractive."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಬೆಲ್ಲಕಿಂತಲೂ ಕಹಿಯಾಗಿದೆ,ಅದು ಕಹಿಯಾಗಿತ್ತು,ಅದು ಸಿಹಿಯಾಗಿತ್ತು,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares something to being more bitter than jaggery (bellaku), which is known for its sweetness. Therefore, the closer meaning would be that it used to be sweet (option 1) but now it is bitter.",0,,0
+ಆ ಜಾಗವೂ ಚಿತ್ರಮಂದಿರ ದಷ್ಟು ದೂರದಲ್ಲಿದೆ,ಆ ಜಾಗ ದೂರದಲ್ಲಿದೆ,ಆ ಜಾಗ ಹತ್ತಿರದಲ್ಲಿದೆ,1,"{
+	""answer"": 0
+}
+
+Explanation: This metaphor implies that the place is far away like a temple. Therefore, the closest meaning would be ""ಆ ಜಾಗ ದೂರದಲ್ಲಿದೆ"" which means ""the place is far away"".",0,,0
+ಆ ವಿಷಯವು ವಿಶ್ವಕಪ್ ಗೆಲುವಿನ ಹಾಗೆ ಬೇಸರ ತರಿಸಿತ್ತು,ಆ ವಿಷಯ ಬೇಸರ ತರಿಸಿತ್ತು,ಆ ವಿಷಯ ಸಂತಸ ಮೂಡಿಸಿತ್ತು,1,"{
+  ""question"": ""ಆ ವಿಷಯವು ವಿಶ್ವಕಪ್ ಗೆಲುವಿನ ಹಾಗೆ ಬೇಸರ ತರಿಸಿತ್ತು"",
+  ""option0"": ""ಆ ವಿಷಯ ಬೇಸರ ತರಿಸಿತ್ತು"",
+  ""option1"": ""ಆ ವಿಷಯ ಸಂತ",0,NG,0
+ಆ ಸಂಗತಿ ಶಿಕ್ಷಣದಷ್ಟು ಮುಖ್ಯವಾಗಿದೆ,ಆ ಸಂಗತಿ ಮುಖ್ಯವಾಗಿದೆ,ಆ ಸಂಗತಿ ಮುಖ್ಯವಾಗಿಲ್ಲ,0,"{
+  ""Startphrase"": ""ಆ ಸಂಗತಿ ಶಿಕ್ಷಣದಷ್ಟು ಮುಖ್ಯವಾಗಿದೆ"",
+  ""Options"": {
+    ""0"": ""ಆ ಸಂಗತಿ ಮುಖ್ಯವಾಗಿದೆ"",
+    ""1"": ""ಆ ಸಂಗತಿ ಮುಖ್ಯವಾಗಿಲ್ಲ",1,NG,0
+ಆ ಸಂಗತಿ ಪ್ರಯಾಣದಷ್ಟು ಮುಖ್ಯವಾಗಿದೆ,ಆ ಸಂಗತಿ ಮುಖ್ಯವಾಗಿದೆ,ಆ ಸಂಗತಿ ಮುಖ್ಯವಾಗಿಲ್ಲ,1,"{
+  ""answer"": 0
+}",0,,0
+ಆ ಅಪ್ಲಿಕೇಶನ್  ಜಿಮೇಲ್ ನಷ್ಟು ಬಳಕೆದಾರರನ್ನು ಹೊಂದಿದೆ,ಆ ಅಪ್ಲಿಕೇಶನ್ ಹೆಚ್ಚು ಬಳಕೆದಾರರನ್ನು ಹೊಂದಿದೆ,ಆ ಅಪ್ಲಿಕೇಶನ್ ಕಡಿಮೆ ಬಳಕೆದಾರರನ್ನು ಹೊಂದಿದೆ,0,"{
+  ""question"": ""ಆ ಅಪ್ಲಿಕೇಶನ್  ಜಿಮೇಲ್ ನಷ್ಟು ಬಳಕೆದಾರರನ್ನು ಹೊಂದಿದೆ"",
+  ""options"": {
+    ""0"": ""ಆ ಅಪ್ಲಿಕೇಶನ್ ಹೆಚ್ಚು ಬಳಕೆದಾರರ",1,NG,0
+ಈ ಆಹಾರವು ಅಕ್ಕಿ ಯಷ್ಟು ಪ್ರೊಟೀನ್ ಅಂಶ ಹೊಂದಿದೆ,ಆಹಾರದಲ್ಲಿ ಹೆಚ್ಚು ಪ್ರೋಟೀನ್ ಅಂಶವಿದೆ,ಆಹಾರದಲ್ಲಿ ಕಡಿಮೆ ಪ್ರೋಟೀನ್ ಅಂಶವಿದೆ,1,"{
+  ""explanation"": ""The metaphor is comparing the protein content of the food to rice, implying that the food has a moderate amount of protein similar to rice."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಡ್ರೈ ಫ್ರೂಟ್ಸ್ ನಂತೆ ದುಬಾರಿ,ಡ್ರೈ ಫ್ರೂಟ್ಸ್ ದುಬಾರಿ,ಡ್ರೈಫ್ರೂಟ್ಸ್ ನಂತೆ ದುಬಾರಿ ಅಲ್ಲ,0,"{
+  ""question"": ""ಅದು ಡ್ರೈ ಫ್ರೂಟ್ಸ್ ನಂತೆ ದುಬಾರಿ"",
+  ""options"": [
+    ""ಡ್ರೈ ಫ್ರೂಟ್ಸ್ ದುಬಾರಿ"",
+    ""ಡ್ರೈಫ್ರೂಟ್ಸ್ ನಂತೆ ದುಬಾರಿ ಅ",1,NG,0
+ಅದು ತರಕಾರಿಯಷ್ಟು ದುಬಾರಿ,ಡ್ರೈ ಫ್ರೂಟ್ಸ್ ದುಬಾರಿ,ಡ್ರೈಫ್ರೂಟ್ಸ್ ನಂತೆ ದುಬಾರಿ ಅಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the situation to the repeated act of peeling vegetables, not the similarity between vegetables and fruits."",
+  ""answer"": 0
+}",0,,0
+ಆ ವಿಷಯವು ಜಾದೂವಿನಷ್ಟು ವೈಜ್ಞಾನಿಕವಾಗಿತ್ತು,ಆ ವಿಷಯ ವೈಜ್ಞಾನಿಕವಾಗಿತ್ತು,ಆ ವಿಷಯ ವೈಜ್ಞಾನಿಕವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the subject to a puzzle that is as complex as a magic trick, implying that it was very scientific."",
+  ""answer"": 0
+}",0,,0
+ಅವರು ಸಾಮಾನ್ಯ ಜನರಂತೆ ಶ್ರೀಮಂತರು,ಅವರು ಶ್ರೀಮಂತರು,ಅವರು ಶ್ರೀಮಂತರೇನಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, the comparison is between ""ಅವರು"" (they) and ""ಶ್ರೀಮಂತರು"" (wealthy people). The closest meaning is that they are like wealthy people, so the correct option is 0) ಅವರು ಶ್ರೀಮಂತರು.",0,,0
+ಆ ದೃಶ್ಯವೂ ಟ್ರಾಫಿಕ್ ಜಾಮ್ ನಂತೆ ಅದ್ಬುತವಾಗಿತ್ತು,ಆ ದೃಶ್ಯ ಅದ್ಭುತವಾಗಿತ್ತು,ಆ ದೃಶ್ಯ ಅದ್ಭುತವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares the scene to a traffic jam, implying that it was amazing or fantastic. Option 0) reflects this interpretation, stating that the scene was indeed amazing. Option 1) says that the scene was not amazing, which is not in line with the metaphor.",0,,0
+ಆ ಸ್ಥಳವು ಬಸ್ ಸ್ಟೇಷನ್ ನ ಹಾಗೆ ನಿಶ್ಶಬ್ದವಾಗಿದೆ.,ಆ ಸ್ಥಳವು ನಿಶಬ್ದವಾಗಿದೆ,ಆ ಸ್ಥಳವು ನಿಶಬ್ದವಾಗಿಲ್ಲ,1,"{
+  ""answer"": 0
+}",0,,0
+ಅದು ನಕ್ಷತ್ರ ಗಳಂತೆ ಬಹಳ ಅಪರೂಪ,ಅದು ಬಹಳ ಅಪರೂಪ,ಅದು ಬಹಳ  ಅಪರೂಪವೇನಲ್ಲ,1,"{
+  ""question"": ""ಅದು ನಕ್ಷತ್ರ ಗಳಂತೆ ಬಹಳ ಅಪರೂಪ"",
+  ""options"": {
+    ""0"": ""ಅದು ಬಹಳ ಅಪರೂಪ"",
+    ""1"": ""ಅದು ಬಹಳ ಅಪರೂಪವೇನಲ್ಲ""
+  },
+  ""answer"": 0
+}",0,,0
+ಆ ಪರೀಕ್ಷೆ ಯುಪಿಎಸ್ಸಿ ಯಂತೆ ಕಷ್ಟಕರ,ಆ ಪರೀಕ್ಷೆ ಹೆಚ್ಚು ಕಷ್ಟ,ಆ ಪರೀಕ್ಷೆ ಹೆಚ್ಚು ಕಷ್ಟವೇನಲ್ಲ,0,"{
+  ""answer"": 1
+}  
+
+The metaphor compares the exam to the UPSC exam, which is known to be very difficult. Option 1 reflects this comparison by stating that the exam is indeed very difficult.",1,,0
+ಆ ಪರೀಕ್ಷೆ  ಐಬಿಪಿಸ್ ನಂತೆ ಕಷ್ಟಕರ,ಆ ಪರೀಕ್ಷೆ ಹೆಚ್ಚು ಕಷ್ಟ,ಆ ಪರೀಕ್ಷೆ ಹೆಚ್ಚು ಕಷ್ಟವೇನಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the exam to IBPS exam which is known for its difficulty."",
+  ""answer"": 0
+}",0,,0
+ಅದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಪದ್ಯದಷ್ಟು ಜಟಿಲವಾಗಿದೆ,ಅದನ್ನು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳುವುದು ಕಷ್ಟ,ಅದನ್ನು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳುವುದು ಸುಲಭ,1,"{
+  ""answer"": 0
+}
+
+Explanation: This metaphor implies that understanding it is as difficult as deciphering poetry, which is known to be complex and intricate. Therefore, the closest meaning is that it is difficult to understand. Hence, option 0) ಅದನ್ನು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳುವುದು ಕಷ್ಟ is the correct interpretation.",0,,0
+ಅದು ಉಂಗುರದಂತೆ ಓವಲ್ ಆಕಾರ ಹೊಂದಿದೆ,ಅದು ಓವಲ್ ಆಕಾರ ಹೊಂದಿದೆ,ಅದು ಓವಲ್ ಆಕಾರ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the object to a hen's egg, which is oval in shape."",
+  ""answer"": 0
+}",0,,0
+ಅವರು ವಕೀಲರಂತೆ ಜನಪ್ರಿಯರು,ಅವರು ಜನಪ್ರಿಯರು,ಅವರು ಜನಪ್ರಿಯರಲ್ಲ,1,"{
+  ""answer"": 0,
+  ""explanation"": ""In this metaphor, the comparison is made between the person and a lawyer, indicating that the person is popular like a lawyer. Therefore, the closest meaning is that they are popular.""
+}",0,,0
+ಆ ಆಟವು ಹಾಕಿ ಯಷ್ಟು ಪ್ರಸಿದ್ದವಾಗಿದೆ,ಆ ಆಟ ಪ್ರಸಿದ್ಧ,ಆ ಆಟ ಪ್ರಸಿದ್ಧವಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor implies that the game is popular just like throwing a hook. It is comparing the popularity of the game to the act of hooking something, suggesting a strong connection."",
+  ""Answer"": 0
+}",0,,0
+ಆ ಸಂಭ್ರಮವು ಸೋಲಿನಂತೆ ಮಜವಾಗಿತ್ತು,ಆ ಸಂಭ್ರಮವು ಮಜವಾಗಿತ್ತು,ಆ ಸಂಭ್ರಮವು ಮಜವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the excitement to defeat, not just excitement in general."",
+  ""answer"": 0
+}",0,,0
+ಘಟನೆಯು  ಶಾಂತಿಯಂತೆ ಭಯಾನಕವಾಗಿತ್ತು,ಆ ಘಟನೆ ಭಯಾನಕವಾಗಿತ್ತು,ಆ ಘಟನೆ ಭಯಾನಕವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the event to peace but implies it was actually terrifying, emphasizing the unexpected nature of the situation."",
+  ""answer"": 0
+}",0,,0
+ಆ ಕಟ್ಟಡವು ಸರ್ಕಾರಿ ಕಚೇರಿಯಂತೆ ಸುಸಜ್ಜಿತವಾಗಿತ್ತು,ಆ ಕಟ್ಟಡ ಸುಸಜ್ಜಿತವಾಗಿತ್ತು,ಆ ಕಟ್ಟಡ ಸುಸಜ್ಜಿತವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the building to a government office, emphasizing that it was well-maintained and organized."",
+  ""answer"": 0
+}",0,,0
+ಆ ವಸ್ತು ಗೋಡೆಯ ಹಾಗೆ ಪ್ರತಿಬಿಂಬವಾಗಿತ್ತು,ಆ ವಸ್ತು ಪ್ರತಿಬಿಂಬವಾಗಿತ್ತು,ಆ ವಸ್ತು ಪ್ರತಿಬಿಂಬವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor suggests that the object was reflecting like a mirror on the wall, so the closest meaning is that the object was reflecting, option 0."",
+  ""answer"": 0
+}",0,,0
+ಆ ಪ್ರತಿಮೆಯು ಏಕತೆಯ ಪ್ರತಿಮೆಯಷ್ಟು ಎತ್ತರವಾಗಿತ್ತು,ಆ ಪ್ರತಿಮೆ ಎತ್ತರವಾಗಿತ್ತು,ಆ ಪ್ರತಿಮೆ ಎತ್ತರವಾಗಿರಲಿಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor is comparing the height of the statue to unity, suggesting that the statue was not taller than unity."",
+  ""answer"": 1
+}",1,,0
+ಆ ಪ್ರತಿಮೆಯು ದ್ವಜಸ್ತಂಬದಷ್ಟು ಎತ್ತರವಾಗಿತ್ತು,ಆ ಪ್ರತಿಮೆ ಎತ್ತರವಾಗಿತ್ತು,ಆ ಪ್ರತಿಮೆ ಎತ್ತರವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the height of the statue to the height of a pillar. The closest meaning would be that the statue was as tall as a pillar, so option 0) ಆ ಪ್ರತಿಮೆ ಎತ್ತರವಾಗಿತ್ತು."",
+  ""answer"": 0
+}",0,,0
+ಆ ಸದ್ದು ಪಟಾಕಿಯಂತೆ ಇಂಪಾಗಿದೆ,ಆ ಸದ್ದು ಇಂಪಾಗಿದೆ,ಆ ಸದ್ದು ಇಂಪಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the sound to a firecracker, indicating that it is very loud and intense."",
+  ""answer"": 0
+}",0,,0
+ಆ ಸಿನಿಮಾ ಕಾಮಿಡಿ ಚಿತ್ರದಷ್ಟು ಭಯ ಮೂಡಿಸಿತ್ತು,ಆ ಸಿನಿಮಾ ಭಯ ಮೂಡಿಸಿತ್ತು,ಆ ಸಿನಿಮಾ ಭಯ ಮೂಡಿಸಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the level of fear induced by the movie to that of a horror comedy film, so option 0) is the closest in meaning."",
+  ""answer"": 0
+}",0,,0
+ಆ ವಿಷಯವೂ ಬಿರಿಯಾನಿ ತಯಾರಿಸುವಷ್ಟು ಸುಲಭ,ಆ ವಿಷಯ ಸುಲಭ,ಆ ವಿಷಯ ಕಷ್ಟ,1,"{
+  ""answer"": 0
+}  
+
+Explanation: In this metaphor, the act of preparing biryani is compared to the ease of the subject. Biryani preparation is known to be a complex process involving multiple steps and ingredients, so the comparison implies that the subject is difficult. Therefore, the meaning closer to the metaphor is option 1) ಆ ವಿಷಯ ಕಷ್ಟ.",0,,0
+ಅದು ಮ್ಯಾರಥಾನ್ ಓಟದಷ್ಟು ವೇಗವಾಗಿದೆ,ಅದು ತುಂಬಾ ವೇಗ,ಅದು ನಿಧಾನ,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor compares the speed of something to the speed of a marathon runner, which implies that it is very fast. Therefore, option 0) ಅದು ತುಂಬಾ ವೇಗ is the closest in meaning.""
+}",0,,0
+ಅದು ಆನ್ಲೈನ್ ಕ್ಲಾಸ್ ನಷ್ಟು ಆಸಕ್ತಿದಾಯಕವಾಗಿತ್ತು,ಅದು ಆಸಕ್ತಿದಾಯಕವಾಗಿತ್ತು,ಅದು ಆಸಕ್ತಿದಾಯಕವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor is comparing the interest level of the online class to something else. The meaning closest to the metaphor would be that it was interesting or engaging."",
+  ""Answer"": 0
+}",0,,0
+ಅವರು ಪದವೀಧರರಷ್ಟು ಜ್ಞಾನವುಳ್ಳವರಾಗಿದ್ದಾರೆ,ಅವರು ಹೆಚ್ಚು ಜ್ಞಾನ ಹೊಂದಿದ್ದಾರೆ,ಅವರು ಹೆಚ್ಚು ಜ್ಞಾನ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""This metaphor implies that they possess a lot of knowledge."",
+  ""answer"": 0
+}",0,,0
+ಅದು  ಕೆರಯಷ್ಟು ದೊಡ್ಡದಾಗಿದೆ,ಅದು ಡ್ಯಾಮ್ ನಷ್ಟು ದೊಡ್ಡದಾಗಿದೆ,ಅದು ಡ್ಯಾಮ್ ನಷ್ಟು ದೊಡ್ಡದಲ್ಲ,1,"{
+  ""explanation"": ""Comparing something to a diamond implies it is precious and valuable, therefore the meaning closer to the metaphor would be 'It is very valuable and precious'."",
+  ""answer"": 0
+}",0,,0
+ಆ ವಸ್ತು  ನೀರಿನಷ್ಟು ಬಿಸಿಯಾಗಿದೆ,ಆ ವಸ್ತು ಬಿಸಿಯಾಗಿದೆ,ಆ ವಸ್ತು ತಣ್ಣಗಿದೆ,1,"{
+  ""explanation"": ""The metaphor is comparing the object to being as wet as water, so the closest meaning is that the object is wet."",
+  ""answer"": 0
+}",0,,0
+ಆ ಜೀವಿಯು ಬೆಕ್ಕಿನಷ್ಟು ಚಿಕ್ಕದಾಗಿದೆ,ಆ ಜೀವಿಯ ಗಾತ್ರ ಚಿಕ್ಕದು,ಆ ಜೀವಿಯ ಗಾತ್ರ ದೊಡ್ಡದು,1,"{
+  ""explanation"": ""The metaphor compares the size of the living being to that of an ant, emphasizing its smallness. Therefore, the closest meaning would be that the size of the living being is small (Option 0)."",
+  ""answer"": 0
+}",0,,0
+ಆ ವಸ್ತು ಚಾಕುವಿನಂತೆ ಹರಿತವಾಗಿದೆ,ಆ ವಸ್ತು ಹರಿತವಿದೆ,ಆ ವಸ್ತು ಅರಿತವಾಗಿಲ್ಲ,0,"{
+  ""Startphrase"": ""ಆ ವಸ್ತು ಚಾಕುವಿನಂತೆ ಹರಿತವಾಗಿದೆ"",
+  ""Options"": [
+    ""ಆ ವಸ್ತು ಹರಿತವಿದೆ"",
+    ""ಆ ವಸ್ತು ಅರಿತವಾಗಿಲ್ಲ""
+  ],
+  ""Explanation"": ""This metaphor is implying that the object is sharp and",1,NG,0
+ಆ ವಸ್ತು ಪೆನ್ಸಿಲ್ ನಂತೆ ಹರಿತವಾಗಿದೆ,ಆ ವಸ್ತು ಹರಿತವಿದೆ,ಆ ವಸ್ತು ಅರಿತವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The object is compared to a pencil, emphasizing its green color. This implies that the object is green in color, similar to a pencil."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಪ್ರೀತಿ ತೋರಿಸುವಂತೆ ಅಕ್ರಮವಾಗಿದೆ,ಅದು ಅಕ್ರಮ,ಅದು ಅಕ್ರಮವಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor describes something being done aggressively or forcefully, similar to showing love forcefully."",
+  ""answer"": 0
+}",0,,0
+ಆ ವಸ್ತು ಕಲ್ಲಿನಂತೆ ಸೂಕ್ಷ್ಮವಾಗಿದೆ,ಆ ವಸ್ತು ಸೂಕ್ಷ್ಮವಾಗಿದೆ,ಆ ವಸ್ತು ಸೂಕ್ಷ್ಮವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the object to a stone, emphasizing its subtle nature. So, the closest meaning is that the object is subtle."",
+  ""answer"": 0
+}",0,,0
+ಆ ಘಟನೆಯು ಡಾನ್ಸ್ ಶೋನಷ್ಟು ಭಯಾನಕವಾಗಿತ್ತು,ಆ ಘಟನೆ ಭಯಾನಕವಾಗಿತ್ತು,ಆ ಘಟನೆ ಭಯಾನಕವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor compares the event to a dance show, implying that it was terrifying."",
+  ""Answer"": 0
+}",0,,0
+ಆ ಕಟ್ಟಡವು ಶಾಪಿಂಗ್ ಮಾಲ್ ನಂತೆ ಐತಿಹಾಸಿಕವಾಗಿದೆ,ಆ ಕಟ್ಟಡವು ಐತಿಹಾಸಿಕವಾಗಿದೆ,ಆ ಕಟ್ಟಡವು ಐತಿಹಾಸಿಕವಾಗಿಲ್ಲ,1,"{
+  ""answer"": 0
+}  
+
+Explanation: The metaphor comparing the building to a shopping mall suggests that the building is historically significant, just like how ancient shopping malls hold historical value. Therefore, the option ""ಆ ಕಟ್ಟಡವು ಐತಿಹಾಸಿಕವಾಗಿದೆ"" (The building is historically significant) is the closest meaning to the metaphor.",0,,0
+ಅದು ಚಿನ್ನದಂತೆ ಸಾಮಾನ್ಯವಾಗಿದೆ.,ಅದು ಸಾಮಾನ್ಯ,ಅದು ಸಾಮಾನ್ಯವಲ್ಲ,0,"{
+  ""Explanation"": ""The comparison is between something being as common as gold, implying that it is valuable and precious."",
+  ""Answer"": 1
+}",1,,0
+ಅದು  ಕೊಹಿನೂರ್ ವಜ್ರದಂತೆ ಸಾಮಾನ್ಯವಾಗಿದೆ.,ಅದು ಸಾಮಾನ್ಯ,ಅದು ಸಾಮಾನ್ಯವಲ್ಲ,1,"{
+  ""explanation"": ""ಕೊಹಿನೂರ್ ವಜ್ರವು ಅತ್ಯಂತ ವಿಶೇಷವಾದ ವಜ್ರ. ಆದ್ದರಿಂದ ಹೇಗೆ ಯಾವುದೇ ವಸ್ತು ಕೊಹಿನೂರ್ ವಜ್ರದಂತೆ",0,NG,0
+ಅವನು  ಚಾಲಕನಷ್ಟು ಕುತೂಹಲ ಭರಿತನಾಗಿದ್ದನು,ಅವನು ಕುತೂಹಲ ಭರಿತನಾಗಿದ್ದನು,ಅವನು ಕುತೂಹಲ ಭರಿತನಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the individual's curiosity to that of a driver's focus while driving, indicating that he was as curious as a driver is attentive while driving."",
+  ""answer"": 0
+}",0,,0
+ಅವರು ಕ್ರಿಮಿನಲ್ ನಂತೆ ಕ್ರೂರಿ ಆಗಿದ್ದರು,ಅವರು ಕ್ರೂರಿ,ಅವರು ಕ್ರೂರಿಯಲ್ಲ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The phrase ""ಅವರು ಕ್ರಿಮಿನಲ್ ನಂತೆ ಕ್ರೂರಿ ಆಗಿದ್ದರು"" is comparing the person to behave like a criminal. The metaphor is suggesting that the person was being cruel or wicked. Therefore, the closest meaning is ""ಅವರು ಕ್ರೂರಿಯಲ್ಲ"".",1,,0
+ಅವರು ಸನ್ಯಾಸಿಯಂತೆ ಕ್ರೂರಿ ಆಗಿದ್ದರು,ಅವರು ಕ್ರೂರಿ,ಅವರು ಕ್ರೂರಿಯಲ್ಲ,1,"{
+  ""Explanation"": ""Comparing someone to a cruel person like a monk suggests that they were acting cruelly, not that they are inherently cruel. It's about highlighting a specific behavior or action."",
+  ""Answer"": 0
+}",0,,0
+ಅದರ ಸದ್ದು  ಸಂಗೀತದಂತೆ ಜೋರಾಗಿತ್ತು,ಅದರ ಸದ್ದು ಜೋರಾಗಿತ್ತು,ಅದರ ಸದ್ದು ಜೋರಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the sound to music, emphasizing that it was loud and melodious."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಬೆಂಗಳೂರಿನಂತೆ ಐತಿಹಾಸಿಕ ನಗರ,ಅದು ಐತಿಹಾಸಿಕ ನಗರ,ಅದು ಐತಿಹಾಸಿಕ ನಗರವಲ್ಲ,1,"{
+  ""answer"": 0
+} 
+Explanation: In this metaphor, the comparison is being made between ""it"" and Bangalore, a historical city. Therefore, the option ""ಅದು ಐತಿಹಾಸಿಕ ನಗರ"" which directly translates to ""it is a historical city"" is the closest in meaning.",0,,0
+ಆ ವಸ್ತು ಹತ್ತಿಯಂತೆ ನಿರ್ಭಾರವಾಗಿದೆ,ಆ ವಸ್ತು ಭಾರವಿಲ್ಲ,ಆ ವಸ್ತು ಭಾರವಿದೆ,0,"{
+  ""explanation"": ""The metaphor mentions that something depends heavily on another, similar to how a person carrying something heavy is dependent on it. Therefore, the closest meaning is that the object has weight or significance."",
+  ""answer"": 1
+}",1,,0
+ಅವರ ಸ್ವಿಮ್ಮಿಂಗ್ ಪೂಲ್ ನಷ್ಟುಆಳವಾಗಿದೆ,ಅವರ ಜ್ಞಾನ ಆಳವಾಗಿದೆ,ಅವರ ಜ್ಞಾನ ಆಳವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""Swimming pool is deep, indicating a large amount of knowledge or experience"",
+  ""answer"": 0
+}",0,,0
+ಪ್ರಯಾಣ ದರವು ಫ್ಲೈಟ್ ಟಿಕೆಟ್ ನಷ್ಟು ಮಿತವ್ಯಯವಾಗಿತ್ತು,ಪ್ರಯಾಣದರ ಹಗ್ಗವಾಗಿತ್ತು,ಪ್ರಯಾಣದರ ದುಬಾರಿ ಯಾಗಿತ್ತು,1,"{
+  ""explanation"": ""The metaphor compares the cost of the flight ticket to a loss, so the meaning closer to the metaphor is option 0) ಪ್ರಯಾಣದರ ಹಗ್ಗವಾಗಿತ್ತು (the cost of the flight was like a burden)"",
+  ""answer"": 0
+}",0,,0
+ರಬ್ಬರ್ ಬ್ಯಾಂಡ್ ಸ್ಪ್ರಿಂಗ್ ನಂತೆ ಎಲಾಸ್ಟಿಕ್ ಹೊಂದಿದೆ.,ರಬ್ಬರ್ ಬ್ಯಾಂಡ್ ಹೆಚ್ಚು ಎಲಾಸ್ಟಿಕ್ ಹೊಂದಿದೆ,ರಬ್ಬರ್ ಬ್ಯಾಂಡ್ ಹೆಚ್ಚು ಎಲಾಸ್ಟಿಕ್ ಹೊಂದಿಲ್ಲ,0,"{
+  ""Startphrase"": ""ರಬ್ಬರ್ ಬ್ಯಾಂಡ್ ಸ್ಪ್ರಿಂಗ್ ನಂತೆ ಎಲಾಸ್ಟಿಕ್ ಹೊಂದಿದೆ."",
+  ""Options"": {
+    ""0"": ""ರಬ್ಬರ್ ಬ್ಯಾಂಡ್ ಹೆಚ್ಚು ಎಲಾಸ್",1,NG,0
+ರಬ್ಬರ್ ಬ್ಯಾಂಡ್ ದಾರದಂತೆ ಎಲಾಸ್ಟಿಕ್ ಹೊಂದಿದೆ.,ರಬ್ಬರ್ ಬ್ಯಾಂಡ್ ಹೆಚ್ಚು ಎಲಾಸ್ಟಿಕ್ ಹೊಂದಿದೆ,ರಬ್ಬರ್ ಬ್ಯಾಂಡ್ ಹೆಚ್ಚು ಎಲಾಸ್ಟಿಕ್ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""Comparing the elasticity of rubber bands to elastic bands, implying that it has more elasticity like a rubber band."",
+  ""answer"": 0
+}",0,,0
+ಈ ಕೆಲಸವು ಟೈಪಿಂಗ್ ನಂತೆ ಗೊಂದಲವಾಗಿದೆ,ಈ ಕೆಲಸ ಗೊಂದಲಮಯವಾಗಿದೆ,ಈ ಕೆಲಸ ಗೊಂದಲವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""Typing can be messy when done quickly, just like the task at hand"",
+  ""answer"": 0
+}",0,,0
+ರಾತ್ರಿಯ ಕತ್ತಲು ಹುಣ್ಣಿಮೆಯಂತೆ ಗಾಢವಾಗಿತ್ತು,ಕತ್ತಲು ಗಾಢವಾಗಿತ್ತು,ಕತ್ತಲು ಗಾಢವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the darkness of the night to the depth of darkness during a new moon night (ಹುಣ್ಣಿಮೆ). This implies that the darkness was very intense and profound."",
+  ""answer"": 0
+}",0,,0
+ಬೆಂಗಳೂರು ನಗರದಂತೆ ಕಡಿಮೆ ಮಾಲಿನ್ಯ ಹೊಂದಿದೆ,ಬೆಂಗಳೂರು ಕಡಿಮೆ ಮಾಲಿನ್ಯ ಹೊಂದಿದೆ,ಬೆಂಗಳೂರು ಕಡಿಮೆ ಮಾಲಿನ್ಯ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the cleanliness of something to the city of Bangalore. The meaning closest to the metaphor is that Bangalore has less pollution, so option 0) ಬೆಂಗಳೂರು ಕಡಿಮೆ ಮಾಲಿನ್ಯ ಹೊಂದಿದೆ."",
+  ""answer"": 0
+}",0,,0
+ಆ ಗ್ರಹವು ಶುಕ್ರ ಗ್ರಹದಂತೆ ವಾಸಿಸಬಹುದಾಗಿದೆ,ಆ ಗ್ರಹವು ವಾಸಿಸಲು ಯೋಗ್ಯ,ಆ ಗ್ರಹವು ವಾಸಿಸಲು ಯೋಗ್ಯವಲ್ಲ,1,"{
+  ""Explanation"": ""Comparing the planet to Venus means it is capable of hosting life due to its similarity to Venus."",
+  ""Answer"": 0
+}",0,,0
+ನಮ್ಮ ಹೊಲದ ಮಣ್ಣು ಮರುಭೂಮಿಯಂತೆ ಫಲವತ್ತಾಗಿದೆ,ನಮ್ಮ ಹೊಲದ ಮಣ್ಣು ಫಲವತ್ತಾಗಿದೆ,ನಮ್ಮ ಹೊಲದ ಮಣ್ಣು ಫಲವತ್ತಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""This metaphor suggests that the soil in our field is productive just like fertile land, making option 0 the closest in meaning."",
+  ""answer"": 0
+}",0,,0
+ನೀ ತಯಾರಿಸಿದ ಆಹಾರವು ಮನೆಯಲ್ಲಿ ಮಾಡಿದ ಆಹಾರದಂತೆ ಆರೋಗ್ಯಕರವಾಗಿದೆ,ನೀ ತಯಾರಿಸಿದ ಆಹಾರ ಆರೋಗ್ಯಕರವಾಗಿದೆ,ನೀ ತಯಾರಿಸಿದ ಆಹಾರ ಆರೋಗ್ಯಕರವಿಲ್ಲ,0,"{
+  ""Startphrase"": ""ನೀ ತಯಾರಿಸಿದ ಆಹಾರವು ಮನೆಯಲ್ಲಿ ಮಾಡಿದ ಆಹಾರದಂತೆ ಆರೋಗ್ಯಕರವಾಗಿದೆ"",
+  ""Options"": {
+    ""0"": ""ನೀ ತಯಾರಿಸಿದ ಆಹಾರ ಆ",1,NG,0
+ನೀ ತಯಾರಿಸಿದ ಆಹಾರವು ಹೋಟೆಲ್ ಆಹಾರದಂತೆ ಆರೋಗ್ಯಕರವಾಗಿದೆ,ನೀ ತಯಾರಿಸಿದ ಆಹಾರ ಆರೋಗ್ಯಕರವಾಗಿದೆ,ನೀ ತಯಾರಿಸಿದ ಆಹಾರ ಆರೋಗ್ಯಕರವಿಲ್ಲ,1,"{
+""error"": ""Explanation required""
+}",0,NG,0
+ಕಲ್ಲಂಗಡಿಯ ಆಕಾರ ನಿಂಬೆ ಹಣ್ಣಿನಂತೆ ದುಂಡಾಗಿದೆ,ಕಲ್ಲಂಗಡಿ ಆಕಾರ ದುಂಡಾಗಿದೆ,ಕಲ್ಲಂಗಡಿ ಆಕಾರ ದುಂಡಾಗಿಲ್ಲ,0,"{
+  ""explanation"": ""The comparison here is between the shape of a rock candy and the shape of a neem fruit. Neem fruit is long and cylindrical, resembling a rock candy. Hence, the intended meaning is that the shape of the object is like a neem fruit, not like a rock candy."",
+  ""answer"": 1
+}",1,,0
+ಕಲ್ಲಂಗಡಿಯ ಆಕಾರ  ಬಾಳೆಹಣ್ಣಿನಂತೆ ದುಂಡಾಗಿದೆ,ಕಲ್ಲಂಗಡಿ ಆಕಾರ ದುಂಡಾಗಿದೆ,ಕಲ್ಲಂಗಡಿ ಆಕಾರ ದುಂಡಾಗಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor compares the shape of something to the roundness of the bael fruit, indicating that it is very round and smooth."",
+  ""Answer"": 0
+}",0,,0
+ಈ ಕೆಲಸವು  ರಸ್ತೆಯಲ್ಲಿ ನಡೆದಷ್ಟು ಕಷ್ಟವಾಗಿದೆ,ಆ ಕೆಲಸವು ಕಷ್ಟ,ಆ ಕೆಲಸವು ಸುಲಭ,1,"{
+  ""explanation"": ""The metaphor implies that the task is difficult or challenging, similar to walking on a difficult road."",
+  ""answer"": 0
+}",0,,0
+ಆಟದ ಅವಧಿಯು ಫುಟ್ಬಾಲ್ ನಂತೆ ದೀರ್ಘವಾಗಿದೆ,ಆ ಆಟದ ಅವಧಿ ಹೆಚ್ಚು,ಆಟದ ಅವಧಿ ಕಡಿಮೆ,1,"{
+  ""explanation"": ""The metaphor is comparing the duration of the period of play to a football match, which is known to be lengthy."",
+  ""answer"": 0
+}",0,,0
+ನಿಂಬೆಹಣ್ಣು ಹುಣಸೇ ಹಣ್ಣಿನಂತೆ ಹುಳಿಯಾಗಿದೆ,ನಿಂಬೆಹಣ್ಣು ಉಳಿಯಾಗಿದೆ,ನಿಂಬೆಹಣ್ಣು ಉಳಿಯಾಗಿಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor compares the transformation of the bitter neem fruit into a sweet orange to emphasize a change in its nature. Therefore, the meaning closest to the metaphor is that the neem fruit has completely transformed into an orange, similar to a bitter fruit turning sweet."",
+  ""answer"": 1
+}",1,,0
+ನನ್ನ ತಮ್ಮ ಮಿಸ್ಟರ್ ಬೀನ್ ನಂತೆ ಡ್ಯಾನ್ಸ್ ಮಾಡುತ್ತಾನೆ,ನನ್ನ ತಮ್ಮ ಡ್ಯಾನ್ಸ್ ಮಾಡುತ್ತಾನೆ,ನನ್ನ ತಮ್ಮ ಡಾನ್ಸ್ ಮಾಡುವುದಿಲ್ಲ,1,"{
+  ""explanation"": ""This metaphor is comparing the person to Mr. Bean, known for his quirky and comical dancing. The closest meaning is that the person dances in a comical and unconventional manner like Mr. Bean, rather than not dancing at all."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ಕಾಗೆಯಂತೆ ತೀಕ್ಷ್ಣವಾದ ದೃಷ್ಟಿ ಹೊಂದಿದ್ದಾನೆ,ಅವನ ದೃಷ್ಟಿ ತೀಕ್ಷ್ಣವಾಗಿದೆ,ಅವನ ದೃಷ್ಟಿ ತೀಕ್ಷ್ಣವಾಗಿಲ್ಲ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares the person to an eagle, which is known for having sharp vision. Therefore, the meaning closer to the metaphor is that ""ಅವನ ದೃಷ್ಟಿ ತೀಕ್ಷ್ಣವಾಗಿದೆ"" which translates to ""his vision is sharp"".",0,,0
+ಆ ಪ್ರಾಣಿಯು ನಾಯಿಯಂತೆ ಕನ್ನಿಂಗ್ ಗುಣ ಹೊಂದಿದೆ,ಆ ಪ್ರಾಣಿಯು ಕನ್ನಿಂಗ್ ಗುಣ ಹೊಂದಿದೆ,ಆ ಪ್ರಾಣಿಯು ಕನ್ನಿಂಗ್ ಗುಣ ಹೊಂದಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor is comparing the animal to a dog, implying that the animal is loyal, faithful, and protective just like a dog is known for these qualities."",
+  ""Answer"": 0
+}",0,,0
+ನನ್ನ ಮುದ್ದಿನ ಬೆಕ್ಕು ನರಿಯಂತೆ ಪ್ರಾಮಾಣಿಕವಾಗಿದೆ,ನನ್ನ ಮುದ್ದಿನ ಬೆಕ್ಕು ಪ್ರಾಮಾಣಿಕವಾಗಿದೆ,ನನ್ನ ಮುದ್ದಿನ ಬೆಕ್ಕು ಪ್ರಾಮಾಣಿಕವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the sincerity of the speaker's friend to that of a dog. The closest meaning is that the speaker's friend is as sincere as his dog."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ನರಿಯಂತೆ ಧೈರ್ಯಶಾಲಿಯಾಗಿದ್ದಾನೆ,ಅವನು ಧೈರ್ಯಶಾಲಿ,ಅವನು ಧೈರ್ಯಶಾಲಿ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, comparing someone to a lion typically implies that they are brave and courageous. Option 0) correctly interprets this comparison by stating that he is brave. Option 1) simply repeats the same adjective without capturing the essence of the metaphor.",0,,0
+ಆ ಪ್ರಾಣಿಯು ಜಿಂಕೆಯಂತೆ ಶಕ್ತಿಶಾಲಿಯಾಗಿದೆ,ಆ ಪ್ರಾಣಿ ಶಕ್ತಿಶಾಲಿ,ಆ ಪ್ರಾಣಿ ಶಕ್ತಿಶಾಲಿ,1,"{
+  ""explanation"": ""Comparing the animal to a strong creature like a lion indicates that the animal is powerful."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ಗಿಣಿಯಂತೆ ರಾತ್ರಿ ಇಡೀ ಎಚ್ಚರ ಇರುತ್ತಾನೆ,ಅವನು ರಾತ್ರಿ ಇಡೀ ಎಚ್ಚರವಿರುತ್ತಾನೆ,ಅವನು ಇಡೀ ರಾತ್ರಿ ಎಚ್ಚರವಿರುವುದಿಲ್ಲ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares someone to a vigilant owl, emphasizing their alertness throughout the entire night. Option 0 reflects this meaning by stating that the person remains alert throughout the entire night. Option 1, on the other hand, suggests the person is not vigilant the entire night, which does not align with the metaphor.",0,,0
+ಅವನು ಕೋಪದಲ್ಲಿ ಐಸ್ನಂತೆ ಉರಿಯುತ್ತಿದ್ದ,ಅವನು ಕೋಪದಲ್ಲಿ ಉರಿಯುತ್ತಿದ್ದ,ಅವನು ಶಾಂತಿಯಿಂದ ಇದ್ದನು,1,"{
+  ""explanation"": ""The metaphor compares the person to ice melting in anger, implying that the person was burning with anger."",
+  ""answer"": 0
+}",0,,0
+ಅವಳು ಪ್ರಾಣಿಯಂತೆ ಬಹು ಎತ್ತರ ಹಾರುತ್ತಾಳೆ,ಅವಳು ಎತ್ತರ ಹಾರುತ್ತಾಳೆ,ಅವಳು ಎತ್ತರ ಹಾರುವುದಿಲ್ಲ,1,"{
+  ""Explanation"": ""Comparing her to an animal jumping high signifies that she achieves great heights or success."",
+  ""Answer"": 0
+}",0,,0
+ಈ ಪ್ರಾಣಿಯು ನಾಯಿ ಅಂತೆ ಗರ್ಜಿಸುತ್ತದೆ,: ಆ ಪ್ರಾಣಿಯ ಘರ್ಜಿಸುತ್ತದೆ,ಆ ಪ್ರಾಣಿ ಘರ್ಜಿಸುವುದಿಲ್ಲ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares the sound of the animal to that of a dog, emphasizing the loudness and intensity of the noise. Option 0) reflects this comparison closely by stating that the animal roars like a dog, capturing the essence of the metaphor. Option 1) does not align with the metaphor as it states that the animal does not growl, which is not in line with the comparison being made in the metaphor.",0,,0
+ದೋಸೆಯು ಸ್ಯಾಂಡ್ವಿಚ್ನಷ್ಟೇ ಪ್ರಸಿದ್ಧ ಉಪಹಾರವಾಗಿದೆ,ದೋಸೆ ಪ್ರಸಿದ್ಧ ಉಪಹಾರ,ದೋಸೆ ಪ್ರಸಿದ್ಧ ಉಪಹಾರವಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing dosa to a popular snack, indicating that dosa is also a well-known dish."",
+  ""answer"": 0
+}",0,,0
+ಈ ಪ್ರದೇಶವು ಡ್ಯಾಮ್ ನಂತೆ ಜಾಸ್ತಿ ನೀರನ್ನು ಹಿಡಿಯಬಲ್ಲದು,ಆ ಪ್ರದೇಶ ಹೆಚ್ಚು ನೀರು ಹಿಡಿಯಬಲ್ಲದು,"ಆ ಪ್ರದೇಶ ಹೆಚ್ಚು ನೀರು ಹಿಡಿಯಲಾರದು,",0,"{
+  ""explanation"": ""Diamonds are known for their ability to repel water, not absorb it."",
+  ""answer"": 1
+}",1,,0
+ಈ ಪ್ರದೇಶವು ಟ್ಯಾಂಕ್ ನಂತೆ ಜಾಸ್ತಿ ನೀರನ್ನು ಹಿಡಿಯಬಲ್ಲದು,ಆ ಪ್ರದೇಶ ಹೆಚ್ಚು ನೀರು ಹಿಡಿಯಬಲ್ಲದು,"ಆ ಪ್ರದೇಶ ಹೆಚ್ಚು ನೀರು ಹಿಡಿಯಲಾರದು,",1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, the comparison is made between the area and a tank, indicating that the area can hold more water like a tank. Therefore, the meaning closest to the metaphor is option 0) ಆ ಪ್ರದೇಶ ಹೆಚ್ಚು ನೀರು ಹಿಡಿಯಬಲ್ಲದು (that area can hold more water).",0,,0
+ಜೀವಿಗಳು ಸಮುದ್ರದಲ್ಲಿ ಹೆಚ್ಚು ವಾಸಿಸುತ್ತವೆ.,ಸಮುದ್ರದಲ್ಲಿ ಹೆಚ್ಚು ಜೀವಿಗಳು ವಾಸಿಸುತ್ತವೆ,ಸಮುದ್ರದಲ್ಲಿ ಕಡಿಮೆ ಜೀವಿಗಳು ವಾಸಿಸುತ್ತವೆ,0,"{
+""error"": ""Please provide the answer explanation first""
+}",1,NG,0
+ಜೀವಿಗಳು ಬಾವಿಯಲ್ಲಿ ಹೆಚ್ಚು ವಾಸಿಸುತ್ತವೆ.,ಸಮುದ್ರದಲ್ಲಿ ಹೆಚ್ಚು ಜೀವಿಗಳು ವಾಸಿಸುತ್ತವೆ,ಸಮುದ್ರದಲ್ಲಿ ಕಡಿಮೆ ಜೀವಿಗಳು ವಾಸಿಸುತ್ತವೆ,1,"{
+""Explanation"": ""This metaphor is comparing living beings residing in a well to living beings residing in the ocean. The well symbolizes limited knowledge or experience, while the ocean symbolizes vast knowledge or experience. Thus, the closest meaning to the metaphor is that more living beings reside in the well (limited knowledge or experience) than in the ocean (vast knowledge or experience)."",
+""Answer"": 0
+}",0,,0
+ಆ ನೀರು ನಲ್ಲಿ ನೀರಿನಂತೆ ಉಪ್ಪಾಗಿದೆ,ಆ ನೀರು ಉಪ್ಪಾಗಿದೆ,ಆ ನೀರು ಉಪ್ಪಾಗಿಲ್ಲ,1,"{
+	""Explanation"": ""This metaphor implies that the situation is problematic or has become unpleasant, similar to how salty water is not suitable for drinking. It is not stating that the water itself has become salty."",
+	""Answer"": 0
+}",0,,0
+ಆ ಹುಡುಗನು ಆನೆಯಂತೆ ಹಾರುತ್ತಾನೆ,ಆ ಹುಡುಗ ಹಾರುತ್ತಾನೆ,ಆ ಹುಡುಗ ಹಾರುವುದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the boy to an elephant, emphasizing the way he moves or behaves"",
+  ""answer"": 0
+}",0,,0
+ಅವನು ಕೈಲೆಕ್ಕದಂತೆ ತುಂಬಾ ವೇಗ,ಅವನು ತುಂಬಾ ವೇಗ,ಅವನು ನಿಧಾನ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: This metaphor is comparing someone to filling up a container quickly, implying that the person is very fast in their actions. Therefore, the closest meaning would be ""ಅವನು ತುಂಬಾ ವೇಗ"" which means ""he is very fast"".",0,,0
+ಆ ಜಾಗವು ಸುರಂಗದಂತೆ ಎತ್ತರವಾಗಿತ್ತು,ಆ ಜಾಗ ಎತ್ತರದಲ್ಲಿದೆ,ಆ ಜಾಗ ಎತ್ತರದಲ್ಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the place to a tunnel, suggesting that it was high or elevated."",
+  ""answer"": 0
+}",0,,0
+ಈ ತಿನಿಸು ಕೇಕ್ನಂತೆ ಗಟ್ಟಿಯಾಗಿತ್ತು,ಈ ತಿನಿಸು ಗಟ್ಟಿಯಾಗಿದೆ,ಈ ತಿನ್ನಿಸು ಗಟ್ಟಿ ಇಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the hardness of the cake, so the correct meaning is 'ಈ ತಿನಿಸು ಗಟ್ಟಿಯಾಗಿದೆ'."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಸೋಪ್ ನಂತೆ ನಯವಾಗಿತ್ತು,ಸೋಪ್ ನಷ್ಟು ನಯವಾಗಿತ್ತು,ಸೋಪ್ ನಷ್ಟು ನಯವಾಗಿಲ್ಲ,0,"{
+  ""explanation"": ""The comparison is being made to soap, implying that it was gentle."",
+  ""answer"": 1
+}",1,,0
+ಆತನನ್ನು ಕಂಡಾಗ ಉಗ್ರಗಾಮಿಯನ್ನುನೋಡಿದಷ್ಟು ಹೆಮ್ಮೆಯಾಗುತಿತ್ತು,ಆತನನ್ನು ನೋಡಿದಾಗ ಹೆಮ್ಮೆಯಾಗುತ್ತದೆ,ಆತನನ್ನು ನೋಡಿದಾಗ ಹೆಮ್ಮೆ ಆಗುವುದಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor is comparing the feeling of pride upon seeing someone to the fierceness of a warrior. The correct option is one that retains the comparison made in the metaphor."",
+  ""Answer"": 0
+}",0,,0
+ಆ ವಸ್ತುವು ತಾಮ್ರದಂತೆ ಸೂಕ್ಷ್ಮವಾಗಿತ್ತು,ಆ ವಸ್ತು ತುಂಬಾ ಸೂಕ್ಷ್ಮ,ಆ ವಸ್ತು ತುಂಬಾ ಗಟ್ಟಿ,1,"{
+  ""explanation"": ""The comparison is between the object and copper, suggesting that the object was delicate and intricate like copper."",
+  ""answer"": 0
+}",0,,0
+ಆ ಖಾದ್ಯವು ರಸ್ತೆ ಬದಿಯ ತಿಂಡಿಯಂತೆ ಶುಚಿಯಾಗಿತ್ತು,ಖಾದ್ಯವು ಶುಚಿಯಾಗಿತ್ತು,ಖಾದ್ಯವು ಶುಚಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the cleanliness of the food to the cleanliness of street food, implying it was clean."",
+  ""answer"": 0
+}",0,,0
+ಆ ಅಡುಗೆಯು ಪಾಸ್ತದಂತೆ ಆರೋಗ್ಯಕರವಾಗಿತ್ತು,ಅಡುಗೆ ಆರೋಗ್ಯಕರವಾಗಿತ್ತು,ಅಡುಗೆಯ ಅನಾರೋಗ್ಯಕರವಾಗಿತ್ತು,1,"{
+  ""explanation"": ""The metaphor compares the blanket to a bed of health, indicating that the blanket was warm, comforting, and conducive to good health."",
+  ""answer"": 0
+}",0,,0
+ಈ ತಿನಿಸು ಮಾವಿನ ಹಣ್ಣಿನಂತೆ ಸಿಹಿಯಾಗಿದೆ,ಈ ತಿನಿಸು ಸಿಹಿಯಾಗಿದೆ,ಈ ತಿನಿಸು ಸಿಹಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the taste of the food to the sweetness of a mango fruit."",
+  ""answer"": 0
+}",0,,0
+ಈ ಜಾಗವು ಮನೆಯ ಟ್ಯಾಂಕ್ ನಂತೆ ಆಳವಾಗಿದೆ,ಆ ಜಾಗವು ಆಳವಾಗಿದೆ,ಆ ಜಾಗವು ಆಳವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the depth of the place to a house tank, implying that the place is deep."",
+  ""answer"": 0
+}",0,,0
+ಈ ಮೀನು ತಿಮಿಂಗಲದಂತೆ ಬೃಹದಾಕಾರವಾಗಿದೆ,ಆ ಮೀನಿನ ಆಕಾರ ಬೃಹದಾಕಾರ,ಆ ಮೀನಿನಾಕಾರ ಸಣ್ಣದು,1,"{
+  ""explanation"": ""The metaphor compares the shape of the fish to the shape of a whale, emphasizing largeness. Therefore, the meaning closest to the metaphor is that the shape of the fish is big like a whale."",
+  ""answer"": 0
+}",0,,0
+ಅವನ ಗೆಲುವು ಬೆಲ್ಲದಂತೆ ಇತ್ತು,ಅವನ ಗೆಲುವು ಸಿಹಿಯಾಗಿತ್ತು,ಅವನ ಗೆಲುವು ಸಿಹಿಯಾಗಿರಲಿಲ್ಲ,0,"{
+	""Startphrase"": ""ಅವನ ಗೆಲುವು ಬೆಲ್ಲದಂತೆ ಇತ್ತು"",
+	""Options"": {
+		""0"": ""ಅವನ ಗೆಲುವು ಸಿಹಿಯಾಗಿತ್ತು"",
+		""1"": ""ಅವನ ಗೆಲುವು ಸಿಹಿಯಾಗಿರ",1,NG,0
+ಅವನ ಗೆಲುವು ಬೇವಿನಂತೆ ಇತ್ತು,ಅವನ ಗೆಲುವು ಸಿಹಿಯಾಗಿತ್ತು,ಅವನ ಗೆಲುವು ಸಿಹಿಯಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the victory to a berry, implying that it was sweet and enjoyable."",
+  ""answer"": 0
+}",0,,0
+ಅವನ ಧೈರ್ಯವು ರಾಣಿ ಚೆನ್ನಮ್ಮನಂತೆ ಇತ್ತು,ಉತ್ತರ ಕುಮಾರನ ಧೈರ್ಯ ಮೆಚ್ಚುವಂಥದ್ದು,ಉತ್ತರ ಕುಮಾರನ ಧೈರ್ಯ ಮೆಚ್ಚುವಂಥದ್ದಲ್ಲ,1,"{
+  ""explanation"": ""Comparing someone's courage to 'Queen Chennamma' is meant to imply that the person's bravery is commendable and remarkable."",
+  ""answer"": 0
+}",0,,0
+ಆ ತಿಂಡಿಯು ಪಫ್ ನಂತೆ ಚಪ್ಪಟ್ಟೆಯಾಗಿತ್ತು,ಆ ತಿಂಡಿಯು ಚಪ್ಪಟ್ಟೆಯಾಗಿತ್ತು,ಆ ತಿಂಡಿಯು ಚಪ್ಪಟ್ಟೆಯಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the food to a papad, indicating that the food was crispy and crunchy like a papad."",
+  ""answer"": 0
+}",0,,0
+ಅವರು ನೀಡಿದ್ದ ನೀರು ಬಾವಿಯ ನೀರಿನಂತೆ ಉಪ್ಪಾಗಿತ್ತು,ಅವರು ನೀಡಿದ ನೀರಿನ ರುಚಿ ಉಪ್ಪಾಗಿತ್ತು,ಅವರು ನೀಡಿದ ನೀರಿನ ರುಚಿ ಉಪ್ಪಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the taste of the water to that of well water, so the correct option is that the taste of the water given by them was salty."",
+  ""answer"": 0
+}",0,,0
+ಅದು ತಣ್ಣನೆಯ ತಂಗಾಳಿಯಂತೆ  ಬಿಸಿಯಾಗಿತ್ತು,ಅದು ತುಂಬಾ ಬಿಸಿಯಾಗಿತ್ತು,ಅದು ತಣ್ಣಗಿತ್ತು,0,"{
+  ""explanation"": ""The phrase describes something as being very cool and refreshing like a gentle breeze, which indicates that it was not hot or warm."",
+  ""answer"": 1
+}",1,,0
+ಅದು ಬಿರುಗಾಳಿಯಂತೆ ಬಿಸಿಯಾಗಿತ್ತು,ಅದು ತುಂಬಾ ಬಿಸಿಯಾಗಿತ್ತು,ಅದು ತಣ್ಣಗಿತ್ತು,1,"{
+  ""explanation"": ""The metaphor is comparing something to a strong wind, so the closest meaning would be 'It was very hot like a strong wind'"",
+  ""answer"": 0
+}",0,,0
+ಆಕೆ ಮಾಡೆಲ್ ನಂತೆ ಆಲಂಕಾರ ಮಾಡಿಕೊಂಡಿದ್ದಳು,ಆಕೆ ಹೆಚ್ಚು ಅಲಂಕಾರ ಮಾಡಿಕೊಂಡಿದ್ದಳು,ಆಕೆ ಕಡಿಮೆ ಅಲಂಕಾರ ಮಾಡಿದ್ದಳು,0,"{
+  ""answer"": 1
+}
+
+Explanation: In this metaphor, the comparison is between the act of dressing up and modeling. When someone models clothing, they showcase it in a way that is striking and attention-grabbing - just like how someone might dress up with a lot of accessories and embellishments. Therefore, the meaning closest to the metaphor is that she dressed up with fewer accessories, option 1.",1,,0
+ಆ ಪ್ರಾಣಿಯು  ಕಪ್ಪೆಯಂತೆ ಅತಿಯಾದ ನಿದ್ರೆ ಮಾಡುತ್ತಿತ್ತು,ಆ ಪ್ರಾಣಿ ಕಡಿಮೆ ನಿದ್ದೆ ಮಾಡುತ್ತಿತ್ತು,ಆ ಪ್ರಾಣಿ ಕಡಿಮೆ ನಿದ್ದೆ ಮಾಡುತ್ತಿತ್ತು,1,"{
+  ""error"": ""No explanation provided""
+}",0,NG,0
+ಆ ಹೆಂಗಸು ಶೂರ್ಪಣಕಿಯಂತೆ ಸುಂದರವಾಗಿದ್ದಳು,ಆ ಹೆಂಗಸು ಸುಂದರವಾಗಿದ್ದಳು,ಆ ಹೆಂಗಸು ಕುರೂಪಿಯಾಗಿದ್ದಳು,1,"{
+  ""explanation"": ""The metaphor compares the woman to a beautiful weapon, emphasizing her beauty and strength."",
+  ""answer"": 0
+}",0,,0
+ಆ ಚಾದರವು ಗಟ್ಟಿ ನೆಲದಂತೆ ಮೃದುವಾಗಿತ್ತು,ಆ ಚಾದರ ಮೃದುವಾಗಿತ್ತು,ಆ ಚಾದರ ಮೃದುವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the firm ground to something soft, so the closest meaning is option 0 - ಆ ಚಾದರ ಮೃದುವಾಗಿತ್ತು (the ground was soft)"",
+  ""answer"": 0
+}",0,,0
+ಅದು ಕೆರೆಯಂತೆ ಅಗಲವಾಗಿತ್ತು,ಆ ಜಾಗದ ಅಗಲವಾಗಿತ್ತು,ಆ ಜಾಗ ಅಗಲವಾಗಿರಲಿಲ್ಲ,0,"{
+""Explanation"": ""This metaphor compares something to a dam, which is something that is contained or blocked. In this context, 'ಅದು ಕೆರೆಯಂತೆ ಅಗಲವಾಗಿತ್ತು' suggests that the thing was contained or restricted like a dam."",
+""Answer"": 1
+}",1,,0
+ಅದು ನದಿಯಂತೆ  ಅಗಲವಾಗಿತ್ತು,ಆ ಜಾಗದ ಅಗಲವಾಗಿತ್ತು,ಆ ಜಾಗ ಅಗಲವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""ಅದು ನದಿಯಂತೆ ಅಗಲವಾಗಿತ್ತು"" compares the subject to a river flowing smoothly, suggesting motion and fluidity. Option 0) ""ಆ ಜಾಗದ ಅಗಲವಾಗಿತ್ತು"" is closest in meaning as it refers to the smooth flow or movement of the subject similar to a river. Option 1) ""ಆ ಜಾಗ ಅಗಲ",0,,0
+ಆ ಆಟವು  ನಡಿಗೆಯಂತೆ ರೋಚಕವಾಗಿತ್ತು,ಆಟ ರೋಚಕವಾಗಿತ್ತು,ಆಟ ರೋಚಕವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the game to a dance, emphasizing the excitement and liveliness of the game. This implies that the game was exciting, like a dance."",
+  ""answer"": 0
+}",0,,0
+ಆ ವ್ಯಕ್ತಿಯು ಹಾಸ್ಯಗಾರನಂತೆ ತಮಾಷೆಯಾಗಿದ್ದನು,ಆ ವ್ಯಕ್ತಿ ತಮಾಷೆ ಮಾಡುತ್ತಿದ್ದ,ಆ ವ್ಯಕ್ತಿ ತಮಾಷೆ ಮಾಡುತ್ತಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the person to a comedian, implying that the person was entertaining others with jokes or humor."",
+  ""answer"": 0
+}",0,,0
+ಇದು  ಸೂಪ್ ನಂತೆ ತಣ್ಣಗಿತ್ತು,ಆ ವಸ್ತು ತಣ್ಣಗಿತ್ತು,ಆ ವಸ್ತು ತಣ್ಣಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares something to a cool soup, indicating that the object was refreshing or pleasant."",
+  ""answer"": 0
+}",0,,0
+ಅದು ದೋಸೆಯಂತೆ ಗರಿಗರಿಯಾಗಿತ್ತು,ಅದು ಗರಿಗರಿಯಾಗಿತ್ತು,ಅದು ಗರಿಗರಿಯಾಗಿರಲಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor compares the situation to a dosa, which is a South Indian dish that is crispy and makes crackling sounds when cooked. Therefore, the intended meaning is that it was crispy and crackling, similar to the texture and sound of a dosa."",
+  ""Answer"": 0
+}",0,,0
+ಅವಳು ಹಾಕಿದ್ದ ಒಡವೆಯು ವಜ್ರದಂತೆ ಗಟ್ಟಿಯಾಗಿತ್ತು,ಅವಳ ಒಡವೆ ತುಂಬಾ ಗಟ್ಟಿ ಇತ್ತು,ಅವಳ ಒಡವೆ ತುಂಬಾ ಟಳ್ಳಾಗಿತ್ತು,1,"{
+  ""explanation"": ""The metaphor compares the strength of the thread to a diamond, implying that it was very strong."",
+  ""answer"": 0
+}",0,,0
+ಆಕೆಯ ಉಡುಪು ಬಿಳಿ ಹಲಗೆಯಂತೆ ಆಕರ್ಷಕ ಬಣ್ಣಗಳಿಂದ ಕೂಡಿತ್ತು,ಆಕೆಯ ಉಡುಪು ಆಕರ್ಷಕ ಬಣ್ಣಗಳಿಂದ ಕೂಡಿತ್ತು,ಆಕೆಯ ಉಡುಪು ಆಕರ್ಷಕ ಬಣ್ಣಗಳನ್ನು ಹೊಂದಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the colors of her dress to a rainbow, emphasizing the attractiveness of the colors. Option 0 reflects this comparison closely, stating that her dress was filled with attractive colors."",
+  ""answer"": 0
+}",0,,0
+ಈ ಮನೆಯು ಹಳೆಯ ಸ್ಮಾರಕದಂತೆ ಹಳೆಯದು,ಆ ಮನೆ ಹಳೆಯದು,ಆ ಮನೆ ಹೊಸದು,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares the house to an old monument, indicating that the house is old and reminiscent of the past. Therefore, the closest option is ""ಆ ಮನೆ ಹಳೆಯದು"" which means ""That house is old.""",0,,0
+ಆತ ಮಾತನಾಡುವುದು ಜೋರುಮಾತಿನಂತೆ ಕರ್ಕಶವಾಗಿದೆ,ಆತ ಮಾತನಾಡುವುದು ಕರ್ಕಶವಾಗಿದೆ,ಆತ ಮಾತಾಡುವುದು ಇಂಪಾಗಿದೆ,1,"{
+  ""explanation"": ""The metaphor is comparing the person's speech to sharp words, not passionate words. Therefore, the closest meaning is that his speech is harsh."",
+  ""answer"": 0
+}",0,,0
+ಅಂದು ಅಮಾವಾಸ್ಯೆಯ ದಿನದಂತೆ ಕಗ್ಗತ್ತಲು ಕವಿದಿತ್ತು,ಅಂದು ಕಗ್ಗತ್ತಲು ಕವಿದಿತ್ತು,ಅಂದು ಕಗ್ಗತ್ತಲು ಕವಿದಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the darkness of the new moon day to the darkness that had enveloped the situation on that day, implying that the situation was grim or sorrowful."",
+  ""answer"": 0
+}",0,,0
+ಅವನು  ಶಿಶುವಿನಂತೆ ಕಿರಿಯವನಾಗಿದ್ದಾನೆ,ಅವನು ಕಿರಿಯವನಾಗಿದ್ದಾನೆ,ಅವನು ಕಿರಿಯವನಾಗಿಲ್ಲ,0,"{
+  ""input"": ""ಅವನು ಶಿಶುವಿನಂತೆ ಕಿರಿಯವನಾಗಿದ್ದಾನೆ"",
+  ""option0"": ""ಅವನು ಕಿರಿಯವನಾಗಿದ್ದಾನೆ"",
+  ""option1"": ""ಅವನು ಕಿರಿಯವನಾಗಿಲ",1,NG,0
+ಆತನ ದಿರಿಸು ಭಿಕ್ಷುಕನಂತೆ ಶುಚಿಯಾಗಿತ್ತು,ಆತನ ದಿರಿಸು ಶುಚಿಯಾಗಿತ್ತು,ಆತನ ದಿರಿಸು ಶುಚಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""Comparing someone's actions to that of a beggar who keeps himself clean"",
+  ""answer"": 0
+}",0,,0
+ಆ ತಿಂಡಿಯು ಬ್ರೆಡ್ ನಂತೆ ತೆಳುವಾಗಿತ್ತು,ಆ ತಿಂಡಿಯು ತೆಳುವಾಗಿತ್ತು,ಆ ತಿಂಡಿಯು ತೆಳುವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the texture of the food to that of bread, implying it was soft."",
+  ""answer"": 0
+}",0,,0
+ಆ ಜಾಗವು  ಭೂಮಿಯಂತೆ ಎತ್ತರವಾಗಿತ್ತು,ಆ ಜಾಗವು ಎತ್ತರವಾಗಿತ್ತು,ಆ ಜಾಗವು ಎತ್ತರವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the height of the place to the height of the ground, implying that the place was elevated."",
+  ""answer"": 0
+}",0,,0
+ಅದರ ಆಕಾರವು ವೃತ್ತದಂತೆ ವಕ್ರವಾಗಿದೆ,ಅದರ ಆಕಾರವು ವಕ್ರವಾಗಿದೆ,ಅದರ ಆಕಾರವು ವಕ್ರವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor mentions the shape being curved like a circle, implying that it is not straight."",
+  ""answer"": 0
+}",0,,0
+ಅದು ದೋಣಿಯಷ್ಟು ದೊಡ್ಡದಾಗಿದೆ,ಅದು ದೊಡ್ಡದಾಗಿದೆ,ಅದು ದೊಡ್ಡದಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing something to the size of a boat. The closest meaning is that it is big."",
+  ""answer"": 0
+}",0,,0
+ಆಕೆಯ ರಾಗವುನೃತ್ಯಗಾರನಷ್ಟುಇಂಪಾಗಿದೆ,ಆಕೆಯ ರಾಗವು ಇಂಪಾಗಿದೆ,ಆಕೆಯ ರಾಗವು ಇಂಪಾಗಿಲ್ಲ,1,"{
+""Explanation"": ""The metaphor compares her anger to a dancer, indicating that it is lively and intense."",
+""Answer"": 0
+}",0,,0
+ಈ ವಾಹನವು ಎತ್ತಿನಗಾಡಿಯಂತೆ ವೇಗವಾಗಿದೆ,ಈ ವಾಹನವು ವೇಗವಾಗಿದೆ,ಈ ವಾಹನವು ವೇಗವಾಗಿಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor is comparing the speed of the vehicle to a bullock cart, which is slow. Therefore, the closest meaning is that the vehicle is not fast, similar to a bullock cart."",
+  ""answer"": 1
+}",1,,0
+ಈ ವಾಹನವು ಜೆಟ್ ನಂತೆ ವೇಗವಾಗಿದೆ,ಈ ವಾಹನವು ವೇಗವಾಗಿದೆ,ಈ ವಾಹನವು ವೇಗವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the vehicle to a jet, which is known for its speed. So, the closest meaning is that the vehicle is fast."",
+  ""answer"": 0
+}",0,,0
+ಇವನು  ವಯಸ್ಕನಷ್ಟು ಖುಷಿಯಾಗಿದ್ದಾನೆ,ಇವನು ಖುಷಿಯಾಗಿದ್ದಾನೆ,ಇವನು ಖುಷಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The phrase describes someone as happy as an adult, implying that the person is truly happy."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ಇರುವೆಯಂತೆ ದೊಡ್ಡದಾಗಿದ್ದಾನೆ,ಅವನು ದೊಡ್ಡದಾಗಿದ್ದಾನೆ,ಅವನು ದೊಡ್ಡದಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the person to a ship, suggesting that the person is large or prominent in a certain context."",
+  ""answer"": 0
+}",0,,0
+ಆಕೆ ದೆವ್ವದಂತೆ ಪೂಜ್ಯನೀಯವಾಗಿರುವಳು,ಆಕೆ ಪೂಜ್ಯನೀಯವಾಗಿರುವಳು,ಆಕೆ ಪೂಜ್ಯನೀಯವಾಗಿಲ್ಲ,1,"{
+  ""Explanation"": ""Comparing someone to a deity is a form of praise, suggesting they are respected and revered."",
+  ""Answer"": 0
+}",0,,0
+ಆ ಕಟ್ಟಡವು ಗುಡಿಸಲಿನಂತೆ ಐಷಾರಾಮಿಯಾಗಿದೆ,ಆ ಕಟ್ಟಡವು ಐಷಾರಾಮಿಯಾಗಿದೆ,ಆ ಕಟ್ಟಡವು ಐಷಾರಾಮಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the building to a palace, implying that the building is luxurious and comfortable like a palace."",
+  ""answer"": 0
+}",0,,0
+ಈ ಹಣ್ಣು ಸೀಬೆಯಂತೆ ರಸಮಯವಾಗಿದೆ,ಈ ಹಣ್ಣು ರಸಮಯವಾಗಿದೆ,ಈ ಹಣ್ಣು ರಸಮಯವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the fruit to a sieve, indicating that it is juicy and full of flavor just like a sieve is filled with liquid. Option 0 reflects this comparison closely."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ಭಿಕ್ಷುಕನಂತೆ ಶ್ರೀಮಂತ,ಅವನು ಶ್ರೀಮಂತ,ಅವನು ಶ್ರೀಮಂತನಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor compares the person to a beggar but implies that they are actually wealthy. This means that the person is wealthy despite appearing like a beggar."",
+  ""Answer"": 0
+}",0,,0
+ಆ ಎಣ್ಣೆ ಹರಳೆಣ್ಣೆಯಷ್ಟು ಸ್ನಿಗ್ಧವಾಗಿದೆ,ಆ ಎಣ್ಣೆ ಸ್ನಿಗ್ಧವಾಗಿದೆ,ಆ ಎಣ್ಣೆ ಸ್ನಿಗ್ಧವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the smoothness of the oil to butter, implying it is very smooth."",
+  ""answer"": 0
+}",0,,0
+ಶಕ್ತಿಯು ವಿದ್ಯುತ್ ಶಕ್ತಿಯಂತೆ ಅನಿಯಮಿತವಾಗಿದೆ,ಶಕ್ತಿಯು ಅನಿಯಮಿತವಾಗಿದೆ,ಶಕ್ತಿಯು ಅನಿಯಮಿತವಾಗಿಲ್ಲ,1,"{
+  ""Explanation"": ""Electricity is unpredictable like electrical power."",
+  ""Answer"": 0
+}",0,,0
+ಅವನು ನಾಯಿಯಂತೆ ಪ್ರಾಮಾಣಿಕ ಗುಣ ಹೊಂದಿದ್ದನು.,ಅವನು ಪ್ರಾಮಾಣಿಕ ಗುಣ ಹೊಂದಿದ್ದನು.,ಅವನು ಪ್ರಾಮಾಣಿಕ ಗುಣ ಹೊಂದಿಲ್ಲ,0,"{
+  ""Startphrase"": ""ಅವನು ನಾಯಿಯಂತೆ ಪ್ರಾಮಾಣಿಕ ಗುಣ ಹೊಂದಿದ್ದನು."",
+  ""Options"": {
+    ""0"": ""ಅವನು ಪ್ರಾಮಾಣಿಕ ಗುಣ ಹೊಂದಿದ್ದನು."",
+    ""1"": ""ಅವನ",1,NG,0
+ಅವನು ನರಿಯಂತೆ ಪ್ರಾಮಾಣಿಕ ಗುಣ ಹೊಂದಿದ್ದನು.,ಅವನು ಪ್ರಾಮಾಣಿಕ ಗುಣ ಹೊಂದಿದ್ದನು.,ಅವನು ಪ್ರಾಮಾಣಿಕ ಗುಣ ಹೊಂದಿಲ್ಲ,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor compares the person to a lion, which is known for its honesty and strength. So, the meaning closest to the metaphor is that he possessed honest qualities.""
+}",0,,0
+ಆಕೆ ಸಾಮಾನ್ಯ ವಿದ್ಯಾರ್ಥಿಯಷ್ಟು ಮಹೊನ್ನತವಾಗಿದ್ದಾಳೆ,ಆಕೆ ಮಹೊನ್ನತವಾಗಿದ್ದಾಳೆ,ಆಕೆ ಮಹೊನ್ನತವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor implies that although she appears to be an average student, she is actually performing at a high level."",
+  ""answer"": 0
+}",0,,0
+ಆ ಹರಳು ಕಲ್ಲಿನಂತೆ ಬೆಲೆಬಾಳುವಂತದ್ದು,ಆ ಹರಳು ಬೆಲೆಬಾಳುವಂತದ್ದು,ಆ ಹರಳು ಬೆಲೆಬಾಳುವಂತದ್ದಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the value of a gem to that of a stone, implying that the gem has a high value similar to a stone."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಕಪ್ಪು ಹಲಗೆಯಂತೆ ಬಿಳುಪಾಗಿತ್ತು,ಅದು ಬಿಳುಪಾಗಿತ್ತು,ಅದು ಬಿಳುಪಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor describes something transforming from black to white, indicating a significant change in appearance."",
+  ""answer"": 0
+}",0,,0
+ಅವಳು ಒಣಗಿದ ಎಲೆಯಷ್ಟು ತಾಜಾವಾಗಿದ್ದಾಳೆ,ಅವಳು ತಾಜಾವಾಗಿದ್ದಾಳೆ,ಅವಳು ತಾಜಾವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the freshness of a leaf with a person being fresh or lively. Therefore, the meaning 'she is lively' is closest to the metaphor."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ಸ್ಥೂಲಕಾಯನಂತೆ ಆಕರ್ಷಕ ದೇಹವನ್ನು ಹೊಂದಿದ್ದಾನೆ,ಅವನು ಆಕರ್ಷಕ ದೇಹವನ್ನು ಹೊಂದಿದ್ದಾನೆ,ಅವನು ಆಕರ್ಷಕ ದೇಹವನ್ನು ಹೊಂದಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor is describing someone who has an attractive personality or charm, not just a physically attractive body."",
+  ""Answer"": 0
+}",0,,0
+ಆ ನೀರು ಕೊಚ್ಚೆ ನೀರಿನಂತೆ ಶುಚಿಯಾಗಿದೆ,ಆ ನೀರು ಶುಚಿಯಾಗಿದೆ,ಆ ನೀರು ಶುಚಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the cleanliness of the water to cleanliness not being like that of a stagnant pool. This implies that the water is indeed clean and pure."",
+  ""answer"": 0
+}",0,,0
+ಆತನು ವಯಸ್ಕನಂತೆ ಹುಡುಗಾಟಿಕೆ ಬುದ್ದಿಯವನು,ಆತನು ಹುಡುಗಾಟಿಕೆ ಬುದ್ದಿಯವನು,ಆತನು ಹುಡುಗಾಟಿಕೆ ಬುದ್ದಿಯವನಲ್ಲ,1,"{
+	""Explanation"": ""The metaphor is comparing someone who is childish in their behavior to an adult in terms of intelligence, implying that they are not mature in their actions despite being smart."",
+	""Answer"": 0
+}",0,,0
+ಅವನು ಪ್ರಾಧ್ಯಾಪಕನಂತೆ ಹಾಸ್ಯಾಸ್ಪದವಾಗಿದ್ದನು,ಅವನು ಹಾಸ್ಯಾಸ್ಪದವಾಗಿದ್ದನು,ಅವನು ಹಾಸ್ಯಾಸ್ಪದವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the person to a professor, emphasizing the humorous aspect."",
+  ""answer"": 0
+}",0,,0
+ಆ ತಿಂಡಿ ಸ್ಮೂತಿಯಂತೆ ಮೃದುವಾಗಿದೆ,ಆ ತಿಂಡಿ ಮೃದುವಾಗಿದೆ,ಆ ತಿಂಡಿ ಮೃದುವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares something to a soft smooth drink, indicating that it is gentle and comforting."",
+  ""answer"": 0
+}",0,,0
+ಆ ಸಂಗೀತವು ಕೇಳಲು ಇಂಪಾಗಿದೆ,ಆ ಸಂಗೀತವು ಕೇಳಲು ಇಂಪಾಗಿದೆ,ಆ ಸಂಗೀತವು ಕೇಳಲು ಇಂಪಾಗಿಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor suggests that the music is pleasant to listen to."",
+  ""answer"": 1
+}",1,,0
+ಆ ಸಂಗೀತವು ಕೇಳಲು ಕರ್ಕಶವಾಗಿದೆ,ಆ ಸಂಗೀತವು ಕೇಳಲು ಇಂಪಾಗಿದೆ,ಆ ಸಂಗೀತವು ಕೇಳಲು ಇಂಪಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor implies that the music is harsh or jarring to listen to, which aligns more closely with the option 'ಆ ಸಂಗೀತವು ಕೇಳಲು ಕರ್ಕಶವಾಗಿದೆ'"",
+  ""answer"": 0
+}",0,,0
+ಅವನು ತೆಳ್ಳಗಿನ ಮನುಷ್ಯನಂತೆ ಸಣ್ಣಗಿದ್ದಾನೆ,ಅವನು ಸಣ್ಣಗಿದ್ದಾನೆ,ಅವನು ಸಣ್ಣಗಿಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor compares him to a small man, indicating that he is lacking in maturity or experience."",
+  ""answer"": 1
+}",1,,0
+ಈ ಆಟವು ಈಜಿನಂತೆ ಸಾಹಸಮಯವಾಗಿದೆ,ಈ ಆಟವು ಸಾಹಸಮಯವಾಗಿದೆ,ಈ ಆಟವು ಸಾಹಸಮಯವಾಗಿಲ್ಲ,1,"{""answer"":0}
+
+Explanation: The metaphor compares the game to something easy, implying that it is not a challenging or risky activity. Option 0 reflects this meaning, stating that the game is easy and not risky. Option 1 contradicts the metaphor by saying that the game is not risky, which does not align with the comparison made in the metaphor.",0,,0
+ಆಕೆಯು ಗೃಹಿಣಿಯಂತೆ ಸರಳವಾಗಿರುವಳು,ಆಕೆಯು ಸರಳವಾಗಿರುವಳು,ಆಕೆಯು ಸರಳವಾಗಿಲ್ಲ,0,"{
+  ""Startphrase"": ""ಆಕೆಯು ಗೃಹಿಣಿಯಂತೆ ಸರಳವಾಗಿರುವಳು"",
+  ""Options"": {
+    ""0"": ""ಆಕೆಯು ಸರಳವಾಗಿರುವಳು"",
+    ""1"": ""ಆಕೆಯು ಸರಳವಾಗಿಲ್ಲ""
+  },
+  ""Explanation"": """,1,NG,0
+ಆಕೆಯು ಗೃಹಿಣಿಯಂತೆ ಸರಳವಾಗಿರುವಳು,ಆಕೆಯು ಸರಳವಾಗಿರುವಳು,ಆಕೆಯು ಸರಳವಾಗಿಲ್ಲ,0,"{
+  ""Startphrase"": ""ಆಕೆಯು ಗೃಹಿಣಿಯಂತೆ ಸರಳವಾಗಿರುವಳು"",
+  ""Options"": {
+    ""0"": ""ಆಕೆಯು ಸರಳವಾಗಿರುವಳು"",
+    ""1"": ""ಆಕೆಯು ಸರಳವಾಗಿಲ್ಲ""
+  },
+  ""Explanation"": """,1,NG,0
+ಆಕೆಯು ಮಾಡೆಲ್ ನಂತೆಸರಳವಾಗಿರುವಳು,ಆಕೆಯು ಸರಳವಾಗಿರುವಳು,ಆಕೆಯು ಸರಳವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor here is comparing the woman to a model, implying that she is elegant and graceful. Option 0) is closer to the metaphor as it means 'she is as elegant as a model'."",
+  ""answer"": 0
+}",0,,0
+ಆ ಪ್ರಾಣಿಯು ಹಲ್ಲಿಯಂತೆ ಉದ್ದವಾಗಿದೆ,ಆ ಪ್ರಾಣಿಯು ಉದ್ದವಾಗಿದೆ,ಆ ಪ್ರಾಣಿಯು ಉದ್ದವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the animal to a bone, emphasizing its thinness and elongated shape."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಬಂಡೆಯಂತೆ ತಟಸ್ತವಾಗಿದೆ,ಅದು ತಟಸ್ತವಾಗಿದೆ,ಅದು ತಟಸ್ತವಾಗಿಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor comparing something to a rock indicates that it is stable and firm, just like how a rock is solid and steady. Option 0 reflects this meaning, as it states that it is indeed stable like a rock. Option 1 is the opposite, suggesting that it is not stable like a rock.",0,,0
+ವಾತಾವರಣವೂ  ಬೇಸಿಗೆಯಂತೆ ತಣ್ಣಗಿದೆ,ವಾತಾವರಣವೂ ತಣ್ಣಗಿದೆ,ವಾತಾವರಣವೂ ತಣ್ಣಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The comparison is between the environment and the coolness of winter, indicating that the environment is cool."",
+  ""answer"": 0
+}",0,,0
+ವಾತಾವರಣವೂ ಮಳೆಗಾಲದಂತೆ ಬೆಚ್ಚಗಿದೆ.,ವಾತಾವರಣವೂ ಬೆಚ್ಚಗಿದೆ,ವಾತಾವರಣವೂ ಬೆಚ್ಚಗಿಲ್ಲ,1,"{
+  ""Startphrase"": ""ವಾತಾವರಣವೂ ಮಳೆಗಾಲದಂತೆ ಬೆಚ್ಚಗಿದೆ."",
+  ""Options"": {
+    ""0"": ""ವಾತಾವರಣವೂ ಬೆಚ್ಚಗಿದೆ"",
+    ""1"": ""ವಾತಾವರಣವೂ ಬೆಚ್ಚಗಿಲ",0,NG,0
+ಆ ಹುಡುಗ ಜಿಂಕೆಯಂತೆ ಉದ್ದವಿದ್ದಾನೆ,ಆ ಹುಡುಗ ಉದ್ದವಿದ್ದಾನೆ,ಆ ಹುಡುಗ ಉದ್ದವಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the boy to a deer, emphasizing how tall he is."",
+  ""answer"": 0
+}",0,,0
+ಆ ಸಿನಿಮಾ ಸಸ್ಪೆನ್ಸ್ ಥ್ರಿಲ್ಲರ್ನಂತೆ ನೇರವಾದ ಕಥೆಯನ್ನು ಹೊಂದಿದೆ,ಆ ಸಿನಿಮಾ ನೇರವಾದ ಕಥೆಯನ್ನು ಹೊಂದಿದೆ,ಆ ಸಿನಿಮಾ ನೇರವಾದ ಕಥೆಯನ್ನು ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the movie to a suspense thriller, implying that the movie has a straightforward and engaging plot just like a suspense thriller. Hence, option 0) is the closest meaning."",
+  ""answer"": 0
+}",0,,0
+ಅವನ ಕಣ್ಣುಗಳು ಚಂದಿರನಂತೆ ನೀಲಿ ಆಗಿದೆ,ಅವನ ಕಣ್ಣುಗಳು ನೀಲಿ ಆಗಿದೆ,ಅವನ ಕಣ್ಣುಗಳು ನೀಲಿ ಆಗಿಲ್ಲ,1,"{
+  ""explanation"": ""Metaphorically stating that his eyes are as blue as the sky, emphasizing the bright blue color."",
+  ""answer"": 0
+}",0,,0
+ಸೈನಿಕರ ತೋಳು ಪ್ಲಾಸ್ಟಿಕ್ ನಂತೆ ಗಟ್ಟಿಯಾಗಿದೆ,ಸೈನಿಕರ ತೋಳು ಗಟ್ಟಿಯಾಗಿದೆ,ಸೈನಿಕರ ತೋಳು ಗಟ್ಟಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the soldier's grip to plastic, indicating it is strong and firm."",
+  ""answer"": 0
+}",0,,0
+ಈ ವಸ್ತುವೂ  ಪ್ರಾಣಿಯಂತೆ ಸುಮಧುರ ವಾಸನೆ ಹೊಂದಿದೆ,ಈ ವಸ್ತುವೂ ಸುಮಧುರ ವಾಸನೆ ಹೊಂದಿದೆ,ಈ ವಸ್ತುವೂ ಸುಮಧುರ ವಾಸನೆ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the item to an animal with a sweet fragrance, implying that the item also has a sweet fragrance."",
+  ""answer"": 0
+}",0,,0
+ಬ್ರಹ್ಮಾಂಡವು ಅಗಣಿತ ಗ್ರಹಗಳನ್ನು ಹೊಂದಿದೆ,ಬ್ರಹ್ಮಾಂಡವು ಅಗಣಿತ ನಕ್ಷತ್ರಗಳನ್ನು ಹೊಂದಿದೆ,ಬ್ರಹ್ಮಾಂಡವು ಅಗಣಿತ ನಕ್ಷತ್ರಗಳನ್ನು ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The universe holds countless galaxies, which contain numerous stars."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ಕೆಲಸದಲ್ಲಿ ಎಮ್ಮೆಯಂತೆ ಏಕಾಗ್ರತೆ ಹೊಂದಿದ್ದಾನೆ,ಅವನು ಕೆಲಸದಲ್ಲಿ ಏಕಾಗ್ರತೆ ಹೊಂದಿದ್ದಾನೆ,ಅವನು ಕೆಲಸದಲ್ಲಿ ಏಕಾಗ್ರತೆ ಹೊಂದಿಲ್ಲ,1,"{
+  ""Explanation"": ""Comparing someone's focus to that of a goat while working implies that the person is very focused and attentive to their task, like how a goat concentrates on eating grass."",
+  ""Answer"": 0
+}",0,,0
+ಅದರ ಬಣ್ಣ ನೀರಿನಂತೆ ಬಿಳಿಯಾಗಿದೆ,ಅದರ ಬಣ್ಣ ಬಿಳಿಯಾಗಿದೆ,ಅದರ ಬಣ್ಣ ಬಿಳಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the color of something to water. Water is transparent and does not have a specific color, so the closest meaning is that the color of the object is white."",
+  ""answer"": 0
+}",0,,0
+ಅವರು ಹಾವಿನಂತೆ ಬಣ್ಣ ಬದಲಿಸುತ್ತಾರೆ,ಅವರು ಬಣ್ಣ ಬದಲಿಸುತ್ತಾರೆ,ಅವರು ಬಣ್ಣ ಬದಲಿಸಲ್ಲ,1,"{
+  ""Startphrase"": ""ಅವರು ಹಾವಿನಂತೆ ಬಣ್ಣ ಬದಲಿಸುತ್ತಾರೆ"",
+  ""Options"": {
+    ""0"": ""ಅವರು ಬಣ್ಣ ಬದಲಿಸುತ್ತಾರೆ"",
+    ""1"": ""ಅವರು ಬಣ್ಣ ಬದಲಿಸಲ್",0,NG,0
+ಅವರು ಹಾವಿನಂತೆ ಬಣ್ಣ ಬದಲಿಸುತ್ತಾರೆ,ಅವರು ಬಣ್ಣ ಬದಲಿಸುತ್ತಾರೆ,ಅವರು ಬಣ್ಣ ಬದಲಿಸಲ್ಲ,1,"{
+  ""Startphrase"": ""ಅವರು ಹಾವಿನಂತೆ ಬಣ್ಣ ಬದಲಿಸುತ್ತಾರೆ"",
+  ""Options"": {
+    ""0"": ""ಅವರು ಬಣ್ಣ ಬದಲಿಸುತ್ತಾರೆ"",
+    ""1"": ""ಅವರು ಬಣ್ಣ ಬದಲಿಸಲ್",0,NG,0
+ಆ ಕಟ್ಟಡವು ಕೆಡವಿದ ಅರಮನೆಯಂತೆ ಸುಂದರವಾಗಿದೆ,ಆ ಕಟ್ಟಡವು ಸುಂದರವಾಗಿದೆ,ಆ ಕಟ್ಟಡವು ಸುಂದರವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the current building to a beautiful ruined mansion, suggesting that the current building is beautiful despite being destroyed, not that the building itself is ruined and ugly."",
+  ""answer"": 0
+}",0,,0
+ಆ ರಸ್ತೆಯು ಹಿಲ್ ಸ್ಟೇಷನಂತೆ ನೇರವಾಗಿದೆ,ಆ ರಸ್ತೆಯು ನೇರವಾಗಿದೆ,ಆ ರಸ್ತೆಯು ನೇರವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""Metaphorically comparing the road to a train station suggests that the road is straight and direct."",
+  ""answer"": 0
+}",0,,0
+ಆ ರಸ್ತೆಯು ಹಿಲ್ ಸ್ಟೇಷನಂತೆ ತಿರುವುಗಳನ್ನು ಹೊಂದಿದೆ,ಆ ರಸ್ತೆಯು ತಿರುವುಗಳನ್ನು ಹೊಂದಿದೆ,ಆ ರಸ್ತೆಯು ತಿರುವುಗಳನ್ನು ಹೊಂದಿಲ್ಲ,0,"{
+    ""answer"": 1
+}
+Explanation: In this metaphor, the road is compared to a train station. A train station is a place where trains turn and change tracks, similar to how the road has curves and bends. Option 1) ""ಆ ರಸ್ತೆಯು ತಿರುವುಗಳನ್ನು ಹೊಂದಿಲ್ಲ"" is the closest meaning as it indicates that the road does not have twists and turns like a train station, matching the metaphor.",1,,0
+ಆ ರಸ್ತೆಯು ಹೆದ್ದಾರಿಯಂತೆ ತಿರುವುಗಳನ್ನು ಹೊಂದಿದೆ,ಆ ರಸ್ತೆಯು ತಿರುವುಗಳನ್ನು ಹೊಂದಿದೆ,ಆ ರಸ್ತೆಯು ತಿರುವುಗಳನ್ನು ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the road to a snake, emphasizing the twists and turns. Therefore, the closest meaning is that the road has twists and turns."",
+  ""answer"": 0
+}",0,,0
+ಹೂಡಿಕೆಯು ಫಿಕ್ಸಡ್ ಡೆಪಾಸಿಟ್ ನಲ್ಲಿ ಅಪಾಯಕಾರಿ,ಹೂಡಿಕೆಯು ಅಪಾಯಕಾರಿ,ಹೂಡಿಕೆಯು ಅಪಾಯಕಾರಿಯಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: In the given metaphor, ""ಹೂಡಿಕೆ"" refers to a dangerous situation or risk, and ""ಫಿಕ್ಸಡ್ ಡೆಪಾಸಿಟ್"" refers to a fixed deposit. The comparison implies that engaging in a fixed deposit can be risky or dangerous. Option 0) ""ಹೂಡಿಕೆಯು ಅಪಾಯಕಾರಿ"" translates to ""The fixed deposit is dangerous"", which closely aligns with the metaphor.",0,,0
+ಕೋಲಿನ ಎತ್ತರ ತುಂಡವಾಗಿ ಇತ್ತು,ಕೋಲಿನ ಎತ್ತರ ಉದ್ದವಾಗಿ ಇತ್ತು,ಕೋಲಿನ ಎತ್ತರ ತುಂಡವಾಗಿ ಇತ್ತು,1,"{
+  ""explanation"": ""The metaphor is comparing the height of the object to a tall pole, indicating that the object was tall and slender."",
+  ""answer"": 0
+}",0,,0
+ಚೆಸ್ ಆಡಲು ಕಡಿಮೆ ಬುದ್ಧಿವಂತಿಕೆ ಬೇಕು,ಚೆಸ್ ಆಡಲು ಜಾಸ್ತಿ ಬುದ್ಧಿವಂತಿಕೆ ಬೇಕು,ಚೆಸ್ ಆಡಲು ಕಡಿಮೆ ಬುದ್ಧಿವಂತಿಕೆ ಬೇಕು,1,"{
+  ""explanation"": ""Playing chess requires a certain level of intelligence, so the metaphor implies that more intelligence is needed."",
+  ""answer"": 0
+}",0,,0
+ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿತ್ತು,ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿತ್ತು,ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿಲ್ಲ,0,"{
+  ""Startphrase"": ""ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿತ್ತು"",
+  ""Options"": {
+    ""0"": ""ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿತ್ತು"",
+    ""1"": ""ಸಿನಿಮಾದ",1,NG,0
+ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿತ್ತು,ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿತ್ತು,ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿಲ್ಲ,0,"{
+  ""Startphrase"": ""ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿತ್ತು"",
+  ""Options"": {
+    ""0"": ""ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿತ್ತು"",
+    ""1"": ""ಸಿನಿಮಾದ",1,NG,0
+ಹಾಡಿನ ಸಂಗೀತ ಕರ್ಕಶ ಆಗಿತ್ತು,ಹಾಡಿನ ಸಂಗೀತ ಸುಮಧುರವಾಗಿತ್ತು,ಹಾಡಿನ ಸಂಗೀತ ಸುಮಧುರವಾಗಿಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor talks about the music being harsh, so the closest meaning would be 'ಹಾಡಿನ ಸಂಗೀತ ಕರ್ಕಶ' meaning 'ಹಾಡಿನ ಸಂಗೀತ ಸುಮಧುರವಾಗಿಲ್ಲ'."",
+  ""answer"": 1
+}",1,,0
+ಹಾಡಿನ ಸುಮಧುರ ಕರ್ಕಶ ಆಗಿತ್ತು,ಹಾಡಿನ ಸಂಗೀತ ಸುಮಧುರವಾಗಿತ್ತು,ಹಾಡಿನ ಸಂಗೀತ ಸುಮಧುರವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the sweetness and sharpness of the song. Here, the closest meaning is that the song was sweet and melodious."",
+  ""answer"": 0
+}",0,,0
+ಅವನ ಭಾಷಣ ಜನರನ್ನು ಪ್ಲಾಸ್ಟಿಕ್ ನಂತೆ  ಸೆಳೆಯುತ್ತಿತ್ತು,ಅವನ ಭಾಷಣ ಜನರನ್ನುಸೆಳೆಯುತ್ತಿತ್ತು,ಅವನ ಭಾಷಣ ಜನರನ್ನು ಸೆಳೆಯಲ್ಲಿಲ್ಲ,1,"{
+  ""explanation"": ""Comparing the speaker's speech to plastic implies that the speech is manipulative and able to easily attract and influence people, similar to the way plastic can be shaped and molded easily."",
+  ""answer"": 0
+}",0,,0
+ಆ ಸಮಸ್ಯೆ ನೀರು ಕುಡಿದಷ್ಟು ಸುಲಭ,ಆ ಸಮಸ್ಯೆ ಸುಲಭ,ಆ ಸಮಸ್ಯೆ ಸುಲಭವಾಗಿಲ್ಲ,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor suggests that the problem is not as easy as drinking water, implying that it is not simple or easy to solve. Option 1 reflects this meaning, indicating that the problem is not easy.",1,,0
+ಸಂಗೀತ ಕಾರ್ಯಕ್ರಮವು ನಿದ್ದೆ ಬರೆಸುವಷ್ಟುಚೆನ್ನಾಗಿತ್ತು,ಸಂಗೀತ ಕಾರ್ಯಕ್ರಮವು ಚೆನ್ನಾಗಿತ್ತು,ಸಂಗೀತ ಕಾರ್ಯಕ್ರಮವು ಚೆನ್ನಾಗಿಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor suggests that the music program was so engaging that it felt as if it was writing sleep, implying that it was very boring."",
+  ""answer"": 1
+}",1,,0
+ಸಂಗೀತ ಕಾರ್ಯಕ್ರಮವು ಮತ್ತೆ ಕೇಳಬೇಕೆನಿಸುವಷ್ಟು ಚೆನ್ನಾಗಿತ್ತು,ಸಂಗೀತ ಕಾರ್ಯಕ್ರಮವು ಚೆನ್ನಾಗಿತ್ತು,ಸಂಗೀತ ಕಾರ್ಯಕ್ರಮವು ಚೆನ್ನಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor suggests that the music program was so good that it demands to be listened to again, indicating its high quality."",
+  ""answer"": 0
+}",0,,0
+ಈ ವಾಹನವು ಎತ್ತಿನಗಾಡಿ ಅಂತೆ ವೇಗ ಹೊಂದಿದೆ,ಈ ವಾಹನವು ಹೆಚ್ಚು ವೇಗ ಹೊಂದಿದೆ,ಈ ವಾಹನವು ಹೆಚ್ಚು ವೇಗ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the vehicle to a horse carriage, which implies that the vehicle is fast like a horse carriage."",
+  ""answer"": 0
+}",0,,0
+ಅವನ ಡಾನ್ಸ್ ನಿದ್ದೆ ಬರೆಸುವಷ್ಟು ಆಕರ್ಷಕವಾಗಿತ್ತು,ಅವನ ಡಾನ್ಸ್ ಆಕರ್ಷಕವಾಗಿತ್ತು,ಅವನ ಡಾನ್ಸ್ ಆಕರ್ಷಕವಾಗಿಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the attractiveness of the person's dance to the act of writing a beautiful piece. Option 0) ""ಅವನ ಡಾನ್ಸ್ ಆಕರ್ಷಕವಾಗಿತ್ತು"" is the closest meaning as it states that his dance was attractive.",0,,0
+ಆ ವಸ್ತುವಿನ ಬೆಲೆ ನೀರಿನಂತೆ ದುಬಾರಿ,ಆ ವಸ್ತುವಿನ ಬೆಲೆ ದುಬಾರಿ,ಆ ವಸ್ತುವಿನ ಬೆಲೆ ದುಬಾರಿಯಲ್ಲ,1,"{
+  ""error"": ""Insufficient information provided for explaining the reasoning""
+}",0,NG,0
+ಆ ಹೂವು ತುಂಬೆಯಂತೆ ಸುವಾಸನೆ ಬೀರುತಿತ್ತು,ಆ ಹೂವು ಸುವಾಸನೆ ಬೀರುತಿತ್ತು,ಆ ಹೂವು ಸುವಾಸನೆ ಬೀರಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the fragrance of the flower to overflowing, indicating a strong and pleasant smell."",
+  ""answer"": 0
+}",0,,0
+ಆತನ ಮನಸ್ಸು ಕಲ್ಲಿನಂತೆ ಮೃದು,ಆತನ ಮನಸ್ಸು ಮೃದು,ಆತನ ಮನಸ್ಸು ಮೃದುವಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares someone's mind to softness, not hardness. Therefore, the option 'ಆತನ ಮನಸ್ಸು ಮೃದು' is the closest meaning."",
+  ""answer"": 0
+}",0,,0
+ಈ ರೋಗ ಕ್ಯಾನ್ಸರ್ ನಂತೆ ಹರಡುತ್ತದೆ,ಈ ರೋಗ ಹರಡುತ್ತದೆ,ಈ ರೋಗ ಹರಡುವುದಿಲ್ಲ,1,"{
+  ""question"": ""ಈ ರೋಗ ಕ್ಯಾನ್ಸರ್ ನಂತೆ ಹರಡುತ್ತದೆ"",
+  ""option1"": ""ಈ ರೋಗ ಹರಡುತ್ತದೆ"",
+  ""option2"": ""ಈ ರೋಗ ಹರಡುವುದಿಲ್ಲ"",
+  ""explanation"": ""The metaphor compares the spreading of the disease to cancer, implying that the disease",0,NG,0
+ಈ ವಾಹನವು ಎತ್ತಿನಗಾಡಿಯಂತೆ ಶೀಘ್ರ ವಾಗಿ ಚಲಿಸುತ್ತದೆ.,ಈ ವಾಹನವು ಶೀಘ್ರ ವಾಗಿ ಚಲಿಸುತ್ತದೆ,ಈ ವಾಹನವು ಶೀಘ್ರ ವಾಗಿ ಚಲಿಸುವುದಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor compares the vehicle to a bullock cart, emphasizing the speed at which it moves. Hence, the closest meaning would be that the vehicle moves quickly."",
+  ""Answer"": 0
+}",0,,0
+ಈ ಆಭರಣವು ಸಾಮಾನ್ಯ ಒಡವೆಯಂತೆ ಏಕಮಾತ್ರವಾಗಿದೆ,ಈ ಆಭರಣವು ಏಕಮಾತ್ರವಾಗಿದೆ,ಈ ಆಭರಣವು ಏಕಮಾತ್ರವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the jewelry to a common everyday item, indicating that it is unique or exceptional."",
+  ""answer"": 0
+}",0,,0
+ಹೂಡಿಕೆಯು ಫಿಕ್ಸೆಡ್ ಡೆಪಾಸಿಟ್ ನಂತೆ ಚಂಚಲವಾಗಿದೆ,ಹೂಡಿಕೆಯು ಚಂಚಲವಾಗಿದೆ,ಹೂಡಿಕೆಯು ಚಂಚಲವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares commitment to a fixed deposit, implying that the commitment is wavering and not steady."",
+  ""answer"": 0
+}",0,,0
+ಈ ವ್ಯಕ್ತಿಯು ರೈತನಂತೆ ಪ್ರಸಿದ್ಧಿಯಾಗಿದ್ದಾನೆ,ಈ ವ್ಯಕ್ತಿಯು ಪ್ರಸಿದ್ಧಿಯಾಗಿದ್ದಾನೆ,ಈ ವ್ಯಕ್ತಿಯು ಪ್ರಸಿದ್ಧಿಯಾಗಿಲ್ಲ,1,"{
+  ""Startphrase"": ""ಈ ವ್ಯಕ್ತಿಯು ರೈತನಂತೆ ಪ್ರಸಿದ್ಧಿಯಾಗಿದ್ದಾನೆ"",
+  ""Options"": {
+    ""0"": ""ಈ ವ್ಯಕ್ತಿಯು ಪ್ರಸಿದ್ಧಿಯಾಗಿದ್ದಾನೆ"",",0,NG,0
+ಈ ಭೂಮಿಯು ಮರುಭೂಮಿಯಂತೆ ಫಲವತ್ತತೆಯಾಗಿದೆ,ಈ ಭೂಮಿಯು ಫಲವತ್ತತೆಯಾಗಿದೆ,ಈ ಭೂಮಿಯು ಫಲವತ್ತತೆಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""Comparing the Earth to a fertile land is a metaphor indicating abundance and productivity."",
+  ""answer"": 0
+}",0,,0
+ಈ ರೋಡ್ ಸುರಂಗದಂತೆ ಕಿರಿದಾಗಿದೆ,ಈ ರೋಡ್ ಕಿರಿದಾಗಿದೆ,ಈ ರೋಡ್ ಕಿರಿದಾಗಿಲ್ಲ,0,"{
+	""Startphrase"": ""ಈ ರೋಡ್ ಸುರಂಗದಂತೆ ಕಿರಿದಾಗಿದೆ"",
+	""Options"": [
+		""ಈ ರೋಡ್ ಕಿರಿದಾಗಿದೆ"",
+		""ಈ ರೋಡ್ ಕಿರಿದಾಗಿಲ್ಲ""
+	],
+	""Explanation"": ""This metaphor is comparing the road to being cut like a tunnel",1,NG,0
+ಈ ರೋಡ್ ಹೈವೇ ಯಂತೆ ಕಿರಿದಾಗಿದೆ,ಈ ರೋಡ್ ಕಿರಿದಾಗಿದೆ,ಈ ರೋಡ್ ಕಿರಿದಾಗಿಲ್ಲ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor here is comparing the road to a snake, crawling low. So, the closest meaning would be ""ಈ ರೋಡ್ ಕಿರಿದಾಗಿಲ್ಲ"" which means ""This road is not crawling low"". Hence, option 0 is the correct answer.",0,,0
+ಈ ಕೊಳವು ಕೆರೆಯಂತೆ ವಿಶಾಲವಾಗಿದೆ,ಈ ಕೊಳವು ವಿಶಾಲವಾಗಿದೆ,ಈ ಕೊಳವು ವಿಶಾಲವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the pond to a reservoir, implying that the pond is large in size."",
+  ""answer"": 0
+}",0,,0
+ಈ ಕಾರ್ಯಕ್ರಮವು  ಸರ್ಕಸ್ ನಂತೆ ಭಯಾನಕವಾಗಿದೆ,ಈ ಕಾರ್ಯಕ್ರಮವು ಭಯಾನಕವಾಗಿದೆ,ಈ ಕಾರ್ಯಕ್ರಮವು ಭಯಾನಕವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the program to a circus, implying that it is chaotic or overwhelming, hence closer to the option 0."",
+  ""answer"": 0
+}",0,,0
+ಈ ಅಡುಗೆಯು ಚಪಾತಿಯಂತೆ ಪೋಷಕಾಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ,ಈ ಅಡುಗೆಯು ಪೋಷಕಾಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ,ಈ ಅಡುಗೆಯು ಪೋಷಕಾಂಶಗಳನ್ನು ಒಳಗೊಂಡಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the content of the package to the filling in a chapati. Just like the filling is wrapped inside a chapati, the nutrients are contained within this package."",
+  ""answer"": 0
+}",0,,0
+ಈ ವಾಹನವು ಹೆಲಿಕ್ಯಾಪ್ಟರ್ ನಂತೆ ಎತ್ತರಕ್ಕೆ ಹಾರಬಲ್ಲದು,ಈ ವಾಹನವು ಎತ್ತರಕ್ಕೆ ಹಾರಬಲ್ಲದು,ಈ ವಾಹನವು ಎತ್ತರಕ್ಕೆ ಹಾರಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the vehicle to a helicopter, which can soar to great heights. Therefore, the correct option is ""ಈ ವಾಹನವು ಎತ್ತರಕ್ಕೆ ಹಾರಬಲ್ಲದು"" (This vehicle can soar to great heights).",0,,0
+ಈ ವ್ಯಕ್ತಿಯು ಮುದುಕನಂತೆ ತುಂಟನಾಗಿದ್ದಾನೆ,ಈ ವ್ಯಕ್ತಿಯು ತುಂಟನಾಗಿದ್ದಾನೆ,ಈ ವ್ಯಕ್ತಿಯು ತುಂಟನಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the person to an old person, suggesting that they have become mischievous or unruly with age."",
+  ""answer"": 0
+}",0,,0
+ಇವರ ಚರ್ಮವು ವಯಸ್ಸಾದವರ ಚರ್ಮದಂತೆ ಮೃದುವಾಗಿದೆ,ಇವರ ಚರ್ಮವು ಮೃದುವಾಗಿದೆ,ಇವರ ಚರ್ಮವು ಮೃದುವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the skin of these individuals to the skin of older people, implying that it is soft and gentle like that of older people."",
+  ""answer"": 0
+}",0,,0
+ಈ ಕಾರ್ಯಕ್ರಮವು ಪಾರ್ಟಿಯಂತೆ ಭಯಾನಕವಾಗಿದೆ,ಈ ಕಾರ್ಯಕ್ರಮವು ಭಯಾನಕವಾಗಿದೆ,ಈ ಕಾರ್ಯಕ್ರಮವು ಭಯಾನಕವಾಗಿಲ್ಲ,1,"{
+""Explanation"": ""Comparing the program to a party, implying that it is terrifying"",
+""Answer"": 0
+}",0,,0
+ಈ ಕಟ್ಟಡವು ಸರ್ಕಾರಿ ಕಚೇರಿಯಂತೆ ಆಲಂಕಾರಿಕವಾಗಿದೆ,ಈ ಕಟ್ಟಡವು ಆಲಂಕಾರಿಕವಾಗಿದೆ,ಈ ಕಟ್ಟಡವು ಆಲಂಕಾರಿಕವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the building to a government office, emphasizing the decorative aspect of it"",
+  ""answer"": 0
+}",0,,0
+ಈ ಆಟವು ಲೀಗ್ ನಷ್ಟು ದೊಡ್ಡದು,ಈ ಆಟವು ದೊಡ್ಡದು,ಈ ಆಟವು ದೊಡ್ಡದಲ್ಲ,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The startphrase is comparing the game to a big loss in a league, implying that the game is not something positive or desirable. Therefore, the closest meaning to the metaphor is ""This game is not great"" (Option 1) rather than ""This game is great"" (Option 0).",1,,0
+ಈ ಆಟವು  ವರ್ಲ್ಡ್ ಕಪ್ ನಷ್ಟು ದೊಡ್ಡದು,ಈ ಆಟವು ದೊಡ್ಡದು,ಈ ಆಟವು ದೊಡ್ಡದಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the game to the World Cup, implying that the game is significant or important."",
+  ""answer"": 0
+}",0,,0
+ಈ ಕಾಯಿಲೆಯು ಕೆಮ್ಮಿನಷ್ಟು ತುರ್ತಾಗಿದೆ,ಈ ಕಾಯಿಲೆಯು ತುರ್ತಾಗಿಲ್ಲ,ಈ ಕಾಯಿಲೆಯು ತುರ್ತಾಗಿದೆ,0,"{
+  ""explanation"": ""The metaphor suggests that the illness is progressing rapidly, hence the meaning closest to the metaphor is option 1) ಈ ಕಾಯಿಲೆಯು ತುರ್ತಾಗಿದೆ"",
+  ""answer"": 1
+}",1,,0
+ಈ ನೃತ್ಯವು ಡಿಸ್ಕೋ ದಷ್ಟು ಪ್ರಾಚೀನವಾಗಿದೆ,ಈ ನೃತ್ಯವು ಪ್ರಾಚೀನವಾಗಿದೆ,ಈ ನೃತ್ಯವು ಪ್ರಾಚೀನವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the age of the dance to the age of disco, implying that the dance is as old as disco."",
+  ""answer"": 0
+}",0,,0
+ಈ ಭೇಟಿಯು ಸಾಮಾನ್ಯ ಚೆಕಪ್ ನಷ್ಟುನಿರ್ಣಾಯಕವಾಗಿದೆ,ಈ ಭೇಟಿಯು ನಿರ್ಣಾಯಕವಾಗಿಲ್ಲ,ಈ ಭೇಟಿಯು ನಿರ್ಣಾಯಕವಾಗಿದೆ,0,"{
+  ""explanation"": ""The visit is compared to a standard check-up, implying that it is significant and important."",
+  ""answer"": 1
+}",1,,0
+ಈ ಆಹಾರವು ಆಯುರ್ವೇದದಷ್ಟು ಸಾವಯವಾಗಿದೆ,ಈ ಆಹಾರವು ಸಾವಯವಾಗಿದೆ,ಈ ಆಹಾರವು ಸಾವಯವಾಗಿಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor compares the features of the food to those of Ayurveda, implying that the food is as beneficial as Ayurveda."",
+  ""answer"": 1
+}",1,,0
+ಈ ಅಕ್ಷರಗಳು ಪ್ರಬಂಧದಂತೆ ಮೂಲಭೂತವಾಗಿದೆ,ಈ ಅಕ್ಷರಗಳು ಮೂಲಭೂತವಾಗಿದೆ,ಈ ಅಕ್ಷರಗಳು ಮೂಲಭೂತವಾಗಿಲ್ಲ,1,"{
+  ""Startphrase"": ""ಈ ಅಕ್ಷರಗಳು ಪ್ರಬಂಧದಂತೆ ಮೂಲಭೂತವಾಗಿದೆ"",
+  ""Options"": {
+    ""0"": ""ಈ ಅಕ್ಷರಗಳು ಮೂಲಭೂತವಾಗಿದೆ"",
+    ""1"": ""ಈ ಅಕ್ಷರಗಳು ಮೂ",0,NG,0
+ಈ ನೆಲವು ವ್ಯವಸಾಯದ ನೆಲದಂತೆ ಒಣಗಿದೆ,ಈ ನೆಲವು ಒಣಗಿದೆ,ಈ ನೆಲವು ಒಣಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the ground to farmland, suggesting that it is fertile and ready for cultivation. This implies that the ground is ripe for growth and development."",
+  ""answer"": 0
+}",0,,0
+ಆತನ ಸ್ನಾಯುಗಳು ಖುಸ್ತಿ ಪಟುವಿನಂತೆ ಇದ್ದಾವೆ,ಆತನ ಸ್ನಾಯುಗಳು ಗಟ್ಟಿ,ಆತನ ಸ್ನಾಯುಗಳು ಗಟ್ಟಿಯಿಲ್ಲ,0,"{
+  ""Startphrase"": ""ಆತನ ಸ್ನಾಯುಗಳು ಖುಸ್ತಿ ಪಟುವಿನಂತೆ ಇದ್ದಾವೆ"",
+  ""Options"": {
+    ""0"": ""ಆತನ ಸ್ನಾಯುಗಳು ಗಟ್ಟಿ"",
+    ""1"": ""ಆತನ ಸ್ನಾಯುಗಳು",1,NG,0
+ಈ ಕ್ರಿಮಿ ಹುಳದಂತೆ ಸೂಕ್ಷ್ಮದರ್ಶಕವಾಗಿದೆ,ಈ ಕ್ರಿಮಿ ಸೂಕ್ಷ್ಮದರ್ಶಕವಾಗಿದೆ,ಈ ಕ್ರಿಮಿ ಸೂಕ್ಷ್ಮದರ್ಶಕವಾಗಿಲ್ಲ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares the creature to a microscope, implying that it is finely detailed and observant like a microscope. Therefore, the closest meaning is ""ಈ ಕ್ರಿಮಿ ಸೂಕ್ಷ್ಮದರ್ಶಕವಾಗಿಲ್ಲ"" (This creature is not like a microscope).",1,,0
+ಈ ಕ್ರಿಮಿ ವೈರಸ್ ನಂತೆ ಸೂಕ್ಷ್ಮದರ್ಶಕವಾಗಿದೆ,ಈ ಕ್ರಿಮಿ ಸೂಕ್ಷ್ಮದರ್ಶಕವಾಗಿದೆ,ಈ ಕ್ರಿಮಿ ಸೂಕ್ಷ್ಮದರ್ಶಕವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""Comparing the tool to a virus implies that it is invasive and able to detect subtle details like a microscope."",
+  ""answer"": 0
+}",0,,0
+ಈ ಲೋಹವು ಬೆಳ್ಳಿಯಂತೆ ಬೆಲೆ ಬಾಳುತ್ತದೆ,ಈ ಲೋಹವು ಹೆಚ್ಚು ಬೆಲೆ ಬಾಳುತ್ತದೆ,ಈ ಲೋಹವು ಕಡಿಮೆ ಬೆಲೆ ಬಾಳುತ್ತದೆ,1,"{
+  ""explanation"": ""The metaphor is comparing the value of the metal to silver, implying that it has a high value."",
+  ""answer"": 0
+}",0,,0
+ಆತನು  ದರೋಡೆಕೋರನಂತೆ ಅಪಾಯಕಾರಿಯಾಗಿದ್ದಾನೆ,ಆತನು ಅಪಾಯಕಾರಿಯಾಗಿದ್ದಾನೆ,ಆತನು ಅಪಾಯಕಾರಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares a person to a highway robber, emphasizing that they are dangerous and harmful."",
+  ""answer"": 0
+}",0,,0
+ಆತ  ಡಾಕ್ಟರ್ನಂತೆ ಹಾಸ್ಯಾಸ್ಪದನಾಗಿದ್ದಾನೆ,ಆತ ಹಾಸ್ಯಾಸ್ಪದನಾಗಿದ್ದಾನೆ,ಆತ ಹಾಸ್ಯಾಸ್ಪದನಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the person to a doctor who is humorous, suggesting that the person is being funny."",
+  ""answer"": 0
+}",0,,0
+ಈ ನೀರು ಸಿಹಿ ನೀರಿನಂತೆ ಉಪ್ಪಾಗಿದೆ,ಈ ನೀರು ಉಪ್ಪಾಗಿದೆ,ಈ ನೀರು ಉಪ್ಪಾಗಿಲ್ಲ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares the taste of the water to salt, implying that the water is salty. Therefore, the closest meaning to the metaphor is ""ಈ ನೀರು ಉಪ್ಪಾಗಿಲ್ಲ"" (this water is not salty).",1,,0
+ಈ ನೀರು ಸಮುದ್ರ ನೀರಿನಂತೆ ಉಪ್ಪಾಗಿದೆ,ಈ ನೀರು ಉಪ್ಪಾಗಿದೆ,ಈ ನೀರು ಉಪ್ಪಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the water to ocean water, suggesting it is salty or has a high salt content. Option 0) reflects this meaning."",
+  ""answer"": 0
+}",0,,0
+ಈ ಆಹಾರವು  ಬಿರಿಯಾನಿಯಂತೆ ರುಚಿಯಾಗಿದೆ,ಈ ಆಹಾರವು ರುಚಿಯಾಗಿದೆ,ಈ ಆಹಾರವು ರುಚಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the taste of the food to that of biryani, which is delicious, therefore the correct option is 'ಈ ಆಹಾರವು ರುಚಿಯಾಗಿದೆ'"",
+  ""answer"": 0
+}",0,,0
+ಇದು ನೀರಿನಂತೆ ಅಸಿಡಿಕ್ ಆಗಿದೆ.,ಇದು ಅಸಿಡಿಕ್ ಆಗಿದೆ,ಇದು ಅಸಿಡಿಕ್ ಆಗಿಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor compares the situation to something being acidic like water, implying that it is not actually acidic but has some similar qualities."",
+  ""answer"": 1
+}",1,,0
+ಇದು ಅಲ್ಕೊ ಹಾಲ್ ನಂತೆ ಅಸಿಡಿಕ್ ಆಗಿದೆ.,ಇದು ಅಸಿಡಿಕ್ ಆಗಿದೆ,ಇದು ಅಸಿಡಿಕ್ ಆಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares something to acidic milk, implying that it has turned sour or negative."",
+  ""answer"": 0
+}",0,,0
+ಆತ ದೇವರಂತೆ ಕ್ರೂರಿಯಾಗಿದ್ದಾನೆ,ಆತ ಕ್ರೂರಿಯಾಗಿದ್ದಾನೆ,ಆತ ಕ್ರೂರಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The comparison is being made to someone being as cruel as God, which implies extreme cruelty. Therefore, the correct meaning is that he is cruel."",
+  ""answer"": 0
+}",0,,0
+ಆತ ದೆವ್ವದಂತೆ ದಯಾಮಯನಾಗಿದ್ದಾನೆ,ಆತ ದಯಾಮಯನಾಗಿದ್ದಾನೆ,ಆತ ದಯಾಮಯನಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The comparison is between 'He is like a ghost' and 'He is compassionate'. The meaning 'He is compassionate' is closer to the metaphor."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ತಾತನಂತೆ ಉತ್ಸಾಹಿಯಾಗಿದ್ದಾನೆ,ಅವನು ಉತ್ಸಾಹಿಯಾಗಿದ್ದಾನೆ,ಅವನು ಉತ್ಸಾಹಿಯಾಗಿಲ್ಲ,1,"{
+	""Explanation"": ""The metaphor is comparing the person to their grandfather, indicating that the person is enthusiastic like their grandfather."",
+	""Answer"": 0
+}",0,,0
+ಆತನು ರೋಗಿಯಂತೆ ಶಕ್ತಿಶಾಲಿಯಾಗಿದ್ದಾನೆ,ಆತನು ಶಕ್ತಿಶಾಲಿಯಾಗಿದ್ದಾನೆ,ಆತನು ಶಕ್ತಿಶಾಲಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""In this metaphor, the comparison is between the person and a sick person. The meaning conveyed is that the person is strong like a sick person, indicating irony or unexpected strength."",
+  ""answer"": 0
+}",0,,0
+ಆ ವ್ಯಕ್ತಿ ಡ್ರೈವರ್ ನಷ್ಟು ಕ್ರಿಯೇಟಿವ್ ಆಗಿದ್ದಾರೆ,ಆ ವ್ಯಕ್ತಿ ಕ್ರಿಯೇಟಿವ್ ಆಗಿದ್ದಾರೆ,ಆ ವ್ಯಕ್ತಿ ಕ್ರಿಯೇಟಿವ್ ಆಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor implies that the person is acting with a lot of creativity, not that they themselves have become creative."",
+  ""answer"": 0
+}",0,,0
+ಈ ಹಣ್ಣು ಸವತೆ ಕಾಯಿ ಹಾಗೆ ಸಿಹಿಯಾಗಿದೆ.,ಈ ಹಣ್ಣು ಸಿಹಿಯಾಗಿದೆ,ಈ ಹಣ್ಣು ಸಿಹಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor suggests that the fruit is sweet, so the closest meaning is that the fruit is sweet."",
+  ""answer"": 0
+}",0,,0
+ಆ ಹಣ್ಣು ನೀರಿನಷ್ಟು ಕ್ಯಾಲ್ಸಿಯಂ ಹೊಂದಿದೆ.,ಆ ಹಣ್ಣು ಕ್ಯಾಲ್ಸಿಯಂ ಹೊಂದಿದೆ.,ಆ ಹಣ್ಣು ಕ್ಯಾಲ್ಸಿಯಂ ಹೊಂದಿಲ್ಲ,1,"{
+  ""Explanation"": ""Comparing the calcium content in the fruit to that of water, emphasizing the high calcium content."",
+  ""Answer"": 0
+}",0,,0
+ಆ ಜಾಗವು ಮರುಭೂಮಿಯ ಹಾಗೆ ಹೆಚ್ಚು ನೀರು ಹೊಂದಿದೆ,ಆ ಜಾಗವು ಹೆಚ್ಚು ನೀರು ಹೊಂದಿದೆ,ಆ ಜಾಗವು ಹೆಚ್ಚು ನೀರು ಹೊಂದಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor suggests that the place is like a sponge that has absorbed more water, indicating abundance."",
+  ""Answer"": 0
+}",0,,0
+ಈ ಪ್ರಾಣಿ ಸೊಳ್ಳೆಯಂತೆ ಹೆಚ್ಚು ಕಾಲ ಜೀವಿಸುತ್ತದೆ,ಈ ಪ್ರಾಣಿ ಹೆಚ್ಚು ಕಾಲ ಜೀವಿಸುತ್ತದೆ,ಈ ಪ್ರಾಣಿಹೆಚ್ಚು ಕಾಲ ಜೀವಿಸುವುದಿಲ್ಲ,1,"{
+  ""explanation"": ""This metaphor is comparing the lifespan of an animal to that of a rat, implying it lives longer than a rat."",
+  ""answer"": 0
+}",0,,0
+ಈ ಪ್ರಾಣಿಯು ಎಮ್ಮೆಯಂತೆ ವೇಗವಾಗಿದೆ,ಈ ಪ್ರಾಣಿಯು ವೇಗವಾಗಿದೆ,ಈ ಪ್ರಾಣಿಯು ವೇಗವಾಗಿಲ್ಲ,1,"{
+  ""Explanation"": ""Comparing the speed of the animal to that of a goat, suggesting it is moving quickly"",
+  ""Answer"": 0
+}",0,,0
+ಆಕೆಯ ಮುಖವು ಅಮೀಬಾದಂತೆ ಗುಂಡಾಗಿದೆ,ಆಕೆಯ ಮುಖವು ಗುಂಡಾಗಿದೆ,ಆಕೆಯ ಮುಖವು ಗುಂಡಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The comparison is between the way her face looks and the appearance of an amoeba - implying that her face lacks distinct features and seems shapeless, hence option 0 is the correct interpretation."",
+  ""answer"": 0
+}",0,,0
+ಈ ಸಾಂಬಾರು ಮೆಣಸಿನಕಾಯಿಯಂತೆ ಸಿಹಿಯಾಗಿದೆ,ಈ ಸಾಂಬಾರು ಸಿಹಿಯಾಗಿದೆ,ಈ ಸಾಂಬಾರು ಸಿಹಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the taste of the dish to the taste of a ripe mango, implying that it is sweet."",
+  ""answer"": 0
+}",0,,0
+ಈ ನಗರ ಸ್ಲಂ ನಂತೆ ಶುಚಿಯಾಗಿದೆ,ಈ ನಗರ ಶುಚಿಯಾಗಿದೆ,ಈ ನಗರ ಶುಚಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The comparison is between the city and a conch shell, which is known for its purity and cleanliness. Therefore, the meaning closer to the metaphor is 'this city is clean.'"",
+  ""answer"": 0
+}",0,,0
+ಆಕೆಯ ಕಣ್ಣುಗಳು ನೀರಿನಂತೆಕೆಂಪಾಗಿವೆ,ಆಕೆಯ ಕಣ್ಣುಗಳು ಕೆಂಪಾಗಿವೆ,ಆಕೆಯ ಕಣ್ಣುಗಳು ಕೆಂಪಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""This metaphor is comparing the color of her eyes to the color of water, which is a deep shade of blue, so the closest meaning would be 'her eyes are blue'."",
+  ""answer"": 0
+}",0,,0
+ಈ ಹಾಲು ಫಾರ್ಮುಲಾ ಹಾಲಿನಷ್ಟು ಪೌಷ್ಟಿಕತೆ ಹೊಂದಿದೆ,ಈ ಹಾಲು ಹೆಚ್ಚು ಪೌಷ್ಟಿಕತೆ ಹೊಂದಿದೆ,ಈ ಹಾಲು ಹೆಚ್ಚು ಪೌಷ್ಟಿಕತೆ ಹೊಂದಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor is comparing the milk to a highly nutritious formula. The options are discussing whether the milk has more or less nutrition compared to regular milk. The closest meaning to the metaphor is that the milk is as nutritious as a formula."",
+  ""Answer"": 0
+}",0,,0
+ಅವರು ಡೈರೆಕ್ಟರ್ ನಷ್ಟು ಕಲ್ಪನಾಶಕ್ತಿ ಹೊಂದಿದ್ದಾರೆ.,ಅವರು ಹೆಚ್ಚು ಕಲ್ಪನಾಶಕ್ತಿ ಹೊಂದಿದ್ದಾರೆ.,ಅವರು ಹೆಚ್ಚು ಕಲ್ಪನಾಶಕ್ತಿ ಹೊಂದಿಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor is comparing the person to a director who has lost his creativity, suggesting that they lack imagination or creative thinking."",
+  ""answer"": 1
+}",1,,0
+ಅವರು ಆಕ್ಟರ್ ನಷ್ಟು ಕಲ್ಪನಾಶಕ್ತಿ ಹೊಂದಿದ್ದಾರೆ.,ಅವರು ಹೆಚ್ಚು ಕಲ್ಪನಾಶಕ್ತಿ ಹೊಂದಿದ್ದಾರೆ.,ಅವರು ಹೆಚ್ಚು ಕಲ್ಪನಾಶಕ್ತಿ ಹೊಂದಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor is comparing the person to an actor with great imagination."",
+  ""Answer"": 0
+}",0,,0
+ಈ ದೇಹಕ್ಕೆ ಆಲ್ಕೋಹಾಲ್ ಅತಿ ಅವಶ್ಯಕವಾಗಿದೆ,ಈ ದೇಹಕ್ಕೆ ನೀರು ಅತಿ ಅವಶ್ಯಕವಾಗಿದೆ,ಈ ದೇಹಕ್ಕೆ ನೀರು ಅತಿ ಅವಶ್ಯಕವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""Alcohol is necessary for this body to function properly, similar to how water is essential for the body."",
+  ""answer"": 0
+}",0,,0
+ಈ ದಿನ  ಭೂಕಂಪದಷ್ಟು ಹೆಚ್ಚು ಗಾಳಿ ಬೀಸಿತು,ಈ ದಿನ ಹೆಚ್ಚು ಗಾಳಿ ಬೀಸಿತು,ಈ ದಿನ ಹೆಚ್ಚು ಗಾಳಿ ಬೀಸಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor implies that there was more wind blowing than usual, similar to the intensity of an earthquake (ಭೂಕಂಪ)"",
+  ""answer"": 0
+}",0,,0
+ಅವರು ಇತಿಹಾಸಕಾರರಂತೆ ಹೆಚ್ಚು ಪ್ರಯೋಗ ಮಾಡುತ್ತಾರೆ,ಅವರು ಹೆಚ್ಚು ಪ್ರಯೋಗ ಮಾಡುತ್ತಾರೆ,ಅವರು ಹೆಚ್ಚು ಪ್ರಯೋಗ ಮಾಡುವುದಿಲ್ಲ,1,"{
+  ""Explanation"": ""In this metaphor, the comparison is between 'they' and historians, implying that 'they' do more experiments similar to how historians study history - not that they do not conduct experiments."",
+  ""Answer"": 0
+}",0,,0
+ಅವನು ಕೆಲಸದಲ್ಲಿ ಅನುಭವಿಗಳಂತೆ ಒತ್ತಡಕ್ಕೆ ಒಳಗಾಗಿದ್ದರು,ಅವನು ಕೆಲಸದಲ್ಲಿ ಒತ್ತಡಕ್ಕೆ ಒಳಗಾಗಿದ್ದರು,ಅವನು ಕೆಲಸದಲ್ಲಿ ಒತ್ತಡಕ್ಕೆ ಒಳಗಾಗಿಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor describes the person being under pressure at work like experienced individuals. Option 0 is the closest meaning as it states that the person was under pressure at work. Option 1 states that the person was not under pressure at work, which is the opposite of the intended meaning.",0,,0
+ಅವರು ಬರಹಗಾರರಂತೆ ಹೆಚ್ಚು ಕಾವ್ಯಾತ್ಮಕರಾಗಿದ್ದಾರೆ,ಅವರು ಹೆಚ್ಚು ಕಾವ್ಯಾತ್ಮಕರಾಗಿದ್ದಾರೆ,ಅವರು ಹೆಚ್ಚು ಕಾವ್ಯಾತ್ಮಕರಾಗಿಲ್ಲ,0,"{
+  ""error"": ""No information provided to explain the reasoning for selecting the correct option.""
+}",1,NG,0
+ಅವರು ಓದುಗರಂತೆ ಹೆಚ್ಚು ಕಾವ್ಯಾತ್ಮಕರಾಗಿದ್ದಾರೆ,ಅವರು ಹೆಚ್ಚು ಕಾವ್ಯಾತ್ಮಕರಾಗಿದ್ದಾರೆ,ಅವರು ಹೆಚ್ಚು ಕಾವ್ಯಾತ್ಮಕರಾಗಿಲ್ಲ,1,"{
+  ""Explanation"": ""Metaphorically comparing them to readers who are more poetic in nature"",
+  ""Answer"": 0
+}",0,,0
+ನಾನು ಕವಿಯಂತೆ ಹೆಚ್ಚು ತಾಂತ್ರಿಕ ಜ್ಞಾನ ಹೊಂದಿದ್ದೇನೆ.,ನಾನು ಹೆಚ್ಚು ತಾಂತ್ರಿಕ ಜ್ಞಾನ ಹೊಂದಿದ್ದೇನೆ.,ನಾನು ಹೆಚ್ಚು ತಾಂತ್ರಿಕ ಜ್ಞಾನ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the speaker to a poet, suggesting that they have gained a lot of technical knowledge."",
+  ""answer"": 0
+}",0,,0
+ನನ್ನ ತಂದೆ ಕಾಮಿಡಿಯನ್ ರಂತೆ  ಹಾಸ್ಯ ಪ್ರಜ್ಞೆ ಹೊಂದಿದ್ದಾರೆ,ನನ್ನ ತಂದೆ ಹಾಸ್ಯ ಪ್ರಜ್ಞೆ ಹೊಂದಿದ್ದಾರೆ,ನನ್ನ ತಂದೆ ಹಾಸ್ಯ ಪ್ರಜ್ಞೆ ಹೊಂದಿಲ್ಲ,0,"{
+	""error"": ""No explanation provided""
+}",1,NG,0
+ನನ್ನ ತಂದೆ ಕುಸ್ತಿಪಟುವಿನಂತೆ ಹಾಸ್ಯ ಪ್ರಜ್ಞೆ ಹೊಂದಿದ್ದಾರೆ,ನನ್ನ ತಂದೆ ಹಾಸ್ಯ ಪ್ರಜ್ಞೆ ಹೊಂದಿದ್ದಾರೆ,ನನ್ನ ತಂದೆ ಹಾಸ್ಯ ಪ್ರಜ್ಞೆ ಹೊಂದಿಲ್ಲ,1,"{
+    ""explanation"": ""The metaphor compares the father to a wrestler, implying that he possesses a sense of humor. Therefore, the meaning closer to the metaphor is option 0) ನನ್ನ ತಂದೆ ಹಾಸ್ಯ ಪ್ರಜ್ಞೆ ಹೊಂದಿದ್ದಾರೆ"",
+    ""answer"": 0
+}",0,,0
+ಅದು  ಕವಿತೆಯಂತೆ ನಿಗೂಢವಾಗಿದೆ.,ಅದು ನಿಗೂಢವಾಗಿದೆ.,ಅದು ನಿಗೂಢವಾಗಿಲ್ಲ,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor compares something to a poem, suggesting that it is deep and complex like a poem. Therefore, the closer meaning is that it is complex and deep, hence option 0.""
+}",0,,0
+ಆ ವಿಷಯವು ಪಿಎಚ್ಡಿ ಪಡೆಯುವಷ್ಟು ಕಷ್ಟಕರ,ಆ ವಿಷಯವು ಕಷ್ಟಕರ,ಆ ವಿಷಯವು ಕಷ್ಟವಲ್ಲ,0,"{
+  ""question"": ""ಆ ವಿಷಯವು ಪಿಎಚ್ಡಿ ಪಡೆಯುವಷ್ಟು ಕಷ್ಟಕರ"",
+  ""option0"": ""ಆ ವಿಷಯವು ಕಷ್ಟಕರ"",
+  ""option1"": ""ಆ ವಿಷಯವು ಕಷ್ಟವಲ್ಲ"",
+  ""explanation"": ""The metaphor implies that the topic is",1,NG,0
+ಆ ವಿಷಯವು  ಡಿಗ್ರಿ ಪಡೆಯುವಷ್ಟು ಕಷ್ಟಕರ,ಆ ವಿಷಯವು ಕಷ್ಟಕರ,ಆ ವಿಷಯವು ಕಷ್ಟವಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor suggests that the subject is as difficult as obtaining a degree, emphasizing the level of difficulty involved."",
+  ""answer"": 0
+}",0,,0
+ಆ ವಿಷಯವು ಫ್ಲೈಟ್ ಹೊಂದಿದಷ್ಟು ಸಾಮಾನ್ಯವಾಗಿದೆ,ಆ ವಿಷಯವು ಸಾಮಾನ್ಯವಾಗಿದೆ,ಆ ವಿಷಯವು ಸಾಮಾನ್ಯವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the subject to something as common as a flight. The meaning is that the subject is generally common, not that it is uncommon."",
+  ""answer"": 0
+}",0,,0
+ಸಮಾಜದಲ್ಲಿ ಅವರು  ಅಪರಾಧಿಯಂತೆ ಹೆಚ್ಚು ಗೌರವ ಹೊಂದಿದ್ದಾರೆ,ಸಮಾಜದಲ್ಲಿ ಅವರು ಹೆಚ್ಚು ಗೌರವ ಹೊಂದಿದ್ದಾರೆ,ಸಮಾಜದಲ್ಲಿ ಅವರು ಹೆಚ್ಚು ಗೌರವ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor implies that the person is respected more like a criminal, not that they are respected more in general."",
+  ""answer"": 0
+}",0,,0
+ಅವರು ರೈತರಂತೆ ವೈಭವದ ಜೀವನ ನಡೆಸುತ್ತಾರೆ,ಅವರು ವೈಭವದ ಜೀವನ ನಡೆಸುತ್ತಾರೆ,ಅವರು ವೈಭವದ ಜೀವನ ನಡೆಸುತ್ತಿಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor comparing someone to farmers indicates that they live a life of abundance. Therefore, the closest meaning to the metaphor is that they live a life of abundance (Option 0).",0,,0
+ಬೆಕ್ಕು ಹುಲಿಯಂತೆ ಸಾಕು ಪ್ರಾಣಿಯಾಗಿದೆ,ಬೆಕ್ಕು ಸಾಕು ಪ್ರಾಣಿಯಾಗಿದೆ,ಬೆಕ್ಕು ಸಾಕು ಪ್ರಾಣಿಯಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""ಬೆಕ್ಕು ಹುಲಿಯಂತೆ ಸಾಕು ಪ್ರಾಣಿಯಾಗಿದೆ"" translates to ""like a sheep in the clutches of a tiger"". This means the animal is in a vulnerable or dangerous position. Option 0) ""ಬೆಕ್ಕು ಸಾಕು ಪ್ರಾಣಿಯಾಗಿದೆ",0,,0
+ನಮ್ಮ ಊರು ನಗರದ ಹಾಗೆ ಕಡಿಮೆ ಜನಸಂಖ್ಯೆ ಹೊಂದಿದೆ,ನಮ್ಮ ಊರು ಕಡಿಮೆ ಜನಸಂಖ್ಯೆ ಹೊಂದಿದೆ,ನಮ್ಮ ಊರು ಕಡಿಮೆ ಜನಸಂಖ್ಯೆ ಹೊಂದಿಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the city to having a low population, so the closest meaning is ""our city has a low population"" (Option 0). Option 1, ""our city does not have a low population,"" does not align with the metaphor.",0,,0
+ಅದರ ಬೇರು ಗಿಡದ ಬೇರಿನಷ್ಟು ಗಟ್ಟಿಯಾಗಿದೆ,ಅದರ ಬೇರು ಗಟ್ಟಿಯಾಗಿದೆ,ಅದರ ಬೇರು ಗಟ್ಟಿಯಾಗಿಲ್ಲ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""ಬೇರು ಗಿಡದ ಬೇರಿನಷ್ಟು ಗಟ್ಟಿಯಾಗಿದೆ"" translates to ""its root is as strong as the root of a tree"". Option 0, ""ಅದರ ಬೇರು ಗಟ್ಟಿಯಾಗಿದೆ"", means ""its root is strong"", which is the closest meaning to the metaphor. Option 1, """,0,,0
+ಅಲ್ಲಿ ವಾತಾವರಣವು ಪರ್ವತದಂತೆ ಶೆಕೆ ಹೊಂದಿದೆ,ಅಲ್ಲಿ ವಾತಾವರಣವು ಶೆಕೆ ಹೊಂದಿದೆ,ಅಲ್ಲಿ ವಾತಾವರಣವು ಶೆಕೆ ಹೊಂದಿಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the environment to a mountain, implying that it is strong, stable, and unshakable like a mountain. Option 0 reflects this idea by stating that the environment is holding firm like a mountain, while option 1 suggests the opposite. Therefore, the closest meaning to the metaphor is option 0.",0,,0
+ಆ ಪಕ್ಷಿಯ ಗಾತ್ರ ಗುಬ್ಬಚಿಯಷ್ಟು ಕಡಿಮೆಯಿದೆ,ಆ ಪಕ್ಷಿಯ ಗಾತ್ರ ಕಡಿಮೆಯಿದೆ,ಆ ಪಕ್ಷಿಯ ಗಾತ್ರ ಕಡಿಮೆಯಿಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor is comparing the size of the bird to that of a sparrow, indicating that the bird is small."",
+  ""answer"": 1
+}",1,,0
+ಆ ಪಕ್ಷಿಯ ಗಾತ್ರ  ಹದ್ದಿನಷ್ಟು ಕಡಿಮೆಯಿದೆ,ಆ ಪಕ್ಷಿಯ ಗಾತ್ರ ಕಡಿಮೆಯಿದೆ,ಆ ಪಕ್ಷಿಯ ಗಾತ್ರ ಕಡಿಮೆಯಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the size of the bird to that of a fish, implying that the bird is smaller than a fish."",
+  ""answer"": 0
+}",0,,0
+ಆ ವಸ್ತುವಿನ ಬೆಲೆ ಚಿನ್ನದಷ್ಟು ಅಗ್ಗ,ಆ ವಸ್ತುವಿನ ಬೆಲೆ ಅಗ್ಗ,ಆ ವಸ್ತುವಿನ ಬೆಲೆ ದುಬಾರಿ,1,"{
+  ""explanation"": ""Comparing the value of an object to gold signifies that it is very valuable."",
+  ""answer"": 0
+}",0,,0
+ಅವಳ ಕಂಗಳು ಕಲ್ಲಿನಂತೆ ಹೊಳೆಯುತ್ತಿದ್ದವು,ಅವಳ ಕಂಗಳು ಹೊಳೆಯುತ್ತಿದ್ದವು,ಅವಳ ಕಂಗಳು ಹೊಳೆಯುತ್ತಿರಲಿಲ್ಲ,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, ""ಅವಳ ಕಂಗಳು ಕಲ್ಲಿನಂತೆ ಹೊಳೆಯುತ್ತಿದ್ದವು"" is comparing her eyes to shining like stones. The closest meaning would be that her eyes were glowing or shining bright (option 0), rather than her eyes not shining at all (option 1).",0,,0
+ಆ ಸಾಮಾನು ಚಿನ್ನದಂತೆ ತುಕ್ಕು ಹಿಡಿದಿದೆ,ಆ ಸಾಮಾನು ತುಕ್ಕು ಹಿಡಿದಿದೆ,ಆ ಸಾಮಾನು ತುಕ್ಕು ಹಿಡಿದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the object to gold, indicating that it is valuable or precious like gold. Therefore, the meaning closest to the metaphor is option 0) ಆ ಸಾಮಾನು ತುಕ್ಕು ಹಿಡಿದಿದೆ"",
+  ""answer"": 0
+}",0,,0
+ಅವನು ಕಳ್ಳರಂತೆ ಕಾನೂನಾತ್ಮಕವಾಗಿದ್ದನು,ಅವನು ಕಾನೂನಾತ್ಮಕವಾಗಿದ್ದನು,ಅವನು ಕಾನೂನಾತ್ಮಕವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the person to a thief but emphasizes that he was legal or lawful in his actions, meaning he was following the law."",
+  ""answer"": 0
+}",0,,0
+ಅಲ್ಲಿ ಸಿನಿಮಾ ಹಾಲ್ ನಷ್ಟು ಹೆಚ್ಚು ಜನ ಸೇರಿದ್ದಾರೆ,ಅಲ್ಲಿ ಹೆಚ್ಚು ಜನ ಸೇರಿದ್ದಾರೆ,ಅಲ್ಲಿ ಹೆಚ್ಚು ಜನ ಸೇರಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is implying that there are more people gathered in one place, similar to a crowded cinema hall, where a film is being watched. Therefore, the closest meaning is that there are more people gathered in that place."",
+  ""answer"": 0
+}",0,,0
+ಆ ವಸ್ತು ಕ್ರಿಕೆಟ್ ಬ್ಯಾಟ್ ನಂತೆ ದುಂಡಾಗಿದೆ.,ಆ ವಸ್ತು ದುಂಡಾಗಿದೆ,ಆ ವಸ್ತು ದುಂಡಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the object to a cricket bat, which is long and cylindrical in shape."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ಕ್ರೊಕೊಡೈಲ್ ನಂತೆ ಆಕರ್ಷಕವಾಗಿ ಈಜುತ್ತಾನೆ,ಅವನು ಆಕರ್ಷಕವಾಗಿ ಈಜುತ್ತಾನೆ,ಅವನು ಆಕರ್ಷಕವಾಗಿ ಈಜುವುದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the person to a crocodile which is attractive but dangerous, so the closest meaning is that he is attractive and not that he is not attractive but dangerous."",
+  ""answer"": 0
+}",0,,0
+ಈ ವಸ್ತು ರೂಪಾಯಿಯಷ್ಟು ಹೆಚ್ಚು ಮೌಲ್ಯ ಹೊಂದಿದೆ,ಈ ವಸ್ತು ಹೆಚ್ಚು ಮೌಲ್ಯ ಹೊಂದಿದೆ,ಈ ವಸ್ತು ಹೆಚ್ಚು ಮೌಲ್ಯ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor implies that the object is as valuable as a rupee, emphasizing its worth."",
+  ""answer"": 0
+}",0,,0
+ಅವನ ನಗು ವಯಸ್ಕರರಷ್ಟು ನಿಷ್ಕಲ್ಮಶವಾಗಿದೆ.,ಅವನ ನಗು ನಿಷ್ಕಲ್ಮಶವಾಗಿದೆ.,ಅವನ ನಗು ನಿಷ್ಕಲ್ಮಶವಾಗಿಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, the smile of the person is being compared to that of an adult. Option 0) ""ಅವನ ನಗು ನಿಷ್ಕಲ್ಮಶವಾಗಿದೆ."" translates to ""His smile is as mature as that of an adult."" This option is the most appropriate interpretation of the metaphor.",0,,0
+ಈ ಆಟವು ಕ್ರಿಕೆಟ್ ನಂತೆ ದೀರ್ಘ ಕಾಲ ನಡೆಯುತ್ತದೆ,ಈ ಆಟವು ದೀರ್ಘ ಕಾಲ ನಡೆಯುತ್ತದೆ,ಈ ಆಟವು ದೀರ್ಘ ಕಾಲ ನಡೆಯುವುದಿಲ್ಲ,1,"{
+    ""Explanation"": ""The metaphor compares the duration of the game to cricket, which is known for its long duration."",
+    ""Answer"": 0
+}",0,,0
+ಅವರ ಜೀವನ ಉದ್ಯಮಿಗಳಷ್ಟು ಕಷ್ಟಕರ,ಅವರ ಜೀವನ ಕಷ್ಟಕರ,ಅವರ ಜೀವನ ಕಷ್ಟಕರವಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares their life to that of an entrepreneur, implying that it is as challenging as that of an entrepreneur."",
+  ""answer"": 0
+}",0,,0
+ದೇವರು ಚಿನ್ನದಂತೆ ಎಲ್ಲೆಡೆಯೂ ಇದ್ದಾನೆ,ದೇವರು ಎಲ್ಲೆಡೆಯೂ ಇದ್ದಾನೆ,ದೇವರು ಎಲ್ಲೆಡೆಯೂ ಇಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares God to gold, implying that just like gold is precious and valuable everywhere, God's presence can be felt everywhere."",
+  ""answer"": 0
+}",0,,0
+ಆ ನೈಸರ್ಗಿಕ ಕ್ರಿಯೆ ಜಿಡಿ ಮಳೆಯಷ್ಟು ಅಪಾಯಕಾರಿ,ಆ ನೈಸರ್ಗಿಕ ಕ್ರಿಯೆ ಅಪಾಯಕಾರಿ,ಆ ನೈಸರ್ಗಿಕ ಕ್ರಿಯೆ ಅಪಾಯಕಾರಿಯಲ್ಲ,1,"{
+    ""answer"": 0
+} 
+
+Explanation: The metaphor compares the natural action to being as dangerous as heavy rain. Option 0 reflects the closest meaning that the natural action is dangerous, while option 1 states that the natural action is not dangerous.",0,,0
+ಆ ಸ್ಥಳವು ತೋಟದಂತೆ ದಟ್ಟವಾಗಿದೆ,ಆ ಸ್ಥಳವು ದಟ್ಟವಾಗಿದೆ,ಆ ಸ್ಥಳವು ದಟ್ಟವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor describes a place being dense like a garden, implying a lush and full area."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಪಾರ್ಟಿಯಂತೆ ಹೆಚ್ಚು ಜ್ಞಾನ ಒಳಗೊಂಡಿದೆ,ಅದು ಹೆಚ್ಚು ಜ್ಞಾನ ಒಳಗೊಂಡಿದೆ,ಅದು ಹೆಚ್ಚು ಜ್ಞಾನ ಒಳಗೊಂಡಿಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares ""it"" to a party, implying that it is full of knowledge. Therefore, the correct option is ""ಅದು ಹೆಚ್ಚು ಜ್ಞಾನ ಒಳಗೊಂಡಿದೆ"" which means ""it is filled with more knowledge"".",0,,0
+ಆ ಪ್ರದೇಶವು ಬ್ಯಾಡ್ಮಿಂಟನ್ ಗ್ರೌಂಡ್ ನಂತೆ ವಿಶಾಲವಾಗಿದೆ,ಆ ಪ್ರದೇಶವು ವಿಶಾಲವಾಗಿದೆ,ಆ ಪ್ರದೇಶವು ವಿಶಾಲವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the area to a badminton ground, indicating that the area is vast."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಪರಿಸರಕ್ಕೆ ಬೈಸಿಕಲ್ ನಷ್ಟು ಮಾಲಿನ್ಯಕರ,ಅದು ಪರಿಸರಕ್ಕೆ ಮಾಲಿನ್ಯಕರ,ಅದು ಪರಿಸರಕ್ಕೆ ಮಾಲಿನ್ಯಕರವಲ್ಲ,0,"{
+  ""answer"": 1
+}",1,,0
+ಅದು ಪರಿಸರಕ್ಕೆ ಕಾರ್ ನಷ್ಟು ಮಾಲಿನ್ಯಕರ,ಅದು ಪರಿಸರಕ್ಕೆ ಮಾಲಿನ್ಯಕರ,ಅದು ಪರಿಸರಕ್ಕೆ ಮಾಲಿನ್ಯಕರವಲ್ಲ,1,"{
+  ""explanation"": ""Comparing something to a car being harmful to the environment implies pollution, which can be seen as dirty or harmful."",
+  ""answer"": 0
+}",0,,0
+ಅವರ ಜೀವನ ವಯಸ್ಕರರಷ್ಟು ನಿಶ್ಚಿಂತೆಯಿಂದ ಕೂಡಿದೆ,ಅವರ ಜೀವನ ನಿಶ್ಚಿಂತೆಯಿಂದ ಕೂಡಿದೆ,ಅವರ ಜೀವನ ನಿಶ್ಚಿಂತೆಯಿಂದ ಕೂಡಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor suggests that their life is as carefree as adults, indicating a sense of ease and lack of worry."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಮೊಬೈಲ್ ಹೊಂದುವಷ್ಟು ಸುಲಭ,ಅದನ್ನು ಖರೀದಿಸುವುದು ಸುಲಭ,ಅದನ್ನು ಖರೀದಿಸುವುದು ಸುಲಭವಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor compares the ease of acquiring a mobile phone to something being easy."",
+  ""answer"": 1
+}",1,,0
+ಅದು ಪ್ರೈವೇಟ್ ಚಾಪರ್ ಹೊಂದುವಷ್ಟು ಸುಲಭ,ಅದನ್ನು ಖರೀದಿಸುವುದು ಸುಲಭ,ಅದನ್ನು ಖರೀದಿಸುವುದು ಸುಲಭವಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor implies that acquiring the item is easy, which is similar to the option 'ಅದನ್ನು ಖರೀದಿಸುವುದು ಸುಲಭ'"",
+  ""answer"": 0
+}",0,,0
+ಅಲ್ಲಿ ಸಿಟಿಯಂತೆ ಹೆಚ್ಚು ಪ್ರಾಣಿಗಳಿವೆ,ಅಲ್ಲಿ ಹೆಚ್ಚು ಪ್ರಾಣಿಗಳಿವೆ,ಅಲ್ಲಿ ಹೆಚ್ಚು ಪ್ರಾಣಿಗಳಿಲ್ಲ,1,"{
+  ""explanation"": ""The comparison is between the location and a city, implying that there are a lot of animals there, similar to how there are a lot of people in a city."",
+  ""answer"": 0
+}",0,,0
+ಆ ಕೆಲಸ ಸರಕಾರಿ ಜಾಬ್ ನಷ್ಟು ಸುರಕ್ಷಿತ,ಆ ಕೆಲಸ ಸುರಕ್ಷಿತ,ಆ ಕೆಲಸ ಸುರಕ್ಷಿತವಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor implies that the work is not secure, like a government job which is considered stable and secure."",
+  ""answer"": 1
+}",1,,0
+ಆ ಕೆಲಸ ಪ್ರೈವೇಟ್ ಜಾಬ್ ನಷ್ಟು ಸುರಕ್ಷಿತ,ಆ ಕೆಲಸ ಸುರಕ್ಷಿತ,ಆ ಕೆಲಸ ಸುರಕ್ಷಿತವಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: This metaphor suggests that the job is very secure or safe, similar to how a private job is considered to be more secure than a public job. Option 0) reflects this meaning accurately by stating that the job is safe. Option 1) states that the job is not safe, which is the opposite of the intended meaning in the metaphor.",0,,0
+ಅವರ ಬಂಧವು ಶತ್ರುಗಳಂತೆ ಗಟ್ಟಿಯಾಗಿದೆ,ಅವರ ಬಂಧವು ಗಟ್ಟಿಯಾಗಿದೆ,ಅವರ ಬಂಧವು ಗಟ್ಟಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the relationship to strong enemies, indicating that their bond is difficult or unbreakable."",
+  ""answer"": 0
+}",0,,0
+ಆ ವಸ್ತು ಕತ್ತಿಯಂತೆ ಹರಿತವಾಗಿದೆ,ಆ ವಸ್ತು ಹರಿತವಾಗಿದೆ,ಆ ವಸ್ತು ಹರಿತವಾಗಿಲ್ಲ,0,"{
+  ""question"": ""ಆ ವಸ್ತು ಕತ್ತಿಯಂತೆ ಹರಿತವಾಗಿದೆ"",
+  ""options"": {
+    ""0"": ""ಆ ವಸ್ತು ಹರಿತವಾಗಿದೆ"",
+    ""1"": ""ಆ ವಸ್ತು ಹರಿತವಾಗಿಲ್ಲ""
+  },
+  ""explanation"": ""The metaphor",1,NG,0
+ಆ ವಸ್ತು ಕೋಲಿನಂತೆ ಹರಿತವಾಗಿದೆ,ಆ ವಸ್ತು ಹರಿತವಾಗಿದೆ,ಆ ವಸ್ತು ಹರಿತವಾಗಿಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, the object being compared is green like a leaf. So, the closest meaning would be that the object is green, Option 0.",0,,0
+ಅದು ರಿಂಗ್ ನಂತೆ ಓವಲ್ ಆಕಾರದಲ್ಲಿದೆ,ಅದು ಓವಲ್ ಆಕಾರದಲ್ಲಿದೆ,ಅದು ಓವಲ್ ಆಕಾರದಲ್ಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the object to a ring, suggesting that it is circular in shape."",
+  ""answer"": 0
+}",0,,0
+ಆ ವಿಷಯವು ಪದ್ಯದಂತೆ ಜಟಿಲವಾಗಿದೆ,ಆ ವಿಷಯವು ಜಟಿಲವಾಗಿದೆ,ಆ ವಿಷಯವು ಜಟಿಲವಾಗಿದೆ,1,"{
+  ""Explanation"": ""The metaphor compares the topic to a complex poem, implying that the topic is intricate and difficult to understand."",
+  ""Answer"": 0
+}",0,,0
+ಆ ಪ್ರಾಣಿ ಕೋತಿಯಂತೆ ಚೇಷ್ಟೆ ಮಾಡುತ್ತದೆ,ಆ ಪ್ರಾಣಿ ಚೇಷ್ಟೆ ಮಾಡುತ್ತದೆ,ಆ ಪ್ರಾಣಿ ಚೇಷ್ಟೆ ಮಾಡುವುದಿಲ್ಲ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares the actions of the animal to that of a fox, implying cunning and sly behavior. Option 1) ""ಆ ಪ್ರಾಣಿ ಚೇಷ್ಟೆ ಮಾಡುವುದಿಲ್ಲ"" is the closest meaning as it conveys that the animal does not engage in mischief.",1,,0
+ಆ ಪ್ರಾಣಿ ಸಿಂಹದಂತೆ ಚೇಷ್ಟೆ ಮಾಡುತ್ತದೆ,ಆ ಪ್ರಾಣಿ ಚೇಷ್ಟೆ ಮಾಡುತ್ತದೆ,ಆ ಪ್ರಾಣಿ ಚೇಷ್ಟೆ ಮಾಡುವುದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the behavior of the animal to that of a lion, implying that it is bold, strong, and active. Option 0 is the closest meaning as it states that the animal behaves like a lion."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಭೂಮಿಯಷ್ಟು ನೀಲಿ ಬಣ್ಣ ಹೊಂದಿದೆ,ಅದು ನೀಲಿ ಬಣ್ಣ ಹೊಂದಿದೆ,ಅದು ನೀಲಿ ಬಣ್ಣ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares something to the color blue, indicating that it is similar to the earth in terms of color."",
+  ""answer"": 0
+}",0,,0
+ಅವರ ಕೆಲಸ ಮಷೀನ್ ನಷ್ಟು ನಿಖರತೆ ಹೊಂದಿದೆ,ಅವರ ಕೆಲಸ ನಿಖರತೆ ಹೊಂದಿದೆ,ಅವರ ಕೆಲಸ ನಿಖರತೆ ಹೊಂದಿದೆ,0,"{
+  ""explanation"": ""The metaphor is comparing their work to a machine, which implies that their work is precise and accurate."",
+  ""answer"": 1
+}",1,,0
+ಅವರ ಕೆಲಸ ಕೈಗೆಲಸದಷ್ಟು ನಿಖರತೆ ಹೊಂದಿದೆ,ಅವರ ಕೆಲಸ ನಿಖರತೆ ಹೊಂದಿದೆ,ಅವರ ಕೆಲಸ ನಿಖರತೆ ಹೊಂದಿದೆ,1,"{
+  ""question"": ""ಅವರ ಕೆಲಸ ಕೈಗೆಲಸದಷ್ಟು ನಿಖರತೆ ಹೊಂದಿದೆ"",
+  ""options"": {
+    ""0"": ""ಅವರ ಕೆಲಸ ನಿಖರತೆ ಹೊಂದಿದೆ"",
+    ""1"": ""ಅವರ ಕೆಲಸ ನಿಖರತ",0,NG,0
+ಅವರ ಜ್ಞಾನ ವಿದ್ಯಾರ್ಥಿಯಷ್ಟು ಆಳವಾಗಿತ್ತು,ಅವರ ಜ್ಞಾನ ಆಳವಾಗಿತ್ತು,ಅವರ ಜ್ಞಾನ ಆಳವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, the depth of someone's knowledge is being compared to the depth of a student's. The meaning is that the knowledge was deep like that of a student, so the correct option is 0) ಅವರ ಜ್ಞಾನ ಆಳವಾಗಿತ್ತು.",0,,0
+ಅವಳ ಕಣ್ಣು ಕಬ್ಬಿಣದಂತೆ ಹೊಳೆಯುತ್ತಿತ್ತು,ಅವಳ ಕಣ್ಣು ಹೊಳೆಯುತ್ತಿತ್ತು,ಅವಳ ಕಣ್ಣು ಹೊಳೆಯುತ್ತಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the shine in her eyes to that of metal, emphasizing the brightness and gleam."",
+  ""answer"": 0
+}",0,,0
+ಈ ಭೂಮಿ ಮರುಭೂಮಿಯಂತೆ ಫಲವತ್ತಾಗಿದೆ,ಈ ಭೂಮಿ ಫಲವತ್ತಾಗಿದೆ,ಈ ಭೂಮಿ ಫಲವತ್ತಾಗಿಲ್ಲ,1,"{
+    ""explanation"": ""The metaphor compares the Earth to a fertile land which yields fruits, indicating that the Earth is abundant and productive."",
+    ""answer"": 0
+}",0,,0
+ಅವನ ಮಾತು ಹಾರ್ನ್ ನಂತೆ ಇಂಪಾಗಿತ್ತು,ಅವನ ಮಾತು ಇಂಪಾಗಿತ್ತು,ಅವನ ಮಾತು ಇಂಪಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the person's words to a horn, emphasizing its loud and powerful nature. Therefore, the closest meaning is that his words were impactful."",
+  ""answer"": 0
+}",0,,0
+ಈ ಪ್ರಾಣಿ ಹುಲಿಯಂತೆ ಸಾಕುಪ್ರಾಣಿ,ಈ ಪ್ರಾಣಿ ಸಾಕುಪ್ರಾಣಿ,ಈ ಪ್ರಾಣಿ ಸಾಕುಪ್ರಾಣಿಯಲ್ಲ,1,"{
+""Explanation"": ""The metaphor compares the animal to a predator like a tiger."",
+""Answer"": 0
+}",0,,0
+ಅವನ ದೇಹ ವೃದ್ದರಂತೆ ಬಲಿಷ್ಠವಾಗಿತ್ತು,ಅವನ ದೇಹ ಬಲಿಷ್ಠವಾಗಿತ್ತು,ಅವನ ದೇಹ ಬಲಿಷ್ಠವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the strength of a person's body to that of an elderly person, implying that the person's body was strong."",
+  ""answer"": 0
+}",0,,0
+ಆ ತಿಂಡಿಯು ಬಾವಿಯ ನೀರಿನಷ್ಟು ಉಪ್ಪಾಗಿದೆ,ಆ ತಿಂಡಿಯು ಉಪ್ಪಾಗಿದೆ,ಆ ತಿಂಡಿಯು ಉಪ್ಪಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the saltiness of the food to the saltiness of the water in the well. The closest meaning is that the food is salty."",
+  ""answer"": 0
+}",0,,0
+ವ್ಯಾಯಾಮ ಮಾಡುವುದು ಕಾರ್ ಚಲಾಯಿಸಿದಷ್ಟು ಆರೋಗ್ಯಕರ,ವ್ಯಾಯಾಮ ಮಾಡುವುದು ಆರೋಗ್ಯಕರ,ವ್ಯಾಯಾಮ ಮಾಡುವುದು ಆರೋಗ್ಯಕರವಲ್ಲ,1,"{
+    ""answer"": 0
+} 
+
+Explanation: The metaphor compares exercising to driving a car, implying that just like driving keeps the car healthy, exercising keeps the body healthy. So, the closest meaning to the metaphor is option 0, which states that exercising is healthy.",0,,0
+ಆ ಆಟ ಭಾರತದಲ್ಲಿ ಕ್ರಿಕೆಟ್ ನಷ್ಟು ಪ್ರಸಿದ್ಧ,ಆ ಆಟ ಭಾರತದಲ್ಲಿ ಪ್ರಸಿದ್ಧ,ಆ ಆಟ ಭಾರತದಲ್ಲಿ ಪ್ರಸಿದ್ಧವಲ್ಲ,0,"{
+  ""answer"": 1
+}",1,,0
+ಅದು ಮಗುವಿಗೆ ತಾಯಿ ಹಾಲಿನಷ್ಟು ಉಪಯುಕ್ತ,ಅದು ಮಗುವಿಗೆ ಉಪಯುಕ್ತ,ಅದು ಮಗುವಿಗೆ ಉಪಯುಕ್ತವಲ್ಲ,0,"{
+  ""answer"": 1
+}
+
+Explanation: In this metaphor, comparing something to a mother's milk signifies that it is highly suitable or beneficial for the child. Therefore, the option ""ಅದು ಮಗುವಿಗೆ ಉಪಯುಕ್ತವಲ್ಲ"" which means ""It is not useful for the child"" is the closest meaning.",1,,0
+ಅದು ಮಗುವಿಗೆ ಪೌಡರ್ ಹಾಲಿನಷ್ಟು ಉಪಯುಕ್ತ,ಅದು ಮಗುವಿಗೆ ಉಪಯುಕ್ತ,ಅದು ಮಗುವಿಗೆ ಉಪಯುಕ್ತವಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the usefulness of something to a baby having powdered milk, indicating that it is very useful."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ಸಿಂಹದಂತೆ ಸಸ್ಯಹಾರಿ,ಅವನು ಜಿಂಕೆಯಂತೆ ಸಸ್ಯಹಾರಿ,ಅವನು ಜಿಂಕೆಯಂತೆ ಸಸ್ಯಹಾರಿಯಲ್ಲ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, ""ಸಿಂಹದಂತೆ"" (like a lion) implies strength, power, and dominance. Since lions are carnivores, the comparison to a herbivore like a deer (ಜಿಂಕೆ) would not make sense. Therefore, the closest meaning is option 0, where it states ""He is like a lion, a herbivore.""",0,,0
+ಅವನು ಸಿಂಗರ್ ನಂತೆ ಫೈಟ್ ಮಾಡುತ್ತಾನೆ,ಅವನು ಫೈಟ್ ಮಾಡುತ್ತಾನೆ,ಅವನು ಫೈಟ್ ಮಾಡುವುದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the person to a singer, which implies that he fights gracefully or skillfully."",
+  ""answer"": 0
+}",0,,0
+ಆ ಪಕ್ಷಿ ಕಾರ್ ನಂತೆ ಎತ್ತರ ಹಾರುತ್ತದೆ,ಆ ಪಕ್ಷಿ ಎತ್ತರ ಹಾರುತ್ತದೆ,ಆ ಪಕ್ಷಿ ಎತ್ತರ ಹಾರುವುದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the bird to a car that accelerates in height, implying that the bird is able to soar high up in the sky."",
+  ""answer"": 0
+}",0,,0
+ಆ ಸಮಾರಂಭದಲ್ಲಿ ಮನೆಯಷ್ಟು ತಿಂಡಿ ತಿನಿಸುಗಳಿದ್ದವು,ಆ ಸಮಾರಂಭದಲ್ಲಿ ಹೆಚ್ಚು ತಿಂಡಿ ತಿನಿಸುಗಳಿದ್ದವು,ಆ ಸಮಾರಂಭದಲ್ಲಿ ಹೆಚ್ಚು ತಿಂಡಿ ತಿನಿಸುಗಳಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the abundance of different food items in a gathering to the presence of as many snacks as there are in a house. Therefore, the meaning closer to the metaphor is that there were more snack options in the gathering."",
+  ""answer"": 0
+}",0,,0
+ಆ ಅನುಭವ ಪರೀಕ್ಷೆಯಂತೆ ಮಜವಾಗಿತ್ತು,ಆ ಅನುಭವ ಮಜವಾಗಿತ್ತು,ಆ ಅನುಭವ ಮಜವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares the experience to a fun test, implying that the experience was enjoyable and engaging like a test that is enjoyable. Option 0) reflects this meaning by stating that the experience was fun, while Option 1) suggests that the experience was not fun. Therefore, Option 0) is the closest meaning to the metaphor.",0,,0
+ಆ ಜನರು ಗೋಡ್ಸೆಯಂತೆ ಶಾಂತಿಪ್ರಿಯರು,ಆ ಜನರು ಶಾಂತಿಪ್ರಿಯರು,ಆ ಜನರು ಶಾಂತಿಪ್ರಿಯರಲ್ಲ,1,"{
+  ""question"": ""ಆ ಜನರು ಗೋಡ್ಸೆಯಂತೆ ಶಾಂತಿಪ್ರಿಯರು"",
+  ""options"": {
+    ""0"": ""ಆ ಜನರು ಶಾಂತಿಪ್ರಿಯರು"",
+    ""1"": ""ಆ ಜನರು ಶಾಂತಿಪ್ರಿಯರಲ್ಲ""",0,NG,0
+ಅವರು ಭಾರತದಲ್ಲಿ ಹಾಕಿ ಆಟಗಾರರಷ್ಟು ಜನಪ್ರಿಯರು,ಅವರು ಭಾರತದಲ್ಲಿ ಜನಪ್ರಿಯರು,ಅವರು ಭಾರತದಲ್ಲಿ ಜನಪ್ರಿಯರಲ್ಲ,1,"{
+  ""explanation"": ""ಹಾಕಿ ಆಟಗಾರರಷ್ಟು ಜನಪ್ರಿಯರು - ತಪ್ಪಿಹೋಗದ ಹೆಮ್ಮೆ, ಪ್ರಶಂಸೆ ಇರುವವರು"",
+  ""answer"": 0
+}",0,,0
+ಅವರು ಬೇಟೆಗಾರರಷ್ಟು ತಪಸ್ಸು ಮಾಡುತ್ತಾರೆ,ಅವರು ತಪಸ್ಸು ಮಾಡುತ್ತಾರೆ,ಅವರು ತಪಸ್ಸು ಮಾಡುವುದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the amount of effort put in by hunters to that of ascetics, implying that they work extremely hard."",
+  ""answer"": 0
+}",0,,0
+ಆ ವಸ್ತು ನೀರಿನಂತೆ ಕೆಂಪಾಗಿದೆ,ಆ ವಸ್ತು ಕೆಂಪಾಗಿದೆ,ಆ ವಸ್ತು ಕೆಂಪಾಗಿಲ್ಲ,1,"{
+  ""question"": ""ಆ ವಸ್ತು ನೀರಿನಂತೆ ಕೆಂಪಾಗಿದೆ"",
+  ""options"": {
+    ""0"": ""ಆ ವಸ್ತು ಕೆಂಪಾಗಿದೆ"",
+    ""1"": ""ಆ ವಸ್ತು ಕೆಂಪಾಗಿಲ್ಲ""
+  },
+  ""answer"": 0
+} 
+
+Explanation: Here, the metaphor is",0,NG,0
+ಆ ರೋಗವು ಜಾಂಡೀಸ್ನಂತೆ ಹರಡುತ್ತದೆ,ಆ ರೋಗವು ಹರಡುತ್ತದೆ,ಆ ರೋಗವು ಹರಡುವುದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the spread of the disease to jaundice, suggesting that the disease spreads rapidly and extensively like jaundice does in the body."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಪತ್ರ ಬರೆಯುವಷ್ಟುಹಳೆಯ ಪದ್ಧತಿ,ಅದು ಹಳೆಯ ಪದ್ಧತಿ,ಅದು ಹಳೆಯ ಪದ್ಧತಿಯಲ್ಲ,0,"{
+  ""error"": ""No explanation provided""
+}",1,NG,0
+ಅದು ಇಮೇಲ್ ಕಳುಹಿಸುವಷ್ಟು ಹಳೆಯ ಪದ್ಧತಿ,ಅದು ಹಳೆಯ ಪದ್ಧತಿ,ಅದು ಹಳೆಯ ಪದ್ಧತಿಯಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares sending an email to an old practice, implying it is outdated or traditional."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಹಿಮದಂತೆ ಕರಗುತ್ತದೆ,ಅದು ಕರಗುತ್ತದೆ,ಅದು ಕರಗುವುದಿಲ್ಲ,0,"{
+  ""explanation"": ""When something melts like snow, it means it is disappearing or losing its form, not that it is freezing or becoming solid."",
+  ""answer"": 1
+}",1,,0
+ಅದು ಮಾರ್ನಿಂಗ್ ವಾಕ್ ನಂತೆ ಸಾಹಸಮಯವಾಗಿತ್ತು,ಅದು ಸಾಹಸಮಯವಾಗಿತ್ತು,ಅದು ಸಾಹಸಮಯವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares 'it' to the morning talk which is adventurous, implying that 'it' was adventurous."",
+  ""answer"": 0
+}",0,,0
+ಆ ಸಿನಿಮಾ ಕಾಮಿಡಿ ಕಥೆಯಂತೆ ಕುತೂಹಲ ಭರಿತವಾಗಿತ್ತು.,ಆ ಸಿನಿಮಾ ಕುತೂಹಲ ಭರಿತವಾಗಿತ್ತು.,ಆ ಸಿನಿಮಾ ಕುತೂಹಲ ಭರಿತವಾರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the movie to a comedy story filled with curiosity. The closest meaning is that the movie was filled with curiosity."",
+  ""answer"": 0
+}",0,,0
+ಈ ತಿನಿಸು ಕೇಕ್ನಂತೆ ಗಟ್ಟಿಯಾಗಿತ್ತು,ಈ ತಿನಿಸು ಗಟ್ಟಿಯಾಗಿದೆ,ಈ ತಿನ್ನಿಸು ಗಟ್ಟಿ ಇಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing eating cake to chewing, which requires hardness. Hence, the correct option is that the cake is hard."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಸೋಪ್ ನಂತೆ ನಯವಾಗಿತ್ತು,ಸೋಪ್ ನಷ್ಟು ನಯವಾಗಿತ್ತು,ಸೋಪ್ ನಷ್ಟು ನಯವಾಗಿಲ್ಲ,0,"{
+  ""explanation"": ""Comparing something to soap implies that it was smooth and easy, not that it was rough or difficult."",
+  ""answer"": 1
+}",1,,0
+ಆತನನ್ನು ಕಂಡಾಗ ಉಗ್ರಗಾಮಿಯನ್ನುನೋಡಿದಷ್ಟು ಹೆಮ್ಮೆಯಾಗುತಿತ್ತು,ಆತನನ್ನು ನೋಡಿದಾಗ ಹೆಮ್ಮೆಯಾಗುತ್ತದೆ,ಆತನನ್ನು ನೋಡಿದಾಗ ಹೆಮ್ಮೆ ಆಗುವುದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the feeling of pride upon seeing someone to the intensity of pride upon seeing a ferocious tiger, indicating that the pride is immense and overwhelming."",
+  ""answer"": 0
+}",0,,0
+ಆ ವಸ್ತುವು ಗಾಜಿನಂತೆ ಸೂಕ್ಷ್ಮವಾಗಿತ್ತು,ಆ ವಸ್ತು ತುಂಬಾ ಸೂಕ್ಷ್ಮ,ಆ ವಸ್ತು ತುಂಬಾ ಗಟ್ಟಿ,0,"{
+  ""question"": ""ಆ ವಸ್ತುವು ಗಾಜಿನಂತೆ ಸೂಕ್ಷ್ಮವಾಗಿತ್ತು"",
+  ""options"": {
+    ""0"": ""ಆ ವಸ್ತು ತುಂಬಾ ಸೂಕ್ಷ್ಮ"",
+    ""1"": ""ಆ ವಸ್ತು ತುಂಬಾ ಗಟ್",1,NG,0
+ಆ ವಸ್ತುವು ತಾಮ್ರದಂತೆ ಸೂಕ್ಷ್ಮವಾಗಿತ್ತು,ಆ ವಸ್ತು ತುಂಬಾ ಸೂಕ್ಷ್ಮ,ಆ ವಸ್ತು ತುಂಬಾ ಗಟ್ಟಿ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, the object being compared to copper is described as subtle. Copper is known for its malleability and ability to be shaped in intricate ways due to its softness, which aligns with the idea of being subtle. Option 0, ""ಆ ವಸ್ತು ತುಂಬಾ ಸೂಕ್ಷ್ಮ,"" best captures this idea as it means ""the object was very subtle."" Option 1, ""ಆ ವಸ್ತು ತುಂಬಾ ಗಟ್ಟ",0,,0
+ಆ ಖಾದ್ಯವು ರಸ್ತೆ ಬದಿಯ ತಿಂಡಿಯಂತೆ ಶುಚಿಯಾಗಿತ್ತು,ಖಾದ್ಯವು ಶುಚಿಯಾಗಿತ್ತು,ಖಾದ್ಯವು ಶುಚಿಯಾಗಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor is comparing the cleanliness of the food to street food, implying that the food was clean."",
+  ""Answer"": 0
+}",0,,0
+ಆ ಅಡುಗೆಯು ಪಾಸ್ತದಂತೆ ಆರೋಗ್ಯಕರವಾಗಿತ್ತು,ಅಡುಗೆ ಆರೋಗ್ಯಕರವಾಗಿತ್ತು,ಅಡುಗೆಯ ಅನಾರೋಗ್ಯಕರವಾಗಿತ್ತು,1,"{
+  ""Explanation"": ""The metaphor compares the blanket to a desert, indicating that it was comforting and healthy."",
+  ""Answer"": 0
+}",0,,0
+ಈ ತಿನಿಸು ಮಾವಿನ ಹಣ್ಣಿನಂತೆ ಸಿಹಿಯಾಗಿದೆ,ಈ ತಿನಿಸು ಸಿಹಿಯಾಗಿದೆ,ಈ ತಿನಿಸು ಸಿಹಿಯಾಗಿಲ್ಲ,1,"{
+""Startphrase"": ""ಈ ತಿನಿಸು ಮಾವಿನ ಹಣ್ಣಿನಂತೆ ಸಿಹಿಯಾಗಿದೆ"",
+""Options"": {
+""0"": ""ಈ ತಿನಿಸು ಸಿಹಿಯಾಗಿದೆ"",
+""1"": ""ಈ ತಿನಿಸು ಸಿಹಿಯಾಗಿಲ್",0,NG,0
+ಈ ಜಾಗವು ಮನೆಯ ಟ್ಯಾಂಕ್ ನಂತೆ ಆಳವಾಗಿದೆ,ಆ ಜಾಗವು ಆಳವಾಗಿದೆ,ಆ ಜಾಗವು ಆಳವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the depth of a place to that of a home tank, implying that the place is deep."",
+  ""answer"": 0
+}",0,,0
+ಈ ಮೀನು ತಿಮಿಂಗಲದಂತೆ ಬೃಹದಾಕಾರವಾಗಿದೆ,ಆ ಮೀನಿನ ಆಕಾರ ಬೃಹದಾಕಾರ,ಆ ಮೀನಿನಾಕಾರ ಸಣ್ಣದು,1,"{
+  ""explanation"": ""The metaphor compares the fish to a whale which is large in size. Hence, the meaning closest to the metaphor is 'ಆ ಮೀನಿನ ಆಕಾರ ಬೃಹದಾಕಾರ'"",
+  ""answer"": 0
+}",0,,0
+ಅವನ ಗೆಲುವು ಬೆಲ್ಲದಂತೆ ಇತ್ತು,ಅವನ ಗೆಲುವು ಸಿಹಿಯಾಗಿತ್ತು,ಅವನ ಗೆಲುವು ಸಿಹಿಯಾಗಿರಲಿಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor is comparing the victory to being tasteless like water, indicating that the victory was not satisfying or fulfilling."",
+  ""answer"": 1
+}",1,,0
+ಅವನ ಧೈರ್ಯವು ರಾಣಿ ಚೆನ್ನಮ್ಮನಂತೆ ಇತ್ತು,ಉತ್ತರ ಕುಮಾರನ ಧೈರ್ಯ ಮೆಚ್ಚುವಂಥದ್ದು,ಉತ್ತರ ಕುಮಾರನ ಧೈರ್ಯ ಮೆಚ್ಚುವಂಥದ್ದಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares someone's courage to the bravery of a queen, indicating high levels of bravery and strength. The first option acknowledges and appreciates the bravery of the prince, which is the closest meaning to the metaphor."",
+  ""answer"": 0
+}",0,,0
+ಆ ತಿಂಡಿಯು ಪಫ್ ನಂತೆ ಚಪ್ಪಟ್ಟೆಯಾಗಿತ್ತು,ಆ ತಿಂಡಿಯು ಚಪ್ಪಟ್ಟೆಯಾಗಿತ್ತು,ಆ ತಿಂಡಿಯು ಚಪ್ಪಟ್ಟೆಯಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explantion"": ""The metaphor compares the food item to the texture of a papad, emphasizing its crispiness. Option 0 is the closest meaning as it directly states that the dish resembled a papad in texture."",
+  ""answer"": 0
+}",0,,0
+ಅವರು ನೀಡಿದ್ದ ನೀರು ಸಮುದ್ರದ ನೀರಿನಂತೆ ಉಪ್ಪಾಗಿತ್ತು,ಅವರು ನೀಡಿದ ನೀರಿನ ರುಚಿ ಉಪ್ಪಾಗಿತ್ತು,ಅವರು ನೀಡಿದ ನೀರಿನ ರುಚಿ ಉಪ್ಪಾಗಿರಲಿಲ್ಲ,0,"{
+  ""Explanation"": ""The metaphor is comparing the taste of the water given by them to saltwater, implying that it was not pleasant."",
+  ""Answer"": 1
+}",1,,0
+ಅವರು ನೀಡಿದ್ದ ನೀರು ಬಾವಿಯ ನೀರಿನಂತೆ ಉಪ್ಪಾಗಿತ್ತು,ಅವರು ನೀಡಿದ ನೀರಿನ ರುಚಿ ಉಪ್ಪಾಗಿತ್ತು,ಅವರು ನೀಡಿದ ನೀರಿನ ರುಚಿ ಉಪ್ಪಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the taste of the water given by the person to that of salt. So, it means the taste of the water was salty, not that it was not salty."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಬಿರುಗಾಳಿಯಂತೆ ಬಿಸಿಯಾಗಿತ್ತು,ಅದು ತುಂಬಾ ಬಿಸಿಯಾಗಿತ್ತು,ಅದು ತಣ್ಣಗಿತ್ತು,1,"{
+  ""explanation"": ""The metaphor is comparing the intensity of something to a whirlwind (ಬಿರುಗಾಳಿ). Here, the metaphor is suggesting that 'it' was extremely intense, like a whirlwind. Therefore, the option 'ಅದು ತುಂಬಾ ಬಿಸಿಯಾಗಿತ್ತು' is the closest in meaning as it represents extreme intensity."",
+  ""answer"": 0
+}",0,,0
+ಆ ಪ್ರಾಣಿಯು ಕಪ್ಪೆಯಂತೆ ಅತಿಯಾದ ನಿದ್ರೆ ಮಾಡುತ್ತಿತ್ತು,ಆ ಪ್ರಾಣಿ ಕಡಿಮೆ ನಿದ್ದೆ ಮಾಡುತ್ತಿತ್ತು,ಆ ಪ್ರಾಣಿ ಕಡಿಮೆ ನಿದ್ದೆ ಮಾಡುತ್ತಿತ್ತು,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, the comparison is made between the animal and a frog, emphasizing the excessive sleep. Therefore, the meaning closest to the metaphor is that the animal sleeps excessively like a frog, indicating option 0.",0,,0
+ಆ ಹೆಂಗಸು ಶೂರ್ಪಣಕಿಯಂತೆ ಸುಂದರವಾಗಿದ್ದಳು,ಆ ಹೆಂಗಸು ಸುಂದರವಾಗಿದ್ದಳು,ಆ ಹೆಂಗಸು ಕುರೂಪಿಯಾಗಿದ್ದಳು,1,"{
+  ""explanation"": ""Comparing the woman to a beautiful bird like a peacock suggests she was beautiful, not ugly."",
+  ""answer"": 0
+}",0,,0
+ಆ ಚಾದರವು ಗಟ್ಟಿ ನೆಲದಂತೆ ಮೃದುವಾಗಿತ್ತು,ಆ ಚಾದರ ಮೃದುವಾಗಿತ್ತು,ಆ ಚಾದರ ಮೃದುವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the strength of the ground to the softness of the carpet, implying that the carpet was soft and comforting."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಕೆರೆಯಂತೆ ಅಗಲವಾಗಿತ್ತು,ಆ ಜಾಗದ ಅಗಲವಾಗಿತ್ತು,ಆ ಜಾಗ ಅಗಲವಾಗಿರಲಿಲ್ಲ,0,"{
+  ""answer"": 1
+}
+
+Explanation: In this metaphor, the comparison is being made between ""ಅದು"" (it) and ""ಕೆರೆ"" (a pond). The phrase describes that ""it"" was avoidant like a pond, which implies that ""it"" was stagnant or unmoving. Option 1) ""ಆ ಜಾಗ ಅಗಲವಾಗಿರಲಿಲ್ಲ"" translates to ""that place was not avoidant"", which is the closest meaning to the metaphor. Hence, the correct answer is 1.",1,,0
+ಅದು ನದಿಯಂತೆ ಅಗಲವಾಗಿತ್ತು,ಆ ಜಾಗದ ಅಗಲವಾಗಿತ್ತು,ಆ ಜಾಗ ಅಗಲವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""Comparing something to the flow of a river implies that it was moving swiftly or smoothly, so the closest meaning would be 'It was moving swiftly or smoothly like a river'."",
+  ""answer"": 0
+}",0,,0
+ಆ ಆಟವು ನಡಿಗೆಯಂತೆ ರೋಚಕವಾಗಿತ್ತು,ಆಟ ರೋಚಕವಾಗಿತ್ತು,ಆಟ ರೋಚಕವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor compares the game to a dance."",
+  ""Answer"": 0
+}",0,,0
+ಆ ವ್ಯಕ್ತಿಯು ಹಾಸ್ಯಗಾರನಂತೆ ತಮಾಷೆಯಾಗಿದ್ದನು,ಆ ವ್ಯಕ್ತಿ ತಮಾಷೆ ಮಾಡುತ್ತಿದ್ದ,ಆ ವ್ಯಕ್ತಿ ತಮಾಷೆ ಮಾಡುತ್ತಿರಲಿಲ್ಲ,1,"{
+  ""answer"": 0
+}",0,,0
+ಇದು ಸೂಪ್ ನಂತೆ ತಣ್ಣಗಿತ್ತು,ಆ ವಸ್ತು ತಣ್ಣಗಿತ್ತು,ಆ ವಸ್ತು ತಣ್ಣಗಿರಲಿಲ್ಲ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares the object to the coolness of soup, implying that the object was cool. Option 0 reflects this meaning accurately. Hence, the answer is option 0.",0,,0
+ಅದು ದೋಸೆಯಂತೆ ಗರಿಗರಿಯಾಗಿತ್ತು,ಅದು ಗರಿಗರಿಯಾಗಿತ್ತು,ಅದು ಗರಿಗರಿಯಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The phrase 'ದೋಸೆ' refers to food, specifically a South Indian snack which is crispy and crunchy. When something is compared to 'ದೋಸೆ', it means that it was as crispy and crunchy as the snack, not just crunchy but specifically like 'ದೋಸೆ'. Therefore, the closest meaning is option 0) ಅದು ಗರಿಗರಿಯಾಗಿತ್ತು."",
+  ""answer"": 0
+}",0,,0
+ಅವಳು ಹಾಕಿದ್ದ ಒಡವೆಯು ವಜ್ರದಂತೆ ಗಟ್ಟಿಯಾಗಿತ್ತು,ಅವಳ ಒಡವೆ ತುಂಬಾ ಗಟ್ಟಿ ಇತ್ತು,ಅವಳ ಒಡವೆ ತುಂಬಾ ಟಳ್ಳಾಗಿತ್ತು,1,"{
+  ""explanation"": ""The metaphor compares the strength of the silk thread to that of a diamond, indicating that it was very strong and unbreakable."",
+  ""answer"": 0
+}",0,,0
+ಆಕೆಯ ಉಡುಪು ಬಿಳಿ ಹಲಗೆಯಂತೆ ಆಕರ್ಷಕ ಬಣ್ಣಗಳಿಂದ ಕೂಡಿತ್ತು,ಆಕೆಯ ಉಡುಪು ಆಕರ್ಷಕ ಬಣ್ಣಗಳಿಂದ ಕೂಡಿತ್ತು,ಆಕೆಯ ಉಡುಪು ಆಕರ್ಷಕ ಬಣ್ಣಗಳನ್ನು ಹೊಂದಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the attractiveness of her dress to the brightness of a swan. The focus is on the colors and how they are visually appealing, not on the act of possessing colors."",
+  ""answer"": 0
+}",0,,0
+ಈ ಮನೆಯು ಹೊಸ ಕಟ್ಟಡದಂತೆ ಹಳೆಯದು,ಆ ಮನೆ ಹಳೆಯದು,ಆ ಮನೆ ಹೊಸದು,0,"{
+  ""question"": ""ಈ ಮನೆಯು ಹೊಸ ಕಟ್ಟಡದಂತೆ ಹಳೆಯದು"",
+  ""option_0"": ""ಆ ಮನೆ ಹಳೆಯದು"",
+  ""option_1"": ""ಆ ಮನೆ ಹೊಸದು"",
+  ""explanation"": ""This metaphor compares the house to a new building and an old one. The comparison implies that the current house is like an old building even though it is actually newly constructed. So",1,NG,0
+ಈ ಮನೆಯು ಹಳೆಯ ಸ್ಮಾರಕದಂತೆ ಹಳೆಯದು,ಆ ಮನೆ ಹಳೆಯದು,ಆ ಮನೆ ಹೊಸದು,1,"{
+  ""answer"": 0
+}  
+
+Explanation: The metaphor is comparing the old house to an old monument. The meaning closest to the metaphor is ""That house is old."" Therefore, option 0) ಆ ಮನೆ ಹಳೆಯದು is the correct answer.",0,,0
+ಆತ ಮಾತನಾಡುವುದು ಜೋರುಮಾತಿನಂತೆ ಕರ್ಕಶವಾಗಿದೆ,ಆತ ಮಾತನಾಡುವುದು ಕರ್ಕಶವಾಗಿದೆ,ಆತ ಮಾತಾಡುವುದು ಇಂಪಾಗಿದೆ,1,"{
+  ""explanation"": ""The metaphor compares the strength of his words to that of a loud and harsh sound, not to a sharp and harsh sound."",
+  ""answer"": 0
+}",0,,0
+ಅಂದು ಅಮಾವಾಸ್ಯೆಯ ದಿನದಂತೆ ಕಗ್ಗತ್ತಲು ಕವಿದಿತ್ತು,ಅಂದು ಕಗ್ಗತ್ತಲು ಕವಿದಿತ್ತು,ಅಂದು ಕಗ್ಗತ್ತಲು ಕವಿದಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the darkness of the day to the darkness of the new moon night, implying that it was extremely dark."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ಅಜ್ಜನಂತೆ ಕಿರಿಯವನಾಗಿದ್ದಾನೆ,ಅವನು ಕಿರಿಯವನಾಗಿದ್ದಾನೆ,ಅವನು ಕಿರಿಯವನಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the person to a grandparent, suggesting that he is behaving in a childish manner."",
+  ""answer"": 0
+}",0,,0
+ಆತನ ದಿರಿಸು ಭಿಕ್ಷುಕನಂತೆ ಶುಚಿಯಾಗಿತ್ತು,ಆತನ ದಿರಿಸು ಶುಚಿಯಾಗಿತ್ತು,ಆತನ ದಿರಿಸು ಶುಚಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""Comparing someone's cleanliness to that of a beggar implies that the person was very clean."",
+  ""answer"": 0
+}",0,,0
+ಆ ತಿಂಡಿಯು ಬ್ರೆಡ್ ನಂತೆ ತೆಳುವಾಗಿತ್ತು,ಆ ತಿಂಡಿಯು ತೆಳುವಾಗಿತ್ತು,ಆ ತಿಂಡಿಯು ತೆಳುವಾಗಿಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing the texture of the snack to bread, which is soft. Option 0) reflects this similarity in texture, indicating that the snack was soft like bread. Option 1) contradicts the metaphor by suggesting that the snack was not soft. Therefore, option 0) is the closest meaning to the metaphor.",0,,0
+ಆ ಜಾಗವು ಭೂಮಿಯಂತೆ ಎತ್ತರವಾಗಿತ್ತು,ಆ ಜಾಗವು ಎತ್ತರವಾಗಿತ್ತು,ಆ ಜಾಗವು ಎತ್ತರವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the height of the place to the height of the ground, implying that the place is elevated. Option 0 reflects this meaning."",
+  ""answer"": 0
+}",0,,0
+ಅದರ ಆಕಾರವು ವೃತ್ತದಂತೆ ವಕ್ರವಾಗಿದೆ,ಅದರ ಆಕಾರವು ವಕ್ರವಾಗಿದೆ,ಅದರ ಆಕಾರವು ವಕ್ರವಾಗಿಲ್ಲ,1,"{
+  ""question"": ""ಅದರ ಆಕಾರವು ವೃತ್ತದಂತೆ ವಕ್ರವಾಗಿದೆ"",
+  ""options"": {
+    ""0"": ""ಅದರ ಆಕಾರವು ವಕ್ರವಾಗಿದೆ"",
+    ""1"": ""ಅದರ ಆಕಾರವು ವಕ್ರವಾಗ",0,NG,0
+ಅದು ದೋಣಿಯಷ್ಟು ದೊಡ್ಡದಾಗಿದೆ,ಅದು ದೊಡ್ಡದಾಗಿದೆ,ಅದು ದೊಡ್ಡದಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares something to the size of a boat, implying that it is large in size."",
+  ""answer"": 0
+}",0,,0
+ಆಕೆಯ ರಾಗವುನೃತ್ಯಗಾರನಷ್ಟುಇಂಪಾಗಿದೆ,ಆಕೆಯ ರಾಗವು ಇಂಪಾಗಿದೆ,ಆಕೆಯ ರಾಗವು ಇಂಪಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the intensity of her anger to that of a skilled dancer. This implies that her anger is powerful and striking, similar to an impressive dance performance."",
+  ""answer"": 0
+}",0,,0
+ಈ ವಾಹನವು ಜೆಟ್ ನಂತೆ ವೇಗವಾಗಿದೆ,ಈ ವಾಹನವು ವೇಗವಾಗಿದೆ,ಈ ವಾಹನವು ವೇಗವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the vehicle to a jet, implying that it is fast."",
+  ""answer"": 0
+}",0,,0
+ಇವನು ವಯಸ್ಕನಷ್ಟು ಖುಷಿಯಾಗಿದ್ದಾನೆ,ಇವನು ಖುಷಿಯಾಗಿದ್ದಾನೆ,ಇವನು ಖುಷಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares someone to being as happy as an adult, implying that the person is very joyful."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ಇರುವೆಯಂತೆ ದೊಡ್ಡದಾಗಿದ್ದಾನೆ,ಅವನು ದೊಡ್ಡದಾಗಿದ್ದಾನೆ,ಅವನು ದೊಡ್ಡದಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""Comparing someone to a river implies that they are big and influential, so the closest meaning is option 0."",
+  ""answer"": 0
+}",0,,0
+ಆಕೆ ದೆವ್ವದಂತೆ ಪೂಜ್ಯನೀಯವಾಗಿರುವಳು,ಆಕೆ ಪೂಜ್ಯನೀಯವಾಗಿರುವಳು,ಆಕೆ ಪೂಜ್ಯನೀಯವಾಗಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor compares 'her' to a deity, suggesting that she is revered and respected."",
+  ""Answer"": 0
+}",0,,0
+ಆ ಕಟ್ಟಡವು ಗುಡಿಸಲಿನಂತೆ ಐಷಾರಾಮಿಯಾಗಿದೆ,ಆ ಕಟ್ಟಡವು ಐಷಾರಾಮಿಯಾಗಿದೆ,ಆ ಕಟ್ಟಡವು ಐಷಾರಾಮಿಯಾಗಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor compares the building to a comfortable recliner, suggesting it is peaceful and relaxing."",
+  ""Answer"": 0
+}",0,,0
+ಈ ಹಣ್ಣು ಸೀಬೆಯಂತೆ ರಸಮಯವಾಗಿದೆ,ಈ ಹಣ್ಣು ರಸಮಯವಾಗಿದೆ,ಈ ಹಣ್ಣು ರಸಮಯವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the fruit to a sieve, implying the fruit is full of juice and flavor, similar to how a sieve allows liquid to pass through easily."",
+  ""answer"": 0
+}",0,,0
+ಆ ಎಣ್ಣೆ ಹರಳೆಣ್ಣೆಯಷ್ಟು ಸ್ನಿಗ್ಧವಾಗಿದೆ,ಆ ಎಣ್ಣೆ ಸ್ನಿಗ್ಧವಾಗಿದೆ,ಆ ಎಣ್ಣೆ ಸ್ನಿಗ್ಧವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing something to the smoothness and softness of ghee. Therefore, the meaning closest to the metaphor is that the ghee is smooth and soft."",
+  ""answer"": 0
+}",0,,0
+ಶಕ್ತಿಯು ವಿದ್ಯುತ್ ಶಕ್ತಿಯಂತೆ ಅನಿಯಮಿತವಾಗಿದೆ,ಶಕ್ತಿಯು ಅನಿಯಮಿತವಾಗಿದೆ,ಶಕ್ತಿಯು ಅನಿಯಮಿತವಾಗಿಲ್ಲ,1,"{
+	""explanation"": ""The metaphor compares shakti to electrical power, implying that it is inconsistent or unpredictable."",
+	""answer"": 0
+}",0,,0
+ಆಕೆ ಸಾಮಾನ್ಯ ವಿದ್ಯಾರ್ಥಿಯಷ್ಟು ಮಹೊನ್ನತವಾಗಿದ್ದಾಳೆ,ಆಕೆ ಮಹೊನ್ನತವಾಗಿದ್ದಾಳೆ,ಆಕೆ ಮಹೊನ್ನತವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing her to an ordinary student, implying she is extraordinary."",
+  ""answer"": 0
+}",0,,0
+ಆ ಸಬ್ಜೆಕ್ಟ್ ಫಿಸಿಕ್ಸ್ ನಂತೆ ಜಟಿಲವಾಗಿತ್ತು,ಆ ಸಬ್ಜೆಕ್ಟ್ ಜಟಿಲವಾಗಿತ್ತು,ಆ ಸಬ್ಜೆಕ್ಟ್ ಜಟಿಲವಾಗಿರಲಿಲ್ಲ,0,"{
+  ""explanation"": ""Comparing the subject to physics implies that it was complex, not that it became complex."",
+  ""answer"": 1
+}",1,,0
+ಆ ವಸ್ತುವಿನ ಶಾಖ ಚಂದಿರನಷ್ಟು ಬಿಸಿಯಿದೆ,ಆ ವಸ್ತುವಿನ ಶಾಖ ಬಿಸಿಯಿದೆ,ಆ ವಸ್ತುವಿನ ಶಾಖ ಬಿಸಿಯಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the branch of an object to the brightness of the moon, indicating that the branch is shining brightly like the moon."",
+  ""answer"": 0
+}",0,,0
+ಆ ನಕ್ಷತ್ರವು ಭೂಮಿಯಿಂದ ಚಂದ್ರನಷ್ಟು ದೂರದಲ್ಲಿದೆ,ಆ ನಕ್ಷತ್ರವು ಭೂಮಿಯಿಂದ ದೂರದಲ್ಲಿದೆ,ಆ ನಕ್ಷತ್ರವು ಭೂಮಿಯಿಂದ ದೂರದಲ್ಲಿಲ್ಲ,1,"{
+  ""explanation"": ""In the metaphor, the star is being compared to the moon, not the earth. So, the correct interpretation is that the star is far away from the earth just like the moon."",
+  ""answer"": 0
+}",0,,0
+ಸುನಾಮಿ ಉಪಗ್ರಹ ಉಡಾವಣೆಯಂತೆ ಪ್ರಾಕೃತಿಕವಾಗಿದೆ,ಸುನಾಮಿ ಜ್ವಾಲಾಮುಖಿಯಂತೆ ಪ್ರಾಕೃತಿಕವಾಗಿದೆ,ಸುನಾಮಿ ಜ್ವಾಲಾಮುಖಿಯಂತೆ ಪ್ರಾಕೃತಿಕವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""A tsunami is a natural disaster that occurs as a result of underwater seismic activity, similar to how a satellite launch is a natural event."",
+  ""answer"": 0
+}",0,,0
+ಮಧ್ಯಪಾನ ದೇಹಕ್ಕೆ ವಿಷದಂತೆ,ಮಧ್ಯಪಾನ ದೇಹಕ್ಕೆ ಒಳ್ಳೆಯದು,ಮಧ್ಯಪಾನ ದೇಹಕ್ಕೆ ಒಳ್ಳೆಯದಲ್ಲ,0,"{
+  ""explanation"": ""Comparing alcohol consumption to poison implies a negative impact on the body."",
+  ""answer"": 1
+}",1,,0
+ಮಧ್ಯಪಾನ ದೇಹಕ್ಕೆ ಅಮೃತದಂತೆ,ಮಧ್ಯಪಾನ ದೇಹಕ್ಕೆ ಒಳ್ಳೆಯದು,ಮಧ್ಯಪಾನ ದೇಹಕ್ಕೆ ಒಳ್ಳೆಯದಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares consuming alcohol to consuming nectar, suggesting that alcohol is seen as something positive for the body."",
+  ""answer"": 0
+}",0,,0
+ಆ ಲೆಕ್ಚರ್ ಮ್ಯಾಜಿಕ್ ಶೋ ನಂತೆ ನಿದ್ದೆ ಬರಿಸುವಂತಿತ್ತು,ಆ ಲೆಕ್ಚರ್ ಆಸಕ್ತಿದಾಯಕವಾಗಿತ್ತು,ಆ ಲೆಕ್ಚರ್ ಆಸಕ್ತಿದಾಯಕವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the lecture to a magic show, implying that it was interesting or captivating like a magic show."",
+  ""answer"": 0
+}",0,,0
+ಆತನ ಬದ್ಧತೆ ಗ್ಲಾಸ್ ನಂತೆ ಗಟ್ಟಿಯಿತ್ತು,ಆತನ ಬದ್ಧತೆ ಗಟ್ಟಿಯಿತ್ತು,ಆತನ ಬದ್ಧತೆ ಗಟ್ಟಿಯಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares someone's rigidity to that of a glass, which is fragile and easily breakable. So, the intended meaning is that his rigidity was like glass, meaning he was inflexible."",
+  ""answer"": 0
+}",0,,0
+ಆ ಪೇಂಟಿಂಗ್ ಚೆಲ್ಲಿದ ಬಣ್ಣದಷ್ಟು ಅದ್ಭುತವಾಗಿತ್ತು,ಆ ಪೇಂಟಿಂಗ್ ಅದ್ಭುತವಾಗಿತ್ತು,ಆ ಪೇಂಟಿಂಗ್ ಅದ್ಭುತವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the beauty of the painting to the color of the paint used. Therefore, the painting was as beautiful as the color of the paint used."",
+  ""answer"": 0
+}",0,,0
+ಆ ಮ್ಯಾಚ್ ಲೀಗ್ ಪಂದ್ಯದಂತೆ ಪ್ರಮುಖವಾಗಿತ್ತು,ಆ ಮ್ಯಾಚ್ ಪ್ರಮುಖವಾಗಿತ್ತು,ಆ ಮ್ಯಾಚ್ ಪ್ರಮುಖವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares the importance of the match to that of a league game. Therefore, the closest meaning would be that the match was significant or prominent, hence option 0.",0,,0
+ಈ ಆಟವು ಕಬಡ್ಡಿಯಷ್ಟು ವಿಶ್ವದಾದ್ಯಂತ ಪ್ರಸಿದ್ಧಿಯಾಗಿದೆ,ಈ ಆಟವು ವಿಶ್ವದಾದ್ಯಂತ ಪ್ರಸಿದ್ಧಿಯಾಗಿದೆ,ಈ ಆಟವು ವಿಶ್ವದಾದ್ಯಂತ ಪ್ರಸಿದ್ಧಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the popularity of the game to the extent of a kabaddi game's reach. Option 0 reflects the comparison more accurately as it states that the game is popular worldwide."",
+  ""answer"": 0
+}",0,,0
+ಆ ವ್ಯಕ್ತಿ ನಾಗರೀಕರಂತೆ ಪ್ರಭಾವಿಯಾಗಿದ್ದರು,ಆ ವ್ಯಕ್ತಿ ಪ್ರಭಾವಿಯಾಗಿದ್ದರು,ಆ ವ್ಯಕ್ತಿ ಪ್ರಭಾವಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the person to a citizen, implying that the person had an influential role."",
+  ""answer"": 0
+}",0,,0
+ಊಟದ ರುಚಿಯು ಹೋಟೆಲ್ ಅಡುಗೆಯಂತೆ ಸ್ವಾದಿಷ್ಟವಾಗಿತ್ತು,ಊಟದ ರುಚಿಯು ಸ್ವಾದಿಷ್ಟವಾಗಿತ್ತು,ಊಟದ ರುಚಿಯು ಸ್ವಾದಿಷ್ಟವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor compares the taste of the food to that of hotel food, indicating that it was delicious."",
+  ""Answer"": 0
+}",0,,0
+ಆ ಸದ್ದು ಪ್ರಾಣಿಗಳ ದನಿಯಂತೆ ಸಣ್ಣದಾಗಿತ್ತು,ಆ ಸದ್ದು ಸಣ್ಣದಾಗಿತ್ತು,ಆ ಸದ್ದು ಸಣ್ಣದಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the sound to that of an animal, emphasizing its small size and volume."",
+  ""answer"": 0
+}",0,,0
+ಈ ಪ್ರಾಣಿಯು ಬೆಕ್ಕಿನಂತೆ ಕಾಡುಪ್ರಾಣಿ,ಈ ಪ್ರಾಣಿಯು ಕಾಡುಪ್ರಾಣಿ,ಈ ಪ್ರಾಣಿಯು ಕಾಡುಪ್ರಾಣಿಯಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the animal to a wild beast like a tiger, not saying that the animal itself is a wild animal."",
+  ""answer"": 0
+}",0,,0
+ಅವರ ಸಾಧನೆ ಸ್ವಿಮ್ಮಿಂಗ್ ಪೂಲ್ ನಂತೆ ದೊಡ್ಡದು,ಅವರ ಸಾಧನೆ ದೊಡ್ಡದು,ಅವರ ಸಾಧನೆ ದೊಡ್ಡದಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing their achievement to a swimming pool, emphasizing its size and depth, not necessarily the act of swimming itself being large."",
+  ""answer"": 0
+}",0,,0
+ಅವರ ವಯಸ್ಕರರಂತೆ ಮುದ್ದಾಗಿತ್ತು,ಅವರ ನಗು ಮುದ್ದಾಗಿತ್ತು,ಅವರ ನಗು ಮುದ್ದಾಗಿಲ್ಲ,1,"{
+  ""Explanation"": ""Comparing someone's behavior to that of adults being polite and courteous."",
+  ""Answer"": 0
+}",0,,0
+ಅವನು ಅರ್ಜುನನಂತೆ ಕೊಳಲು ನುಡಿಸುತ್ತಿದ್ದನು,ಅವನು ಕೊಳಲು ನುಡಿಸುತ್ತಿದ್ದನು,ಅವನು ಕೊಳಲು ನುಡಿಸುತ್ತಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""In this metaphor, the comparison is between speaking like a flute and being like Arjuna. Since Arjuna is known for his dialogue and communication, the closest meaning would be 'he was speaking smoothly and eloquently like a flute.'"",
+  ""answer"": 0
+}",0,,0
+ಅವನ ಕೆನ್ನೆ ನೀರಿನಂತೆ ಬಿಳುಪಾಗಿತ್ತು,ಅವನ ಕೆನ್ನೆ ಬಿಳುಪಾಗಿತ್ತು,ಅವನ ಕೆನ್ನೆ ಬಿಳುಪಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""Comparing someone's sharp features to the whiteness of water implies that the person's features were very bright and sharp."",
+  ""answer"": 0
+}",0,,0
+ದಿನೇ ದಿನೇ ಚಿನ್ನದ ಬೆಲೆ ಪಾತಾಳಕ್ಕೆ ಇಳಿಯುತ್ತಿದೆ,ದಿನೇ ದಿನೇ ಚಿನ್ನದ ಬೆಲೆ ಏರುತ್ತಿದೆ,ದಿನೇ ದಿನೇ ಚಿನ್ನದ ಬೆಲೆ ಏರುತ್ತಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor implies that the price of gold is continuously increasing, comparing it to descending to the underworld."",
+  ""answer"": 0
+}",0,,0
+ವಸ್ತುವಿನ ಬಣ್ಣ ಹಿಮದಂತೆ ಬೆಳ್ಳಗೆ ಇದೆ,ವಸ್ತುವಿನ ಬಣ್ಣ ಬೆಳ್ಳಗೆ ಇದೆ,ವಸ್ತುವಿನ ಬಣ್ಣ ಬೆಳ್ಳಗೆ ಇಲ್ಲ,0,"{
+  ""explanation"": ""The comparison is between the color of the object and snow, suggesting that the object is as white as snow."",
+  ""answer"": 1
+}",1,,0
+ವಸ್ತುವಿನ ಬಣ್ಣ ಕಲ್ಲಿನಂತೆ ಬೆಳ್ಳಗೆ ಇದೆ,ವಸ್ತುವಿನ ಬಣ್ಣ ಬೆಳ್ಳಗೆ ಇದೆ,ವಸ್ತುವಿನ ಬಣ್ಣ ಬೆಳ್ಳಗೆ ಇಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the color of an object to the brightness of silver, indicating that the object is shining or glowing like silver. Therefore, the option 'ವಸ್ತುವಿನ ಬಣ್ಣ ಬೆಳ್ಳಗೆ ಇದೆ' (the color of the object is like silver) is the closest meaning."",
+  ""answer"": 0
+}",0,,0
+ಫುಟ್ಬಾಲ್ ನ ಆಕಾರ ದುಂಡಾಗಿ ಇದೆ,ಫುಟ್ಬಾಲ್ ಆಕಾರ ದುಂಡಾಗಿ ಇದೆ,ಫುಟ್ಬಾಲ್ ಆಕಾರ ದುಂಡಾಗಿ ಇಲ್ಲ,0,"{
+  ""explanation"": ""Football is shaped like a ball, not like a stick."",
+  ""answer"": 1
+}",1,,0
+ಫುಟ್ಬಾಲ್ ನ ಆಕಾರಚಪ್ಪಟೆಯಾಗಿ ಇದೆ,ಫುಟ್ಬಾಲ್ ಆಕಾರ ದುಂಡಾಗಿ ಇದೆ,ಫುಟ್ಬಾಲ್ ಆಕಾರ ದುಂಡಾಗಿ ಇಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor compares football as a canvas, suggesting that it can be portrayed in various forms of art."",
+  ""Answer"": 0
+}",0,,0
+ಅವರು ಲಾಡೆನ್ ನಂತೆ ಕರುಣಾಮಯಿ,ಅವರು ಕರುಣಾಮಯಿ,ಅವರು ಕರುಣಾಮಯಿಯಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The comparison is made between the person and Mother Teresa who is known for her compassionate and merciful nature. Option 0 reflects this comparison accurately.",0,,0
+ಆ ದೇಶ ಭಾರತದಷ್ಟು ಸ್ವಚ್ಛತೆಯಿಂದ ಕೂಡಿದೆ,ಆ ದೇಶ ಹೆಚ್ಚು ಸ್ವಚ್ಛತೆಯಿಂದ ಕೂಡಿದೆ,ಆ ದೇಶ ಹೆಚ್ಚು ಸ್ವಚ್ಛತೆಯಿಂದ ಕೂಡಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the cleanliness of the country to that of India, implying that the country is very clean. Option 0) reflects this by stating that the country is as clean as India, while Option 1) states the opposite."",
+  ""answer"": 0
+}",0,,0
+ಅವರು ಭಗತ್ ಸಿಂಗ್ ಕ್ರಾಂತಿಕಾರಿಗಳು,ಅವರು ಕ್ರಾಂತಿಕಾರಿಗಳು,ಅವರು ಕ್ರಾಂತಿಕಾರಿಗಳಲ್ಲ,0,"{
+  ""question"": ""ಅವರು ಭಗತ್ ಸಿಂಗ್ ಕ್ರಾಂತಿಕಾರಿಗಳು"",
+  ""options"": {
+    ""0"": ""ಅವರು ಕ್ರಾಂತಿಕಾರಿಗಳು"",
+    ""1"": ""ಅವರು ಕ್ರಾಂತಿಕಾರಿಗಳಲ",1,NG,0
+ಅವರು ಗಾಂಧೀಜಿಯಂತೆ ಕ್ರಾಂತಿಕಾರಿಗಳು,ಅವರು ಕ್ರಾಂತಿಕಾರಿಗಳು,ಅವರು ಕ್ರಾಂತಿಕಾರಿಗಳಲ್ಲ,1,"{
+  ""explanation"": ""Comparing someone to Gandhi implies that they are like revolutionaries in their actions or beliefs."",
+  ""answer"": 0
+}",0,,0
+ಜಗತ್ತಿನಲ್ಲಿ ಆಫ್ ಲೈನ್ ಶಿಕ್ಷಣ ಟ್ರೆಂಡ್ ಆಗಿ ಬದಲಾಗುತ್ತಿದೆ,ಜಗತ್ತಿನಲ್ಲಿ ಟ್ರೆಂಡ್ ಆಗಿ ಬದಲಾಗುತ್ತಿದೆ,ಜಗತ್ತಿನಲ್ಲಿ ಟ್ರೆಂಡ್ ಆಗಿ ಬದಲಾಗುತ್ತಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing online education trends to changing trends in the world. The closest meaning is that online education trends are changing and evolving globally, similar to how trends in the world change over time."",
+  ""answer"": 0
+}",0,,0
+ಅದರ ಗಾತ್ರ ಮೊಬೈಲ್ ನಷ್ಟು ದೊಡ್ಡದು,ಅದರ ಗಾತ್ರ ದೊಡ್ಡದು,ಅದರ ಗಾತ್ರ ದೊಡ್ಡದಲ್ಲ,1,"{
+  ""explanation"": ""Comparing the size of something to that of a mobile phone implies that the size is large."",
+  ""answer"": 0
+}",0,,0
+ಆಹಾರವು ಅನ್ನದಂತೆ ಹೆಚ್ಚು ಪ್ರೋಟೀನ್ ಅಂಶ ಹೊಂದಿದೆ,ಆಹಾರವು ಹೆಚ್ಚು ಪ್ರೋಟೀನ್ ಅಂಶ ಹೊಂದಿದೆ,ಆಹಾರವು ಹೆಚ್ಚು ಪ್ರೋಟೀನ್ ಅಂಶ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing food to rice, indicating that the food has a higher protein content similar to rice. Option 0 reflects this comparison more accurately."",
+  ""answer"": 0
+}",0,,0
+ಸೊಪ್ಪು ಮೆಣಸಿನಂತೆ ನಾರಿನಾಂಶ ಹೊಂದಿದೆ,ಸೊಪ್ಪು ನಾರಿನಾಂಶ ಹೊಂದಿದೆ,ಸೊಪ್ಪು ನಾರಿನಾಂಶ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the size or shape of the vegetable to the size of the fruit slice, suggesting they are similar."",
+  ""answer"": 0
+}",0,,0
+ಆ ಚಟವೂ ಧ್ಯಾನದಂತೆ ಅಪಾಯಕಾರಿ,ಆ ಚಟವೂ ಅಪಾಯಕಾರಿ,ಆ ಚಟವೂ ಅಪಾಯಕಾರಿಯಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor is comparing the danger of the situation to the intensity of meditation. So, the correct meaning is that the situation is dangerous."",
+  ""Answer"": 0
+}",0,,0
+ಆ ಹುಳು ಪಕ್ಷಿಯಂತೆ ಹಾರಬಲ್ಲದು,ಆ ಹುಳು ಹಾರಬಲ್ಲದು,ಆ ಹುಳು ಹಾರಲ್ಲ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares the agility of the fish to that of a bird, implying that the fish can move swiftly like a bird. Therefore, the closest meaning is ""ಆ ಹುಳು ಹಾರಬಲ್ಲದು"" which translates to ""that fish can swim fast"".",1,,0
+ಆ ಹುಳು ಪ್ರಾಣಿಯಂತೆ ಹಾರಬಲ್ಲದು,ಆ ಹುಳು ಹಾರಬಲ್ಲದು,ಆ ಹುಳು ಹಾರಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the agility of a snake to that of an animal, implying that the snake is able to move swiftly like an animal."",
+  ""answer"": 0
+}",0,,0
+ಅವನ ಕೈ ಬರಹ ಗೀಚಿದಂತೆ ಸುಂದರವಾಗಿದೆ,ಅವನ ಕೈ ಬರಹ ಸುಂದರವಾಗಿದೆ,ಅವನ ಕೈ ಬರಹ ಸುಂದರವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the beauty of his handwriting to drawing a beautiful picture."",
+  ""answer"": 0
+}",0,,0
+ಅಪ್ಲಿಕೇಶನ್ ವಿ ಚಾಟ್ ನಂತೆ ಯಶಸ್ಸು ಕಂಡಿದೆ,ಅಪ್ಲಿಕೇಶನ್ ಯಶಸ್ಸು ಕಂಡಿದೆ,ಅಪ್ಲಿಕೇಶನ್ ಯಶಸ್ಸು ಕಂಡಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the success of the application to the success of a chat, implying that the application has been successful like a chat."",
+  ""answer"": 0
+}",0,,0
+ಅವನ ಧ್ವನಿ ಮಕ್ಕಳಂತೆ ಸ್ಪಷ್ಟವಾಗಿದೆ,ಅವನ ಧ್ವನಿ ಸ್ಪಷ್ಟವಾಗಿದೆ,ಅವನ ಧ್ವನಿ ಸ್ಪಷ್ಟವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the clarity of his voice to that of children, implying that his voice is clear and easily understandable."",
+  ""answer"": 0
+}",0,,0
+ಅವನ ಮನಸ್ಸು ಕಲ್ಲಿನಂತೆ ಮೃದು,ಅವನ ಮನಸ್ಸು ಮೃದು,ಅವನ ಮನಸ್ಸು ಮೃದುವಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, ""ಅವನ ಮನಸ್ಸು ಕಲ್ಲಿನಂತೆ ಮೃದು"" compares the softness of his mind to that of a stone. Therefore, the closest meaning would be ""ಅವನ ಮನಸ್ಸು ಮೃದು"" which means his mind is soft.",0,,0
+ಆ ತಿನಿಸು ಬೇವಿನಂತೆ ಸಿಹಿಯಾಗಿದೆ,ಆ ತಿನಿಸು ಸಿಹಿಯಾಗಿದೆ,ಆ ತಿನಿಸು ಸಿಹಿಯಾಗಿಲ್ಲ,1,"{
+  ""error"": ""No explanation provided""
+}",0,NG,0
+ಆ ಹಣ್ಣು ಹಲಸಿನ ಹಣ್ಣಿನಂತೆ ಎಲ್ಲಾ ಕಾಲದಲ್ಲೂ ಫಲ ಕೊಡುತ್ತದೆ,ಆ ಹಣ್ಣು ಎಲ್ಲಾ ಕಾಲದಲ್ಲೂ ಫಲ ಕೊಡುತ್ತದೆ,ಆ ಹಣ್ಣು ಎಲ್ಲಾ ಕಾಲದಲ್ಲೂ ಫಲ ಕೊಡುವುದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the fruit to the date fruit which remains fruitful throughout the year. This implies consistency and reliability in giving results."",
+  ""answer"": 0
+}",0,,0
+ಆ ಹಣ್ಣು ಸೇಬಿನ ಹಣ್ಣಿನಂತೆ ಸೀಮಿತ ಕಾಲದಲ್ಲಿ ಮಾತ್ರ ದೊರೆಯುತ್ತದೆ,ಆ ಹಣ್ಣು ಸೀಮಿತ ಕಾಲದಲ್ಲಿ ಮಾತ್ರ ದೊರೆಯುತ್ತದೆ,ಆ ಹಣ್ಣು ಎಲ್ಲಾ ಕಾಲದಲ್ಲಿ ದೊರೆಯುತ್ತದೆ,1,"{
+  ""explanation"": ""The metaphor is comparing the availability of the fruit to a limited time period, indicating that it is not available all the time. This implies that the correct meaning is the first option, where the fruit is only available for a limited time period."",
+  ""answer"": 0
+}",0,,0
+ಆ ತರಕಾರಿ ಬೀಟ್ರೂಟ್ ನಂತೆ ಕೇಸರಿ ಬಣ್ಣ ಹೊಂದಿದೆ,ಆ ತರಕಾರಿ ಕೇಸರಿ ಬಣ್ಣ ಹೊಂದಿದೆ,ಆ ತರಕಾರಿ ಕೇಸರಿ ಬಣ್ಣ ಹೊಂದಿಲ್ಲ,1,"{
+  ""Startphrase"": ""ಆ ತರಕಾರಿ ಬೀಟ್ರೂಟ್ ನಂತೆ ಕೇಸರಿ ಬಣ್ಣ ಹೊಂದಿದೆ"",
+  ""Options"": {
+    ""0"": ""ಆ ತರಕಾರಿ ಕೇಸರಿ ಬಣ್ಣ ಹೊಂದಿದೆ"",
+    ""1"": ""ಆ ತರಕಾ",0,NG,0
+ಬಡವರ ಬಾದಾಮಿ ಎಂದು ಕಡಲೆಕಾಯಿ ಕರೆಯುತ್ತಾರೆ,ಬಡವರ ಬಾದಾಮಿ ಕಡಲೆಕಾಯಿ,ಬಡವರ ಬಾದಾಮಿ ಕಡಲೆಕಾಯಿಯಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor compares the poor person to a cashew fruit and the rich person to a jackfruit. The meaning conveyed is that a poor person is often referred to as a cashew fruit, which is considered less valuable compared to a jackfruit, representing a wealthy person."",
+  ""answer"": 1
+}",1,,0
+ಅವಳು ಒಣಗಿದ ಎಲೆಯಷ್ಟು ತಾಜಾವಾಗಿದ್ದಾಳೆ,ಅವಳು ತಾಜಾವಾಗಿದ್ದಾಳೆ,ಅವಳು ತಾಜಾವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing her to a fresh leaf, implying that she is vibrant and full of life."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ಸ್ಥೂಲಕಾಯನಂತೆ ಆಕರ್ಷಕ ದೇಹವನ್ನು ಹೊಂದಿದ್ದಾನೆ,ಅವನು ಆಕರ್ಷಕ ದೇಹವನ್ನು ಹೊಂದಿದ್ದಾನೆ,ಅವನು ಆಕರ್ಷಕ ದೇಹವನ್ನು ಹೊಂದಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor compares the person to having an attractive body, so it means that he has an attractive body."",
+  ""Answer"": 0
+}",0,,0
+ಅವಳು ಬಾರ್ಬಿಯಂತೆ ಸುಂದರವಾಗಿರುವಳು,ಅವಳು ಸುಂದರವಾಗಿರುವಳು,ಅವಳು ಸುಂದರವಾಗಿಲ್ಲ,0,"{
+  ""explanation"": ""Comparing someone to a beautiful barb, which is thorny and dangerous, implies that the person may be physically attractive but has a prickly or difficult personality."",
+  ""answer"": 1
+}",1,,0
+ಆ ನೀರು ಕೊಚ್ಚೆ ನೀರಿನಂತೆ ಶುಚಿಯಾಗಿದೆ,ಆ ನೀರು ಶುಚಿಯಾಗಿದೆ,ಆ ನೀರು ಶುಚಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The comparison is between the cleanliness of the water and the metaphorical representation of cleanliness, which implies that the water is clean like purity itself."",
+  ""answer"": 0
+}",0,,0
+ಆತನು ವಯಸ್ಕನಂತೆ ಹುಡುಗಾಟಿಕೆ ಬುದ್ದಿಯವನು,ಆತನು ಹುಡುಗಾಟಿಕೆ ಬುದ್ದಿಯವನು,ಆತನು ಹುಡುಗಾಟಿಕೆ ಬುದ್ದಿಯವನಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the person's behavior to that of a child, suggesting immaturity or childishness."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ಪ್ರಾಧ್ಯಾಪಕನಂತೆ ಹಾಸ್ಯಾಸ್ಪದವಾಗಿದ್ದನು,ಅವನು ಹಾಸ್ಯಾಸ್ಪದವಾಗಿದ್ದನು,ಅವನು ಹಾಸ್ಯಾಸ್ಪದವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares him to a professor, implying that he was humorous."",
+  ""answer"": 0
+}",0,,0
+ಆ ತಿಂಡಿ ಡೊನಟ್ ನಂತೆ ಮೃದುವಾಗಿದೆ,ಆ ತಿಂಡಿ ಮೃದುವಾಗಿದೆ,ಆ ತಿಂಡಿ ಮೃದುವಾಗಿಲ್ಲ,0,"{
+""question"": ""ಆ ತಿಂಡಿ ಡೊನಟ್ ನಂತೆ ಮೃದುವಾಗಿದೆ"",
+""option_0"": ""ಆ ತಿಂಡಿ ಮೃದುವಾಗಿದೆ"",
+""option_1"": ""ಆ ತಿಂಡಿ ಮೃದುವಾಗಿಲ್ಲ"",
+""explanation"": ""The comparison is between the texture of the sweet",1,NG,0
+ಆ ತಿಂಡಿ ಸ್ಮೂತಿಯಂತೆ ಮೃದುವಾಗಿದೆ,ಆ ತಿಂಡಿ ಮೃದುವಾಗಿದೆ,ಆ ತಿಂಡಿ ಮೃದುವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The comparison is between the softness of the food and the smoothness of a smoothie, implying that the food is gentle and easy to eat."",
+  ""answer"": 0
+}",0,,0
+ಆ ಸಂಗೀತವು ಕೇಳಲು ಕರ್ಕಶವಾಗಿದೆ,ಆ ಸಂಗೀತವು ಕೇಳಲು ಇಂಪಾಗಿದೆ,ಆ ಸಂಗೀತವು ಕೇಳಲು ಇಂಪಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the music to something sharp or intense, so the closest option is 'ಆ ಸಂಗೀತವು ಕೇಳಲು ಕರ್ಕಶವಾಗಿದೆ' which means 'The music is sharp to listen to'"",
+  ""answer"": 0
+}",0,,0
+ಆಕೆಯು ಗೃಹಿಣಿಯಂತೆ ಸರಳವಾಗಿರುವಳು,ಆಕೆಯು ಸರಳವಾಗಿರುವಳು,ಆಕೆಯು ಸರಳವಾಗಿಲ್ಲ,0,"{
+  ""Startphrase"": ""ಆಕೆಯು ಗೃಹಿಣಿಯಂತೆ ಸರಳವಾಗಿರುವಳು"",
+  ""Options"": {
+    ""0"": ""ಆಕೆಯು ಸರಳವಾಗಿರುವಳು"",
+    ""1"": ""ಆಕೆಯು ಸರಳವಾಗಿಲ್ಲ""
+  },
+  ""Explanation"": """,1,NG,0
+ಆಕೆಯು ಗೃಹಿಣಿಯಂತೆ ಸರಳವಾಗಿರುವಳು,ಆಕೆಯು ಸರಳವಾಗಿರುವಳು,ಆಕೆಯು ಸರಳವಾಗಿಲ್ಲ,0,"{
+  ""Startphrase"": ""ಆಕೆಯು ಗೃಹಿಣಿಯಂತೆ ಸರಳವಾಗಿರುವಳು"",
+  ""Options"": {
+    ""0"": ""ಆಕೆಯು ಸರಳವಾಗಿರುವಳು"",
+    ""1"": ""ಆಕೆಯು ಸರಳವಾಗಿಲ್ಲ""
+  },
+  ""Explanation"": """,1,NG,0
+ಆಕೆಯು ಮಾಡೆಲ್ ನಂತೆಸರಳವಾಗಿರುವಳು,ಆಕೆಯು ಸರಳವಾಗಿರುವಳು,ಆಕೆಯು ಸರಳವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The comparison is being made between her and a model, so the meaning is that she is as straightforward as a model."",
+  ""answer"": 0
+}",0,,0
+ಅದು ಬಂಡೆಯಂತೆ ತಟಸ್ತವಾಗಿದೆ,ಅದು ತಟಸ್ತವಾಗಿದೆ,ಅದು ತಟಸ್ತವಾಗಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor is comparing the situation to a rocky terrain, indicating that it is difficult or challenging."",
+  ""Answer"": 0
+}",0,,0
+ವಾತಾವರಣವೂ  ಬೇಸಿಗೆಯಂತೆ ತಣ್ಣಗಿದೆ,ವಾತಾವರಣವೂ ತಣ್ಣಗಿದೆ,ವಾತಾವರಣವೂ ತಣ್ಣಗಿಲ್ಲ,1,"{
+	""Explanation"": ""The metaphor compares the weather to the coolness of autumn, suggesting that the weather is pleasant and cool."",
+	""Answer"": 0
+}",0,,0
+ಆ ಹುಡುಗ ಜಿಂಕೆಯಂತೆ ಉದ್ದವಿದ್ದಾನೆ,ಆ ಹುಡುಗ ಉದ್ದವಿದ್ದಾನೆ,ಆ ಹುಡುಗ ಉದ್ದವಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the height of the boy to that of a deer, emphasizing that the boy is very tall."",
+  ""answer"": 0
+}",0,,0
+ಆ ಸಿನಿಮಾ ಸಸ್ಪೆನ್ಸ್ ಥ್ರಿಲ್ಲರ್ನಂತೆ ನೇರವಾದ ಕಥೆಯನ್ನು ಹೊಂದಿದೆ,ಆ ಸಿನಿಮಾ ನೇರವಾದ ಕಥೆಯನ್ನು ಹೊಂದಿದೆ,ಆ ಸಿನಿಮಾ ನೇರವಾದ ಕಥೆಯನ್ನು ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The comparison is being made between the movie and a suspense thriller to imply that the story of the movie is as intriguing and engaging as a suspense thriller. Option 0 reflects this comparison more accurately as it states that the movie has a direct and linear plot just like a suspense thriller, hence option 0 is the correct answer."",
+  ""answer"": 0
+}",0,,0
+ಅವನ ಕಣ್ಣುಗಳು ಚಂದಿರನಂತೆ ನೀಲಿ ಆಗಿದೆ,ಅವನ ಕಣ್ಣುಗಳು ನೀಲಿ ಆಗಿದೆ,ಅವನ ಕಣ್ಣುಗಳು ನೀಲಿ ಆಗಿಲ್ಲ,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor compares the color of his eyes to the shine of the moon, indicating that his eyes are as bright and captivating as the moon. Therefore, the meaning closest to the metaphor is option 0) ಅವನ ಕಣ್ಣುಗಳು ನೀಲಿ ಆಗಿದೆ.""
+}",0,,0
+ಸೈನಿಕರ ತೋಳು ಪ್ಲಾಸ್ಟಿಕ್ ನಂತೆ ಗಟ್ಟಿಯಾಗಿದೆ,ಸೈನಿಕರ ತೋಳು ಗಟ್ಟಿಯಾಗಿದೆ,ಸೈನಿಕರ ತೋಳು ಗಟ್ಟಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the strength of a soldier's grip to that of plastic, implying rigidity and toughness."",
+  ""answer"": 0
+}",0,,0
+ಈ ವಸ್ತುವೂ ಪ್ರಾಣಿಯಂತೆ ಸುಮಧುರ ವಾಸನೆ ಹೊಂದಿದೆ,ಈ ವಸ್ತುವೂ ಸುಮಧುರ ವಾಸನೆ ಹೊಂದಿದೆ,ಈ ವಸ್ತುವೂ ಸುಮಧುರ ವಾಸನೆ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the object to an animal with a sweet fragrance, emphasizing on the sweetness of the smell."",
+  ""answer"": 0
+}",0,,0
+ಬ್ರಹ್ಮಾಂಡವು ಅಗಣಿತ ಗ್ರಹಗಳನ್ನು ಹೊಂದಿದೆ,ಬ್ರಹ್ಮಾಂಡವು ಅಗಣಿತ ನಕ್ಷತ್ರಗಳನ್ನು ಹೊಂದಿದೆ,ಬ್ರಹ್ಮಾಂಡವು ಅಗಣಿತ ನಕ್ಷತ್ರಗಳನ್ನು ಹೊಂದಿಲ್ಲ,1,"{
+  ""question"": ""ಬ್ರಹ್ಮಾಂಡವು ಅಗಣಿತ ಗ್ರಹಗಳನ್ನು ಹೊಂದಿದೆ"",
+  ""options"": [
+      ""ಬ್ರಹ್ಮಾಂಡವು ಅಗಣಿತ ನಕ್ಷತ್ರಗಳನ್ನು ಹೊಂದಿದ",0,NG,0
+ಅವನು ಕೆಲಸದಲ್ಲಿ ಎಮ್ಮೆಯಂತೆ ಏಕಾಗ್ರತೆ ಹೊಂದಿದ್ದಾನೆ,ಅವನು ಕೆಲಸದಲ್ಲಿ ಏಕಾಗ್ರತೆ ಹೊಂದಿದ್ದಾನೆ,ಅವನು ಕೆಲಸದಲ್ಲಿ ಏಕಾಗ್ರತೆ ಹೊಂದಿಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the person to a goat, emphasizing the quality of focus and concentration. Option 0 reflects this idea by stating that the person has concentration in work, while option 1 states the opposite, which does not align with the metaphor.",0,,0
+ಅದರ ಬಣ್ಣ ನೀರಿನಂತೆ ಬಿಳಿಯಾಗಿದೆ,ಅದರ ಬಣ್ಣ ಬಿಳಿಯಾಗಿದೆ,ಅದರ ಬಣ್ಣ ಬಿಳಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The comparison is being made between the color of 'ಬಣ್ಣ' and water in this metaphor. Water is colorless, so the intended meaning is that the color is white."",
+  ""answer"": 0
+}",0,,0
+ಅವರು ಹಾವಿನಂತೆ ಬಣ್ಣ ಬದಲಿಸುತ್ತಾರೆ,ಅವರು ಬಣ್ಣ ಬದಲಿಸುತ್ತಾರೆ,ಅವರು ಬಣ್ಣ ಬದಲಿಸಲ್ಲ,1,"{
+  ""Startphrase"": ""ಅವರು ಹಾವಿನಂತೆ ಬಣ್ಣ ಬದಲಿಸುತ್ತಾರೆ"",
+  ""Options"": {
+    ""0"": ""ಅವರು ಬಣ್ಣ ಬದಲಿಸುತ್ತಾರೆ"",
+    ""1"": ""ಅವರು ಬಣ್ಣ ಬದಲಿಸಲ್",0,NG,0
+ಅವರು ಹಾವಿನಂತೆ ಬಣ್ಣ ಬದಲಿಸುತ್ತಾರೆ,ಅವರು ಬಣ್ಣ ಬದಲಿಸುತ್ತಾರೆ,ಅವರು ಬಣ್ಣ ಬದಲಿಸಲ್ಲ,1,"{
+  ""Startphrase"": ""ಅವರು ಹಾವಿನಂತೆ ಬಣ್ಣ ಬದಲಿಸುತ್ತಾರೆ"",
+  ""Options"": {
+    ""0"": ""ಅವರು ಬಣ್ಣ ಬದಲಿಸುತ್ತಾರೆ"",
+    ""1"": ""ಅವರು ಬಣ್ಣ ಬದಲಿಸಲ್",0,NG,0
+ಆ ಕಟ್ಟಡವು ಕೆಡವಿದ ಅರಮನೆಯಂತೆ ಸುಂದರವಾಗಿದೆ,ಆ ಕಟ್ಟಡವು ಸುಂದರವಾಗಿದೆ,ಆ ಕಟ್ಟಡವು ಸುಂದರವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the building to a beautiful ruined palace, indicating that despite being ruined, it is still beautiful. Therefore, the closest meaning is that the building is beautiful."",
+  ""answer"": 0
+}",0,,0
+ಆ ರಸ್ತೆಯು ಹಿಲ್ ಸ್ಟೇಷನಂತೆ ನೇರವಾಗಿದೆ,ಆ ರಸ್ತೆಯು ನೇರವಾಗಿದೆ,ಆ ರಸ್ತೆಯು ನೇರವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor implies that the road is directly leading to a destination, just like a train station is a direct stop for trains."",
+  ""answer"": 0
+}",0,,0
+ಆ ರಸ್ತೆಯು ಹೆದ್ದಾರಿಯಂತೆ ತಿರುವುಗಳನ್ನು ಹೊಂದಿದೆ,ಆ ರಸ್ತೆಯು ತಿರುವುಗಳನ್ನು ಹೊಂದಿದೆ,ಆ ರಸ್ತೆಯು ತಿರುವುಗಳನ್ನು ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is suggesting that the road is as winding as a serpent, not that the road is devoid of bends."",
+  ""answer"": 0
+}",0,,0
+ಹೂಡಿಕೆಯು ಸ್ಟಾಕ್ ಮಾರ್ಕೆಟ್ ನಲ್ಲಿ ಅಪಾಯಕಾರಿ,ಹೂಡಿಕೆಯು ಅಪಾಯಕಾರಿ,ಹೂಡಿಕೆಯು ಅಪಾಯಕಾರಿಯಲ್ಲ,0,"{
+  ""answer"": 1
+}",1,,0
+ಕೋಲಿನ ಎತ್ತರ ತುಂಡವಾಗಿ ಇತ್ತು,ಕೋಲಿನ ಎತ್ತರ ಉದ್ದವಾಗಿ ಇತ್ತು,ಕೋಲಿನ ಎತ್ತರ ತುಂಡವಾಗಿ ಇತ್ತು,1,"{
+  ""explanation"": ""The metaphor suggests that Colin's height was towering or exceptionally tall, which is closer to the option 'ಕೋಲಿನ ಎತ್ತರ ಉದ್ದವಾಗಿ ಇತ್ತು'"",
+  ""answer"": 0
+}",0,,0
+ಕ್ರಿಕೆಟ್ ಆಟ ತುಂಬಾ ಸುಲಭ,ಕ್ರಿಕೆಟ್ ಆಟ ತುಂಬಾ ಸುಲಭ,ಕ್ರಿಕೆಟ್ ಆಟ ತುಂಬಾ ಕಷ್ಟ,0,"{
+  ""question"": ""ಕ್ರಿಕೆಟ್ ಆಟ ತುಂಬಾ ಸುಲಭ"",
+  ""option_0"": ""ಕ್ರಿಕೆಟ್ ಆಟ ತುಂಬಾ ಸುಲಭ"",
+  ""option_1"": ""ಕ್ರಿಕೆಟ್ ಆಟ ತುಂಬಾ ಕಷ್ಟ"",
+  ""explanation"": ""The metaphor 'ಕ್",1,NG,0
+ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿತ್ತು,ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿತ್ತು,ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿಲ್ಲ,0,"{
+  ""Startphrase"": ""ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿತ್ತು"",
+  ""Options"": {
+    ""0"": ""ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿತ್ತು"",
+    ""1"": ""ಸಿನಿಮಾದ",1,NG,0
+ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿತ್ತು,ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿತ್ತು,ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿಲ್ಲ,0,"{
+  ""Startphrase"": ""ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿತ್ತು"",
+  ""Options"": {
+    ""0"": ""ಸಿನಿಮಾದಲ್ಲಿ ಒಳ್ಳೆಯ ಸಂದೇಶವಿತ್ತು"",
+    ""1"": ""ಸಿನಿಮಾದ",1,NG,0
+ಅವನ ಭಾಷಣ ಜನರನ್ನು ಪ್ಲಾಸ್ಟಿಕ್ ನಂತೆ ಸೆಳೆಯುತ್ತಿತ್ತು,ಅವನ ಭಾಷಣ ಜನರನ್ನುಸೆಳೆಯುತ್ತಿತ್ತು,ಅವನ ಭಾಷಣ ಜನರನ್ನು ಸೆಳೆಯಲ್ಲಿಲ್ಲ,1,"{
+  ""Explanation"": ""The comparison is between how his speech was attracting people like plastic, which has a strong pull force."",
+  ""Answer"": 0
+}",0,,0
+ಆ ಪ್ರಾಣಿಯು ಚುರುಕಾದ ನೋಟ ಹೊಂದಿದೆ,ಆ ಪ್ರಾಣಿಯ ನೋಟ ಚುರುಕು,ಆ ಪ್ರಾಣಿಯ ನೋಟ ಚುರುಕಾಗಿಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor indicates that the animal has a fierce or intense look in its eyes, so option 1 is the closest meaning."",
+  ""answer"": 1
+}",1,,0
+ಆ ಪ್ರಾಣಿಯು ಮೆದೆಯಾದ ನೋಟ ಹೊಂದಿದೆ,ಆ ಪ್ರಾಣಿಯ ನೋಟ ಚುರುಕು,ಆ ಪ್ರಾಣಿಯ ನೋಟ ಚುರುಕಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The phrase 'ಮೆದೆಯಾದ ನೋಟ ಹೊಂದಿದೆ' indicates that the animal has a sharp sight, which means it has good vision. Option 1) translates to 'ಚುರುಕಾಗಿಲ್ಲ' meaning not sharp, which is the opposite of the metaphor. Therefore, option 0) is the correct interpretation."",
+  ""answer"": 0
+}",0,,0
+ಆ ಸಮಸ್ಯೆ ನೀರು ಕುಡಿದಷ್ಟು ಸುಲಭ,ಆ ಸಮಸ್ಯೆ ಸುಲಭ,ಆ ಸಮಸ್ಯೆ ಸುಲಭವಾಗಿಲ್ಲ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares the problem to drinking water, implying that the problem is not easily solvable. Option 1) ""ಆ ಸಮಸ್ಯೆ ಸುಲಭವಾಗಿಲ್ಲ"" reflects this idea of the problem not being easily solved.",1,,0
+ಸಂಗೀತ ಕಾರ್ಯಕ್ರಮವು ಮತ್ತೆ ಕೇಳಬೇಕೆನಿಸುವಷ್ಟು ಚೆನ್ನಾಗಿತ್ತು,ಸಂಗೀತ ಕಾರ್ಯಕ್ರಮವು ಚೆನ್ನಾಗಿತ್ತು,ಸಂಗೀತ ಕಾರ್ಯಕ್ರಮವು ಚೆನ್ನಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor implies the music program was so good that it made the listener want to repeat the experience, hence option 0) is the closest meaning."",
+  ""answer"": 0
+}",0,,0
+ಈ ವಾಹನವು ಎತ್ತಿನಗಾಡಿ ಅಂತೆ ವೇಗ ಹೊಂದಿದೆ,ಈ ವಾಹನವು ಹೆಚ್ಚು ವೇಗ ಹೊಂದಿದೆ,ಈ ವಾಹನವು ಹೆಚ್ಚು ವೇಗ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the speed of the vehicle to a horse carriage, implying that the vehicle is moving fast."",
+  ""answer"": 0
+}",0,,0
+ಅವನ ಡಾನ್ಸ್ ನಿದ್ದೆ ಬರೆಸುವಷ್ಟು ಆಕರ್ಷಕವಾಗಿತ್ತು,ಅವನ ಡಾನ್ಸ್ ಆಕರ್ಷಕವಾಗಿತ್ತು,ಅವನ ಡಾನ್ಸ್ ಆಕರ್ಷಕವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the attractiveness of someone's dance to the act of writing a sweet dream. This means the dance was captivating and attractive."",
+  ""answer"": 0
+}",0,,0
+ಆ ವಸ್ತುವಿನ ಬೆಲೆ ಪೆಟ್ರೋಲ್ದುಬಾರಿ,ಆ ವಸ್ತುವಿನ ಬೆಲೆ ದುಬಾರಿ,ಆ ವಸ್ತುವಿನ ಬೆಲೆ ದುಬಾರಿಯಲ್ಲ,0,"{
+  ""error"": ""Please provide the complete start phrase and options.""
+}",1,NG,0
+ಆ ವಸ್ತುವಿನ ಬೆಲೆ ನೀರಿನಂತೆ ದುಬಾರಿ,ಆ ವಸ್ತುವಿನ ಬೆಲೆ ದುಬಾರಿ,ಆ ವಸ್ತುವಿನ ಬೆಲೆ ದುಬಾರಿಯಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the value of the object to the doubling of water which means the value is increasing rapidly and significantly."",
+  ""answer"": 0
+}",0,,0
+ಆ ಹೂವು ತುಂಬೆಯಂತೆ ಸುವಾಸನೆ ಬೀರುತಿತ್ತು,ಆ ಹೂವು ಸುವಾಸನೆ ಬೀರುತಿತ್ತು,ಆ ಹೂವು ಸುವಾಸನೆ ಬೀರಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor comparing the flower to a filled vessel implies that the flower was giving off a strong fragrance."",
+  ""answer"": 0
+}",0,,0
+ಆತನ ಮನಸ್ಸು ಕಲ್ಲಿನಂತೆ ಮೃದು,ಆತನ ಮನಸ್ಸು ಮೃದು,ಆತನ ಮನಸ್ಸು ಮೃದುವಲ್ಲ,1,"{
+  ""explanation"": ""This metaphor is comparing the person's mind to a stone, indicating that it is soft and gentle, not hard and harsh."",
+  ""answer"": 0
+}",0,,0
+ಈ ರೋಗ ಕ್ಯಾನ್ಸರ್ ನಂತೆ ಹರಡುತ್ತದೆ,ಈ ರೋಗ ಹರಡುತ್ತದೆ,ಈ ರೋಗ ಹರಡುವುದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the spread of the disease to cancer, indicating that it spreads rapidly and aggressively like cancer does."",
+  ""answer"": 0
+}",0,,0
+ಆರೋಗ್ಯಕ್ಕೆ ಡ್ರೈ ಫ್ರೂಟ್ಸ್ ಉಪಯುಕ್ತವಾಗಿದೆ,ಆರೋಗ್ಯಕ್ಕೆ ಉಪಯುಕ್ತ,ಆರೋಗ್ಯಕ್ಕೆ ಉಪಯುಕ್ತವಲ್ಲ,0,"{
+  ""explanation"": ""ಡ್ರೈ ಫ್ರೂಟ್ಸ್ ಆರೋಗ್ಯಕ್ಕೆ ಹೊಂದಿದೆ ಎಂಬ ಅರ್ಥದಲ್ಲಿ 'ಉಪಯುಕ್ತ' ಎಂಬ ಪದವನ್ನು ಉಪಯೋಗಿಸಿದೆ, ಆದ",1,NG,0
+ಆರೋಗ್ಯಕ್ಕೆ ಚಾಕ್ಲೇಟ್ ಉಪಯುಕ್ತವಾಗಿದೆ,ಆರೋಗ್ಯಕ್ಕೆ ಉಪಯುಕ್ತ,ಆರೋಗ್ಯಕ್ಕೆ ಉಪಯುಕ್ತವಲ್ಲ,1,"{
+  ""Explanation"": ""Chocolate is metaphorically related to being beneficial for health which implies it is suitable for health."",
+  ""Answer"": 0
+}",0,,0
+ಆ ಹಣ್ಣು ಬಾಳೆಹಣ್ಣಿನಂತೆ ದುಬಾರಿ,ಆ ಹಣ್ಣು ದುಬಾರಿ,ಆ ಹಣ್ಣು ದುಬಾರಿಯಲ್ಲ,1,"{
+  ""explanation"": ""In this metaphor, the comparison is between the way the fruit 'ಬಾಳೆಹಣ್ಣು' grows again after being cut and the concept of resilience or bouncing back after facing difficulties. It is not comparing the fruit itself to another fruit."",
+  ""answer"": 0
+}",0,,0
+ಆ ತಿಂಗಳು ಡಿಸೆಂಬರ್ ನಂತೆ ಕಡಿಮೆ ದಿನ ಹೊಂದಿದೆ,ಆ ತಿಂಗಳು ಕಡಿಮೆ ದಿನ ಹೊಂದಿದೆ,ಆ ತಿಂಗಳು ಕಡಿಮೆ ದಿನ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""This metaphor is comparing the current month to December, which has fewer days."",
+  ""answer"": 0
+}",0,,0
+ಆ ನಗರದ ಮಾಲಿನ್ಯ ಬೆಂಗಳೂರಿನಂತೆ ಇದೆ,ಆ ನಗರದ ಮಾಲಿನ್ಯಹೆಚ್ಚು,ಆ ನಗರದ ಮಾಲಿನ್ಯ ಹೆಚ್ಚಿಲ್ಲ,1,"{
+  ""explanation"": ""ಈ ಉತ್ತರ ಕರೀತಿಗೆ ಆಧಾರವಿದ್ದು, ಬೆಂಗಳೂರು ನಗರದೊಂದಿಗೆ ಹೆಚ್ಚಾಗಿ ಹೋಲಿಸಿ ಹೇಳುವುದರ ಮೂಲಕ ಇದು ಅ",0,NG,0
+ಕಳೆದ ತಿಂಗಳು ಬೇಸಿಗೆಯಂತೆ ಮಳೆ ಸುರಿದಿತ್ತು,ಮಳೆ ಸುರಿದಿತ್ತು,ಮಳೆ ಸುರಿದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the past month to the onset of the monsoon season, implying that it rained a lot in the past month."",
+  ""answer"": 0
+}",0,,0
+ಅವರು ಅದಾನಿಯಂತೆ ಉದಾರಿ,ಅವರು ಉದಾರಿ,ಅವರು ಉದಾರಿಯಲ್ಲ,1,"[
+    {
+        ""Startphrase"": ""ಅವರು ಅದಾನಿಯಂತೆ ಉದಾರಿ"",
+        ""Options"": {
+            ""0"": ""ಅವರು ಉದಾರಿ"",
+            ""1"": ""ಅವರು ಉದಾರಿಯಲ್ಲ""
+        },
+        ""Explanation"": ""This metaphor compares the person to a generous donor, indicating that they are like a philanthropist. The closest meaning to this metaphor would be that they are generous, which aligns",0,NG,0
+ಆ ಪ್ರದೇಶ ಸ್ಮಶಾನದಂತೆ ಹೆಚ್ಚು ಜನ ರಿಂದ ಕೂಡಿದೆ,ಆ ಪ್ರದೇಶ ಹೆಚ್ಚು ಜನರಿಂದ ಕೂಡಿದೆ,ಆ ಪ್ರದೇಶ ಹೆಚ್ಚು ಜನರಿಂದ ಕೂಡಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares a place to a cemetery, implying that it is full of people like a crowded graveyard. Option 0) reflects this comparison by stating that the place is filled with more people, similar to a cemetery being filled with graves."",
+  ""answer"": 0
+}",0,,0
+ಆ ಪ್ರದೇಶದಲ್ಲಿ ರಾಜಸ್ಥಾನದಂತೆ ಮಳೆಯಾಗುತ್ತದೆ,ಆ ಪ್ರದೇಶದಲ್ಲಿ ಮಳೆಯಾಗುತ್ತದೆ,ಆ ಪ್ರದೇಶದಲ್ಲಿ ಮಳೆಯಾಗಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor implies that the region receives a lot of rain, similar to the state of Rajasthan which is known for its dry climate."",
+  ""answer"": 0
+}",0,,0
+ರಾಜ್ಯದಲ್ಲಿ ಕರ್ನಾಟಕದಂತೆ ಹೆಚ್ಚು ಫುಟ್ಬಾಲ್ ಪ್ರಿಯರಿದ್ದಾರೆ,ಹೆಚ್ಚು ಫುಟ್ಬಾಲ್ ಪ್ರಿಯರಿದ್ದಾರೆ,ಹೆಚ್ಚು ಫುಟ್ಬಾಲ್ ಪ್ರಿಯರಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the people in the state to the people who love football like in Karnataka. So, the meaning closest to the metaphor is 'ಹೆಚ್ಚು ಫುಟ್ಬಾಲ್ ಪ್ರಿಯರಿದ್ದಾರೆ' (they love football more)"",
+  ""answer"": 0
+}",0,,0
+ಅದು ಧರ್ಮಸ್ಥಳದಂತೆ ಪವಿತ್ರ ಕ್ಷೇತ್ರ,ಅದು ಪವಿತ್ರ ಕ್ಷೇತ್ರ,ಅದು ಪವಿತ್ರ ಕ್ಷೇತ್ರವಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor compares it to a holy place, not just a holy place on its own."",
+  ""answer"": 1
+}",1,,0
+ಆ ವಸ್ತು ಪ್ಲಾಸ್ಟಿಕ್ ನಂತೆ ಸೆಳೆಯುತ್ತದೆ,ಆ ವಸ್ತು ಸೆಳೆಯುತ್ತದೆ,ಆ ವಸ್ತು ಸೆಳೆಯಲ್ಲ,1,"{
+  ""explanation"": ""Comparing a object to plastic implies that it attracts or lures like plastic does."",
+  ""answer"": 0
+}",0,,0
+ಆ ಜಾಗದಲ್ಲಿ ಆಟದ ಮೈದಾನದಂತೆ ಭಯವಾಗುತ್ತದೆ,ಆ ಜಾಗದಲ್ಲಿ ಭಯವಾಗುತ್ತದೆ,ಆ ಜಾಗದಲ್ಲಿ ಭಯವಾಗುವುದಿಲ್ಲ,1,"{
+  ""explanation"": ""The comparison is between feeling fear as if it were a playfield and feeling fear in that place."",
+  ""answer"": 0
+}",0,,0
+ಕೋವಿಡ್ನಂತೆ ಅಂತೆ ಅಪಾಯಕಾರಿ,ಅದು ಅಪಾಯಕಾರಿ,ಅದು ಅಪಾಯಕಾರಿಯಲ್ಲ,0,"{
+  ""answer"": 1
+}
+
+Explanation: In this metaphor, the comparison is being made between something being as dangerous as COVID-19. The closer meaning to the metaphor is that it is not dangerous, as in option 1) ಅದು ಅಪಾಯಕಾರಿಯಲ್ಲ. COVID-19 is dangerous, so the metaphor is suggesting that the thing being compared is not actually dangerous.",1,,0
+ನೆಗಡಿ ಅಂತೆ ಅಪಾಯಕಾರಿ,ಅದು ಅಪಾಯಕಾರಿ,ಅದು ಅಪಾಯಕಾರಿಯಲ್ಲ,1,"{
+  ""answer"": 0
+}  
+Explanation: The metaphor compares something to a snake's nest, implying danger and being risky. So, the option ""ಅದು ಅಪಾಯಕಾರಿ"" (it is dangerous) is the closest meaning.",0,,0
+ಆ ವೃತ್ತಿಗೆ ರೈತರಂತೆ ಹೆಚ್ಚು ದುಡಿಮೆ ಇದೆ,ಆ ವೃತ್ತಿಗೆ ಹೆಚ್ಚು ದುಡಿಮೆ ಇದೆ,ಆ ವೃತ್ತಿಗೆ ಹೆಚ್ಚು ದುಡಿಮೆ ಇಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the amount of hard work to that of farmers, implying that there is a lot of hard work involved just like farmers have a lot of work in their profession."",
+  ""answer"": 0
+}",0,,0
+ಅವರು ರಾಜಕಾರಣಿಯಂತೆ ಸನ್ಯಾಸಿಯಂತೆ ಮಾತಿನ ಮಲ್ಲರು,ಅವರು ಮಾತಿನ ಮಲ್ಲರು,ಅವರು ಮಾತಿನ ಮಲ್ಲರಲ್ಲ,1,"{
+  ""explanation"": ""Comparing someone to the king and a monk in terms of words implies they are wise and tactful in their speech, similar to how a king and a monk carefully choose their words."",
+  ""answer"": 0
+}",0,,0
+ಅವನ ಮುತ್ತು ಕೆಲ ಸೆಕೆಂಡ್ ಗಾಢವಾಗಿತ್ತು,ಅವನ ಮುತ್ತು ತುಂಬಾ ಗಾಢವಾಗಿತ್ತು,ಅವನ ಮುತ್ತು ತುಂಬಾ ಗಾಢವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""Here, the meaning closest to the metaphor of 'his grip was deep' is that his hold was very strong and firm, indicating a powerful grip."",
+  ""answer"": 0
+}",0,,0
+ಅವನ ಹಾದಿ ಮುಳ್ಳಿನಿಂದ ಕೂಡಿದೆ,ಅವನ ಹಾದಿ ಕಷ್ಟ,ಅವನ ಹಾದಿ ಕಷ್ಟವಲ್ಲ,0,"{
+  ""answer"": 1
+}",1,,0
+ಅವರನ್ನು ಭಯೋತ್ಪಾದಕರಂತೆ ಎಲ್ಲರೂ ಗೌರವಿಸುತ್ತಾರೆ,ಅವರನ್ನು ಎಲ್ಲರೂ ಗೌರವಿಸುತ್ತಾರೆ,ಅವರನ್ನು ಎಲ್ಲರೂ ಗೌರವಿಸುವುದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the way everyone respects them to the way people fear authority figures. The meaning closest to the metaphor is that everyone respects them."",
+  ""answer"": 0
+}",0,,0
+ಆ ಕಂಪನಿ ಸ್ಟಾರ್ಟ್ ಅಪ್ ನಂತೆ ಪ್ರಸಿದ್ಧ,ಆ ಕಂಪನಿ ಪ್ರಸಿದ್ಧ,ಆ ಕಂಪನಿ ಪ್ರಸಿದ್ಧವಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the company's starting phase to a famous star, indicating that the company is well-known from the beginning. Therefore, the correct option is ""ಆ ಕಂಪನಿ ಪ್ರಸಿದ್ಧ"" which means ""That company is famous"".",0,,0
+ಆ ಕಂಪನಿ ಫೇಸ್ಬುಕ್ ನಂತೆ ನೂರಾರು ವರ್ಷಗಳ ಇತಿಹಾಸ ಹೊಂದಿದೆ,ಆ ಕಂಪನಿ ನೂರಾರು ವರ್ಷಗಳ ಇತಿಹಾಸ ಹೊಂದಿದೆ,ಆ ಕಂಪನಿ ನೂರಾರು ವರ್ಷಗಳ ಇತಿಹಾಸ ಹೊಂದಿಲ್ಲ,1,"{
+  ""Startphrase"": ""ಆ ಕಂಪನಿ ಫೇಸ್ಬುಕ್ ನಂತೆ ನೂರಾರು ವರ್ಷಗಳ ಇತಿಹಾಸ ಹೊಂದಿದೆ"",
+  ""Options"": {
+    ""0"": ""ಆ ಕಂಪನಿ ನೂರಾರು ವರ್ಷಗಳ ಇತಿಹಾ",0,NG,0
+ಅವನ ಮೊಗವು ಕಳ್ಳನಂತೆ ಮಂದಹಾಸದಿಂದ ಕೂಡಿದೆ,ಅವನ ಮೊಗವು ಮಂದಹಾಸದಿಂದ ಕೂಡಿದೆ,ಅವನ ಮೊಗವು ಮಂದಹಾಸದಿಂದ ಕೂಡಿಲ್ಲ,1,"{
+  ""explanation"": ""In this metaphor, the comparison is made between the person's smile and that of a thief. The emphasis is on the mischievous or cunning nature of the smile, which is more closely related to option 0"",
+  ""answer"": 0
+}",0,,0
+ಪ್ರಾಣಿ ಹುಲಿಯಂತೆ ಸಸ್ಯಹಾರಿ,ಆ ಪ್ರಾಣಿ ಸಸ್ಯಹಾರಿ,ಆ ಪ್ರಾಣಿ ಸಸ್ಯಹಾರಿಯಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the behavior of an animal to that of a herbivore. Option 0 reflects this comparison directly, stating that the animal is a herbivore. Option 1, on the other hand, states that the animal is not a herbivore, which is not aligned with the metaphor. Therefore, the correct answer is option 0) ಆ ಪ್ರಾಣಿ ಸಸ್ಯಹಾರಿ.",0,,0
+ಹದ್ದಿನಂತೆ ವಿಷ ಹೊಂದಿದೆ,ವಿಷ ಹೊಂದಿದೆ,ವಿಷ ಹೊಂದಿಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""ಹದ್ದಿನಂತೆ ವಿಷ ಹೊಂದಿದೆ"" compares someone to a bird who has been poisoned. This implies that the person is in a dangerous or toxic situation. Option 0) ""ವಿಷ ಹೊಂದಿದೆ"" is the closest to this meaning, indicating that the person is indeed in a harmful situation.",0,,0
+ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟ ಸುಲಿದ ಬಾಳೆಹಣ್ಣಿನಂತೆಇತ್ತು,ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟ ಕಷ್ಟ,ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟ ಸುಲಭ,1,"{
+  ""explanation"": ""The metaphor compares the struggle for independence to a difficult process like plucking a thorn from a plant."",
+  ""answer"": 0
+}",0,,0
+ಆ ಹೂವು ದಾಸವಾಳದಂತೆ ಮುಳ್ಳನ್ನು ಹೊಂದಿದೆ,ಆ ಹೂವು ಮುಳ್ಳನ್ನು ಹೊಂದಿದೆ,ಆ ಹೂವು ಮುಳ್ಳನ್ನು ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the flower to a servant girl holding thorns, indicating that the flower has thorns like a servant girl holding thorns. So, the meaning closer to the metaphor is that the flower has thorns."",
+  ""answer"": 0
+}",0,,0
+ಆ ಪ್ರದೇಶ ನಗರದಂತೆ ವೈವಿಧ್ಯಮಯ ಜೀವಸಂಕುಲಗಳನ್ನು ಹೊಂದಿದೆ,ಆ ಪ್ರದೇಶ ವೈವಿಧ್ಯಮಯ ಜೀವಸಂಕುಲಗಳನ್ನು ಹೊಂದಿದೆ,ಆ ಪ್ರದೇಶ ವೈವಿಧ್ಯಮಯ ಜೀವಸಂಕುಲಗಳನ್ನು ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the region to a city with diverse populations, implying that the region itself is diverse."",
+  ""answer"": 0
+}",0,,0
+ಹಣ ಕಳುಹಿಸುವುದು ಯುಪಿಐ ನಿಂದ ಸುಲಭ,ಹಣ ಕಳುಹಿಸುವುದು ಸುಲಭ,ಹಣ ಕಳುಹಿಸುವುದು ಸುಲಭವಲ್ಲ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor here is about sending money via UPi, which is being compared to something easy and convenient. Option 1) ""ಹಣ ಕಳುಹಿಸುವುದು ಸುಲಭವಲ್ಲ"" translates to ""sending money is not easy"", which is not the intended meaning of the metaphor. Therefore, the correct option is 0) ""ಹಣ ಕಳುಹಿಸುವುದು ಸುಲಭ"", meaning ""sending money is easy",1,,0
+ಹಣ ಕಳುಹಿಸುವುದು ಚೆಕ್ ನಿಂದ ಸುಲಭ,ಹಣ ಕಳುಹಿಸುವುದು ಸುಲಭ,ಹಣ ಕಳುಹಿಸುವುದು ಸುಲಭವಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing sending money to being easy as sending a cheque. Option 0 reflects this idea by stating that sending money is easy. Option 1, on the other hand, implies that sending money is not easy. Therefore, option 0 is the closest meaning to the metaphor.",0,,0
+ಆ ದೇಶದ ಜನಸಂಖ್ಯೆ ಕೆನಡಾದಷ್ಟಿದೆ,ಆ ದೇಶದ ಜನಸಂಖ್ಯೆ ಹೆಚ್ಚು,ಆ ದೇಶದ ಜನಸಂಖ್ಯೆ ಕಡಿಮೆ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the population of a country to that of Canada, which is known to have a relatively high population. Therefore, the meaning closest to the metaphor is that the population of that country is higher than that of Canada, so option 0) ಆ ದೇಶದ ಜನಸಂಖ್ಯೆ ಹೆಚ್ಚು is the correct choice.",0,,0
+ಆ ದೇಶದ ವಿಸ್ತಾರ ಸಿಂಗಾಪುರದಷ್ಟು ದೊಡ್ಡದು,ಆ ದೇಶದ ವಿಸ್ತಾರ ದೊಡ್ಡದು,ಆ ದೇಶದ ವಿಸ್ತಾರ ದೊಡ್ಡದಲ್ಲ,1,"{
+  ""explanation"": ""This metaphor is comparing the size of the country's expanse to the size of Singapore, implying that it is very large"",
+  ""answer"": 0
+}",0,,0
+ಕ್ರೀಡಾಕೂಟ ಒಲಂಪಿಕ್ಸ್ ನಷ್ಟು ದೊಡ್ಡದು,ಆ ಕ್ರೀಡಾಕೂಟ ದೊಡ್ಡದು,ಆ ಕ್ರೀಡಾಕೂಟ ದೊಡ್ಡದಲ್ಲ,0,"{
+  ""explanation"": ""The metaphor compares the loss in the Olympics to something big, not the success of the sport itself."",
+  ""answer"": 1
+}",1,,0
+ಕ್ರೀಡಾಕೂಟ ಏಷಿಯನ್ ಗೇಮ್ಸ್ ನಷ್ಟು ದೊಡ್ಡದು,ಆ ಕ್ರೀಡಾಕೂಟ ದೊಡ್ಡದು,ಆ ಕ್ರೀಡಾಕೂಟ ದೊಡ್ಡದಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor used here is comparing the Asian Games to an elephant, suggesting that it is large in size. Option 0) is the closest meaning to the metaphor."",
+  ""answer"": 0
+}",0,,0
+ಆ ಕಟ್ಟಡ ಕೆಂಪು ಶಾಪಿಂಗ್ ಮಾಲ್ನಂತೆ ಐತಿಹಾಸಿಕವಾಗಿದೆ,ಆ ಕಟ್ಟಡ ಐತಿಹಾಸಿಕವಾಗಿದೆ,ಆ ಕಟ್ಟಡ ಐತಿಹಾಸಿಕವಾಗಿಲ್ಲ,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the building to a red shopping mall, implying that the building is historically significant like a shopping mall. Option 0) reflects this comparison by stating that the building is historically significant. Option 1) contradicts the metaphor by stating that the building is not historically significant. Hence, the correct answer is option 0).",0,,0
+ಅವನು ಗ್ರೇಟ್ ಕಲಿಯಂತೆ ನೃತ್ಯ ಮಾಡುತ್ತಾನೆ,ಅವನು ನೃತ್ಯ ಮಾಡುತ್ತಾನೆ,ಅವನು ನೃತ್ಯ ಮಾಡುವುದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor implies that he dances as if he has learned a lot, indicating skill and expertise in dancing."",
+  ""answer"": 0
+}",0,,0
+ಕೋವಿಡ್ ತಡೆಯಲು ಪೋಲಿಯೊ ಡೋಸ್ ಅವಶ್ಯವಾಗಿದೆ,ಬೂಸ್ಟರ್ ಡೋಸ್ ಅವಶ್ಯಕ,ಬೂಸ್ಟರ್ ಡೋಸ್ ಅವಶ್ಯಕವಲ್ಲ,1,"{
+  ""answer"": 0
+}",0,,0
+ಆ ಊರಿನಲ್ಲಿ ಮಂಡ್ಯದಷ್ಟು ಚಳಿ ಇತ್ತು,ಆ ಊರಿನಲ್ಲಿ ಚಳಿ ಇತ್ತು,ಆ ಊರಿನಲ್ಲಿ ಚಳಿ ಇಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the cold in the town to the cold in Mandya. Option 0) is closest in meaning as it states that there was as much cold in the town as in Mandya."",
+  ""answer"": 0
+}",0,,0
+ಆ ಊರಿನಲ್ಲಿ ಸಿಮ್ಲಾದಷ್ಟು ಶೆಕೆ ಇತ್ತು,ಆ ಊರಿನಲ್ಲಿ ಶೆಕೆ ಇತ್ತು,ಆ ಊರಿನಲ್ಲಿ ಶೆಕೆ ಇಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the amount of fear to that of a simile, indicating there was a large amount of fear in the village."",
+  ""answer"": 0
+}",0,,0
+ಅವರು ಆ ಊರು ಬೆಂಗಳೂರಿನಷ್ಟು ಸ್ವಚ್ಛವಾಗಿದೆ,ಆ ಊರು ಹೆಚ್ಚು ಸ್ವಚ್ಛವಾಗಿದೆ,ಆ ಊರು ಹೆಚ್ಚು ಸ್ವಚ್ಛವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""Comparing the cleanliness of the town to Bangalore, implying it is as clean as Bangalore."",
+  ""answer"": 0
+}",0,,0
+ಅವರು ರೈತರಂತೆ ಪ್ರಭಾವಿ ವ್ಯಕ್ತಿಯಾಗಿದ್ದಾರೆ,ಅವರು ಪ್ರಭಾವಿ,ಅವರು ಪ್ರಭಾವಿಯಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the individual to a farmer, indicating that they have a strong influence or impact on others just like how farmers have an influence on their fields."",
+  ""answer"": 0
+}",0,,0
+ದೇಶದಲ್ಲಿ ಮಹಿಳಾ ಸ್ವಾತಂತ್ರ್ಯ ಆಫ್ಘಾನಿಸ್ತಾನದಂತೆ ಕಡಿಮೆ ಇದೆ,ದೇಶದಲ್ಲಿ ಮಹಿಳಾ ಸ್ವಾತಂತ್ರ್ಯ ಕಡಿಮೆ ಇದೆ,ದೇಶದಲ್ಲಿ ಮಹಿಳಾ ಸ್ವಾತಂತ್ರ್ಯ ಕಡಿಮೆ ಇಲ್ಲ,0,"{
+  ""error"": ""Explanation is missing""
+}",1,NG,0
+ಆಹಾರ ಪಾನಿಪುರಿಯಂತೆ ಹೆಚ್ಚು ಪೌಷ್ಟಿಕತೆ ಹೊಂದಿದೆ,ಆಹಾರ ಪೌಷ್ಟಿಕತೆ ಹೊಂದಿದೆ,ಆಹಾರ ಪೌಷ್ಟಿಕತೆ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the nutrition content of the food to a panipuri, which is known for being rich in flavors and nutrients. Therefore, it implies that the food has a high nutritional value."",
+  ""answer"": 0
+}",0,,0
+ಆ ವ್ಯಕ್ತಿ ಶಿಕ್ಷಕರಂತೆ ಆದರ್ಶ ವ್ಯಕ್ತಿಯಾಗಿದ್ದರು,ಅವರು ಆದರ್ಶ ವ್ಯಕ್ತಿ,ಅವರು ಆದರ್ಶ ವ್ಯಕ್ತಿಯಲ್ಲ,0,"{
+  ""Explanation"": ""The metaphor is comparing the person to an ideal teacher, not stating that they are an ideal person in general."",
+  ""Answer"": 1
+}",1,,0
+ಶ್ರೀಲಂಕಾ ಭಾರತದಂತೆ ನೀರಿನಿಂದ ಸುತ್ತುವರಿದಿದೆ,ಶ್ರೀಲಂಕಾ ನೀರಿನಿಂದ ಸುತ್ತುವರಿದಿದೆ,ಶ್ರೀಲಂಕಾ ನೀರಿನಿಂದ ಸುತ್ತುವರಿದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing Sri Lanka to India in terms of being surrounded by water. Option 0) reflects this comparison by stating that Sri Lanka is surrounded by water like India, whereas option 1) states that Sri Lanka is not surrounded by water like India, which does not align with the metaphor."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ಕುಂಭಕರ್ಣನಂತೆ 10 ತಲೆ ಹೊಂದಿದ್ದನು,ಅವನು 10 ತಲೆ ಹೊಂದಿದ್ದ,ಅವನು 10 ತಲೆ ಹೊಂದಿಲ್ಲ,1,"{
+    ""explanation"": ""ಕುಂಭಕರ್ಣ ರಾಕ್ಷಸ ಯೋಧ ಆವತಾರ, ಆತನು 10 ತಲೆ ಹೊಂದಿದ್ದನು"",
+    ""answer"": 0
+}",0,,0
+ಶಾಲಾ ಬೀಳ್ಕೊಡುಗೆ ಸಮಾರಂಭದಲ್ಲಿ ವಿದಾಯ ಹೇಳುವಂತೆ ವಿದ್ಯಾರ್ಥಿಗಳೆಲ್ಲರೂ ಬೇಜಾರಾಗಿದ್ದರು,ವಿದ್ಯಾರ್ಥಿಗಳೆಲ್ಲರೂ ಬೇಜಾರಾಗಿದ್ದರು,ವಿದ್ಯಾರ್ಥಿಗಳೆಲ್ಲರೂ ಬೇಜಾರಾಗಿಲ್ಲ,0,"{
+  ""error"": ""No explanation provided""
+}",1,NG,0
+ಶಾಲಾ ಬೀಳ್ಕೊಡುಗೆ ಸಮಾರಂಭದಲ್ಲಿ ಸಂಭ್ರಮಿಸುವಂತೆ ವಿದ್ಯಾರ್ಥಿಗಳೆಲ್ಲರೂ ಬೇಜಾರಾಗಿದ್ದರು,ವಿದ್ಯಾರ್ಥಿಗಳೆಲ್ಲರೂ ಬೇಜಾರಾಗಿದ್ದರು,ವಿದ್ಯಾರ್ಥಿಗಳೆಲ್ಲರೂ ಬೇಜಾರಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares students becoming bored at the beginning of the event to the falling of a school signboard. The closest meaning is that all students were bored."",
+  ""answer"": 0
+}",0,,0
+ಈ ವಾಹನವು ಫ್ಲೈಟ್ ನಂತೆ ಶೀಘ್ರ ವಾಗಿ ಚಲಿಸುತ್ತದೆ.,ಈ ವಾಹನವು ಶೀಘ್ರ ವಾಗಿ ಚಲಿಸುತ್ತದೆ,ಈ ವಾಹನವು ಶೀಘ್ರ ವಾಗಿ ಚಲಿಸುವುದಿಲ್ಲ,0,"{
+  ""error"": ""No explanation provided""
+}",1,NG,0
+ಈ ಆಭರಣವು ಸಾಮಾನ್ಯ ಒಡವೆಯಂತೆ ಏಕಮಾತ್ರವಾಗಿದೆ,ಈ ಆಭರಣವು ಏಕಮಾತ್ರವಾಗಿದೆ,ಈ ಆಭರಣವು ಏಕಮಾತ್ರವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is emphasizing the uniqueness of the jewelry, comparing it to a rare item."",
+  ""answer"": 0
+}",0,,0
+ಈ ವ್ಯಕ್ತಿಯು ರೈತನಂತೆ ಪ್ರಸಿದ್ಧಿಯಾಗಿದ್ದಾನೆ,ಈ ವ್ಯಕ್ತಿಯು ಪ್ರಸಿದ್ಧಿಯಾಗಿದ್ದಾನೆ,ಈ ವ್ಯಕ್ತಿಯು ಪ್ರಸಿದ್ಧಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the person to a farmer, implying that they are well-known or famous in their field."",
+  ""answer"": 0
+}",0,,0
+ಈ ಭೂಮಿಯು ಮರುಭೂಮಿಯಂತೆ ಫಲವತ್ತತೆಯಾಗಿದೆ,ಈ ಭೂಮಿಯು ಫಲವತ್ತತೆಯಾಗಿದೆ,ಈ ಭೂಮಿಯು ಫಲವತ್ತತೆಯಾಗಿಲ್ಲ,1,"{
+	""answer"": 0
+}
+
+Explanation: In this metaphor, the comparison is between the Earth and a fertile land. The closer meaning to the metaphor is that the Earth is compared to fertile land, implying that it is fruitful. Therefore, option 0) ""ಈ ಭೂಮಿಯು ಫಲವತ್ತತೆಯಾಗಿದೆ"" is the correct answer as it conveys this idea.",0,,0
+ಈ ರೋಡ್ ಹೈವೇ ಯಂತೆ ಕಿರಿದಾಗಿದೆ,ಈ ರೋಡ್ ಕಿರಿದಾಗಿದೆ,ಈ ರೋಡ್ ಕಿರಿದಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the road to a mountain, indicating that the road is elevated like a mountain."",
+  ""answer"": 0
+}",0,,0
+ಈ ಕೊಳವು ಕೆರೆಯಂತೆ ವಿಶಾಲವಾಗಿದೆ,ಈ ಕೊಳವು ವಿಶಾಲವಾಗಿದೆ,ಈ ಕೊಳವು ವಿಶಾಲವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the size of the pond to a lake, emphasizing how vast it is."",
+  ""answer"": 0
+}",0,,0
+ಈ ಕಾರ್ಯಕ್ರಮವು ಸರ್ಕಸ್ ನಂತೆ ಭಯಾನಕವಾಗಿದೆ,ಈ ಕಾರ್ಯಕ್ರಮವು ಭಯಾನಕವಾಗಿದೆ,ಈ ಕಾರ್ಯಕ್ರಮವು ಭಯಾನಕವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the program to a circus, implying that it is chaotic and overwhelming."",
+  ""answer"": 0
+}",0,,0
+ಈ ಅಡುಗೆಯು ರಾಗಿ ಮುದ್ದೆಯಂತೆ ಪೋಷಕಾಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ,ಈ ಅಡುಗೆಯು ಪೋಷಕಾಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ,ಈ ಅಡುಗೆಯು ಪೋಷಕಾಂಶಗಳನ್ನು ಒಳಗೊಂಡಿಲ್ಲ,0,"{
+  ""Startphrase"": ""ಈ ಅಡುಗೆಯು ರಾಗಿ ಮುದ್ದೆಯಂತೆ ಪೋಷಕಾಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ"",
+  ""Options"": {
+    ""0"": ""ಈ ಅಡುಗೆಯು ಪೋಷಕಾಂಶಗಳನ್ನು ಒ",1,NG,0
+ಈ ಅಡುಗೆಯು ಚಪಾತಿಯಂತೆ ಪೋಷಕಾಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ,ಈ ಅಡುಗೆಯು ಪೋಷಕಾಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ,ಈ ಅಡುಗೆಯು ಪೋಷಕಾಂಶಗಳನ್ನು ಒಳಗೊಂಡಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the contents of the container to the ingredients in a roti (Indian bread). It suggests that the container is filled with nutritious elements, similar to how a roti is filled with ingredients like flour, spices, etc."",
+  ""answer"": 0
+}",0,,0
+ಈ ವಾಹನವು ಹೆಲಿಕ್ಯಾಪ್ಟರ್ ನಂತೆ ಎತ್ತರಕ್ಕೆ ಹಾರಬಲ್ಲದು,ಈ ವಾಹನವು ಎತ್ತರಕ್ಕೆ ಹಾರಬಲ್ಲದು,ಈ ವಾಹನವು ಎತ್ತರಕ್ಕೆ ಹಾರಲ್ಲ,1,"{
+  ""explanation"": ""The comparison is being made in terms of the vehicle's ability to soar to heights like a helicopter, not just its capability to jump higher. Therefore, the closest meaning is option 0."",
+  ""answer"": 0
+}",0,,0
+ಈ ವ್ಯಕ್ತಿಯು ಮುದುಕನಂತೆ ತುಂಟನಾಗಿದ್ದಾನೆ,ಈ ವ್ಯಕ್ತಿಯು ತುಂಟನಾಗಿದ್ದಾನೆ,ಈ ವ್ಯಕ್ತಿಯು ತುಂಟನಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor compares the person to an elderly individual, indicating that they are behaving in a mischievous or playful manner, similar to how a child might behave."",
+  ""Answer"": 0
+}",0,,0
+ಇವರ ಚರ್ಮವು ವಯಸ್ಸಾದವರ ಚರ್ಮದಂತೆ ಮೃದುವಾಗಿದೆ,ಇವರ ಚರ್ಮವು ಮೃದುವಾಗಿದೆ,ಇವರ ಚರ್ಮವು ಮೃದುವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the softness of their skin to the softness of older people's skin. Option 0) is the closest meaning as it states that their skin is soft."",
+  ""answer"": 0
+}",0,,0
+ಈ ಕಾರ್ಯಕ್ರಮವು ಪಾರ್ಟಿಯಂತೆ ಭಯಾನಕವಾಗಿದೆ,ಈ ಕಾರ್ಯಕ್ರಮವು ಭಯಾನಕವಾಗಿದೆ,ಈ ಕಾರ್ಯಕ್ರಮವು ಭಯಾನಕವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the program to a party, suggesting that it is dreadful or horrible in nature."",
+  ""answer"": 0
+}",0,,0
+ಈ ಕಟ್ಟಡವು ಅರಮನೆಯಂತೆ ಆಲಂಕಾರಿಕವಾಗಿದೆ,ಈ ಕಟ್ಟಡವು ಆಲಂಕಾರಿಕವಾಗಿದೆ,ಈ ಕಟ್ಟಡವು ಆಲಂಕಾರಿಕವಾಗಿಲ್ಲ,0,"{
+	""Startphrase"": ""ಈ ಕಟ್ಟಡವು ಅರಮನೆಯಂತೆ ಆಲಂಕಾರಿಕವಾಗಿದೆ"",
+	""Options"": {
+		""0"": ""ಈ ಕಟ್ಟಡವು ಆಲಂಕಾರಿಕವಾಗಿದೆ"",
+		""1"": ""ಈ ಕಟ್ಟಡವು ಆ",1,NG,0
+ಈ ಕಟ್ಟಡವು ಸರ್ಕಾರಿ ಕಚೇರಿಯಂತೆ ಆಲಂಕಾರಿಕವಾಗಿದೆ,ಈ ಕಟ್ಟಡವು ಆಲಂಕಾರಿಕವಾಗಿದೆ,ಈ ಕಟ್ಟಡವು ಆಲಂಕಾರಿಕವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the building to a government office, emphasizing the ornate decoration aspect rather than the functionality aspect."",
+  ""answer"": 0
+}",0,,0
+ಈ ಆಟವು ಲೀಗ್ ನಷ್ಟು ದೊಡ್ಡದು,ಈ ಆಟವು ದೊಡ್ಡದು,ಈ ಆಟವು ದೊಡ್ಡದಲ್ಲ,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor is comparing the game to a high-stakes loss. Option 1) ""ಈ ಆಟವು ದೊಡ್ಡದಲ್ಲ"" which translates to ""This game is not a big one"" is the closest in meaning as it emphasizes that the game is not as big as the loss in the league.",1,,0
+ಈ ಕಾಯಿಲೆಯು ಕೆಮ್ಮಿನಷ್ಟು ತುರ್ತಾಗಿದೆ,ಈ ಕಾಯಿಲೆಯು ತುರ್ತಾಗಿಲ್ಲ,ಈ ಕಾಯಿಲೆಯು ತುರ್ತಾಗಿದೆ,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor indicates that the illness is spreading quickly, similar to how something fast, like fire, would spread. Therefore, the option ""ಈ ಕಾಯಿಲೆಯು ತುರ್ತಾಗಿದೆ"" (This illness is spreading quickly) is the closest meaning to the metaphor.",1,,0
+ಈ ನೃತ್ಯವು ಡಿಸ್ಕೋ ದಷ್ಟು ಪ್ರಾಚೀನವಾಗಿದೆ,ಈ ನೃತ್ಯವು ಪ್ರಾಚೀನವಾಗಿದೆ,ಈ ನೃತ್ಯವು ಪ್ರಾಚೀನವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the dance to being as old as disco, indicating that the dance is very old."",
+  ""answer"": 0
+}",0,,0
+ಈ ಭೇಟಿಯು ಸಾಮಾನ್ಯ ಚೆಕಪ್ ನಷ್ಟುನಿರ್ಣಾಯಕವಾಗಿದೆ,ಈ ಭೇಟಿಯು ನಿರ್ಣಾಯಕವಾಗಿಲ್ಲ,ಈ ಭೇಟಿಯು ನಿರ್ಣಾಯಕವಾಗಿದೆ,0,"{
+  ""explanation"": ""The metaphor implies that the visit is significant and meaningful, similar to a standard checkup being crucial for health assessment."",
+  ""answer"": 1
+}",1,,0
+ಈ ಆಹಾರವು ಚೈನೀಸ್ ಫುಡ್ ನಷ್ಟು ಸಾವಯವಾಗಿದೆ,ಈ ಆಹಾರವು ಸಾವಯವಾಗಿದೆ,ಈ ಆಹಾರವು ಸಾವಯವಾಗಿಲ್ಲ,1,"{
+	""answer"": 0
+}
+
+In this metaphor, the food being described as Chinese fusion implies that it has been transformed or combined with different elements, similar to how fusion cuisine incorporates various culinary styles. Therefore, the closest meaning to the metaphor is option 0) ""This food has been transformed.""",0,,0
+ಈ ಆಹಾರವು ಮಾತ್ರೆಯಷ್ಟು ರಾಸಾಯನಿಕವಾಗಿದೆ,ಈ ಆಹಾರವು ರಾಸಾಯನಿಕವಾಗಿದೆ,ಈ ಆಹಾರವು ರಾಸಾಯನಿಕವಾಗಿಲ್ಲ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The phrase ""ಈ ಆಹಾರವು ಮಾತ್ರೆಯಷ್ಟು ರಾಸಾಯನಿಕವಾಗಿದೆ"" could mean that the food is only slightly chemically processed, rather than being completely chemical-free. Therefore, the closest meaning is option 1) ಈ ಆಹಾರವು ರಾಸಾಯನಿಕವಾಗಿಲ್",1,,0
+ಈ ಆಹಾರವು ಆಯುರ್ವೇದದಷ್ಟು ರಾಸಾಯನಿಕವಾಗಿದೆ,ಈ ಆಹಾರವು ರಾಸಾಯನಿಕವಾಗಿದೆ,ಈ ಆಹಾರವು ರಾಸಾಯನಿಕವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the food to Ayurveda, emphasizing its chemical composition or health benefits. Option 0 is the closest meaning as it states that the food is as chemical as Ayurveda."",
+  ""answer"": 0
+}",0,,0
+ಈ ಅಕ್ಷರಗಳು ಪ್ರಬಂಧದಂತೆ ಮೂಲಭೂತವಾಗಿದೆ,ಈ ಅಕ್ಷರಗಳು ಮೂಲಭೂತವಾಗಿದೆ,ಈ ಅಕ್ಷರಗಳು ಮೂಲಭೂತವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The phrase 'ಈ ಅಕ್ಷರಗಳು ಪ್ರಬಂಧದಂತೆ' is a metaphor comparing the characters to an essay, indicating that they are fundamental or foundational."",
+  ""answer"": 0
+}",0,,0
+ಈ ನೆಲವು ಮರುಭೂಮಿಯಂತೆ ಒಣಗಿದೆ,ಈ ನೆಲವು ಒಣಗಿದೆ,ಈ ನೆಲವು ಒಣಗಿಲ್ಲ,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""ಈ ನೆಲವು ಮರುಭೂಮಿಯಂತೆ ಒಣಗಿದೆ"" compares the ground to a barren land which implies that the ground is infertile and not productive. Option 1) ""ಈ ನೆಲವು ಒಣಗಿಲ್ಲ"" means the ground is not barren, which is the opposite of the intended meaning. Therefore, the closest meaning to the metaphor is Option 0) ""ಈ ನೆ",1,,0
+ಆತನು  ಬೆಕ್ಕಿನಂತೆ ನಿಷ್ಟಾವಂತ,ಆತನು ನಿಷ್ಟಾವಂತ,ಆತನು ನಿಷ್ಟಾವಂತನಲ್ಲ,1,"{
+""question"": ""ಆತನು ಬೆಕ್ಕಿನಂತೆ ನಿಷ್ಟಾವಂತ"",
+""options"": {
+""0"": ""ಆತನು ನಿಷ್ಟಾವಂತ"",
+""1"": ""ಆತನು ನಿಷ್ಟಾವಂತನಲ್ಲ""
+},
+""explanation"": ""ಬೆಕ್ಕು ಅತ್",0,NG,0
+ಅದು ಗೋಲ್ ಗುಂಬಜ್ ನಂತೆ ದೊಡ್ಡದಾಗಿದೆ,ಅದು ತಾಜ್ ಮಹಲ್ ನಂತೆ ಪ್ರಸಿದ್ಧ,ಅದು ತಾಜ್ ಮಹಲ್ ನಂತೆ ಪ್ರಸಿದ್ಧವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The comparison is between the size of something and the Gol Gumbaz, indicating that it is large in size. Taj Mahal is famous, but the comparison is about size, not fame."",
+  ""answer"": 0
+}",0,,0
+ಈ ಕ್ರಿಮಿ ವೈರಸ್ ನಂತೆ ಸೂಕ್ಷ್ಮದರ್ಶಕವಾಗಿದೆ,ಈ ಕ್ರಿಮಿ ಸೂಕ್ಷ್ಮದರ್ಶಕವಾಗಿದೆ,ಈ ಕ್ರಿಮಿ ಸೂಕ್ಷ್ಮದರ್ಶಕವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing something to a microscopic virus, implying that it is very small and hard to detect."",
+  ""answer"": 0
+}",0,,0
+ಈ ಲೋಹವು ಬೆಳ್ಳಿಯಂತೆ ಬೆಲೆ ಬಾಳುತ್ತದೆ,ಈ ಲೋಹವು ಹೆಚ್ಚು ಬೆಲೆ ಬಾಳುತ್ತದೆ,ಈ ಲೋಹವು ಕಡಿಮೆ ಬೆಲೆ ಬಾಳುತ್ತದೆ,1,"{
+  ""explanation"": ""The metaphor is comparing the value of the iron to that of silver, implying that the iron is valuable like silver."",
+  ""answer"": 0
+}",0,,0
+ಆತನು  ದರೋಡೆಕೋರನಂತೆ ಅಪಾಯಕಾರಿಯಾಗಿದ್ದಾನೆ,ಆತನು ಅಪಾಯಕಾರಿಯಾಗಿದ್ದಾನೆ,ಆತನು ಅಪಾಯಕಾರಿಯಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the person to a robber, indicating that they are dangerous and harmful."",
+  ""answer"": 0
+}",0,,0
+ಆತ ಡಾಕ್ಟರ್ನಂತೆ ಹಾಸ್ಯಾಸ್ಪದನಾಗಿದ್ದಾನೆ,ಆತ ಹಾಸ್ಯಾಸ್ಪದನಾಗಿದ್ದಾನೆ,ಆತ ಹಾಸ್ಯಾಸ್ಪದನಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing someone to a doctor with the specific characteristic of being humorous. The closest option is that he is humorous, not that he is not humorous."",
+  ""answer"": 0
+}",0,,0
+ನಾಟಕ ಶಿಳ್ಳೆ ಹಾಕುವಂತಿತ್ತು,ನಾಟಕ ಚೆನ್ನಾಗಿತ್ತು,ನಾಟಕ ಚೆನ್ನಾಗಿರಲಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor 'ನಾಟಕ ಶಿಳ್ಳೆ ಹಾಕುವಂತಿತ್ತು' means setting up a drama which implies creating a spectacle or drama. So, the closest meaning is that the drama was set up well, option 0."",
+  ""answer"": 0
+}",0,,0
+ಸೀರೆ ಉಡುವುದು ಪಾಶ್ಚಿಮಾತ್ಯ ಸಂಸ್ಕೃತಿ,ಸೀರೆ ಉಡುವುದು ಭಾರತದ ಸಂಸ್ಕೃತಿ,ಸೀರೆ ಉಡುವುದು ಭಾರತದ ಸಂಸ್ಕೃತಿಯಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing wearing a saree to the Western culture, indicating that it is not a part of Indian culture."",
+  ""answer"": 0
+}",0,,0
+ಹಿಮಾಲಯದಲ್ಲಿ ಬೆವರು ಸುರಿಯುವಷ್ಟು ಚಳಿ ಇರುತ್ತದೆ,ಹಿಮಾಲಯದಲ್ಲಿ ಚಳಿ ಇರುತ್ತದೆ,ಹಿಮಾಲಯದಲ್ಲಿ ಚಳಿ ಇರುವುದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the intensity of cold to the action of blowing a horn. Option 0 is the correct meaning as it directly relates to the metaphor of cold in the Himalayas."",
+  ""answer"": 0
+}",0,,0
+ರಾಜ್ಯ ಗೋವಾದಂತೆ ವಿಸ್ತೀರ್ಣದಲ್ಲಿ ಚಿಕ್ಕದು,ರಾಜ್ಯ ವಿಸ್ತೀರ್ಣದಲ್ಲಿ ಚಿಕ್ಕದು,ರಾಜ್ಯ ವಿಸ್ತೀರ್ಣದಲ್ಲಿ ಚಿಕ್ಕದಲ್ಲ,1,"{
+  ""Explanation"": ""Comparing something to the size of the state of Goa implies that it is small in size"",
+  ""Answer"": 0
+}",0,,0
+ರಾಜ್ಯ ಕೇರಳದಂತೆ ಹೆಚ್ಚು ಜನಸಂಖ್ಯೆ ಹೊಂದಿದೆ,ಹೆಚ್ಚು ಜನಸಂಖ್ಯೆ ಹೊಂದಿದೆ,ಹೆಚ್ಚು ಜನಸಂಖ್ಯೆ ಹೊಂದಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor is comparing the population of a state to the population of Kerala, which is known to have a high population density. Therefore, the closest meaning is 'ಹೆಚ್ಚು ಜನಸಂಖ್ಯೆ ಹೊಂದಿದೆ'."",
+  ""Answer"": 0
+}",0,,0
+ಆ ದೇಶ ಪಾಕಿಸ್ತಾನದಂತೆ ಟೂರಿಸಂಗೆ ಹೆಸರುವಾಸಿ,ಆ ದೇಶ ಟೂರಿಸಂಗೆ ಹೆಸರುವಾಸಿ,ಆ ದೇಶ ಟೂರಿಸಂಗೆ ಹೆಸರುವಾಸಿಯಲ್ಲ,1,"{
+  ""explanation"": ""This metaphor is comparing a country to Pakistan, known for its tourist attractions. The meaning closest to the metaphor is that the country is famous for tourism"", 
+  ""answer"": 0
+}",0,,0
+ಅವನು ಸಾಮಾನ್ಯ ಜನರಂತೆ ಯಾವಾಗಲೂ ಅಲರ್ಟ್ ಇರುತ್ತಾನೆ,ಅವನು ಯಾವಾಗಲೂ ಅಲರ್ಟ್ ಇರುತ್ತಾರೆ,ಅವನು ಯಾವಾಗಲೂ ಅಲರ್ಟ್ ಇರುವುದಿಲ್ಲ,1,"{
+  ""Explanation"": ""The metaphor compares the person to being always alert like ordinary people, so the meaning closest to the metaphor is that he is always alert."",
+  ""Answer"": 0
+}",0,,0
+ಕೆಲಸದ ವಿಷಯದಲ್ಲಿ ಅವನು ನಿರ್ಲಕ್ಷ್ಯದ ಹುಡುಗ,ಅವನು ಶಿಸ್ತಿನ ಸಿಪಾಯಿ,ಅವನು ಶಿಸ್ತಿನ ಸಿಪಾಯಿಯಲ್ಲ,1,"{
+  ""answer"": 0
+}  
+
+Explanation: The metaphor ""ನಿರ್ಲಕ್ಷ್ಯದ ಹುಡುಗ"" compares someone to a careless boy in terms of work. The closest meaning would be that he is careless and not attentive like a boy, rather than being disciplined and obedient like a soldier. Hence, option 0) ಅವನು ಶಿಸ್ತಿನ ಸಿಪಾಯಿ (he is disciplined soldier) does not fit the metaphor.",0,,0
+ಆ ರಸ್ತೆ ಸಾಮಾನ್ಯ ರಸ್ತೆಯಂತೆ ಹೆಚ್ಚು ವಾಹನಗಳಿಂದ ತುಂಬಿರುತ್ತದೆ,ಆ ರಸ್ತೆ ಹೆಚ್ಚು ವಾಹನಗಳಿಂದ ತುಂಬಿರುತ್ತದೆ,ಆ ರಸ್ತೆ ಕಡಿಮೆ ವಾಹನಗಳಿಂದ ಕೂಡಿರುತ್ತದೆ,1,"{
+  ""explanation"": ""The metaphor is comparing the road to being filled with more vehicles like a normal road, so the option that reflects this meaning is closer to the metaphor."",
+  ""answer"": 0
+}",0,,0
+ಆ ಹಣ್ಣು ಕಿತ್ತಳೆಯಂತೆ ಬಹಳ ಅಪರೂಪ,ಆ ಹಣ್ಣು ಬಹಳ ಅಪರೂಪ,ಆ ಹಣ್ಣು ಬಹಳ ಅಪರೂಪವಲ್ಲ,1,"{
+  ""explanation"": ""The comparison is between the rarity of finding a specific fruit and another rare occurrence, indicating that the fruit is very rare."",
+  ""answer"": 0
+}",0,,0
+ಅವರಿಬ್ಬರೂ ಅಣ್ಣತಮ್ಮಂದಿರಂತ ಅನ್ಯೋನ್ಯವಾಗಿದ್ದರು,ಅವರಿಬ್ಬರೂ ಅಣ್ಣತಮ್ಮಂದಿರಂತ ವೈರಿಗಳಂತೆ ಅನ್ಯೋನ್ಯವಾಗಿದ್ದರು,ಅವರಿಬ್ಬರೂ ಅಣ್ಣತಮ್ಮಂದಿರಂತ ವೈರಿಗಳಂತೆ ಅನ್ಯೋನ್ಯವಾಗಿಲ್ಲ,0,"{
+  ""Explanation"": ""The metaphor is comparing the relationship between the two individuals to that of siblings. Option 1 is the correct meaning as it states that they were not like enemies, which aligns with the sibling comparison."",
+  ""Answer"": 1
+}",1,,0
+ಅವರಿಬ್ಬರೂ ವೈರಿಗಳಂತೆ ಅನ್ಯೋನ್ಯವಾಗಿದ್ದರು,ಅವರಿಬ್ಬರೂ ಅಣ್ಣತಮ್ಮಂದಿರಂತ ವೈರಿಗಳಂತೆ ಅನ್ಯೋನ್ಯವಾಗಿದ್ದರು,ಅವರಿಬ್ಬರೂ ಅಣ್ಣತಮ್ಮಂದಿರಂತ ವೈರಿಗಳಂತೆ ಅನ್ಯೋನ್ಯವಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing them to enemies, so the closest meaning would be option 0, where they are like enemies, not like siblings."",
+  ""answer"": 0
+}",0,,0
+ಆ ಪ್ರಾಣಿಯು ಕಾಂಗರೂವಿನಂತೆ ಏಷ್ಯಾದಲ್ಲಿ ಮಾತ್ರ ಕಾಣಸಿಗುತ್ತದೆ,ಆ ಪ್ರಾಣಿಯು ಕಾಣ ಸಿಗುತ್ತದೆ,ಆ ಪ್ರಾಣಿಯು ಕಾಣ ಸಿಗಲ್ಲ,1,"{
+  ""Explanation"": ""This metaphor is comparing the visibility of the animal to a kangaroo, implying that the animal is only visible in Asia."",
+  ""Answer"": 0
+}",0,,0
+ಅವಳ ಭಾಷಾ ಹಿಡಿತ ಹೊಸಬರಷ್ಟು ಇದೆ,ಅವಳ ಭಾಷಾ ಹಿಡಿತ ಚೆನ್ನಾಗಿದೆ,ಅವಳ ಭಾಷಾ ಹಿಡಿತ ಚೆನ್ನಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the grip or command of her language to something new. So, the closest meaning would be that her grip on the language is tight or good."",
+  ""answer"": 0
+}",0,,0
+ಅವಳ ಕೈಬರಹ ಡಾಕ್ಟರ್ ಚೀಟಿಯಂತೆ ಅಚ್ಚುಕಟ್ಟಾಗಿದೆ,ಅವಳ ಕೈಬರಹ ಅಚ್ಚುಕಟ್ಟಾಗಿದೆ,ಅವಳ ಕೈಬರಹ ಅಚ್ಚುಕಟ್ಟಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares her handbag to a doctor's prescription, implying it is well-organized or precise."",
+  ""answer"": 0
+}",0,,0
+ಅವನು ದುರ್ಯೋಧನನಂತೆ ಆಸೆಗಳನ್ನು ತ್ಯಜಿಸಿದ್ದನು,ಅವನು ಆಸೆಗಳನ್ನು ತ್ಯಜಿಸಿದ್ದನು,ಅವನು ಆಸೆಗಳನ್ನು ತ್ಯಜಿಸಿಲ್ಲ,1,"{
+  ""explanation"": ""The comparison here is between the person and Duryodhana, who is known for his endless desires and greed. Hence, the meaning closer to the metaphor is that the person gave up his desires, like Duryodhana should have done."",
+  ""answer"": 0
+}",0,,0
+ಅವನ ಮಾತಿನಲ್ಲಿ ಅನಾನುಭವಿಗಳಂತೆ ಹಿಡಿತವಿತ್ತು,ಅವನ ಮಾತಿನಲ್ಲಿ ಹಿಡಿತವಿತ್ತು,ಅವನ ಮಾತಿನಲ್ಲಿ ಹಿಡಿತವಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor is comparing the way he had control in his speech to how inexperienced people have control."",
+  ""answer"": 0
+}",0,,0
+ಆ ಜನರು ಭಯೋತ್ಪಾದಕರಂತೆ ದೇಶಭಕ್ತಿ ಹೊಂದಿದ್ದಾರೆ,ಆ ಜನರು ದೇಶಭಕ್ತಿ ಹೊಂದಿದ್ದಾರೆ,ಆ ಜನರು ದೇಶಭಕ್ತಿ ಹೊಂದಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the people to 'fear-inducing elements', suggesting that they possess intense patriotism. Option 0 reflects this meaning."",
+  ""answer"": 0
+}",0,,0
+ಆ ಘಟನೆ ಮದುವೆಯಂತೆ ಭಯಭೀತವಾಗಿತ್ತು,ಆ ಘಟನೆ ಭಯಭೀತವಾಗಿತ್ತು,ಆ ಘಟನೆ ಭಯಭೀತವಾಗಿರಲಿಲ್ಲ,1,"{
+  ""Explanation"": ""The event was as scary as a wedding, implying that it was intimidating or nerve-wracking."",
+  ""Answer"": 0
+}",0,,0
+ಅದರ ಸದ್ದು ಮಿಂಚಿನಂತೆ ಜೋರಾಗಿತ್ತು,ಅದರ ಸದ್ದು ಜೋರಾಗಿತ್ತು,ಅದರ ಸದ್ದು ಜೋರಾಗಿಲ್ಲ,1,"{
+  ""explanation"": ""The metaphor compares the loudness of the sound to that of a thunder. So, the meaning is that the sound was very loud."",
+  ""answer"": 0
+}",0,,0
+ಆತನ ಅರಿವು ದ್ವಾರಪಾಲಕನಷ್ಟು ಇದೆ,ಆತನ ಅರಿವು ಕಡಿಮೆ,ಆತನ ಅರಿವು ಹೆಚ್ಚು,0,"{
+  ""question"": ""ಆತನ ಅರಿವು ದ್ವಾರಪಾಲಕನಷ್ಟು ಇದೆ"",
+  ""options"": {
+    ""0"": ""ಆತನ ಅರಿವು ಕಡಿಮೆ"",
+    ""1"": ""ಆತನ ಅರಿವು ಹೆಚ್ಚು""
+  },
+  ""answer"": 1
+} 
+
+Explanation: The metaphor compares someone's understanding to that of",1,NG,0

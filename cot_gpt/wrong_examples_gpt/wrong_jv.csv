@@ -1,0 +1,1114 @@
+Start Phrase,Ending 1,Ending 2,Labels,Response,answer,not_generated,match
+Nyawang esemmu sing rupane kaya nyruput ampas kopi,Nyawang esemmu sing manis,Nyawang esemmu sing pahit,1,"{
+	""answer"": 0
+}
+
+Explanation: In this metaphor, comparing seeing your smile to drinking coffee grounds implies that seeing your smile is sweet like sugar rather than bitter like coffee grounds. Therefore, the closest meaning would be Option 0) Nyawang esemmu sing manis (seeing your smile is sweet).",0,,0
+Lakmu mlaku jan kaya diuber maling,Lakmu mlaku cepet,Lakmu mlaku suwi,0,"{
+  ""question"": ""Lakmu mlaku jan kaya diuber maling"",
+  ""option0"": ""Lakmu mlaku cepet"",
+  ""option1"": ""Lakmu mlaku suwi"",
+  ""explanation"": ""The metaphor implies that 'Lakmu' is walking cautiously and not in a hurry like someone being chased by a thief, therefore 'Lakmu mlaku suwi' (Lakmu walks slowly) is the closest meaning."",
+  ""answer"": 1
+}",1,,0
+Lakmu mlaku jan kaya nyeret bata,Lakmu mlaku cepet,Lakmu mlaku suwi,1,"{
+  ""Question"": ""Lakmu mlaku jan kaya nyeret bata"",
+  ""Option"": 0,
+  ""Explanation"": ""This metaphor suggests that the walk is slow and difficult, akin to dragging a heavy rock. Option 0) Lakmu mlaku cepet (fast) is the opposite of slow and matches the metaphor""
+}",0,,0
+Ngawiti dina senen iku seabot nyunggi batako,Ngawiti dina senen iku abot banget,Ngawiti dina senen iku enteng,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor is comparing a smile to lifting a heavy load. Option 1, ""Ngawiti dina senen iku enteng"", is closer to this meaning as it implies that smiling is light and easy. Option 0, ""Ngawiti dina senen iku abot banget"", does not capture the essence of the metaphor.",1,,0
+Lekmu numpak mobil kaya alap-alap,Lekmu numpak mobil alon,Lekmu numpak mobil cepet,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Lekmu numpak mobil kaya alap-alap"" compares the action of riding a car to riding on a slow-paced vehicle like ""alon,"" rather than a speedy one like ""cepet"". This indicates that the intended meaning is Option 0) Lekmu numpak mobil alon, which represents a slow-paced ride.",0,,0
+Lungguh ning kursi iku rasane kaya watu,Lungguh ning kursi iku rasane empuk,Lungguh ning kursi iku rasane atos,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, the feeling of the chair being like a person is compared to either being soft (empuk) or hard (atos). Since a person is usually associated with being soft and comfortable, the closest meaning to ""Lungguh ning kursi iku rasane kaya watu"" would be option 0) Lungguh ning kursi iku rasane empuk.",0,,0
+Udane maeng isuk kaya kletik,Udane maeng isuk deres,Udane maeng isuk gerimis,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Udane maeng isuk kaya kletik"" translates to ""The rain falls gently like pearls,"" where ""kletik"" refers to the sound of small objects falling lightly, which is similar to pearls dropping. Therefore, the closest option is ""Udane maeng isuk deres"" where ""deres"" means heavy rain, as it contrasts with the gentle and soft description of rain in the metaphor.",0,,0
+Bar sepedahan tekan nggunung boyok rasane kaya dilindes trek,Bar sepedahan tekan nggunung boyok rasane keju kabeh,Bar sepedahan tekan nggunung boyok rasane penak,0,"{
+  ""question"": ""Bar sepedahan tekan nggunung boyok rasane kaya dilindes trek"",
+  ""option_chosen"": 1,
+  ""explanation"": ""The metaphor uses the experience of riding a bike up a mountain to describe a challenging situation. 'Rasane kaya dilindes trek' implies a sense of struggling or difficulty in moving forward, similar to facing obstacles on a challenging trail."",
+  ""output"": 1
+}",1,,0
+"Ra umum, duwurmen adike Anas sak wit ceplukan",Adike Anas duwur banget,Adike Anas cendek,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor comparing someone to a banana plant that is very tall and high suggests that they are very intelligent or accomplished. Option 0) Adike Anas duwur banget means ""Adike Anas is very tall"", which in this context would translate to ""Adike Anas is very accomplished"".",0,,0
+Mas Edi lak mlayu jan kaya semut,Mas Edi lak mlayu cepet,Mas Edi lak mlayu rindik,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing Mas Edi to an ant, emphasizing his quick pace. Therefore, the option ""Mas Edi lak mlayu cepet"" is the closest meaning to the metaphor.",0,,0
+Polahe bocah cilik kuwi kaya kitiran,Bocah cilik kuwi ora isa meneng,Bocah cilik kuwi tura-turu ae,0,"{
+  ""question"": ""Polahe bocah cilik kuwi kaya kitiran"",
+  ""option0"": ""Bocah cilik kuwi ora isa meneng"",
+  ""option1"": ""Bocah cilik kuwi tura-turu ae"",
+  ""explanation"": ""The metaphor compares the child to a growing sprout, implying that they are like a seedling that is developing and reaching new heights. Option 1 'Bocah cilik kuwi tura-turu ae' is the closest meaning as it suggests that the child is constantly growing and evolving."",
+  ""answer"": 1
+}",1,,0
+Pipine Rida aluse kaya dalan makadhaman,Pipine Rida alus,Pipine Rida kasar kakehan kukul,1,"{
+  ""question"": ""Pipine Rida aluse kaya dalan makadhaman"",
+  ""options"": {
+    ""0"": ""Pipine Rida alus"",
+    ""1"": ""Pipine Rida kasar kakehan kukul""
+  },
+  ""answer"": 0
+} 
+
+Explanation: The phrase ""Pipine Rida aluse kaya dalan makadhaman"" talks about journey or path, which is often associated with progress, growth, or development. In this metaphor, ""aluse"" refers to the starting point or foundation. Therefore, the correct option is 0) Pipine Rida alus.",0,,0
+Nyawang dedege Kartolo kok kaya kendel ngringkel,Kartolo kuwi wani,Kartolo kuwi weden,0,"{
+  ""answer"": 1
+} 
+
+In Javanese culture, ""kendel ngringkel"" refers to something soft and squishy. In this metaphor, the speaker is comparing Kartolo to ""kendel ngringkel,"" implying that Kartolo is naive and impressionable (""kok kaya kendel ngringkel""). Of the two options, ""Kartolo kuwi weden"" means ""Kartolo is naive,"" making it the closest meaning to the metaphor.",1,,0
+Nyawang dedege Kartolo kok kaya dhadang ora godak,Kartolo kuwi wani,Kartolo kuwi weden,1,"{
+  ""question"": ""Nyawang dedege Kartolo kok kaya dhadang ora godak"",
+  ""option0"": ""Kartolo kuwi wani"",
+  ""option1"": ""Kartolo kuwi weden"",
+  ""explanation"": ""In this metaphor, Kartolo is being compared to a shadow that is neither clear nor distinct. This implies that Kartolo is elusive or mysterious, hence closer in meaning to 'Kartolo kuwi wani' (Kartolo is enigmatic or secretive)."",
+  ""answer"": 0
+}",0,,0
+Kahanan omahe Pak Sardi sing lagi wae oleh bantuwan kaya udan dhuwit,Kahanan omahe Pak Sardi kang lagi susah,Kahanan omahe Pak Sardi kang lagi seneng,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares the help provided by Pak Sardi to rain during a drought, indicating that it is greatly appreciated during a difficult time. Option 0) ""Kahanan omahe Pak Sardi kang lagi susah"" is the closest meaning to the metaphor as it represents Pak Sardi helping during a tough or difficult situation.",0,,0
+Nek gawe wedang kopi Painem kaya disoki juruh,Nek gawe wedang kopi Painem legi,Nek gawe wedang kopi Painem pahit,0,"{
+  ""question"": ""Nek gawe wedang kopi Painem kaya disoki juruh"",
+  ""option0"": ""Nek gawe wedang kopi Painem legi"",
+  ""option1"": ""Nek gawe wedang kopi Painem pahit"",
+  ""explanation"": ""The metaphor compares making coffee to the process of pouring hot water on grass. In this context, 'kaya' (meaning rich) is associated with the drink being strong or flavorful, similar to grass being lush and dense. Therefore, the option 'Nek gawe wedang kopi Painem legi' fits closer to the metaphor, as 'legi' (meaning lush) reinforces the idea of",1,NG,0
+Baguse Paijo katulung saka irunge sing kaya irunge semar,Baguse Paijo katulung irunge sing mancung,Baguse Paijo katulung irunge sing pesek,1,"{
+  ""Explanation"": ""Paijo is being compared to a strong and wise character like Semar, so the closest meaning would be comparing Paijo to someone with physical attractiveness like Semar, rather than someone with physical unattractiveness."",
+  ""Answer"": 0
+}",0,,0
+Pak Hasan ora gelem menehi sumbangan pancen sipate iku kaya blaba uda,Pak Hasan ora gelem menehi sumbangan pancen sipate iku medhit,Pak Hasan ora gelem menehi sumbangan pancen sipate iku loman,1,"{
+  ""question"": ""Pak Hasan ora gelem menehi sumbangan pancen sipate iku kaya blaba uda"",
+  ""options"": {
+    ""0"": ""Pak Hasan ora gelem menehi sumbangan pancen sipate iku medhit"",
+    ""1"": ""Pak Hasan ora gelem menehi sumbangan pancen sipate iku loman""
+  },
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, comparing someone refusing to give a donation because they are as rich as a king (kaya blaba uda) to the option ""Pak Hasan ora gelem menehi sumbangan pancen sipate iku med",0,,0
+Anggone nyambut gawe Allia kaya banteng ketaton,Anggone nyambut gawe Allia Cepet banget,Anggone nyambut gawe Allia alon banget,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares Anggone nyambut gawe Allia to a bull walking slowly (banget). This implies that the task is being approached with caution and take time to complete, rather than rushing through it quickly. Option 1) Anggone nyambut gawe Allia alon banget is the closest meaning to the metaphor.",1,,0
+Anggone nyambut gawe Allia kaya macan luwe,Anggone nyambut gawe Allia Cepet banget,Anggone nyambut gawe Allia alon banget,1,"{
+	""Explanation"": ""The metaphor compares Allia to a tiger, emphasizing her strength or fierceness."",
+	""Answer"": 0
+}",0,,0
+Nalika sesrawungan Pak Jemani lan Paiman kaya banyu karo lenga,Nalika sesrawungan Pak Jemani lan Paiman ora bisa akur,Nalika sesrawungan Pak Jemani lan Paiman akur banget,0,"{
+	""answer"": 1
+}
+
+Explanation: The metaphor ""Nalika sesrawungan Pak Jemani lan Paiman kaya banyu karo lenga"" means that when Pak Jemani and Paiman are together, they are as harmonious as water and oil. Option 1) ""Nalika sesrawungan Pak Jemani lan Paiman akur banget"" closely represents the idea of harmony between Pak Jemani and Paiman, as opposed to option 0) ""Nalika sesrawungan Pak Jemani lan Paiman ora bisa akur"", which suggests they cannot get along.",1,,0
+Kain batik sing dituku nalika menyang pasar Klewer iku kandele kaya kulit bawang,Kain batik sing dituku menyang pasar klewer tipis banget,Kain batik sing dituku menyang pasar klewer kandel banget,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor compares the thickness of the material of the batik cloth to the skin of an onion, emphasizing that it is very thin and delicate. Option 1) Kain batik sing dituku menyang pasar klewer kandel banget, closely reflects this comparison by highlighting the thinness of the batik cloth.",1,,0
+Isih esuk kahanane Mbak Marmi kaya ulat manis,Isih esuk khanane mbak Marmi Katon mrengut,Isih esuk khanane mbak Marmi Katon sumeh,1,"{
+  ""answer"": 0
+} 
+
+The metaphor comparing Mbak Marmi to a sweet caterpillar implies that Mbak Marmi is kind and gentle, similar to how a caterpillar is seen as harmless and delightful. Option 0) ""Isih esuk khanane mbak Marmi Katon mrengut"" means Mbak Marmi smiles warmly, which aligns with the kind and gentle nature implied by the metaphor.",0,,0
+Roti donat lek nggawe Narti kaya atose debog,Roti donat lek nggawe Narti empuk banget,Roti donat lek nggawe Narti atos banget,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares the act of making donuts to creating something difficult or challenging, similar to building a tall tower. Therefore, the option that conveys the meaning of something being very challenging or difficult (""atos banget"") is the closest interpretation.",1,,0
+Roti donat lek nggawe Narti kaya lemese pikulan,Roti donat lek nggawe Narti empuk banget,Roti donat lek nggawe Narti atos banget,1,"{
+  ""response"": 0
+}
+
+Explanation: In this metaphor, ""Roti donat lek nggawe Narti kaya lemese pikulan"" is comparing Narti to a soft doughnut, implying that Narti is gentle and kind. Option 0) ""Roti donat lek nggawe Narti empuk banget"" is the closest meaning as it refers to Narti being very soft and gentle.",0,,0
+Omahe sing dibangun ambane kaya leng semut,Omahe sing di bangun amba banget,Omahe sing di bangun ciwut,1,"{
+  ""Question"": ""Omahe sing dibangun ambane kaya leng semut"",
+  ""Option1"": ""Omahe sing di bangun amba banget"",
+  ""Option2"": ""Omahe sing di bangun ciwut"",
+  ""Explanation"": ""The metaphor 'Omahe sing dibangun ambane kaya leng semut' compares a house that is built high with the diligence of ants. Ants are known for their hard work and unity in building their nest. The option 'Omahe sing di bangun amba banget' reflects the idea of a house being built with great effort and dedication, closely resembling the metaphor."",
+  ""Answer"": 0
+}",0,,0
+"Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale kaya mental tempe","Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale kendel","Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale weden",1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares Radit's performance in the competition to being mentally strong like steel. Option 0) Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale kendel correlates to being mentally weak like rubber, while option 1) Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale weden does not fit the context of the metaphor.",0,,0
+Sawise mulih saka griya sakit pasuryane Siti isih kaya abang dluwang,Sawise mulih saka griya sakit pasuryane Siti pucet banget,Sawise mulih saka griya sakit pasuryane Siti cerah banget,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares Siti to the sun, suggesting that upon returning home from the hospital, she is still as radiant and bright as ever. Option 1) reflects this meaning by describing Siti as ""cerah banget"" which means very bright or radiant. Option 0) does not capture the metaphor as effectively as it focuses on Siti being very pale, which does not align with the comparison to the sun.",1,,0
+Lungane Pakdhe menyang Surabaya enggale suwe kaya banyu sinaring,Lungane Pakdhe menyang Surabaya cepet banget,Lungane Pakdhe menyang Surabaya suwi banget,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares the speed of Lungane Pakdhe traveling to Surabaya to the flow of water. Since water flows smoothly and slowly, the closest meaning would be ""Lungane Pakdhe menyang Surabaya suwi banget"" which means smooth and slow.",1,,0
+Bathuke Icha nonong,Bathuke Ica Rata,Bathuke Ica amba banget,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, ""Bathuke Icha nonong"" is referring to someone who is uncertain or hesitant. The closest meaning among the options is ""Bathuke Ica Rata"" which means someone who is lost or unsure. Hence, option 0) is the correct answer.",0,,0
+Yen nyawang mripate Sari kaya ndamar kanginan,Yen nyawang mripate Sari blalak-blalak,Yen nyawang mripate Sari sipit,0,"{
+  ""explanation"": ""The metaphor compares something bright and shining (Sari kaya ndamar kanginan) to something dim and unclear. The option 'Yen nyawang mripate Sari sipit' conveys this contrast better compared to 'Yen nyawang mripate Sari blalak-blalak'."",
+  ""answer"": 1
+}",1,,0
+Banyune kolam renang kaya banyu aki,Banyune kolam renang bening,Banyune kolam renang buthek,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares a wealthy person's swimming pool to clear water. In this context, ""bening"" means clear, which aligns with the comparison of richness to clarity in the water. ""Buthek"" means murky or dirty, which would not fit the metaphor of wealth.",0,,0
+Anggone mlaku bis mini kaya tuma kathok,Anggone mlaku bis mini klular klulur,Anggone mlaku bis mini trengginas,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, the phrase ""Anggone mlaku bis mini kaya tuma kathok"" is comparing someone's walking to that of a slow and steady turtle. The option ""Anggone mlaku bis mini trengginas"" closely represents the metaphor as ""trengginas"" means slow and steady, akin to how the turtle moves.",1,,0
+Lemah sing disumbangake kanggo lapangan desa ambane kaya amba godhong kelor,Lemah sing disumbangake kanggo lapangan desa ciyut banget,Lemah sing disumbangake kanggo lapangan desa amba banget,0,"{
+  ""Answer"": 1,
+  ""Explanation"": ""The metaphor is comparing the weakness contributed to the village field to the richness of the moringa leaves, implying that the contribution is significant and valuable. Option 1 closely captures the meaning by emphasizing the richness and value of the contribution.""
+}",1,,0
+Awake Surya nalika isih sekolah mbiyen kaya kuru semangka,Awake Surya nalika isih sekolah mbiyen lemu banget,Awake Surya nalika isih sekolah mbiyen kuru banget,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, ""Awake Surya nalika isih sekolah mbiyen kaya kuru semangka"", the comparison is between being awake and going to school with a heavy burden, similar to how a watermelon is heavy. Option 1) Awake Surya nalika isih sekolah mbiyen kuru banget is the closest meaning as it conveys the idea of carrying a heavy load or burden while going to school.",1,,0
+Awake Surya nalika isih sekolah mbiyen kaya lemu kurma,Awake Surya nalika isih sekolah mbiyen lemu banget,Awake Surya nalika isih sekolah mbiyen kuru banget,1,"{
+  ""Explanation"": ""Comparing the person to a palm tree, an indication of being tall and strong."",
+  ""Answer"": 0
+}",0,,0
+Pratandha arep udan amarga medhunge kaya ndumuk irung,Pratandha arep udan amarga mendhunge peteng banget,Pratandha arep udan amarga mendhunge padhang jingglang,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor comparing finding a path in the forest to walking blindly symbolizes trying to navigate through a difficult situation without any guidance or direction, similar to wandering aimlessly. Option 1) ""Pratandha arep udan amarga mendhunge padhang jingglang"" reflects this meaning as ""padhang jingglang"" translates to ""wandering aimlessly."" Option 0) ""Pratandha arep udan amarga mendhunge peteng banget"" does not capture the sense of being lost and directionless in the metaphor.",1,,0
+Regane lombok abang kembang gogrog,Regane lombok abang larang,Regane lombok abang murah,1,"{
+  ""explanation"": ""Regane lombok abang kembang gogrog means the price of red chili is rising, comparing it to a blooming flower, therefore the closest meaning is expensive (larang)."",
+  ""answer"": 0
+}",0,,0
+Pondhasine omah kaya wit tela,Pondhasine omah gampang rubuh,Pondhasine omah kuwat jejeg,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""Pondhasine omah kaya wit tela"" implies that the house is strong and sturdy like a steel structure. Among the options, ""Pondhasine omah kuwat jejeg"" means the house is strong and sturdy, which is the closest meaning to the metaphor.",1,,0
+"Nalika dina Minggu, yen bisa nindakake pakaryan ngajari manuk beo nyanyi","Nalika dina Minggu, yen bisa nindakake pakaryan sing ana mupangate","Nalika dina Minggu, yen bisa nindakake pakaryan sing sia-sia ora ana mupangate",0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor is about trying to teach a parrot to sing on a Sunday. The closest meaning is that it is a futile effort as parrots cannot sing like birds (option 1), rather than there being a hidden meaning or ulterior motive behind the action (option 0).",1,,0
+"Nalika dina Minggu, yen bisa nindakake pakaryan bebek nglangi","Nalika dina Minggu, yen bisa nindakake pakaryan sing ana mupangate","Nalika dina Minggu, yen bisa nindakake pakaryan sing sia-sia ora ana mupangate",1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares completing tasks on a Sunday to herding ducks in the sky, which implies a seemingly impossible or challenging task. Option 0) ""Nalika dina Minggu, yen bisa nindakake pakaryan sing ana mupangate"" translates to ""On a Sunday, if you can finish tasks that seem impossible."" This captures the essence of facing a difficult task like herding ducks in the sky. Option 1) ""Nalika dina Minggu, yen bisa nindakake pakaryan sing sia-sia ora ana mupangate"" translates to ""On a Sunday, if you can complete tasks that are pointless and not challenging.""",0,,0
+Obahe wis kaya welut,Obahe cepet banget,Obahe lambat banget,0,"{
+  ""answer"": 1,
+  ""explanation"": ""The metaphor 'Obahe wis kaya welut' is comparing something to a snail, which is slow. Therefore, the closest meaning would be 'Obahe lambat banget'.""
+}",1,,0
+Kutho iki hawane kaya kutub,Kutho iki hawane adem banget,Kutho iki hawane panas banget,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The phrase ""Kutho iki hawane kutub"" translates to ""This place has a thick atmosphere."" This metaphor implies that the atmosphere is intense or suffocating, similar to the option ""Kutho iki hawane panas banget"" which means ""This place has a very hot atmosphere."" Therefore, option 1 is the closest meaning to the metaphor.",1,,0
+"Wis suwi ngerantau, rasane wong iku tambah gumedhe","Wes suwi ngerantau, wong iku tambah rendah hati","Wes suwi ngerantau, wong iku tambah besar kepala",1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Wis suwi ngerantau, rasane wong iku tambah gumedhe"" equates traveling to expanding one's perspective and experience, leading to humility. Option 0) ""Wes suwi ngerantau, wong iku tambah rendah hati"" directly reflects this idea of becoming more humble through travel. Option 1) ""Wes suwi ngerantau, wong iku tambah besar kepala"" would suggest becoming more arrogant, which goes against the metaphorical meaning.",0,,0
+"Wis ngerti entuk biji elek, Abdi tetep gedhe ati","Wes ngerti entuk biji elek, Abdi tetep sombong","Wes ngerti entuk biji elek, Abdi tetep rendah diri",0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Wis ngerti entuk biji elek, Abdi tetep gedhe ati"" compares understanding to receiving a seed, and staying humble despite gaining knowledge. Option 1) ""Wes ngerti entuk biji elek, Abdi tetep rendah diri"" accurately reflects this meaning, as it implies that despite gaining understanding, one remains humble.",1,,0
+Awan iku bentukane kaya wedhus gembel,Awan iku bentukane kaya resik banget,Awan iku bentukane kaya reged banget,0,"{
+  ""answer"": 1
+} 
+
+In this metaphor, ""awan iku bentukane kaya wedhus gembel"" is comparing clouds to unkempt hair. The option ""Awan iku bentukane kaya reged banget"" is closer in meaning to unkempt or messy, similar to ""wedhus gembel."" Therefore, the correct answer is option 1.",1,,0
+Awan iku bentukane kaya wedhus putih,Awan iku bentukane kaya resik banget,Awan iku bentukane kaya reged banget,1,"{
+  ""explanation"": ""In this metaphor, the white clouds represent purity and cleanliness, similar to a white dove. Therefore, the option 'Awan iku bentukane kaya resik banget' is the closest meaning as 'resik' means pure in Indonesian."",
+  ""answer"": 0
+}",0,,0
+Persidangan nang film kuwi rasane kaya gedhe sisih,Persidangan nang film kuwi rasane kaya ora adil,Persidangan nang film kuwi rasane kaya adil,0,"{
+""answer"": 1,
+""explanation"": ""The metaphor compares the film conference to a large and fair meeting, hence the meaning 'Persidangan nang film kuwi rasane kaya adil' (The film conference feels fair) is the appropriate choice.""
+}",1,,0
+Wong iku mangane kaya durung mangan 3 dino,Wong iku mangane kaya wong luwe,Wong iku mangane kaya wong wareg,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares someone who is wealthy but never eats for three days to either being a person who is lazy and careless (option 1) or being a person who is stingy or frugal (option 0). The option ""Wong iku mangane kaya wong wareg"" (option 1) is closer to the metaphor because it implies someone who is lazy and careless, similar to a person who is wealthy but does not eat.",1,,0
+Prajurit nang film iku ngelakoni perang wis kaya kura,Prajurit nang film iku ngelakoni perang wani banget,Prajurit nang film iku ngelakoni perang wedi banget,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor is comparing the soldier in the movie to a brave warrior, which is conveyed in option 0) Prajurit nang film iku ngelakoni perang wani banget (The soldier in the movie is fighting like a true warrior). Option 1) Prajurit nang film iku ngelakoni perang wedi banget (The soldier in the movie is fighting without much effort) does not capture the essence of the metaphor.",0,,0
+"Wis suwi kerja nang negara liya, wong iku nduweni watak kaya tahu","Wis suwi kerja nang negara liya, wong iku nduweni watak keras banget","Wis suwi kerja nang negara liya, wong iku nduweni watak lembek",1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor compares the person to having a strong character like bamboo, which is sturdy and resilient, rather than being soft and weak.""
+}",0,,0
+Pernikahane pasangan iku kaya asu lan kucing,Pernikahane pasangan iku kaya akur banget,Pernikahane pasangan iku kaya ora akur,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, comparing a married couple to a dog and a cat implies that they are very different from each other. Option 0) ""Pernikahane pasangan iku kaya akur banget"" means the married couple are very well-matched, which is the opposite of being different like a dog and a cat. Therefore, option 1) ""Pernikahane pasangan iku kaya ora akur"" is the closest meaning to the metaphor.",0,,0
+Kesabarane ibu nang anak-anake kaya godhong kelor,Kesabarane ibu nang anak-anake jembar banget,Kesabarane ibu nang anak-anake sempit banget,1,"{
+	""answer"": 0
+} 
+
+This metaphor is comparing the patience of a mother to the leaves of a moringa tree, which are known to be very wide and large. Option 0) ""Kesabarane ibu nang anak-anake jembar banget"" means the patience of a mother towards her children is very wide, just like the leaves of a moringa tree, which is the closest interpretation of the metaphor.",0,,0
+Wajahe mbak e iku kaya srengenge,Wajahe mbak e iku cerah,Wajahe mbak e iku murung,0,"{
+	""answer"": 1
+}
+
+Explanation: The metaphor compares the person's face to a cloudy sky, indicating sadness or gloominess. Therefore, the closest meaning would be ""Wajahe mbak e iku murung"", which translates to ""Her face is gloomy.""",1,,0
+Lapangan iku bentukane kaya kolam,Lapangan iku bentukane kaya ombo banget,Lapangan iku bentukane kaya sempit,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the shape of the field to a pool, which implies that the field is large and wide like a pool. Option 0) captures this idea by describing the field as very broad and spacious. Option 1) contradicts the metaphor by suggesting that the field is narrow, which does not align with the comparison to a pool.",0,,0
+Simbah suarane kaya gluduk,Simbah suarane merdu kaya udah,Simbah suarane gembredek kaya gluduk,1,"{
+  ""question"": ""Simbah suarane kaya gluduk"",
+  ""option0"": ""Simbah suarane merdu kaya udah"",
+  ""option1"": ""Simbah suarane gembredek kaya gluduk"",
+  ""explanation"": ""In this metaphor, the comparison is between the sound of a thump (gluduk) and the sound of a melodic voice. The more suitable meaning would be 'Simbah suarane merdu kaya udah' which means 'Grandma's voice is beautiful like a melody' as opposed to 'Simbah suarane gembredek kaya gluduk' which means 'Grandma's voice is rough like a",0,,0
+Cah iku yen dikandhani kaya banyu,"Cah iku yen dikandhani angel banget, keras kepala",Cah iku yen dikandhani manut,1,"{
+  ""answer"": 0
+}  
+
+In this metaphor, ""Cah iku yen dikandhani kaya banyu,"" the comparison is made between the person being talked about and water. The most fitting meaning for this metaphor is ""Cah iku yen dikandhani angel banget,"" which suggests that the person is gentle and easygoing, similar to the nature of water. The option ""keras kepala"" does not align with the comparison of the person to water.",0,,0
+"Panganan iki rasane kaya bintang lima, nanging regane bintang lima","Panganan iki rasane kaya bintang lima, tapi regane larange banget","Panganan iki rasane kaya bintang lima, tapi regane murah banget",0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor is comparing the taste or quality of the food to a five-star rating, while the price remains inexpensive. This implies that despite the high quality or taste of the food, it is still affordable. Option 1) reflects this meaning more accurately, as it mentions that the price is cheap.",1,,0
+"Panganan iki rasane kaya bintang lima, nanging regane kaki lima","Panganan iki rasane kaya bintang lima, tapi regane larange banget","Panganan iki rasane kaya bintang lima, tapi regane murah banget",1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor is comparing the taste of the food to a five-star rating, but the price is very cheap. Option 0) ""Panganan iki rasane kaya bintang lima, tapi regane larange banget"" captures this meaning as it emphasizes that the price is very low despite the food tasting like a five-star dish.",0,,0
+"Nardi iki piye carane sikatan, untune wis kaya emas 24 karat","Nardi iki piye carane sikatan, untune wis kaya kuning banget","Nardi iki piye carane sikatan, untune wis kaya putih banget",0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor compares Nardi to a bird known as a Sikatan, saying that Nardi is shining brightly like 24 karat gold. This means that Nardi is exceptionally valuable and precious. Option 1) Nardi iki piye carane sikatan, untune wis kaya putih banget, is closer to this meaning as it emphasizes the idea of something being very valuable and precious.",1,,0
+Mobil iku pasaran,"Mobil iku langka banget, gaono wujude",Mobil iku gampang banget ditemu,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""Mobil iku pasaran"" usually means that cars are very common and easy to find, similar to how a market is always bustling and filled with goods. Option 0) ""Mobil iku langka banget, gaono wujude"" is the closest in meaning as it implies that cars are very rare and hard to come by, contrasting the original metaphor.",0,,0
+Kowe apa wis mangan? Kok polahmu kaya kucing luwe,Kowe apa wis mangan? Kok polahmu kaya beringas,Kowe apa wis mangan? Kok polahmu kaya lemes banget,1,"{
+	""answer"": 0
+} 
+
+Explanation: The metaphor comparing someone's actions to a cat refers to being sneaky, cunning, and sly. Option 0, ""Kowe apa wis mangan? Kok polahmu kaya beringas"", translates to ""Have you eaten? Why are you acting so wild?"" which aligns more closely with the metaphor. Option 1, ""Kowe apa wis mangan? Kok polahmu kaya lemes banget"", translates to ""Have you eaten? Why are you acting so weak?"" which does not match the metaphor.",0,,0
+Motor iku yen ditumpaki wis kaya jet,Motor iku yen ditumpaki cepet banget,Motor iku yen ditumpaki alon banget,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, ""Motor iku yen ditumpaki wis kaya jet"" compares the speed of the motor to a jet, implying that it is very fast. The option ""Motor iku yen ditumpaki alon banget"" translates to ""The motor is very fast,"" which is closest in meaning to the metaphor.",1,,0
+Aldi lan Doni iku sahabat sing wis kaya senar,Aldi lan Doni iku sahabat sing wis kokoh banget kaya rante,Aldi lan Doni iku sahabat sing wis rapuh lan tipis kaya senar,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor likens Aldi and Doni's friendship to a strong rope, which implies that their friendship is solid and resilient, similar to a sturdy rope. Option 0) Aldi lan Doni iku sahabat sing wis kokoh banget kaya rante (Aldi and Doni are friends who are already strong like a rope) is the closest meaning to this metaphor.",0,,0
+Wong iku kulite kaya kulit boyo,Wong iku kulite kaya lembut kaya kulit bayi,Wong iku kulite kaya kasar kaya kulit boyo,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares the smoothness of skin to a young baby's skin. Option 0) Wong iku kulite kaya lembut kaya kulit bayi reflects the similarity in texture between the two.",0,,0
+Sikapmu kaya srengenge,Sikapmu ramah banget kaya srengenge,Sikapmu adem banget kaya es,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor ""Sikapmu kaya srengenge"" compares someone's attitude to ice. Ice is often associated with being calm and cool, which is closer in meaning to ""Sikapmu adem banget kaya es"" (Option 1) rather than ""Sikapmu ramah banget kaya srengenge"" (Option 0) which implies being friendly.",1,,0
+"Yen didelok, Pak Guru iku sikape kaya banyu nang godhong talas","Yen didelok, Pak Guru iku sikape gampang berubah","Yen didelok, Pak Guru iku sikape teguh",0,"{
+  ""question"": ""Yen didelok, Pak Guru iku sikape kaya banyu nang godhong talas"",
+  ""options"": {
+    ""0"": ""Yen didelok, Pak Guru iku sikape gampang berubah"",
+    ""1"": ""Yen didelok, Pak Guru iku sikape teguh""
+  },
+  ""answer"": 1
+} 
+
+Explanation: The metaphor compares the teacher's character to water on a taro leaf, which emphasizes stability and firmness. Therefore, the option ""Yen didelok, Pak Guru iku sikape teguh"" is the closest in meaning.",1,,0
+Pasangan iku yen didelok kaya banyu lan minyak,Pasangan iku yen didelok kaya ora cocok,Pasangan iku yen didelok kaya cocok banget,0,"{
+  ""answer"": 1,
+  ""explanation"": ""The metaphor comparing a couple to water and oil suggests that the couple is not compatible and does not mix well. Therefore, option 1) Pasangan iku yen didelok kaya cocok banget ('The couple is like water and oil') is the closest in meaning to the metaphor.""
+}",1,,0
+Bocah kuwi nemu omah umpama kuthuk marani sunduk,Bocah kuwi nemu omah cocok,Bocah kuwi nemu omah ora cocok,1,"{
+  ""explanation"": ""The metaphor compares finding a suitable house to finding a well-fitting shoe, implying that the house is a good match or suitable."",
+  ""answer"": 0
+}",0,,0
+Rasa ombenan alkohol kuwi umpama pait madu,Rasa ombenan alkohol kuwi legi banget,Rasa ombenan alkohol kuwi pait banget,0,"{
+  ""Explanation"": ""The metaphor is comparing the taste of alcohol to the bitterness of honey, implying that the taste of alcohol is very bitter."",
+  ""Answer"": 1
+}",1,,0
+Bocah kembar iku raine kaya bhumi karo langit,Bocah kembar iku raine bedho,Bocah kembar iku raine padha,0,"{
+  ""answer"": 1,
+  ""explanation"": ""The metaphor is comparing the twins to the earth and the sky, which suggests that they are similar or equal in importance. Therefore, the closest meaning would be 'Bocah kembar iku raine padha' which means the twins are equal.""
+}",1,,0
+Pancen dadi polisi kuwi kaya cebol nggayuh lintang,Pancen dadi polisi kuwi angel,Pancen dadi polisi kuwi gampang,0,"{
+  ""answer"": 1
+}
+
+This metaphor is comparing being a police officer to onions striving for the stars. In this context, ""gampang"" (easy) would be the closest meaning as it implies that being a police officer is not an easy task, just like how onions cannot easily reach the stars.",1,,0
+Pancen dadi polisi kuwi kaya nemu mas ing omah dewe,Pancen dadi polisi kuwi angel,Pancen dadi polisi kuwi gampang,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor comparing being a police officer to finding gold in one's own home implies that being a police officer is seen as a valuable and rewarding experience. Therefore, the closer meaning is option 0) Pancen dadi polisi kuwi angel (being a police officer is valuable).",0,,0
+Dadi anak pak lurah uripe kaya kalungan wesi,Dadi anak pak lurah uripe kepenak,Dadi anak pak lurah uripe sara,1,"{
+  ""explanation"": ""The metaphor compares the child of a village head to a precious necklace made of iron, emphasizing the child's value and importance."",
+  ""answer"": 0
+}",0,,0
+Isuk iki Jogja hawane kaya banyu umup,Isuk iki Jogja hawane panas,Isuk iki Jogja hawane adem,0,"{
+  ""question"": ""Isuk iki Jogja hawane kaya banyu umup"",
+  ""option0"": ""Isuk iki Jogja hawane panas"",
+  ""option1"": ""Isuk iki Jogja hawane adem"",
+  ""explanation"": ""The metaphor compares the morning in Jogja to water being poured, which implies that it is refreshing and cool, similar to the feeling of being 'adem' (cool in Javanese)"",
+  ""answer"": 1
+}",1,,0
+Isuk iki Jogja hawane kaya es ning gunung,Isuk iki Jogja hawane panas,Isuk iki Jogja hawane adem,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the weather in Jogja to ice on the mountain, implying that it is very cold. Therefore, the closest meaning would be ""Isuk iki Jogja hawane panas"" (It is hot in Jogja this morning).",0,,0
+Bapak guru ngewenehi tugas kaya nandur pari,Bapak guru ngewenehi tugas dhadhakan,Bapak guru ngewenehi tugas mipil,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, the action of assigning tasks to the students is compared to planting seeds. The word ""nandur"" means to plant or sow, which is similar to the action of assigning tasks. Option 0) ""Bapak guru ngewenehi tugas dhadhakan"" translates to ""The teacher gives tasks to the students like planting seeds"", which is the closest meaning to the metaphor.",0,,0
+Mlayune atlet kuwi kaya macan mlaku,Mlayune atlet kuwi alon,Mlayune atlet kuwi banter,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor is comparing the athlete to a lone wolf, which signifies independence, strength, and determination. Option 0) Mlayune atlet kuwi alon, translates to ""The athlete is like a lone wolf"", which aligns well with the metaphorical meaning.",0,,0
+Adhiku pengen duwe omah sing kaya pagupon dara,Adhiku pengen duwe omah sing gedhe,Adhiku pengen duwe omah sing cilik,1,"{
+  ""Explanation"": ""The metaphor is comparing having a rich and luxurious house to a young virgin's chest, implying a desire for something valuable, precious, and pure."",
+  ""Answer"": 0
+}",0,,0
+Gani kesohor amarga swarane kaya pithik kluruk,Gani kesohor amarga swarane banter,Gani kesohor amarga swarane alon,0,"{
+  ""answer"": 1,
+  ""explanation"": ""The metaphor is comparing the voice of Gani to a sharp knife. The option 'alon' means sharp, which aligns with the metaphor.""
+}",1,,0
+Drijine Marni rupane kaya mucuk pring,Drijine Marni rupane lancip,Drijine Marni rupane ora lancip,1,"{
+  ""answer"": ""0"",
+  ""explanation"": ""In this metaphor, 'Drijine Marni rupane kaya mucuk pring' compares the appearance of a person to the sharpness of a dagger, indicating that the person is sharp or intelligent. The option 'Drijine Marni rupane lancip' means sharp, which matches the intended meaning.""
+}",0,,0
+"Senajan sugih, Pak Tomo kerjane kaya duwe inten sekarung","Senajan sugih, Pak Tomo kerjane sregep","Senajan sugih, Pak Tomo kerjane males",1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Senajan sugih, Pak Tomo kerjane kaya duwe inten sekarung"" compares Pak Tomo's work to having a bag of seeds. This implies that Pak Tomo's work is productive and valuable, similar to planting seeds that will eventually grow into something fruitful. Option 0) Senajan sugih, Pak Tomo kerjane sregep (Pak Tomo's work is skillful) aligns more closely with the metaphor than Option 1) Senajan sugih, Pak Tomo kerjane males (Pak Tomo's work is lazy).",0,,0
+Penyanyi iku pancen swarane kaya kumbang nyinom,Sinden iku pancen swarane apik,Sinden iku pancen swarane elek,1,"{
+  ""question"": ""Penyanyi iku pancen swarane kaya kumbang nyinom"",
+  ""option1"": ""Sinden iku pancen swarane apik"",
+  ""option2"": ""Sinden iku pancen swarane elek"",
+  ""explanation"": ""In this metaphor, the singer's voice is being compared to a beetle's buzz. Beetles are known for their distinct and sometimes loud buzzing sound. Therefore, the closest meaning would be an option suggesting that the singer has a strong and resonant voice, similar to the buzz of a beetle. Option 0) Sinden iku pancen swarane apik"",
+  ""answer"": 0
+}",0,,0
+Banyu ing Surabaya umpama embun kacampur awu,Banyu ing Surabaya bening,Banyu ing Surabaya buthek,1,"{
+  ""answer"": 0
+} 
+
+The correct option is 0) Banyu ing Surabaya bening
+
+Explanation: In this metaphor, ""Banyu ing Surabaya umpama embun kacampur awu"" translates to ""The water in Surabaya is like dew mixed with dust."" Here the comparison is made between the water in Surabaya and dew mixed with dust, implying that the water is clear and pure like dew. Option 0) ""Banyu ing Surabaya bening"" means ""The water in Surabaya is clear,"" which closely represents the metaphor. Option 1) ""Banyu ing Surabaya buthek"" means ""The water in Sur",0,,0
+Hendra kuwi omongane kaya abang-abang lambe,Hendra kuwi omongane ngapusi,Hendra kuwi omongane temenan,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor compares Hendra's words to those of a sheep. In this context, lambe typically refers to being friendly or sociable. Therefore, the closer meaning to the metaphor would be ""Hendra kuwi omongane temenan"" which means ""Hendra's words are friendly.""",1,,0
+Masakane Bu Mardi rasane kaya panganan wong lara,Masakane Bu Mardi rasane enak,Masakane Bu Mardi rasane ora enak,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares Masakane Bu Mardi's feelings to food. If the food tastes good (enak), it means Masakane Bu Mardi is in a good mood or feeling positive. Therefore, option 0) Masakane Bu Mardi rasane enak is the closest meaning to the metaphor.",0,,0
+"Ning panggung, penari srimpi kae obahe umpama kayu mati","Ning panggung, penari srimpi kae obahe anggun","Ning panggung, penari srimpi kae obahe kaku",1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the gracefulness of the dancer in the performance to a lifeless piece of wood. Therefore, the meaning closest to the metaphor would be Option 0) Ning panggung, penari srimpi kae obahe anggun, which translates to ""On the stage, the dancer in srimpi costume moves gracefully.""",0,,0
+"Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise kaya merang sawah","Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise kandhel","Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise arang-arang",1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares Yuli's words to rice paddy fields. Since rice paddy fields are usually lush and green, the option ""Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise kandhel"" which means ""When someone talks about Yuli who is not here, their words are as clear as irrigated rice paddy fields,"" is closer in meaning to the metaphor.",0,,0
+Lakune bocah kuwi ning keluargane umpama buta kala ning alengka,Lakune bocah kuwi ning keluargane kalem,Lakune bocah kuwi ning keluargane teges,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor is comparing the child and his family to a blind person in another country. 'Kalem' in Javanese means calm and peaceful, which is more similar to being blind in a tranquil place rather than being blind in a busy and chaotic place like 'teges'.""
+}",0,,0
+Sinau sejarah ning sekolah umpama ngenteni babon ngendhok,Sinau sejarah ning sekolah marai bosen,Sinau sejarah ning sekolah marai seneng,0,"{
+  ""explanation"": ""The metaphor compares learning history in school to waiting for a cow to give birth. This implies that learning history in school requires patience and can be a slow process, similar to waiting for a cow to give birth."",
+  ""answer"": 1
+}",1,,0
+Kerja ning kantor pemerintah kaya numpak gethek ning Bengawan Solo,Kerja ning kantor pemerintah akeh tantangan,Kerja ning kantor pemerintah ora ono tantangan,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""numpak gethek ning Bengawan Solo"" suggests facing challenges or obstacles, as navigating through a river on a bamboo raft would require strength and skill to overcome. Option 0) ""Kerja ning kantor pemerintah akeh tantangan"" means facing many challenges, which aligns closely with the metaphor.",0,,0
+Ning TV saiki akeh pejabat sing umpama duwe ajining godhong garing,Ning TV saiki akeh pejabat sing ora duwe wibawa,Ning TV saiki akeh pejabat sing duwe wibawa,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares the abundance of government officials to having dried leaves, which signifies that they have authority or power. Therefore, the option ""Ning TV saiki akeh pejabat sing duwe wibawa"" is the closest meaning.",1,,0
+"Nalika zaman semono, rega beras kaya tuku kerikil","Nalika zaman semono, rega beras larang","Nalika zaman semono, rega beras murah",1,"{
+	""Explanation"": ""The metaphor compares the value of rice (beras) to the value of small stones (kerikil), implying that rice was as valuable as stones during a certain period of time."",
+	""Answer"": 0
+}",0,,0
+Carita kae marai ati rasa kaya disiram banyu kembang,Carita kae marai ati rasa duka,Carita kae marai ati rasa bungah,1,"{
+  ""Explanation"": ""The metaphor is comparing the feeling of heartache to being watered to grow flowers, indicating that heartache can lead to growth and beauty."",
+  ""Answer"": 0
+}",0,,0
+Urip ning jobo kutha san saya umpama udan banyu,Urip ning jobo kutha san saya tinemu apes,Urip ning jobo kutha san saya nyenengake,1,"{
+  ""explanation"": ""The metaphor comparing life to rainwater indicates the unpredictability and uncontrollable nature of life, similar to the unpredictability of rain. Option 0) parallels this by suggesting that life is full of challenges and difficulties ('apes'), while option 1) does not emphasize this aspect."",
+  ""answer"": 0
+}",0,,0
+Mimpi sing mau bengi kaya diuber demit,Mimpi sing mau bengi apik,Mimpi sing mau bengi elek,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Mimpi sing mau bengi kaya diuber demit"" implies that the dream is chaotic or unsettling, similar to being chased by ghosts or demons. Therefore, the option ""0) Mimpi sing mau bengi apik"" which means a good dream, does not fit the metaphorical context. The closest meaning is ""1) Mimpi sing mau bengi elek"" which means a dream that is unsettling or eerie.",0,,0
+"Ning kuthaku, wong kang mbangun pabrik kaya ngitung driji tangan siji","Ning kuthaku, wong kang mbangun pabrik akeh","Ning kuthaku, wong kang mbangun pabrik sitik",1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares building a factory to counting money with one hand. In this case, the meaning of ""akeh"" (many) is closer to the metaphor as building a factory signifies a substantial amount of investment and resources, reflecting the idea of abundance rather than scarcity.",0,,0
+Ngelakoni urip dadi santri ana wae ceritane senajan umpama surya wayah sore,Ngelakoni urip dadi santri ana wae ceritane senajan nentremake,Ngelakoni urip dadi santri ana wae ceritane senajan gawe usrek,0,"{
+  ""answer"": 1
+}
+
+Explanation: In this metaphor, the comparison is being made between living life like a student and the setting of the sun. The option ""Ngelakoni urip dadi santri ana wae ceritane senajan gawe usrek"" means ""living life like a student can make us tired just like the setting sun"". This option captures the essence of the metaphor by highlighting the exhaustion that can come from living a disciplined life like a student.",1,,0
+Ngelakoni urip dadi santri ana wae ceritane senajan umpama kesasar ning alas roban,Ngelakoni urip dadi santri ana wae ceritane senajan nentremake,Ngelakoni urip dadi santri ana wae ceritane senajan gawe usrek,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares living as a student to getting lost in a dense forest, implying that sometimes life as a student can be confusing and challenging, but it does not necessarily mean causing trouble. Option 0) ""Ngelakoni urip dadi santri ana wae ceritane senajan nentremake"" is closer in meaning to encountering difficulties or challenges, similar to getting lost in a forest. Option 1) ""Ngelakoni urip dadi santri ana wae ceritane senajan gawe usrek"" implies causing trouble or mischief, which does not align with the metaphor.",0,,0
+Enteke dhuwit gajiku umpama dipendhem nggo mangsa ketelu,Enteke dhuwit gajiku boros,Enteke dhuwit gajiku irit,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""Enteke dhuwit gajiku umpama dipendhem nggo mangsa ketelu"" implies that the money spent is like water flowing freely without any control or limitation, similar to being wasteful. Therefore, the option ""Enteke dhuwit gajiku boros"" which means money spent recklessly or wastefully is the closest meaning to the metaphor.",0,,0
+Urip ning perkampungan Jakarta kaya ngorbanake getih,Urip ning perkampungan Jakarta guyub,Urip ning perkampungan Jakarta akeh gelut,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Urip ning perkampungan Jakarta kaya ngorbanake getih"" suggests that life in the village of Jakarta is rich in sacrifices like blood. This is closer in meaning to option 0) ""Urip ning perkampungan Jakarta guyub"" which means life in the village of Jakarta is harmonious, reflecting the idea of sacrifice and unity. Option 1) ""Urip ning perkampungan Jakarta akeh gelut"" means life in the village of Jakarta has many struggles, which is not as closely related to the sacrifice metaphor.",0,,0
+"Nek gawe pegawe kantor iki, keputusan mau isuk kaya nabuh kenong","Nek gawe pegawe kantor iki, keputusan mau isuk pengaruhe gedhe","Nek gawe pegawe kantor iki, keputusan mau isuk pengaruhe cilik",1,"{
+  ""answer"": 0
+}
+
+Explanation: In the metaphor, the decision-making process is compared to the act of striking a large gong. This implies that the decision has a significant impact or influence, making option 0) ""Nek gawe pegawe kantor iki, keputusan mau isuk pengaruhe gedhe"" the most fitting meaning.",0,,0
+Lia lan adhine kaya lenga karo banyu,Lia lan adhine rukun,Lia lan adhine musuhan,1,"{
+  ""question"": ""Lia lan adhine kaya lenga karo banyu"",
+  ""option_chosen"": 0,
+  ""explanation"": ""In this metaphor, 'kaya lenga karo banyu' means to flow smoothly and harmoniously, similar to the word 'rukun' which means peaceful and orderly. Therefore, option 0) Lia lan adhine rukun is the closest meaning."",
+}",0,,0
+Didikan keluargane umpama cul-culane kuthuk,Didikan keluargane disiplin,Didikan keluargane sekarepe dewe,1,"{
+""answer"": 0,
+""explanation"": ""The metaphor compares family upbringing to the roots of a plant, suggesting that both provide stability and structure. In this context, 'disiplin' (discipline) is closer in meaning to the metaphor as discipline is important in shaping a person's character and behavior.""
+}",0,,0
+Bener jare wong kene yen Bu Lurah tumindake kaya pucuk kertas nyeset driji,Bener jare wong kene yen Bu Lurah tumindake nglarani ati,Bener jare wong kene yen Bu Lurah tumindake nyenengke ati,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor compares how Bu Lurah is sharp like a paper cutter. Option 1) ""Bener jare wong kene yen Bu Lurah tumindake nyenengke ati"" translates to ""Truly, the person there is sharp, just like how Bu Lurah cuts through hearts."" This option captures the idea that Bu Lurah's words or actions can be emotionally cutting or impactful.",1,,0
+Doni karo Yanti pancen kaya Rahwana Sinta ing pewayangan,Doni karo Yanti pancen cocok sesandhingan,Doni karo Yanti pancen ora cocok sesandhingan,1,"{
+  ""answer"": 0
+} 
+
+In the metaphor, ""Doni karo Yanti pancen kaya Rahwana Sinta ing pewayangan,"" Rahwana and Sinta are characters from wayang (traditional Javanese puppet theater) known for their contrasting characteristics. Therefore, option 0) ""Doni karo Yanti pancen cocok sesandhingan"" which means ""Doni and Yanti are truly compatible with each other"" is the closest meaning to the metaphor as it highlights the idea of two people being well-suited or compatible with each other.",0,,0
+Sepur iku suarane kaya manuk pentet,Sepur iku suarane mbrebegi,Sepur iku suarane sepi,0,"{
+  ""answer"": 1,
+  ""explanation"": ""Manuk pentet is a bird known for its loud and melodic voice. Therefore, the meaning of the metaphor is comparing the sound of the train to the loud and melodious voice of a manuk pentet, indicating that the train sound is loud, not quiet. The option 'Sepur iku suarane sepi' means 'The train has a quiet sound', which is the opposite of the intended meaning.""
+}",1,,0
+Kucing kuwi obah kaya sepur,Kucing kuwi obahe cepet,Kucing kuwi obahe alon,0,"{
+  ""question"": ""Kucing kuwi obah kaya sepur"",
+  ""options"": {
+    ""0"": ""Kucing kuwi obahe cepet"",
+    ""1"": ""Kucing kuwi obahe alon""
+  },
+  ""answer"": 1
+} 
+
+Explanation: Sepur is a train in Javanese, known for moving quickly on its tracks. Alon means fast or quick in Javanese. Therefore, the metaphor ""Kucing kuwi obah kaya sepur"" is closer in meaning to ""Kucing kuwi obahe alon"" which translates to ""The cat moves fast"". Therefore, the correct answer is option 1.",1,,0
+Sinden dangdut suarane kaya bebek,Sinden dangdut suarane merdu,Sinden dangdut suarane elek,1,"{
+  ""answer"": 0
+} 
+This metaphor is comparing the singer's voice to that of a duck, which is known for its melodious sound. Therefore, the closest meaning would be ""Sinden dangdut suarane merdu"" which translates to ""The dangdut singer's voice is melodious.""",0,,0
+Gawe kowe percaya iku kaya munggah gunung lawu,Gawe kowe percaya iku gampang,Gawe kowe percaya iku angel,1,"{
+  ""explanation"": ""Mount Lawu is known for its steep and challenging terrain, so the closest meaning to the metaphor is that believing is not easy, similar to climbing Mount Lawu."",
+  ""answer"": 0
+}",0,,0
+Sega warung iku rasane kaya mangan watu,Sega ing warung iku rasane atos,Sega ing warung iku rasane pulen,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Sega warung iku rasane kaya mangan watu"" means that eating stones feels like eating in a humble eatery. The option ""Sega ing warung iku rasane pulen"" means that eating in the eatery feels satisfying, which is closer to the metaphor.",1,,0
+Berita iku ditampa kaya ngeleg idu,Berita iku ditampa hal sing angel,Berita iku ditampa hal sing gampang,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, the comparison is between news being difficult to hear like a soft whisper (ngeleg idu). The option ""Berita iku ditampa hal sing angel"" reflects the meaning of news being hard to hear.",0,,0
+Wong iku leh mlaku kaya numpak montor mabur,Wong iku leh mlaku cepet banget,Wong iku leh mlaku alon banget,0,"{
+  ""question"": ""Wong iku leh mlaku kaya numpak montor mabur"",
+  ""option_selected"": 1,
+  ""explanation"": ""The metaphor compares 'Wong' (a person) to 'numpak montor mabur' (riding a fast motorcycle). In this context, 'leh mlaku' is likely to mean moving or progressing quickly, which aligns more with the option 'Wong iku leh mlaku alon banget'."",
+  ""answer"": 1
+}",1,,0
+Rupane wingi kaya srengenge tengah hari,Rupane wingi peteng,Rupane wingi ceta,1,"{
+  ""answer"": 0
+} 
+
+The metaphor suggests that the situation described is similar to a bird flying high in the sky during midday. Option 0) ""Rupane wingi peteng"" is the closest meaning because it refers to a bird soaring high during the daytime, which is a more accurate comparison to the metaphor given in the startphrase. Option 1) ""Rupane wingi ceta"" does not relate as well to the metaphor.",0,,0
+Omongane bu guru kaya kethul karet,Omongane bu guru landhep,Omongane bu guru alus,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor 'Omongane bu guru kaya kethul karet' refers to someone who speaks harshly or rudely. In this context, 'landhep' means rough or coarse, which aligns closely with the metaphor.""
+}",0,,0
+Wayah esuk hawane kaya es,Wayah esuk hawane adem,Wayah esuk hawane panas,0,"{
+  ""answer"": 1,
+  ""explanation"": ""In the metaphor, 'Wayah esuk hawane kaya es' refers to something being hot like fire. The closest meaning among the options is 'Wayah esuk hawane panas' which means 'Wayah esuk hawane hot'.""
+}",1,,0
+Wayah esuk hawane kaya geni,Wayah esuk hawane adem,Wayah esuk hawane panas,1,"{
+  ""question"": ""Wayah esuk hawane kaya geni"",
+  ""optionExplanations"": {
+    ""0"": ""Adem means cool or refreshing, which is the opposite of hot like fire. This option represents the meaning that is closest to the metaphor."",
+    ""1"": ""Panas means hot, which is a direct antonym of cool or refreshing. This option does not align with the metaphor.""
+  },
+  ""answer"": 0
+}",0,,0
+Banjir sasi wingi duwure kaya tungkak,Banjir sasi wingi duwur banget,Banjir sasi wingi cekak banget,1,"{
+  ""explanation"": ""The metaphor is comparing the flood from yesterday to a tree trunk, which implies that the flood was strong and not weak. Therefore, option 0) Banjir sasi wingi duwur banget (yesterday's flood was very high) is the closest meaning."",
+  ""answer"": 0
+}",0,,0
+Omongane isa kaya korek gas,Omongane iso marai ribut,Omongane iso marai ayem,0,"{
+  ""question"": ""Omongane isa kaya korek gas"",
+  ""option_selected"": 1,
+  ""explanation"": ""The metaphor compares Omongane to a strong and reliable source of energy, similar to a gas. The option 'Omongane iso marai ayem' refers to Omongane being a source of energy like gas, making it the closest meaning.""
+}",1,,0
+Apel iku rasane kaya tebu,Apel iku rasane asem,Apel iku rasane legi,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In the metaphor, the phrase ""Apel iku rasane kaya tebu"" compares the taste of an apple to that of sugar cane, emphasizing that the apple is sweet. When choosing between the options, ""Apel iku rasane asem"" means ""The apple tastes sour,"" which is the opposite of the intended meaning. Therefore, the correct option is 0) Apel iku rasane asem.",0,,0
+Mangsa ngarep wong iku ibarat mangsa surup,Mangsa ngarep wong iku kebak pangarep,Mangsa ngarep wong iku kebak kuciwo,1,"{
+  ""Answer"": 0
+}
+
+Explanation: In this metaphor, ""mangsa ngarep wong iku ibarat mangsa surup,"" the comparison is between a person who hopes for something (mangsa ngarep wong iku) and a person who is a mirror image or reflection of that hope (mangsa surup). The closest meaning would be Option 0, ""Mangsa ngarep wong iku kebak pangarep,"" which translates to ""a person hoping for something is like a reflection of that hope."" This option maintains the metaphorical comparison between the person hoping and the reflection of that hope. Option 1, ""Mangsa ngarep wong i",0,,0
+Mripatku yen yah mene dinggo ndelok kaya buthek banyu,Mripatku yen yah mene dinggo ndelok kaya cetha,Mripatku yen yah mene dinggo ndelok kaya kabur,1,"{
+  ""question"": ""Mripatku yen yah mene dinggo ndelok kaya buthek banyu"",
+  ""option0"": ""Mripatku yen yah mene dinggo ndelok kaya cetha"",
+  ""option1"": ""Mripatku yen yah mene dinggo ndelok kaya kabur"",
+  ""explanation"": ""The metaphor compares the sight of something with the appearance of a water lily (buthek banyu), which is clear and vivid. The word 'cetha' means clear or vivid, so option 0 is the closest meaning."",
+  ""answer"": 0
+}",0,,0
+Keluargaku saben dina mangan iwak,Keluargaku saben dina mangan apa anane,Keluargaku saben dina mangan apa wae ana,1,"{
+  ""Question"": ""Keluargaku saben dina mangan iwak"",
+  ""Option Chosen"": 0,
+  ""Explanation"": ""The metaphor here likely means that every day my family eats fish, emphasizing the frequency of eating fish as a staple food in the family. Option 0 reflects this meaning by indicating that every day my family eats whatever fish is available."",
+  ""Output"": 0
+}",0,,0
+Raihan mambune kaya mayit,Raihan mambune wangi,Raihan mambune bosok,1,"{
+  ""Explanation"": ""The metaphor is comparing Raihan to a fresh and fragrant fruit, so the meaning closer to the metaphor is Raihan mambune wangi (Raihan is fresh and fragrant)"",
+  ""Answer"": 0
+}",0,,0
+Kowe takdongakne kaya penyu laut,Kowe takdongakne dawa umure,Kowe takdongakne cekak umure,0,"{
+  ""answer"": 1
+}  
+Explanation: The metaphor here is comparing someone to a sea turtle, which is known to live a long life. Option 1) ""Kowe takdongakne cekak umure"" means ""You look like you will live a long life"", which is the closest to the metaphor.",1,,0
+Kowe takdongakne kaya jengklong,Kowe takdongakne dawa umure,Kowe takdongakne cekak umure,1,"{
+  ""question"": ""Kowe takdongakne kaya jengklong"",
+  ""option_0"": ""Kowe takdongakne dawa umure"",
+  ""option_1"": ""Kowe takdongakne cekak umure"",
+  ""explanation"": ""The metaphor compares the person to a jengklong, which can mean being resourceful and able to adapt to different situations. Option 0 closely reflects this comparison by saying 'you are like a jengklong' which implies being resourceful, while option 1 does not capture the essence of the jengklong metaphor."",
+  ""answer"": 0
+}",0,,0
+Banyu omah iki rasane kaya banyu es,Banyu omah iki rasane adem,Banyu omah iki rasane anget,0,"{
+  ""Question"": ""Banyu omah iki rasane kaya banyu es"",
+  ""Option_Reasoning"": ""The metaphor compares the feeling or atmosphere of the house to that of ice, suggesting that the house feels cold. Option 1) Banyu omah iki rasane anget is the closest meaning as 'anget' means warm in Javanese."",
+  ""Answer"": 1
+}",1,,0
+Banyu omah iki rasane kaya wedhang ronde,Banyu omah iki rasane adem,Banyu omah iki rasane anget,1,"{""answer"":0} 
+
+The metaphor compares the feeling of being in the ""banyu omah"" (a Javanese term meaning ""water house"" or a house surrounded by water) to the comforting warmth of ""wedhang ronde"" (a traditional Javanese drink made of warm ginger water with balls of rice flour dough). Therefore, the closest meaning would be option 0) Banyu omah iki rasane adem, which translates to ""Being in this water house feels cool and soothing.""",0,,0
+Nyawang esemme mantan rasane kaya tebu,Nyawang esemme mantan rasane legi,Nyawang esemme mantan rasane pait,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor is comparing the feeling of seeing an ex-lover to tasting something bitter like sugar cane. This implies that the feeling is not a pleasant one, similar to the taste of something bitter like sugar cane. Option 1) Nyawang esemme mantan rasane pait (Nyawang seeing the ex-lover feels bitter) is the closest in meaning to the metaphor.",1,,0
+Nyawang esemme mantan rasane kaya godhong kates,Nyawang esemme mantan rasane legi,Nyawang esemme mantan rasane pait,1,"{
+  ""question"": ""Nyawang esemme mantan rasane kaya godhong kates"",
+  ""options"": {
+    ""0"": ""Nyawang esemme mantan rasane legi"",
+    ""1"": ""Nyawang esemme mantan rasane pait""
+  },
+  ""answer"": 0
+} 
+
+Explanation: The metaphor comparing the feeling towards the ex-lover to a fallen leaf implies a sense of calmness and acceptance, similar to how one would feel about a leaf turning dry and falling off a tree naturally. Therefore, the option ""Nyawang esemme mantan rasane legi"" which means ""feeling towards the ex-lover is like a fallen leaf"" is",0,,0
+Omah iku kaya digawe saka kayu,Omah iku kaya mewah,Omah iku kaya murah,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing a house to being made from wood. Wood is a material commonly used in construction, therefore the meaning is closer to ""Omah iku kaya mewah"" which translates to ""The house is like being made from luxury materials"" rather than ""Omah iku kaya murah"" which means ""The house is like being made from cheap materials.""",0,,0
+Montor iku digawe seka kayu,Montor iku kuat,Montor iku ringkih,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, ""Montor iku digawe seka kayu"" refers to the fact that a motorcycle is made from wood. The closest meaning to this metaphor is that the motorcycle is strong or sturdy, as wood is a strong material. Option 0) ""Montor iku kuat"" best reflects this interpretation.",0,,0
+Rasane panganan iki kaya iwak pithik,Rasane panganan iki gurih,Rasane panganan iki raono rasane,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor is comparing the taste of the food to a bird's breath, indicating that the taste is lacking or bland. Option 1) Rasane panganan iki raono rasane (This food doesn't have any flavor) is the closest in meaning to the metaphor.",1,,0
+Rasane panganan iki kaya tempe godhog,Rasane panganan iki gurih,Rasane panganan iki raono rasane,1,"{
+  ""answer"": 0
+}
+
+Explanation: Tempe godhog is a Javanese dish made of fermented soybeans that have been sliced thinly and deep fried. The metaphor is comparing the taste of the dish to the taste of the food being described. In this case, ""Rasane panganan iki kaya tempe godhog"" means ""The taste of this food is delicious"" which is represented by option 0) Rasane panganan iki gurih (The taste of this food is savory).",0,,0
+Febri jajan kaya tanggal tuwa,Febri jajan kaya wong sugih,Febri jajan kaya wong kere,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor compares Febri's spending habits to a wealthy person, indicating that Febri spends lavishly. Therefore, the closest meaning is 'Febri spends money like a wealthy person.' Option 0) Febri jajan kaya wong sugih is the correct interpretation.""
+}",0,,0
+Jaka urip ing omah kardus,Jaka urip ing panggonan kang cukup,Jaka urip ing panggonan kan kurang,1,"{
+  ""question"": ""Jaka urip ing omah kardus"",
+  ""options"": {
+    ""0"": ""Jaka urip ing panggonan kang cukup"",
+    ""1"": ""Jaka urip ing panggonan kan kurang""
+  },
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Jaka urip ing omah kardus"" implies that Jaka's life at home is like living in a cardboard box, which suggests that he has a simple or modest living situation. Option 0 ""Jaka urip ing panggonan kang cukup"" closely relates to this idea, as it means that Jaka lives in a sufficient or adequate home. Option 1 suggests",0,,0
+Adi rewel merga wetenge wareg,Adi rewel merga keluwen,Adi rewel merga kewaregen,1,"{
+  ""question"": ""Adi rewel merga wetenge wareg"",
+  ""options"": {
+    ""0"": ""Adi rewel merga keluwen"",
+    ""1"": ""Adi rewel merga kewaregen""
+  },
+  ""answer"": 0
+} 
+
+Explanation: In the metaphor, ""wetenge wareg"" refers to something being difficult or challenging. ""keluwen"" means overcoming, which is closer in meaning to facing difficulty. ""kewaregen"" does not convey the sense of overcoming challenges. Thus, option 0 is the closest meaning to the metaphor.",0,,0
+Gambar iku kaya langit kemeluk,Gambar iku apik banget,Gambar iku elek banget,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Gambar iku kaya langit kemeluk"" compares a picture to the embrace of the sky. This implies that the picture is very beautiful, just like a sky full of stars embracing everything beneath it. Option 0) Gambar iku apik banget means that the picture is very beautiful, which aligns with the metaphor.",0,,0
+Wong kaya kowe iku kaya watu akik,Wong kaya kowe iku ono akeh,Wong kaya kowe iku langka,1,"{
+	""answer"": 0
+}
+
+Explanation: The metaphor ""Wong kaya kowe iku kaya watu akik"" means ""A wealthy person like you is like a rare gem"". Option 0) ""Wong kaya kowe iku ono akeh"" translates to ""A wealthy person like you is seen a lot"", which is closer in meaning to the metaphor.",0,,0
+Meja kerjane bapak digawe saka gedebog gedhang,Meja kerjane bapak kuwat,Meja kerjane bapak ringkih,1,"{
+  ""question"": ""Meja kerjane bapak digawe saka gedebog gedhang"",
+  ""option0"": ""Meja kerjane bapak kuwat"",
+  ""option1"": ""Meja kerjane bapak ringkih"",
+  ""explanation"": ""The metaphor implies that the desk is sturdy and well-built like a solid tree trunk, which aligns more closely with option 0) Meja kerjane bapak kuwat."",
+  ""answer"": 0
+}",0,,0
+Omahe kancaku kaya kos kosan,Omahe kancaku mewah,Omahe kancaku pas-pasan,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Omahe kancaku kaya kos kosan"" implies that the house is luxurious (""mewah""), as ""kos kosan"" is often associated with a simple, cheap place to rent.",0,,0
+Parkiran omahe paklik kaya lapangan bal-balan,Parkiran omahe paklik amba nemen,Parkiran omahe paklik sempit,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, ""Parkiran omahe paklik kaya lapangan bal-balan"" is comparing the spaciousness of the parking area to a large playing field. The closest meaning would be Option 0) Parkiran omahe paklik amba nemen, which indicates that the parking area is spacious and not constricted.",1,,0
+Parkiran omahe paklik kaya teras omah,Parkiran omahe paklik amba nemen,Parkiran omahe paklik sempit,1,"{
+  ""question"": ""Parkiran omahe paklik kaya teras omah"",
+  ""option0"": ""Parkiran omahe paklik amba nemen"",
+  ""option1"": ""Parkiran omahe paklik sempit"",
+  ""explanation"": ""The metaphor 'Parkiran omahe paklik kaya teras omah' implies that the parking lot is spacious and wide just like the front yard of a house."",
+  ""answer"": 0
+}",0,,0
+Dheweke nulungi ibune sing wis tuwa kaya nggowo kresek isi krupuk,Dheweke nulungi ibune sing wis tuwa iku abot,Dheweke nulungi ibune sing wis tuwa iku entheng,1,"{
+  ""Explanation"": ""The metaphor compares the situation to an overcooked krupuk, implying that the mother is getting old and fragile."",
+  ""Answer"": 0
+}",0,,0
+Ibu nggawa koper gedhene sak kotak petelot,Kopere gedhe,Kopere cilik,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor likens the creation of a large suitcase to giving birth to a big child, suggesting that the intended meaning is 'large suitcase' (Kopere gedhe).""
+}",0,,0
+Pikirane kaya rel sepur,Mikire dawa,Mikire cendhak,0,"{
+	""answer"": 1
+}
+
+Explanation: The metaphor ""Pikirane kaya rel sepur"" compares someone's thoughts to a train track. The option ""Mikire cendhak"" means steering towards a specific direction, which is similar to guiding thoughts in a certain direction like a train on a track. Option 1) Mikire cendhak is the closest meaning to the metaphor.",1,,0
+Karir artis iku kaya gabus dilebokake ing banyu,Karir artis iku Munggah,Karir artis iku ndelep,0,"{
+  ""answer"": 1
+}  
+
+The metaphor comparing a celebrity's career to a piece of foam floating in water implies that a celebrity's career is unpredictable and could easily sink or disappear. Option 1) ""Karir artis iku ndelep"" means a celebrity's career is unpredictable and could suddenly disappear, which is more fitting with the metaphor.",1,,0
+Karir artis iku kaya watu dilebokake ing banyu,Karir artis iku Munggah,Karir artis iku ndelep,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares a celebrity's career to a stone being thrown into water. The stone sinking in the water symbolizes climbing up in one's career, so the option ""Karir artis iku Munggah"" which means ""Career of an artist is rising"" is the closest meaning.",0,,0
+Pendukunge Pak Rangga dadi bupati kayata busa ing samodra,Pendukunge Pak Rangga dadi bupati Akeh,Pendukunge Pak Rangga dadi bupati sitik,0,"{
+    ""answer"": 1
+} 
+
+In this metaphor, ""Pendukunge Pak Rangga dadi bupati kayata busa ing samodra,"" the comparison is being made to the vastness of the ocean. By choosing option 1) ""Pendukunge Pak Rangga dadi bupati sitik,"" it conveys the meaning that the influence or power of Pak Rangga as a regent is minimal or insignificant. This option is closer to the metaphor because it contrasts the grandeur of the ocean with a small amount.",1,,0
+Pendukunge Pak Rangga dadi bupati kayata jamaah sholat subuh ing masjid,Pendukunge Pak Rangga dadi bupati Akeh,Pendukunge Pak Rangga dadi bupati sitik,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, ""Pendukunge Pak Rangga dadi bupati kayata jamaah sholat subuh ing masjid"" is comparing Pak Rangga to a leader or someone in a position of authority. The word ""akeh"" means many or more in Javanese, so the meaning closest to the metaphor would be ""Pendukunge Pak Rangga dadi bupati akeh"" which translates to ""Pak Rangga as a leader of many"".",0,,0
+Dina iki hawa ing njaba krasa kaya ana ing gurun wedi,Dina iki hawa ing njaba krasa adem,Dina iki hawa ing njaba krasa panas,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares Dina to the feeling of ""adem"" (cool/refreshing) rather than ""panas"" (hot). The idea is that Dina brings a cool/refreshing feeling instead of a hot feeling.",0,,0
+Semangate nandhang pacoban urip iku kaya kura-kura sing kerep ndhelik ing cangkang,Semangate nandhang pacoban urip iku Wani,Semangate nandhang pacoban urip iku Wedi,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor is comparing life to a tortoise hiding in its shell. The closest meaning to this metaphor is option 0) Semangate nandhang pacoban urip iku Wani which means life is full of challenges. Just like a tortoise facing the outside world when it comes out of its shell, life is full of obstacles and challenges that must be faced bravely.",0,,0
+Nalika ngrampungake masalah dheweke kaya ombak ing tengah samodra,Nalika ngrampungake masalah dheweke Ora Tenang,"Nalika ngrampungake masalah dheweke kuwat, tenang kebak kawicaksanan",0,"{
+  ""answer"": 1
+}
+
+The metaphor compares solving a problem to waves in the middle of the ocean. Waves in the ocean can be strong and powerful, just like solving a problem may require strength and perseverance. Option 1) ""Nalika ngrampungake masalah dheweke kuwat, tenang kebak kawicaksanan"" reflects this sense of strength and calmness in overcoming a challenge.",1,,0
+Mentale kaya tempe,Mentale kuwat,Mentale ora kuwat,1,"{
+  ""question"": ""Where Mentale kaya tempe?"",
+  ""optionIndex"": 0
+}
+
+Explanation: The metaphor ""Mentale kaya tempe"" is comparing someone's mental strength to tofu - tempe being a dish made from tofu. Tofu is soft and easily breakable, similar to someone who is mentally weak. The option ""Mentale kuwat"" means mentally strong, which is the closest meaning to the metaphor. 
+
+Answer: 0",0,,0
+Esemmu koyo jeruk durung mateng nanging wis dipetik,Esemmu apik,Esemmu kecut,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Esemmu koyo jeruk durung mateng nanging wis dipetik"" can be interpreted as ""Esemmu apik"" which means ""You are like an unripe orange, not yet mature but already picked"". This option suggests that the person being described may not be fully developed or ready, but has already been taken or chosen.",0,,0
+Rambute bocah iku kaya sapu aren,Rambute bocah iku Lembut,Rambute bocah iku kaku,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the child's hair to a soft broom, implying that the child's hair is soft. Option 0) ""Rambute bocah iku Lembut"" aligns with this interpretation.",0,,0
+Kekancan kita ibarat kayu padat sing kerep kena banyu,Kekancan kita kuat,Kekancan kita rapuh,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing our determination to solid wood that is able to withstand water. This implies that our determination is strong and not easily broken. Therefore, the closest meaning is option 0) Kekancan kita kuat.",0,,0
+Awake kaya cagak daya,Awake gedi,Awake dowo kuru,1,"{
+  ""Explanation"": ""The metaphor suggests someone is awake and alert, capable of understanding and responding effectively."",
+  ""Answer"": 0
+}",0,,0
+Anake pasangan kuwi kaya cacahing wiji rambutan,Anake pasangan kuwi akeh banget nganti akeh,Anake pasangan kuwi akeh banget nganti sithik,1,"{
+  ""Explanation"": ""The metaphor compares the number of the clusters of grapes to the number of children in the couple. 'Akeh banget nganti akeh' means a lot until many, which refers to having many children."",
+  ""Answer"": 0
+}",0,,0
+Omongan tanggaku kaya teh sing diombe yen udan,Omongan tanggaku perih,Omongan tanggaku nyenengne,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the impact of the words to rainwater, suggesting that the words are painful or hurtful, not enjoyable. Option 0) ""Omongan tanggaku perih"" means that my words are painful, which aligns with the metaphor. Option 1) ""Omongan tanggaku nyenengne"" means that my words are enjoyable, which is not in line with the metaphor.",0,,0
+Kendaraane mlaku kaya angin,Kendaraane mlaku cepet,Kendaraane mlaku alon,0,"{
+  ""answer"": 1
+} 
+
+This metaphor is comparing the speed of a vehicle to the wind, which is known for its quick and swift movement. Therefore, the closest meaning would be ""Kendaraane mlaku alon"" which translates to ""The vehicle is moving fast"".",1,,0
+Kendaraane mlaku kaya macan luwe,Kendaraane mlaku cepet,Kendaraane mlaku alon,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the vehicle to a fast tiger. ""Cepet"" means fast, which is closer to the metaphor than ""alon"" meaning alone.",0,,0
+Wong wedok iku kaya polahe kebo,Wong wedok iku sregep,Wong wedok iku males,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor compares the woman to a hardworking buffalo, implying that she is diligent and strong like the animal. Option 0) Wong wedok iku sregep, meaning the woman is diligent, is the closest in meaning to the metaphor.""
+}",0,,0
+Hubungan katresnan kita kaya asu lan kucing,Hubungan katresnan kita romantis,Hubungan katresnan kita tukaran wae,1,"{
+  ""answer"": 0
+}
+
+In this metaphor, comparing a romantic relationship to that of a dog and a cat would imply the meaning of a romantic relationship rather than just a casual exchange. A dog and cat have different personalities and behaviors, yet they can still have a close bond, just like in a romantic relationship where two individuals may be different but still have a strong connection.",0,,0
+Raine koncoku kaya dalane deso ora roto akeh krikile,Raine koncoku mulus,Raine koncoku kasar,1,"{
+  ""Question"": ""Raine koncoku kaya dalane deso ora roto akeh krikile"",
+  ""Option Chosen"": 0,
+  ""Explanation"": ""The metaphor compares Raine's journey to a smooth road without many obstacles. 'Raine koncoku mulus' translates to 'Raine's journey is smooth', which aligns with the metaphor."",
+  ""Output"": {
+    ""Choice"": ""Raine koncoku mulus""
+  }
+}",0,,0
+Dalan-dalan ing desaku lampune kaya ing warung-warunge cah enom,Dalan-dalan ing desaku lampune padhang,Dalan-dalan ing desaku lampune remang-remang,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing the brightness of the lights in the village street to the lights in a young person's store. ""Padhang"" means bright, which is closer in meaning to the metaphor than ""remang-remang"" which means dim.",0,,0
+Bapake koncoku iku kaya raden werkudara,Bapake koncoku iku gagah,Bapake koncoku iku medeni,0,"{
+  ""answer"": 1
+} 
+
+In this metaphor, ""Bapake koncoku iku kaya raden werkudara"", comparing someone's father to a wealthy nobleman, the closest meaning would be ""Bapake koncoku iku medeni"" which means ""Your father is noble."" This is because ""raden werkudara"" implies wealth and nobility, which is more closely related to being noble rather than simply being grand or impressive (gagah).",1,,0
+Bapake koncoku iku kaya buto ijo,Bapake koncoku iku gagah,Bapake koncoku iku medeni,1,"{
+  ""explanation"": ""The metaphor is comparing the father of your sibling to a green giant, implying that he is strong and powerful like the Hulk (Buto Ijo). Therefore, the closest meaning would be 'Bapake koncoku iku gagah'."",
+  ""answer"": 0
+}",0,,0
+"Nalika ngawasi ujian, pandelenge guru iku kaya bocah cilik ditembangake","Nalika ngawasi ujian, pandelenge guru iku fokus ngamati muride","Nalika ngawasi ujian, pandelenge guru iku ora fokus mergo ngantuk",1,"{
+  ""answer"": 0
+}  
+
+In this metaphor, the act of observing and supervising the exam is likened to how a teacher attentively watches over their students like singing a lullaby to a child. This implies that the teacher is focused on monitoring the students during the exam. Option 0) ""Nalika ngawasi ujian, pandelenge guru iku fokus ngamati muride"" is closer in meaning to the metaphor because it suggests that the teacher is attentive and focused on observing the students.",0,,0
+Masku nalika ngumbara kaya kacang lali karo kulitnya,Masku nalika ngumbara tetep ileng lan balik ana asale,Masku nalika ngumbara lali karo asale,1,"{
+  ""explanation"": ""The metaphor compares forgetting about the skin of a peanut to forgetting about its original form, the seed inside. Option 0 is closer as it refers to forgetting about the seed inside, which is the original form of a peanut."",
+  ""answer"": 0
+}",0,,0
+Wong kuwi sifate kaya bathok bolu isi madu,"Wong kuwi sifate Nggambarake wong saka kelas ngisor, nanging sugih ing kawruh",Wong kuwi sifate wong sing akeh omong nanging ora gelem nyambut gawe lan kemeruh,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, ""Wong kuwi sifate kaya bathok bolu isi madu"" can be interpreted as someone who speaks a lot but lacks action and results, similar to option 1 where ""Wong kuwi sifate wong sing akeh omong nanging ora gelem nyambut gawe lan kemeruh"" which means someone who speaks a lot but does not want to work and face challenges.",1,,0
+Dheweke nek nari kaya robot diuripake bateraine,Dheweke nek nari luwes,Dheweke nek nari kaku,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""Dheweke nek nari kaya robot diuripake bateraine"" implies that the person is very energetic or moves steadily like a robot powered by batteries. Therefore, the option 0) Dheweke nek nari luwes (very energetic) is the closest meaning to the metaphor.",0,,0
+Dheweke mlumpat kaya kelinci,Dheweke mlumpat dhuwur banget,Dheweke mlumpat cendhek,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Dheweke mlumpat kaya kelinci"" implies that the person is jumping very high like a rabbit. Option 0) ""Dheweke mlumpat dhuwur banget"" means jumping very high, which is the closest meaning to the metaphor. Option 1) ""Dheweke mlumpat cendhek"" means jumping lightly, which is not as close to the metaphor.",0,,0
+Awake kaya inti bumi,Awake panas,Awake adem,0,"{
+  ""answer"": 1
+}
+
+The metaphor ""Awake kaya inti bumi"" is closest in meaning to Option 1) Awake adem. This is because ""inti bumi"" refers to the core of the earth, which is typically associated with coolness and solidity. So, being ""awake kaya inti bumi"" suggests being calm, composed, and grounded, similar to the coolness and stability of the earth's core.",1,,0
+Perasaane wong lanang iku dijodohne tonggone dewe kaya ketiban ondo,Perasaane bungah,Perasaane susah,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, the feeling of a man being paired with his own soul is likened to being hit by a wave. This conveys the idea of being overwhelmed or deeply affected, which is better represented by the option ""Perasaane bungah"" (feeling of being overwhelmed with happiness), rather than ""Perasaane susah"" (feeling of difficulty or hardship).",0,,0
+Kamare mas Andi kaya kandang kewan,Kamare mas Andi kemproh,Kamare mas Andi resikan,0,"{
+  ""question"": ""Kamare mas Andi kaya kandang kewan"",
+  ""options"": {
+    ""0"": ""Kamare mas Andi kemproh"",
+    ""1"": ""Kamare mas Andi resikan""
+  },
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Kamare mas Andi kaya kandang kewan"" implies that Kamare mas Andi is very busy and has a lot of responsibilities, similar to how a rich man would have a lot of animals in his barn. The option ""Kamare mas Andi resikan"" means to have a lot of tasks or duties, which closely relates to the metaphor. Option 0 is not",1,,0
+Semangate urip wong kuwi ibarat terus ngibadah ngiro urip muk sampe sesok,Semangate mempeng,Semangate kesed,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor compares living to continuously worshipping until the end of life, which implies perseverance and dedication rather than simply being influenced or affected. Thus, the closest meaning is ""Semangate kesed"" which signifies perseverance and dedication.",1,,0
+Semangate urip wong kuwi ibarat enthong mlungker ndek njero godhong gedhang,Semangate mempeng,Semangate kesed,1,"{
+  ""explanation"": ""The metaphor comparing someone's enthusiasm in life to a fire burning brightly inside them is similar to the meaning of 'Semangate mempeng'. This option conveys the idea of someone being full of life and energy, like a strong flame."",
+  ""answer"": 0
+}",0,,0
+Wong lanang iku nemui bapake pacare kaya Petruk,Wong lanang iku nemui bapake pacare kendhel,Wong lanang iku nemui bapake pacare jireh,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, the comparison is made between a father and Petruk, a character known for his foolishness in Javanese folklore. Petruk is often depicted as naive and easily tricked. Therefore, the meaning that is closest to the metaphor would be ""Wong lanang iku nemui bapake pacare kendhel"" where kendhel means foolish or easily tricked, similar to Petruk.",0,,0
+Bondone wong tuane ibarat muk klambi lan kathok ndek awak,sugih,mlarat,1,"{
+  ""answer"": 0
+} 
+
+The metaphor is comparing the relationship between Bondone and his clothes to the wealth or prosperity level. When someone's clothes fit well and compliment their body, it is often seen as a sign of wealth or prosperity. Therefore, the closest meaning would be ""sugih"" which means rich or prosperous.",0,,0
+Bocah-bocah kuwi polahe kaya wong manten disandingne,Bocah-bocah kuwi polahe antheng,Bocah-bocah kuwi polahe ronggeh,0,"{
+  ""answer"": 1,
+  ""explanation"": ""The metaphor comparing children to newlyweds indicates that the children are behaving or looking similar to a married couple, suggesting that they are acting mature or responsible like adults. 'Ronggeh' here means elegant or dignified, which fits the context of the metaphor.""
+}",1,,0
+Banyune jeding kaya banyu kopi,Banyune jeding bening,Banyune jeding buthek,1,"{
+  ""answer"": 0
+}
+Explanation: The metaphor compares the clarity of the water to the clarity of coffee. In this case, ""bening"" means clear, which is more closely related to the clarity of water. ""Buthek"" means murky or dirty, which is the opposite of what the metaphor is trying to convey.",0,,0
+Atine Ani seperti ambane gang,Atine Ani jembar,Atine Ani ciyut,1,"{
+	""Question1"": {
+		""Startphrase"": ""Atine Ani seperti ambane gang"",
+		""Option0"": ""Atine Ani jembar"",
+		""Option1"": ""Atine Ani ciyut"",
+		""Meaning"": ""Atine Ani is brave and strong"",
+		""Answer"": 0
+	}
+} 
+
+Explanation: The metaphor ""Atine Ani seperti ambane gang"" implies that Atine Ani is like a strong bamboo. Comparing someone to a sturdy and resilient material typically indicates that they are brave and strong. So, the closest meaning is ""Atine Ani jembar"" which means Atine Ani is brave.",0,,0
+Budheku wonge ibarat blonjo susuk seked ripis mesti dijaluk maneh,Budheku wonge cethil,Budheku wonge lumo,0,"{
+  ""explanation"": ""The metaphor is comparing the process of organizing scattered items to straightening out wrinkles, so the closest meaning is 'Budheku wonge lumo' which means 'the scattered items need to be organized' in Javanese."",
+  ""answer"": 1
+}",1,,0
+Budheku wonge ibarat wong seng ra eman bondho seneng ngekei wong-wong ra nduwe,Budheku wonge cethil,Budheku wonge lumo,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Budheku wonge ibarat wong seng ra eman bondho seneng ngekei wong-wong ra nduwe"" compares someone to a tree that does not bear fruit, meaning someone who does not contribute positively to society. The option ""Budheku wonge cethil"" best represents this idea as ""cethil"" means barren or unproductive.",0,,0
+Nek nduwe cita-cita sakduwur cagak listrik,Nek nduwe cita-cita duwur banget,Nek nduwe cita-cita ora duwur ( biasa-biasa ae,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Nek nduwe cita-cita sakduwur cagak listrik"" implies having high aspirations or ambitions that are electrifying or exciting. Option 0) ""Nek nduwe cita-cita duwur banget"" closely reflects the metaphor as it suggests having very high aspirations. Option 1) ""Nek nduwe cita-cita ora duwur ( biasa-biasa ae)"" does not capture the intensity or excitement conveyed by the metaphor.",0,,0
+Lemari neng njero omahe sakgede kerdus mie,Lemari neng njero omahe gedhi,Lemari neng njero omahe cilik,1,"{
+  ""answer"": 0
+}
+
+Explanation: Lemari neng njero omahe sakgede kerdus mie means ""the wardrobe in my house is big with many drawers."" The metaphor here is comparing the wardrobe to the whole house, implying that the wardrobe is a significant and important part of the house. Option 0) Lemari neng njero omahe gedhi (the wardrobe in my house is big) is the closest meaning to this metaphor.",0,,0
+Soale ujian dikerjakne ibarat ditingal merem entuk satus,Soale ujian gampang,Soale ujian angel,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor compares doing an exam to falling asleep and missing a turn. This implies that the exam questions are tricky and require full attention, similar to when driving and needing to be alert to avoid missing a turn. Therefore, the closest meaning is ""Soale ujian angel"" which means the exam questions are not easy and require focus.",1,,0
+Irunge dicantoli koco moto mlorot terus,Irunge bangir,Irunge pesek,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, ""Irunge dicantoli koco moto mlorot terus"" implies a long and winding journey or path. Option 0) Irunge bangir fits this meaning as ""bangir"" can be interpreted as long and spacious, similar to a journey or path. Option 1) Irunge pesek means short, which does not align with the metaphor of a long and winding path.",0,,0
+Awake gedhine sakdrum,Awake lemu,Awake kuru,0,"{
+  ""question"": ""Awake gedhine sakdrum"",
+  ""option0"": ""Awake lemu"",
+  ""option1"": ""Awake kuru"",
+  ""explanation"": ""In this metaphor, 'gedhine sakdrum' signifies being fully alert and aware. 'Lemu' means calm or peaceful, which doesn't fit the context of the metaphor. 'Kuru' means strong or powerful, which aligns better with being awake and alert."",
+  ""answer"": 1
+}",1,,0
+Awake gedhine sak cagak omah,Awake lemu,Awake kuru,1,"{
+  ""Explanation"": ""In this metaphor, the phrase 'Awake gedhine sak cagak omah' is referring to being fully conscious and aware."",
+  ""Answer"": 0
+}",0,,0
+Bocah kuwi nek enek wong anyar kaya wani maju kenalan dewe,Bocah kuwi saen,Bocah kuwi isinan,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor ""Bocah kuwi nek enek wong anyar kaya wani maju kenalan dewe"" is comparing a child encountering someone new to a brave explorer venturing forward to introduce themselves. The closest meaning among the options is ""Bocah kuwi isinan,"" which translates to ""the child is brave.""",1,,0
+Bocah kuwi nek enek wong anyar kaya ndelik ra wani metu,Bocah kuwi saen,Bocah kuwi isinan,1,"{
+  ""Explanation"": ""The metaphor is comparing the child to a turtle that is shy and reluctant to come out of its shell. In this context, 'wani metu' means hesitant or unwilling to come out."",
+  ""Answer"": 0
+}",0,,0
+Awake kaya wong loro,Awake kuat,Awake ringkeh,1,"{
+  ""answer"": 0,
+  ""explanation"": ""In this metaphor, 'awake kaya wong loro' means being strong and aware like a parrot. Parrots are known for their strength and awareness, so the closest meaning would be 'awake kuat' (awake strong).""
+}",0,,0
+Hawane saiki kaya gae jaket rangkep limo,Hawane saiki sumuk,Hawane saiki isis,0,"{
+  ""question"": ""Hawane saiki kaya gae jaket rangkep limo"",
+  ""options"": {
+    ""0"": ""Hawane saiki sumuk"",
+    ""1"": ""Hawane saiki isis""
+  },
+  ""answer"": 1
+} 
+
+Explanation: The metaphor in the sentence describes someone wearing a rainbow-colored jacket that attracts attention, representing a person who stands out or is eye-catching. ""Hawane saiki isis"" closely relates to this meaning as ""isis"" can imply drawing attention or being noticeable.",1,,0
+Warnane rambute kaya kembang jambu,Warna rambute putih,Warna rambute ireng,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Warnane rambute kaya kembang jambu"" compares the color of the hair to a ripe guava flower. Since a ripe guava flower is typically a dark red or pink color, the option ""Warna rambute ireng"" which means black hair is closer in color than ""Warna rambute putih"" which means white hair.",1,,0
+Bapake kaya wong ra nduwe penggawean,Bapake sibuk banget,Bapake ora sibuk,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares the father to someone who doesn't have a job, implying that the father is very busy with work. Therefore, the closest meaning is ""Bapake sibuk banget"" (Option 0).",0,,0
+Kerjane kaya jam kentekkan baterai,Kerjane kuat,Kerjane lemah,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Kerjane kaya jam kentekkan baterai"" implies that the work is draining the battery quickly, indicating that the work is strong or intense. This is closer in meaning to option 0) Kerjane kuat (strong).",0,,0
+Awake dewe kaya kucing karo asu.,Awake dewe sering bareng,Awake dewe tukaran,1,"{
+  ""Question1"": {
+    ""Metaphor"": ""Awake dewe kaya kucing karo asu."",
+    ""Option0"": ""Awake dewe sering bareng"",
+    ""Option1"": ""Awake dewe tukaran"",
+    ""Answer"": 0
+  }
+} 
+
+Explanation: The metaphor ""Awake dewe kaya kucing karo asu"" compares someone being awake to being with both a cat and a dog. This implies being awake with both elements, similar to being awake with both a cat and a dog. Therefore, the closest meaning is ""Awake dewe sering bareng"" which means being awake together.",0,,0
+Guyunanne kaya ghodhong wes kuning,Guyonane lucu,Guyonane garing,1,"{
+  ""question"": ""Guyunanne kaya ghodhong wes kuning"",
+  ""options"": {
+    ""0"": ""Guyonane lucu"",
+    ""1"": ""Guyonane garing""
+  },
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Guyunanne kaya ghodhong wes kuning"" compares the situation to a banana that has turned ripe, indicating that the situation is funny or amusing. Therefore, the option ""Guyonane lucu"" (funny) is the closest meaning. 
+
+Answer: 0",0,,0
+Pas wonge milih lungo soko uripku rasane kaya entuk duwit 100 milyar,Pas wonge milih lungo soko uripku rasane susah,Pas wonge milih lungo soko uripku rasane bungah,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares choosing between the feeling of life being difficult or blooming like obtaining 100 billion dollars. Option 0) Pas wonge milih lungo soko uripku rasane susah (Pas chosen to feel my life is difficult) is closer in meaning to the metaphor as it contrasts the challenges of life with the wealth of money.",0,,0
+Senyume kaya pencit,Senyumane manis,Senyumane kecut,1,"{
+  ""answer"": 0
+}  
+
+Explanation: The metaphor is comparing someone to a sweet smile. ""Senyumane manis"" means sweet smile in Indonesian, which is closest to the metaphor.",0,,0
+Suarane pak Budi kaya singo ngaum ndek jero alas,Suarane pak Budi medeni,Suarane pak Budi alus,0,"{
+  ""answer"": 1,
+  ""explanation"": ""The metaphor comparing pak Budi's voice to a roaring lion in the forest implies that his voice is loud and powerful, similar to the loud and powerful roar of a lion. Therefore, 'Suarane pak Budi alus' (gentle) would be the closest meaning as it contrasts with the loud and powerful nature of a lion's roar.""
+}",1,,0
+Keteguhane ngadepi kenyataan kaya krupuk,Keteguhane ngadepi kenyataan kuat,Keteguhane ngadepi kenyataan rapuh,1,"{
+  ""explanation"": ""Krupuk is a crunchy snack that is fragile and brittle, so the metaphor suggests that facing reality requires strength rather than fragility."",
+  ""answer"": 0
+}",0,,0
+Jidate kaya kulit kacang seng mengkeret,Jidate ombo,Jidate ciut,1,"{
+  ""question"": ""Jidate kaya kulit kacang seng mengkeret"",
+  ""options"": [
+    {
+      ""option"": ""Jidate ombo"",
+      ""meaning"": ""someone who is strong and resilient""
+    },
+    {
+      ""option"": ""Jidate ciut"",
+      ""meaning"": ""someone who is weak and easily intimidated""
+    }
+  ],
+  ""answer"": 0
+}
+
+In this metaphor, ""Jidate kaya kulit kacang seng mengkeret"" translates to ""someone as tough as the tight skin of a roasted peanut"". The closest meaning would be ""Jidate ombo"", which refers to someone who is strong and resilient as",0,,0
+Ganang yen nesu kaya macan ngamuk,Ganang yen nesu ngamuk bengok-bengok,Ganang yen nesu meneng ae,0,"{
+  ""question"": ""Ganang yen nesu kaya macan ngamuk"",
+  ""option_selected"": 1,
+  ""explanation"": ""The metaphor implies that the situation is intense or chaotic like a fierce tiger, which aligns more closely with the meaning of 'Ganang yen nesu meneng ae' (Ganang yen nesu feeling intense)."",
+  ""answer_output"": 1
+}",1,,0
+Ganang yen nesu kaya patung,Ganang yen nesu ngamuk bengok-bengok,Ganang yen nesu meneng ae,1,"{
+  ""question"": ""Ganang yen nesu kaya patung"",
+  ""option_selected"": 0,
+  ""explanation"": ""The metaphor here suggests that the situation is stagnant or not progressing, which aligns more closely with option 0 'Ganang yen nesu ngamuk bengok-bengok' meaning standing still."",
+  ""output"": {
+    ""option"": ""0""
+  }
+}",0,,0
+Wedhange kaya kolak gedhang,Wedhange pahit,Wedhange manis,1,"{
+  ""Question1"": {
+    ""Metaphor"": ""Wedhange kaya kolak gedhang"",
+    ""Option0"": ""Wedhange pahit"",
+    ""Option1"": ""Wedhange manis"",
+    ""Explanation"": ""Kaya kolak gedhang refers to being rich like a banana dessert, which is sweet. Therefore, the closest meaning is Wedhange manis."",
+    ""Answer"": 1
+  }
+}",0,,0
+Awake kaya kripik,Awake kuat,Awake ringkih,1,"{
+  ""question"": ""Awake kaya kripik"",
+  ""option_index"": 0
+}
+
+Explanation: In this metaphor, comparing being awake to a strong and crispy snack like chips suggests that the person is quite alert and energized, similar to how chips are crispy and full of flavor when fresh. Option 0) Awake kuat aligns with being alert and strong.",0,,0

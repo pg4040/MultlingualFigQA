@@ -1,0 +1,1100 @@
+Start Phrase,Ending 1,Ending 2,Labels,Response,answer,not_generated,match
+Nyalinya seperti anak kecil yang tersesat.,Dia penakut.,Dia pemberani.,0,"{
+  ""answer"": 1
+}",1,,0
+Suara Sari dapat mengalahkan suara ombak.,Suara Sari sangat kencang.,Suara Sari sangat pelan.,0,"{
+  ""answer"": 1
+} 
+
+In this metaphor, ""Suara Sari dapat mengalahkan suara ombak"" means that Suara Sari is very soft and soothing, like the sound of gentle waves. This is similar to the meaning of option 1) Suara Sari sangat pelan.",1,,0
+Pekerjaan ayah semudah memasukkan benang ke dalam jarum.,Pekerjaan ayah sangat mudah.,Pekerjaan ayah sangat sulit.,1,"{
+  ""Explanation"": ""The metaphor compares the ease of the father's work to threading a needle, implying that his job is very easy."",
+  ""Answer"": 0
+}",0,,0
+Siswa SD itu membawa tas layaknya orang yang akan pergi ke mal.,Tasnya besar.,Tasnya kecil.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor compares the elementary school student's bag to someone going to the mall, implying that the bag is big and filled with items just like how someone would bring a big bag when going to the mall for shopping. Hence, the correct option is 0) Tasnya besar.",0,,0
+Dia melahap makanan seolah habis menghadiri tiga kondangan.,Dia sangat lapar.,Dia sangat kenyang.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor describes someone eating as if they had been to three weddings, which implies that they are very hungry and eating a lot. Therefore, the closest meaning is option 0) Dia sangat lapar.",0,,0
+Dia menjalani hidup bak singa di kebun binatang.,Hidupnya bebas.,Hidupnya terkekang.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""menjalani hidup bak singa di kebun binatang"" suggests that the person's life is like a lion living in a zoo. Lions in the zoo are confined and their freedom is restricted, therefore the closest meaning would be ""Hidupnya terkekang"" (Option 1).",0,,0
+Adik menginginkan rambut seperti dora.,Adik ingin memiliki rambut pendek.,Adik ingin memiliki rambut panjang.,0,"{
+  ""answer"": 1
+}
+
+Explanation: Dora merupakan karakter fiksi dengan rambut panjang yang terkenal. Jadi, jika adik menginginkan rambut seperti dora, bisa diartikan bahwa adik ingin memiliki rambut panjang.",1,,0
+Curhatannya sepanjang iklan badut di jalanan.,Ceritanya panjang.,Ceritanya pendek.,1,"{
+  ""Explanation"": ""The metaphor compares the length of someone's complaints with the length of a street clown's advertising, implying that the complaints are long-winded."",
+  ""Answer"": 0
+}",0,,0
+Tulisan tangannya bak tulisan dokter.,Tulisannya berantakan.,Tulisannya rapi.,0,"{
+  ""answer"": 1
+} 
+
+In this metaphor, ""Tulisan tangannya bak tulisan dokter"" means the handwriting is neat and clear like a doctor's handwriting, which is notoriously known for being difficult to read. Therefore, the closest meaning would be option 1) Tulisannya rapi (neat).",1,,0
+Memintanya membereskan kamar sama seperti berbincang dengan google assistant.,Perintah itu mustahil dilakukan.,Perintah itu selalu dilakukan.,1,"{
+  ""answer"": 0
+}",0,,0
+Dia menyelesaikan pekerjaannya secepat mengurus paspor yang hilang.,Dia bekerja dengan cekatan.,Dia bekerja dengan lambat.,1,"{
+  ""answer"": 0
+}
+
+The metaphor in the startphrase compares the speed of completing work to the quickness of handling a lost passport, which typically requires efficiency and quick action. Therefore, the closest meaning is option 0) Dia bekerja dengan cekatan (He works quickly and efficiently).",0,,0
+"Saat aku terpuruk, dia berlagak layaknya fans yang mendukung idolanya.",Dia peduli.,Dia tidak peduli.,0,"{
+  ""answer"": 1
+}",1,,0
+"Menurutnya, merantau adalah perang yang tak berujung.","Menurutnya, merantau itu mendebarkan.","Menurutnya, merantau itu menyesakkan.",1,"{
+  ""answer"": 0
+}  
+
+Explanation: In this metaphor, the speaker is comparing ""merantau"" to an endless war. War is associated with excitement, challenges, and adventures, much like the experience of ""merantau."" Option 0) ""Menurutnya, merantau itu mendebarkan."" is the closest meaning as it captures the sense of excitement and exhilaration implied in the metaphor.",0,,0
+Rara berpakaian seolah akan mengambil paket di depan rumah.,Rara tampak rapi.,Rara tampak lusuh.,1,"{
+  ""Explanation"": ""The metaphor compares Rara's appearance to someone who is about to pick up a package, emphasizing the neat and put-together look."",
+  ""Answer"": 0
+}",0,,0
+Tanggung jawab Dian seringan menggendong satu keluarga besar.,Tanggung jawabnya berat.,Tanggung jawabnya ringan.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor ""menggendong satu keluarga besar"" implies that Dian's responsibility feels light and manageable, similar to carrying a large family with ease. This means that the closest meaning to the metaphor is option 1) Tanggung jawabnya ringan (Her responsibility is light).",1,,0
+Jarak rumah ke sekolahnya sejauh rumah tetangga.,Sekolahnya jauh.,Sekolahnya dekat.,1,"{
+""Answer"": 0,
+""Explanation"": ""The metaphor is comparing the distance from the house to school with the distance from the house to the neighbor's house. Since the neighbor's house is close, the implication is that the school is also close.""
+}",0,,0
+Murid SMP itu setinggi pohon taoge.,Badan murid SMP itu tinggi.,Badan murid SMP itu pendek.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Murid SMP itu setinggi pohon taoge"" compares the student's height to a bean sprout. In this case, it means that the student is short, similar to how a bean sprout is tall yet thin. Therefore, the closest meaning is option 1) Badan murid SMP itu pendek.",0,,0
+Dia berlagak seperti anak ayam yang baru menetas.,Dia bersikap seenaknya.,Dia bersikap hati-hati.,1,"{
+  ""answer"": 0
+}
+
+In this metaphor, ""Dia berlagak seperti anak ayam yang baru menetas."" is comparing someone's behavior to a newly-hatched chick. Chicks are known to act independently and confidently, hence the meaning closest to the metaphor would be ""Dia bersikap seenaknya"" which means ""He behaves as he pleases.""",0,,0
+Mengobrol dengannya terasa seperti melakukan perjalanan ke bulan.,"Bersamanya, waktu berlalu dengan cepat.","Bersamanya, waktu berlalu dengan lambat.",1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Mengobrol dengannya terasa seperti melakukan perjalanan ke bulan."" suggests that talking to the person feels like a journey to the moon, which implies that time passes quickly when you are with them. So, the option ""Bersamanya, waktu berlalu dengan cepat."" is the closest meaning to the metaphor.",0,,0
+Adik berlaku bak akan mengurus pinjaman di bank.,Adik sangat mandiri.,Adik sangat manja.,0,"{
+	""answer"": 1
+}
+
+The metaphor ""Adik berlaku bak akan mengurus pinjaman di bank"" suggests that the younger sibling is behaving like they are going to handle a loan at the bank, which implies that the younger sibling is very dependent and needy, similar to how someone might need help or guidance when applying for a loan. Therefore, the closest meaning is ""Adik sangat manja"" (1).",1,,0
+Nilai matematikanya setinggi mata kaki.,Nilai matematikanya jelek.,Nilai matematikanya bagus.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Nilai matematikanya setinggi mata kaki"" compares the high value of the mathematical scores to the height of the feet, implying that the mathematical scores are good or high. So, the closest meaning to the metaphor is ""Nilai matematikanya bagus"" which means the mathematical scores are good.",1,,0
+"Seperti membelah bolu, kerja di institusi kepolisian Indonesia.",Kerja menjadi Polisi di Indonesia itu beresiko.,Kerja menjadi Polisi di Indonesia itu mudah.,1,"{
+  ""Explanation"": ""Membelah bolu adalah tugas yang rumit dan memerlukan ketelitian sehingga bisa diinterpretasikan bahwa kerja di institusi kepolisian Indonesia memiliki risiko dan kompleksitas yang tinggi."",
+  ""Answer"": 0
+}",0,,0
+Semangatnya begitu keras bagaikan tahu.,Semangat yang keras.,Semangat yang lembek.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares someone's spirit to a firm tofu, emphasizing how strong and resilient it is. Therefore, the closer meaning to the metaphor is option 0) Semangat yang keras (Strong spirit).",0,,0
+Anak-anak berderet bak ayam berjalan.,Barisannya beraturan.,Barisannya tidak beraturan.,1,"{
+	""answer"": 0
+} 
+
+The metaphor ""Anak-anak berderet bak ayam berjalan"" compares children walking in a line to chickens walking in a row. Chickens walking in a row usually walk in a straight line, hence the closest meaning would be ""barisannya beraturan"" (option 0).",0,,0
+Bangunan lama tersebut berdiri bak nyiur di tepi pantai.,Bangunannya kokoh.,Bangunannya tidak kokoh.,1,"{
+	""answer"": 0
+} 
+
+The metaphor ""Bangunan lama tersebut berdiri bak nyiur di tepi pantai"" compares the old building to a coconut tree standing sturdy by the beach. This suggests that the building is strong and sturdy, similar to how a coconut tree is firmly rooted by the beach. Therefore, the meaning closest to the metaphor is Option 0) Bangunannya kokoh.",0,,0
+"Dengan perawatan mahal, kulit Rika selembut pasir.",Kulit RIka lembut.,Kulit RIka kasar.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""kulit Rika selembut pasir"" suggests that Rika's skin is as soft as sand. Since sand is known to be soft and smooth, the meaning closest to the metaphor would be option 0) Kulit Rika lembut.",0,,0
+"Lebaran kali ini, Jakarta seramai masjid di pelosok desa.",Jakarta ramai.,Jakarta sepi.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares Jakarta to a bustling mosque in a village, implying that Jakarta is crowded or lively. Therefore, the correct option is ""Jakarta ramai"" which means Jakarta is lively.",0,,0
+Cahaya lampu kota ini apabila malam seperti kunang-kunang di siang hari.,Kota tersebut penuh cahaya.,Kota tersebut tidak terlihat cahayanya.,1,"{
+  ""Explanation"": ""The metaphor is comparing the brightness of the city lights at night to fireflies in the daytime, indicating that the city is very well-lit at night."",
+  ""Answer"": 0
+}",0,,0
+Guru Dita kesabarannya seluas empang.,Guru Dita sangat sabar.,Guru Dita tidak sabaran.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""kesabarannya seluas empang"" is meant to emphasize Guru Dita's vast patience, not the lack of patience. Option 0, ""Guru Dita sangat sabar,"" is the closest meaning to the metaphor.",0,,0
+Sepatuku harum seperi tong sampah.,Sepatunya harum.,Sepatunya bau.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Sepatuku harum seperti tong sampah"" implies that the shoes (sepatu) are smelling good like a trash can (tong sampah), so the correct meaning would be that the shoes smell good (Sepatunya harum).",0,,0
+Pernikahan mereka layaknya Popeye & Olive.,Pernikahan yang romantis.,Pernikahan yang penuh pertengkaran.,0,"{
+  ""answer"": 1
+}
+
+This metaphor compares their marriage to Popeye and Olive, who are known for their constant bickering and arguments in the cartoon series. Therefore, the closest meaning to the metaphor would be ""Pernikahan yang penuh pertengkaran"" (Marriage full of arguments).",1,,0
+Wajahku dan adikku ibarat bumi & langit.,Wajah adik kakak yang sangat berbeda.,Wajah adik kakak yang sangat mirip.,0,"{
+  ""question"": ""Wajahku dan adikku ibarat bumi & langit."",
+  ""option_selected"": 1,
+  ""explanation"": ""The metaphor 'Wajahku dan adikku ibarat bumi & langit' suggests that the two faces (wajah) are very different, just like the earth (bumi) and the sky (langit) are different. It doesn't indicate similarity, but rather contrast."",
+  ""output"": 1
+}",1,,0
+Wajahku dan adikku ibarat pinang di belah dua.,Wajah adik kakak yang sangat berbeda.,Wajah adik kakak yang sangat mirip.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor 'Wajahku dan adikku ibarat pinang di belah dua' compares the faces of the speaker and their sibling to a 'pinang' that is split in half. This metaphor suggests that the faces of the speaker and their sibling are very different, as splitting a pinang in half results in two distinct parts.""
+}",0,,0
+Jangan bertindak seperti orang berpelesir.,Tindakan yang penuh gelisah.,Tindakan yang terlalu santai.,1,"{
+  ""answer"": 0
+}  
+
+The metaphor ""Jangan bertindak seperti orang berpelesir"" implies that one should not act in a carefree or leisurely manner, which is closer in meaning to option 0) Tindakan yang penuh gelisah (acting in a restless manner).",0,,0
+Temanku tingkahnya serasa dirinya pemilik dapur tidak berasap.,Temannya bertingkah layaknya orang kaya.,Temannya bertingkah layaknya orang miskin.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""pemilik dapur tidak berasap"" refers to someone who acts as if they are in charge or wealthy. Therefore, the option ""0) Temannya bertingkah layaknya orang kaya."" is the closest meaning to the metaphor.",0,,0
+Semoga rumahmu nanti sebesar kotak sepatu.,Rumah yang besar.,Rumah yang kecil.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Semoga rumahmu nanti sebesar kotak sepatu"" is comparing the size of the house to a shoebox. In this case, the intention is to wish for a big house, as shoeboxes are usually small in size. Therefore, the closest meaning to the metaphor is ""Rumah yang besar"" (Option 0).",0,,0
+"Seperti air menenang, karirku sekarang.",Karir yang diam ditempat.,Karir yang bergerak mengikuti arus yang seharusnya.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""Seperti air menenang, karirku sekarang"" can be interpreted as ""Karir yang bergerak mengikuti arus yang seharusnya"" because just like calm water flowing smoothly, a career that is currently following the right path and progressing smoothly. Option 1 reflects this meaning better than option 0.",1,,0
+"Walau masih mahasiswa, tapi hari-harinya macam karyawan kena phk.",Hari-harinya sibuk.,Hari-harinya tidak sibuk.,1,"{
+  ""Answer"": 0
+}
+
+Explanation: The metaphor is comparing the student's daily routine to that of an employee who has just been laid off (PHK). In this context, being ""like an employee who has just been laid off"" implies that the student's days are busy and structured like that of a busy employee. Therefore, the closest meaning is option 0) Hari-harinya sibuk.",0,,0
+"Setiap lelaki itu bersuara, ucapannya bagaikan buaya darat.",Ucapannya penuh gombalan.,Ucapannya penuh nasihat.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares the man's words to a land crocodile, which typically represents someone who gives harsh or critical statements rather than sweet talk or compliments. Therefore, the closest meaning is that his words are full of advice or criticism.",1,,0
+"Seberat kapas, begitulah beban hidup Dani.",Bebah hidup Dani ringan.,Bebah hidup Dani berat.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Seberat kapas, begitulah beban hidup Dani"" implies that Dani's life is heavy, similar to how heavy cotton can be. Therefore, the closest meaning to the metaphor is ""Bebah hidup Dani berat"" which translates to ""Dani's life burden is heavy"". Hence, the correct option is 1) Bebah hidup Dani berat.",1,,0
+Nasihat ibu terkadang semanis jamu.,Nasihat ibu terkadang enak didengar.,Nasihat ibu terkadang tidak enak didengar.,1,"{
+""answer"": 0,
+""explanation"": ""The metaphor compares a mother's advice to a sweet herbal drink. This implies that a mother's advice is sometimes pleasant to listen to or easy to digest, similar to how a herbal drink like jamu can be sweet and enjoyable. Therefore, the closest meaning is option 0) Nasihat ibu terkadang enak didengar.""
+}",0,,0
+Buku koleksi adikku sebanyak bunga di musim gugur.,Bukunya banyak sekali.,Bukunya nyaris tidak ada.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor is comparing the collection of books to the abundance of flowers in autumn. Since autumn is known for having a lot of fallen leaves and flowers, it implies that the sibling has a lot of books in their collection. Hence, the option ""Bukunya banyak sekali"" is the closest meaning to the metaphor.",0,,0
+Sinta dan Mayang itu bagai pinang dibelah dua.,Sinta dan Mayang sangat mirip.,Sinta dan Mayang sangat berbeda.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor ""Sinta dan Mayang itu bagai pinang dibelah dua"" compares Sinta and Mayang to a betel nut that has been split into two. This implies that Sinta and Mayang are very different from each other, just like how a betel nut is split into two separate parts. Therefore, the closest meaning to the metaphor is option 1) Sinta dan Mayang sangat berbeda.",1,,0
+Aku seperti umbi-umbian di mata atasan.,Aku tidak berharga bagi atasan.,Aku berharga bagi atasan.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: In this metaphor, comparing oneself to a tuber (umbi-umbian) emphasizes the idea of being an essential or valuable part of something. Therefore, the closest meaning to the metaphor is ""Aku berharga bagi atasan"" (I am valuable to my superior).",1,,0
+Guru memberikan materi seolah masih ada hari esok.,Guru memberi materi sebanyak-banyaknya.,Guru memberi materi secukupnya.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Guru memberikan materi seolah masih ada hari esok"" implies that the Guru is giving the material as if there is no limit or shortage of it, similar to giving as much as possible, hence option 0 is the closest meaning to the metaphor.",0,,0
+Hari ini cuacanya seperti berada di di puncak gunung Bromo.,Cuaca hari ini sangat panas.,Cuaca hari ini sangat dingin.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""Hari ini cuacanya seperti berada di puncak gunung Bromo"" implies that the weather today is similar to being at the peak of Mount Bromo. Mount Bromo is known for its cold and misty weather, so the correct option would be ""Cuaca hari ini sangat dingin."" This means that the weather today is very cold.",0,,0
+Youtuber itu makan nasi padang seolah perutnya sudah penuh.,Youtuber itu makan nasi padang dengan porsi sedikit.,Youtuber itu makan nasi padang dengan porsi sangat banyak.,0,"{
+  ""explanation"": ""The metaphor compares the youtuber eating nasi padang as if their stomach is already full, implying that they are consuming a large amount of food."",
+  ""answer"": 1
+}",1,,0
+"Ketika Geisha menyanyi, dia seolah menghantui semua penonton.",Nyanyian Geisha memukau bagi penonton.,Nyanyian Geisha menjijikkan bagi penonton.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the singing of Geisha to haunting all the viewers. In this context, haunting implies that the singing captivates or mesmerizes the audience. Option 0) Nyanyian Geisha memukau bagi penonton (Geisha's singing captivates the audience) is the closest meaning to the metaphor.",0,,0
+Indonesia memiliki banyak destinasi wisata yang sudah terjamah.,Banyak destinasi wisata di Indonesia yang masih alami.,Banyak destinasi wisata di Indonesia yang sudah terekspos.,1,"{
+  ""Explanation"": ""The metaphor refers to Indonesia having many untouched natural tourist destinations."",
+  ""Answer"": 0
+}",0,,0
+Peran perempuan dalam adat Jawa bagaikan cat putih yang dipulaskan di atas tembok yang sudah berwarna putih.,Peran perempuan dalam adat Jawa sangat tidak punya pengaruh.,Peran perempuan dalam adat Jawa sangat berpengaruh.,0,"{
+  ""explanation"": ""Dalam metafora ini, cat putih yang dipulaskan di atas tembok yang sudah berwarna putih mencerminkan peran perempuan yang sangat berpengaruh dalam adat Jawa, meskipun mungkin terlihat seperti tidak punya pengaruh secara langsung."",
+  ""answer"": 1
+}",1,,0
+Beras miskin adalah simbol kemakmuran yang menyengkan bagi sebagian besar warga Indonesia.,Beras miskin adalah simbol kekayaan bagi sebagian besar warga Indonesia.,Beras miskin adalah simbol kemiskinan bagi sebagian besar warga Indonesia.,0,"{
+  ""Explanation"": ""The metaphor suggests that poor-quality rice represents poverty for most Indonesians."",
+  ""Answer"": 1
+}",1,,0
+Minum kopi saat senja itu seperti Adam dan Hawa yang diusir Tuhan dari surga.,Minum kopi saat senja itu rasanya melegakan.,Minum kopi saat senja itu rasanya membawa penyesalan.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor comparing drinking coffee at sunset to Adam and Eve being expelled from paradise suggests a feeling of relief or comfort, similar to the feeling of sipping a warm beverage in the calming evening atmosphere. Option 0) ""Minum kopi saat senja itu rasanya melegakan."" aligns with this interpretation.",0,,0
+Sepak bola bagi masyarakat Indonesia bagaikan robot gundam yang bebas untuk dimainkan dan disukai siapa saja.,Sepak bola adalah hal yang serius bagi masyarakat Indonesia.,Sepak bola adalah hal yang biasa saja bagi masyarakat Indonesia.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor is comparing soccer to a robot gundam that is free to be played and loved by anyone. This implies that soccer is something exciting, enjoyable, and beloved by the Indonesian people. Option 0) ""Sepak bola adalah hal yang serius bagi masyarakat Indonesia."" best reflects this interpretation, as it suggests that soccer holds a significant and important place in the hearts of Indonesians.",0,,0
+Bola yang ditendang Bambang Pamungkas itu melesat bagai lemparan sehelai bulu ayam ke udara.,Bola yang ditendang oleh Bambang Pamungkas melesat dengan sangat cepat.,Bola yang ditendang oleh Bambang Pamungkas melesat dengan sangat lemah.,1,"{
+  ""answer"": 0
+}
+
+The metaphor compares the speed and lightness of the ball kicked by Bambang Pamungkas to a feather floating in the air. Since feathers are known to be extremely light and delicate, the most appropriate meaning would be that the ball kicked by him is moving very quickly, similar to a feather being thrown up in the air. Therefore, option 0 is the correct answer.",0,,0
+Tema baju lebaran keluargaku di tahun ini adalah warna hijau seperti lumut yang tumbuh di permukaan lembab.,Warna baju lebaran keluargaku di tahun ini adalah hijau muda.,Warna baju lebaran keluargaku di tahun ini adalah hijau tua.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, the color green like moss growing on a damp surface is used to describe the color of the family's Eid outfit. Moss is typically a lighter shade of green, so the closest meaning would be option 0) Warna baju lebaran keluargaku di tahun ini adalah hijau muda (light green).",0,,0
+Kata-katanya saat mewawancarai narasumber seperti gunting kuku.,Kata-katanya saat mewawancarai narasumber sangat tajam sehingga membuat gugup narasumber.,Kata-katanya saat mewawancarai narasumber sangat biasa saja sehingga membuat narasumber tenang-tenang saja.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""gunting kuku"" refers to something sharp and potentially uncomfortable, which closely aligns with option 0) Kata-katanya saat mewawancarai narasumber sangat tajam sehingga membuat gugup narasumber. This option implies that the interviewer's words are sharp and cutting, causing unease for the interviewee.",0,,0
+Kepercayaan itu ibarat gelas plastik.,Kepercayaan itu jangan dirusak karena kalau sudah pecah tidak dapat disusun kembali.,"Kepercayaan itu sekalipun berkali-kali dibanting, dia tidak akan rusak.",1,"{
+  ""Explanation"": ""The metaphor compares trust to a plastic cup, implying that once trust is broken, it cannot be easily repaired."",
+  ""Answer"": 0
+}",0,,0
+Siang hari minum es cendol dawet ibarat air yang baru mendidih dari panci.,Minum es cendol dawet di siang hari itu sangat menyegarkan.,Minum es cendol dawet di siang hari itu sangat membuat panas dalam organ.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares drinking es cendol dawet in the afternoon to drinking hot water freshly boiled from a pot, indicating that it is very refreshing and rejuvenating. Option 0) reflects this meaning by stating that drinking es cendol dawet in the afternoon is very refreshing.",0,,0
+Malam ini cuacanya bagaikan berdiam di dalam kelas sekolah negeri yang minim ventilasi dan fasilitas seperti kipas angin.,Malam ini cuaca begitu dingin.,Malam ini cuaca begitu panas.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor describes the weather at night to be similar to being inside a poorly ventilated public school classroom with no cooling fan, which implies that it is very cold. Therefore, the option ""0) Malam ini cuaca begitu dingin."" is the closest meaning to the metaphor.",0,,0
+Sopan santun itu ibarat keset bagi orang Jawa. .,Sopan santun itu wajib dikenakan agar kehormatan terjaga bagi orang Jawa.,Sopan santun itu boleh diabaikan bagi orang Jawa.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing good manners and politeness to a doormat, suggesting that it is necessary to maintain honor and respect for the Javanese culture. Option 0) reflects the idea that good manners should be upheld to preserve the dignity and values of the Javanese people.",0,,0
+Bekerjalah seakan alam dan seisinya masih bisa memenuhi kebutuhanmu.,Bekerjalah dengan keras.,Bekerjalah dengan biasa-biasa saja.,1,"{
+  ""answer"": 0
+}
+
+In this metaphor, ""Bekerjalah seakan alam dan seisinya masih bisa memenuhi kebutuhanmu,"" the comparison is made between working as if nature and its contents can still fulfill your needs. This suggests working diligently and responsibly, similar to how nature provides for us abundantly. Therefore, the closest meaning is option 0) Bekerjalah dengan keras (Work hard).",0,,0
+"Selepas acara aqiqah, kepala keponakan bayiku ini menjadi seperti buah rambutan yang masih muda.","Setelah acara aqiqah, kepala keponakanku jadi plontos.","Setelah acara aqiqah, kepala keponakanku jadi jabrik.",1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, the comparison is made between the head of the nephew and a young rambutan fruit. Rambutan fruit is known for its spiky appearance when young, similar to a newly shaved or bald head. Therefore, the option ""Setelah acara aqiqah, kepala keponakanku jadi plontos."" (After the aqiqah event, my nephew's head became bald.) is the closest meaning to the metaphor.",0,,0
+"Makanan khas Sunda, yaitu seblak kian naik daun karena rasanya yang ibarat pahit-pahit sambilata.","Seblak, makanan khas Sunda, semakin terkenal karena cita rasanya yang membuat ketagihan.","Seblak, makanan khas Sunda, semakin terkenal karena cita rasanya yang membuat kapok.",1,"{
+  ""answer"": 0,
+  ""explanation"": ""Seblak, makanan khas Sunda, semakin terkenal karena cita rasanya yang membuat ketagihan. Ini karena seblak diibaratkan seperti pahit-pahit sambilata, yang membuat orang ingin mencicipi lagi dan lagi.""
+}",0,,0
+Kebakaran hutan kemarin sore bagai nyala lampu minyak yang sumbunya hampir habis terbakar.,Kebakaran hutan kemarin sore terjadi dengan sangat berkobar-kobar.,Kebakaran hutan kemarin sore terjadi dengan sangat redup.,1,"{
+  ""explanation"": ""The metaphor compares the forest fire to the light of an oil lamp that is almost extinguished, implying that the forest fire was almost completely out of control and consumed everything in its path."",
+  ""answer"": 0
+}",0,,0
+"Bagi orang zaman dahulu, bersekolah itu ibarat juragan kontrakan 20 pintu yang tinggal ongkang-ongkang kaki menunggu uang sewa.","Bagi orang zaman dahulu, bersekolah itu penuh perjuangan.","Bagi orang zaman dahulu, bersekolah itu bersantai-santai saja.",1,"{
+  ""answer"": 0,
+  ""explanation"": ""In this metaphor, going to school is compared to being a landlord of a building with 20 rental units, which implies that there are many difficulties and challenges involved. Therefore, the meaning closest to the metaphor is 'Bersekolah itu penuh perjuangan.'""
+}",0,,0
+Program pemerintah Bantuan Langsung Tunai itu ibarat memberi ikan kepada rakyat.,Program Bantuan Langsung Tunai dari pemerintah ini dianggap percuma.,Program Bantuan Langsung Tunai dari pemerintah ini dianggap berguna.,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, ""Program pemerintah Bantuan Langsung Tunai itu ibarat memberi ikan kepada rakyat"" translates to ""The government's Direct Cash Assistance Program is like giving fish to the people."" Giving fish to the people is typically seen as helpful and beneficial, indicating that the intended meaning is Option 1: Program Bantuan Langsung Tunai dari pemerintah ini dianggap berguna (The government's Direct Cash Assistance Program is considered useful).",1,,0
+Perpisahan adalah tegukan air dingin di siang hari yang kerontang.,Perpisahan adalah hal yang menyakitkan.,Perpisahan adalah hal yang menyenangkan.,1,"{
+  ""explanation"": ""Perpisahan diibaratkan seperti tegukan air dingin di siang hari yang kerontang, yang lebih menggambarkan rasa sakit atau kesedihan ketika harus berpisah."",
+  ""answer"": 0
+}",0,,0
+Rezeki setelah menikah itu bagaikan musim paceklik dan kemarau yang melanda desa.,Rezeki setelah menikah itu melimpah.,Rezeki setelah menikah itu berkekurangan.,1,"{
+  ""answer"": 0
+} 
+
+This metaphor compares the abundance of blessings after marriage to the end of a drought, implying that there will be an overflow of blessings and sustenance. Therefore, the meaning closest to the metaphor is ""Rezeki setelah menikah itu melimpah"" (Blessings after marriage are abundant).",0,,0
+Kriteria tulisan yang diterima di koran nasional itu bagaikan menemukan air di lautan.,Kriteria tulisan untuk bisa diterima koran nasional itu sangat sulit.,Kriteria tulisan untuk bisa diterima koran nasional itu sangat mudah.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""Kriteria tulisan yang diterima di koran nasional itu bagaikan menemukan air di lautan"" compares the criteria for acceptance in a national newspaper to finding water in the ocean, suggesting that it is very difficult to meet the criteria. Therefore, option 0) ""Kriteria tulisan untuk bisa diterima koran nasional itu sangat sulit"" is the closest meaning to the metaphor.",0,,0
+"Perempuan menjawab dengan presisi ketika ditanya ""mau makan apa"" itu bagaikan menunggu hujan emas.","Perempuan menjawab dengan presisi ketika ditanya ""mau makan apa"" itu sangatlah mustahil.","Perempuan menjawab dengan presisi ketika ditanya ""mau makan apa"" itu sangatlah mungkin.",0,"{
+  ""Explanation"": ""Hujan emas merupakan hal yang sangat langka dan istimewa, sehingga perempuan yang menjawab dengan presisi ketika ditanya 'mau makan apa' juga dianggap istimewa dan langka."",
+  ""Answer"": 1
+}",1,,0
+Melahirkan itu ibarat bersin sampai keluar ingus.,Melahirkan itu sangat sakit.,Melahirkan itu biasa saja.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares giving birth to sneezing until the mucus comes out, which implies that giving birth is very painful. Therefore, the option ""Melahirkan itu sangat sakit."" is the most fitting interpretation of the metaphor.",0,,0
+Cita-cita itu bagaikan asap yang dibiarkan hilang dengan sendirinya.,Cita-cita itu harus dirawat.,Cita-cita itu dibiarkan begitu saja.,1,"{
+  ""Explanation"": ""The metaphor implies that dreams should not be left to disappear on their own, but rather cared for and nurtured in order to be achieved."",
+  ""Answer"": 0
+}",0,,0
+Sakit bagi si miskin yang berobat menggunakan BPJS di rumah sakit bagaikan membalikkan telapak tangan.,Sakit bagi si miskin yang berobat menggunakan BPJS di rumah sakit itu dipersulit.,Sakit bagi si miskin yang berobat menggunakan BPJS di rumah sakit itu dimudahkan.,1,"{
+  ""Explanation"": ""The metaphor is emphasizing how difficult it is for the poor person to receive medical treatment using BPJS at the hospital, comparing it to an impossible or seemingly contradicting action like turning the back of one's hand."",
+  ""Answer"": 0
+}",0,,0
+Tujuan hidup itu bagaikan menciduk air di kolam.,Tujuan hidup itu harus ditentukan.,Tujuan hidup itu asal.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the purpose of life to scooping water in a pond, implying that it should be determined intentionally and not taken lightly. Option 0) ""Tujuan hidup itu harus ditentukan"" reflects this idea of setting specific goals and directions in life.",0,,0
+Matahari hari ini seolah hanya sejengkal dari atas ubun-ubun kepala.,Matahari hari ini sangat panas.,Matahari hari ini redup.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor ""Matahari hari ini seolah hanya sejengkal dari atas ubun-ubun kepala"" suggests that the sun is dim or not shining brightly, reflecting a sense of gloominess or sadness. This is closer in meaning to option 1) Matahari hari ini redup.",1,,0
+Mertua dan menantu di Indonesia itu bagaikan cerita rakyat Bawang Merah & Bawang Putih.,Mertua dan menantu di Indonesia itu kontradiktif.,Mertua dan menantu di Indonesia itu harmonis.,0,"{
+  ""answer"": 1
+} 
+
+In the metaphor, comparing the relationship between mother-in-law and daughter-in-law in Indonesia to the folktale of Bawang Merah & Bawang Putih implies that they are harmonious, as in the folktale the two characters eventually reconcile and live peacefully. Option 1) Mertua dan menantu di Indonesia itu harmonis, is the closest meaning to the metaphor.",1,,0
+Bahagia itu adalah ketika kita dapat uang kaget 100 Milyar Rupiah tanpa harus dipotong pajak.,Bahagia itu bersifat material.,Bahagia itu bersifat nonmaterial.,0,"{
+  ""Explanation"": ""Uang kaget 100 Milyar Rupiah adalah simbol dari kejutan yang menyenangkan dan tidak terduga, hal ini dapat memberikan kebahagiaan pada seseorang. Pada kasus ini, kebahagiaan lebih terkait dengan pengalaman emosional daripada harta benda atau kekayaan materi."",
+  ""Answer"": 1
+}",1,,0
+Nilau tukar rupiah di banding dolar ibarat kesaktian Angling Darma melawan Nyi Pelet.,Nilai tukar rupiah dibanding dolar lemah.,Nilai tukar rupiah dibanding dolar kuat.,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, the comparison is between Nilau tukar rupiah (exchange rate of the Indonesian currency, Rupiah) and dolar (Dollar). The metaphor refers to the exchange rate of Rupiah being weaker compared to Dollar, similar to Angling Darma being weaker against Nyi Pelet. Therefore, the closest meaning is option 0) Nilai tukar rupiah dibanding dolar lemah (Exchange rate of Rupiah compared to Dollar is weak).",0,,0
+Sikap serakah itu ibarat menghentikan makan saat perut sudah kenyang.,Sikap serakah itu membuat selalu merasa kurang.,Sikap serakah itu membuat cukup.,1,"{
+""answer"": 0
+} 
+
+The metaphor is comparing greed to stopping eating when one is already full. Option 0) ""Sikap serakah itu membuat selalu merasa kurang."" is the closest meaning because just like how greed always makes a person feel like they never have enough, stopping eating when full represents a greed that can never be satisfied.",0,,0
+Perguruan tinggi itu ibarat villa di pegunungan untuk bersantai saat libur tiba.,Perguruan tinggi itu tempat untuk menempa diri.,Perguruan tinggi itu tempat untuk relaksasi.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the university to a mountain villa for relaxation during holidays. In this context, the closest meaning is that the university is a place for self-improvement and development, similar to how a villa in the mountains can provide a peaceful environment for reflection and growth.",0,,0
+Wanita Sunda itu kulitnya seperti kulit jeruk.,"Kulit wanita Sunda itu halus, putih, dan kenyal.","Kulit wanita Sunda itu pori-porinya besar, kasar, dan tidak mulus.",1,"{
+	""answer"": 0
+}
+
+Explanation: The metaphor comparing the woman's skin to an orange skin suggests that the skin is smooth, soft, and elastic, similar to how the skin of an orange is. Option 0 reflects this meaning, as it describes the skin as smooth, white, and supple.",0,,0
+Sudah menjadi semacam rahasia umum bahwa rekrutmen angkatan bersenjata harus melalui cara yang luar biasa.,Merupakan informasi publik bahwa rekrutmen angkatan bersenjata harus melalui cara yang luar biasa.,Merupakan rahasia bahwa rekrutmen angkatan bersenjata harus melalui cara yang luar biasa.,0,"{
+  ""answer"": 1
+}
+
+The metaphor here is comparing the recruitment process of the military to a secret, implying that it is not widely known or easily accessible. Option 1) Merupakan rahasia bahwa rekrutmen angkatan bersenjata harus melalui cara yang luar biasa. is the closest in meaning as it highlights the secretive nature of the recruitment process.",1,,0
+"mengalir saja seperti air, semua pasti akan aku dapatkan.","Walaupun harus dengan kerja keras, aku akan meraih semuanya.","pasrah saja kepada takdir, aku akan meraih semuanya.",1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""mengalir saja seperti air"" indicates a sense of effortless flow, which aligns more closely with the meaning of achieving everything through hard work (option 0) rather than simply submitting to fate (option 1).",0,,0
+Aku percaya bahwa hidup itu adalah air susu yang harus dibalas dengan air tuba.,Aku percaya bahwa hidup itu adalah kebaikan harus dibalas dengan kejahatan.,Aku percaya bahwa hidup itu adalah selalu berbuat baiklah agar kamu menerima karma baiknya.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares life to milk, which should be reciprocated with water. This implies that good deeds or kindness should be repaid with more kindness, similar to repaying milk with water. Option 1 reflects this idea by suggesting that one should always do good to receive good karma in return.",1,,0
+Imbal hasil yang dicatatkan oleh reksadana pasar uang itu ibarat tekanan darah setelah makan mentimum 1 kg.,Imbal hasil yang dicatatkan oleh reksadana pasar uang itu naik secara drastis.,Imbal hasil yang dicatatkan oleh reksadana pasar uang itu jatuh secara drastis.,1,"{
+  ""answer"": 0
+}
+
+Explanation: Just like blood pressure increases after consuming 1 kg of salt, the return recorded by the money market mutual fund increased significantly. Thus, the closest meaning is ""Imbal hasil yang dicatatkan oleh reksadana pasar uang itu naik secara drastis."" (option 0)",0,,0
+"Miskin adalah ketika hartanya tidak habis sampai 7 turunan, tapi dia masih korupsi.",Miskin itu adalah kekurangan moral.,Miskin itu adalah kekurangan modal.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor describes someone who is poor not because they lack money, but because they continuously engage in corruption. This suggests that the poverty is not due to a lack of capital (modal), but rather a lack of morals.",1,,0
+Nyawa seseorang itu ibarat sampah yang berserakan di pinggir kali.,Nyawa seseorang itu berharga.,Nyawa seseorang itu hina.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares a person's life to scattered garbage by the river, which can imply that a person's life is valuable and should not be treated as something worthless. So, the closest meaning is ""Nyawa seseorang itu berharga.""",0,,0
+Hidupku sangat unik bagaikan pelangi yang hadir setiap saat.,Hidupku sangat unik karena susah dahulu baru bahagia.,Hidupku sangat unik karena bahagia selalu tak pernah susah.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor is comparing life to a rainbow that is always present. This implies that life is unique because it has its ups and downs, just like how a rainbow appears after a storm. Option 0 reflects this idea by suggesting that life is unique because of the difficulties faced before experiencing happiness.""
+}",0,,0
+Tips untuk pemula yang ingin sukses sebelum usia 30 adalah manjakan diri dengan menikmati senja di Labuan Bajo setiap akhir pekan.,Tips untuk pemula yang ingin sukses sebelum usia 30 adalah hemat.,Tips untuk pemula yang ingin sukses sebelum usia 30 adalah boros.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor suggests that in order to be successful before the age of 30, one should indulge in self-care by enjoying the sunset in Labuan Bajo every weekend. This implies the importance of taking time to relax and appreciate the beauty of nature, which does not necessarily align with being frugal or saving money. Therefore, the closest meaning to the metaphor is that the tip is to be thrifty or careful with money (option 0).",0,,0
+Kamus Besar Bahasa Indonesia setebal buku Sidu.,Kamus Besar Bahasa Indonesia sangat tebal.,Kamus Besar Bahasa Indonesia biasa saja.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing the thickness of the book to the Kamus Besar Bahasa Indonesia. In this case, the correct meaning is option 0, which means the Kamus Besar Bahasa Indonesia is very thick.",0,,0
+Dia membeli saham gorengan.,Dia membeli saham yang jelek.,Dia membeli saham yang unggulan.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""Dia membeli saham gorengan"" is closer in meaning to ""Dia membeli saham yang unggulan."" This is because the term ""saham gorengan"" is often used colloquially to refer to stocks with high potential for quick profits, similar to how ""gorengan"" (fried snacks) are often popular and sell quickly. Therefore, the closest meaning to the metaphor is that the person bought high-quality stocks with potential for good returns.",1,,0
+Pastikan kamu mau hajar kanan untuk memastikan keuntunganmu bermain saham.,Pastikan kamu mau beli dengan harga tertinggi untuk memastikan keuntunganmu bermain saham.,Pastikan kamu mau jual dengan harga terendah untuk memastikan keuntunganmu bermain saham.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor ""hajar kanan"" in Indonesian language typically means to sell something at a high price to ensure profit, which aligns with the option 1) Pastikan kamu mau jual dengan harga terendah untuk memastikan keuntunganmu bermain saham. On the other hand, buying at the highest price (option 0) would not ensure profit but rather potentially lead to losses in stock trading.",1,,0
+Pastikan kamu mau hajar kiri untuk memastikan keuntunganmu bermain saham.,Pastikan kamu mau beli dengan harga tertinggi untuk memastikan keuntunganmu bermain saham.,Pastikan kamu mau jual dengan harga terendah untuk memastikan keuntunganmu bermain saham.,1,"{
+  ""answer"": 0
+}  
+
+In the metaphor, ""hajar kiri"" can be interpreted as taking the left route, which signifies buying at a higher price to ensure profit in playing the stock market. Therefore, the option ""0) Pastikan kamu mau beli dengan harga tertinggi untuk memastikan keuntunganmu bermain saham."" is the closest meaning to the metaphor.",0,,0
+"Ibarat buah jatuh sangat jauh dari pohonnya, begitulah tingkah laku anak.",Tingkah laku anak meniru orang lain.,Tingkah laku anak berbeda dengan orang lain.,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, ""Ibarat buah jatuh sangat jauh dari pohonnya, begitulah tingkah laku anak,"" the comparison is between a fruit falling far from its tree and a child's behavior. When a fruit falls far from its tree, it means that it has deviated from where it originated. Similarly, the metaphor suggests that a child's behavior is imitating or copying others, which is the closest meaning to option 0) Tingkah laku anak meniru orang lain.",0,,0
+Semua yang pernah aku pelajari di sekolah seolah buku langka di perpustakaan ketika aku masuk dunia kerja.,Semua yang pernah aku pelajari di sekolah tidak bermanfaat untuk diaplikasikan di dunia kerja.,Semua yang pernah aku pelajari di sekolah bermanfaat untuk diaplikasikan di dunia kerja.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the things learned in school to rare books in a library when entering the workforce. This implies that the knowledge gained in school may not be directly applicable or easily accessible in the real world of work. Option 0) reflects this interpretation, making it the closest meaning to the metaphor.",0,,0
+Pasangan ideal bagiku itu seperti majikan dengan pembantunya.,Pasangan ideal bagiku itu adalah salah satu ada yang lebih tinggi dari yang lain.,Pasangan ideal bagiku itu adalah setara.,0,"{
+  ""answer"": 1
+} 
+
+In this metaphor, the ideal partner is compared to a boss and their assistant. The metaphor implies a sense of hierarchy and complementarity in the relationship, suggesting that the ideal partner is someone who is equal in importance and shares responsibilities equally, like a boss and their assistant working together as a team. Option 1) ""Pasangan ideal bagiku itu adalah setara."" is the closest meaning to the metaphor.",1,,0
+Universitas tempatku berkuliah itu adalah gudangnya katak dalam tempurung.,Universitas tempatku berkuliah itu adalah gudangnya berwawasan luas.,Universitas tempatku berkuliah itu adalah gudangnya picik.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""gudangnya katak dalam tempurung"" means that the university is a place full of knowledge and wisdom which is similar to the option 0) Universitas tempatku berkuliah itu adalah gudangnya berwawasan luas. This option conveys the idea that the university is a treasure trove of broad and profound knowledge.",0,,0
+"Jika diamati, wajahnya seperti bulan dari dekat.","Jika diamati, wajahnya cantik dan indah.","Jika diamati, wajahnya buruk, dari segi teksturnya.",1,"{
+	""answer"": 0
+}
+
+Explanation: The metaphor comparing the person's face to the moon from up close is implying that the face is beautiful and lovely, just like how the moon appears attractive when observed closely. Option 0) Jika diamati, wajahnya cantik dan indah, aligns with this interpretation.",0,,0
+Rapornya penuh dengan tinta merah.,Rapornya penuh nilai jelek.,Rapornya penuh nilai bagus.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor ""Rapornya penuh dengan tinta merah"" typically means ""Rapornya penuh nilai jelek"" because red ink is commonly used to indicate mistakes or failures in a report card. Therefore, the closest meaning to the metaphor is option 0) Rapornya penuh nilai jelek.",1,,0
+Cita-citanya ternyata setinggi daun kelor.,Cita-citanya sangat tinggi.,Cita-citanya sangat rendah.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor 'Cita-citanya ternyata setinggi daun kelor' means that the ambition is very high, similar to how high a moringa leaf is. Therefore, the closest meaning is option 0) Cita-citanya sangat tinggi.""
+}",0,,0
+Nasihat dari gurunya bagaikan batu kali.,Nasihat dari gurunya bermakna.,Nasihat dari gurunya tidak bermakna.,1,"{
+  ""answer"": 0
+} 
+
+Batu kali is a metaphor for something solid and meaningful. So, the meaning closest to the metaphor is: Nasihat dari gurunya bermakna.",0,,0
+Hari ini dia dapat rezeki bak nasi sisa.,Hari ini dia dapat rezeki sangat banyak.,Hari ini dia dapat rezeki sangat sedikit.,1,"{
+  ""question"": ""Hari ini dia dapat rezeki bak nasi sisa."",
+  ""options"": {
+    ""0"": ""Hari ini dia dapat rezeki sangat banyak."",
+    ""1"": ""Hari ini dia dapat rezeki sangat sedikit.""
+  },
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""rezeki bak nasi sisa"" implies that the person received blessings similar to leftover rice, which signifies an abundance of blessings or sustenance. Therefore, the closest meaning to the metaphor is ""Hari ini dia dapat rezeki sangat banyak.""",0,,0
+Mesinnya bertenaga keledai.,Mesinnya bertenaga sangat kuat.,Mesinnya bertenaga lemah.,1,"{
+  ""answer"": 0
+} 
+
+This metaphor compares the machine to a donkey, implying that the machine is very powerful, similar to the strength of a donkey. Thus, the closest meaning to the metaphor is ""Mesinnya bertenaga sangat kuat."" (Option 0)",0,,0
+Suaranya saat bernyanyi seperti burung beo.,Suaranya saat bernyanyi merdu.,Suaranya saat bernyanyi sumbang.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the singing voice to that of a parrot, which is known for its ability to mimic sounds. In this case, it suggests that the singing voice is melodic and pleasant, similar to option 0 which means ""Suara saat bernyanyi merdu"" (melodious singing voice), rather than option 1 which means ""Suara saat bernyanyi sumbang"" (off-key singing voice).",0,,0
+Rasa cintanya bagai api yang membara.,Rasa cintanya terlihat.,Rasa cintanya tersembunyi.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""Rasa cintanya bagai api yang membara"" compares the intensity of love to a burning fire, suggesting that the feeling is hidden beneath the surface, just like how fire burns internally before it is visible externally. Therefore, the closest meaning is ""Rasa cintanya tersembunyi"" (Option 1).",1,,0
+Dia tidur kadang-kadang seperti ayam.,Dia tidur kadang-kadang sulit dibangunkan.,Dia tidur kadang-kadang mudah terbangun.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor comparing someone's sleep habits to a chicken does not imply that they wake up easily like a chicken would, but rather that they are difficult to wake up, similar to how chickens can sometimes be hard to wake up in the morning. So, the closest meaning to the metaphor would be Option 0) Dia tidur kadang-kadang sulit dibangunkan (he sleeps sometimes hard to wake up).",0,,0
+"Akibat ucapan orang tuanya, hatinya seperti api yang disiram minyak.","Akibat ucapan orang tuanya, hatinya luluh.","Akibat ucapan orang tuanya, hatinya marah.",1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the heart to a fire being fueled with oil, implying that the heart is being softened or melting due to the parents' words. Therefore, the closest meaning would be ""Akibat ucapan orang tuanya, hatinya luluh."" (Option 0)",0,,0
+Kesabarannya sekarang sebesar kertas.,Kesabarannya masih banyak.,Kesabarannya sudah sedikit.,1,"{
+  ""answer"": 0
+}",0,,0
+Dia punya mental tempe.,Dia punya mental kuat.,Dia punya mental lemah.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Dia punya mental tempe"" implies that the person has a weak mental strength, similar to the soft texture of tempe. Therefore, the closest meaning would be option 1) Dia punya mental lemah.",0,,0
+Pikirannya dan pikiran temannya seperti kecap dan kopi.,Pikiran dan pikiran temannya saling melengkapi.,Pikiran dan pikiran temannya tidak nyambung.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor comparing thoughts to soy sauce and coffee implies that the thoughts of the person and their friend complement each other well, just like soy sauce and coffee can be a good combination in certain dishes. Option 0 best captures this idea of thoughts complementing each other.",0,,0
+"Bagi sang ibu, anaknya adalah buku yang terbuka.","Bagi sang ibu, anaknya mudah ditebak.","Bagi sang ibu, anaknya sulit ditebak.",0,"{
+	""Answer"": 1
+}
+
+Explanation: The metaphor ""anaknya adalah buku yang terbuka"" means that the child is open and transparent, just like an open book. Therefore, the closest meaning would be that the child is not easily predictable or understood, hence ""sulit ditebak"".",1,,0
+Dia berbelanja seperti akan hidup selamanya.,Dia berbelanja tanpa pikir panjang dan foya-foya.,Dia berbelanja penuh perhitungan.,1,"{
+  ""Answer"": 0
+}
+
+Explanation: The metaphor compares someone's shopping behavior to living forever. Option 0 reflects the meaning of shopping without thinking about the consequences and spending recklessly, similar to how someone might act if they thought they would live forever.",0,,0
+Lagaknya seperti anak sultan.,Sikapnya angkuh.,Sikapnya rendah diri.,0,"{
+  ""answer"": 1,
+  ""explanation"": ""The metaphor 'Lagaknya seperti anak sultan' is closer in meaning to options 1) Sikapnya rendah diri. This is because being compared to a sultan's child implies a sense of privilege and high status, which may make the person behave in a humble or modest manner, rather than arrogant.""
+}",1,,0
+Tulisan tangannya bagaikan milik dokter.,Tulisan tangannya berantakan.,Tulisan tangannya rapi.,0,"{
+  ""Answer"": 1
+}
+
+Explanation: The metaphor ""Tulisan tangannya bagaikan milik dokter"" means that the handwriting is neat and clear, similar to that of a doctor. So, the closest meaning is option 1) Tulisan tangannya rapi.",1,,0
+Wajahnya terlihat seperti habis perawatan di klinik abal-abal.,Wajahnya terlihat rupawan.,Wajahnya terlihat jelek.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The phrase ""Wajahnya terlihat seperti habis perawatan di klinik abal-abal"" compares the person's face to having undergone a treatment in a shady clinic, implying that the outcome is good but fake or not genuine. Therefore, the closest meaning would be ""Wajahnya terlihat rupawan"" which means the person's face looks beautiful or attractive.",0,,0
+Dia beribadah seperti tidak ada surga dan neraka.,Dia beribadah dengan asal.,Dia beribadah dengan khusyuk.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Dia beribadah seperti tidak ada surga dan neraka"" implies that the person is worshipping with full focus and sincerity, as if there were no distractions or external influences. This is closer in meaning to ""Dia beribadah dengan khusyuk"" (Option 1), which means worshipping devoutly and attentively.",1,,0
+"Dari perawakannya, ia telrihat seperti baru menghabiskan semur satu kuali.",Perawakannya kurus.,Perawakannya gendut.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the person's appearance to someone who has just finished eating a pot of beef stew, indicating that the person appears thin or slender. Therefore, the closest meaning is Option 0) Perawakannya kurus.",0,,0
+Kemampuan Bahasa Inggrisnya seperti anak usia lima tahun.,Kemampuan Bahasa Inggrisnya buruk.,Kemampuan Bahasa Inggrisnya bagus sekali.,0,"{
+  ""answer"": 1
+} 
+
+This metaphor implies that the person's English proficiency is still at a basic level, similar to a five-year-old child. Therefore, the closest meaning to the metaphor would be that their English proficiency is not very advanced, leading to Option 0 being the correct choice.",1,,0
+Dia mendengarkan nasehat dari ibunya seperti murid yang tidak sabar menunggu bel pulang.,Dia mendengarkan nasehat dari ibunya dengan sungguh-sungguh.,Dia mendengarkan nasehat dari ibunya dengan tidak fokus.,1,"{
+  ""Explanation"": ""The metaphor compares listening to advice from his mother to a student eagerly waiting for the school bell to ring, which implies that he is listening attentively and eagerly."",
+  ""Answer"": 0
+}",0,,0
+Laki-laki itu berpidato sekan-akan ia tidak memiliki apapun kecuali yang melekat di badannya.,Laki-laki itu berpidato dengan sangat percaya diri.,Laki-laki itu berpidato dengan sangat  tidak percaya diri.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""berpidato seakan-akan ia tidak memiliki apapun kecuali yang melekat di badannya"" implies that the man is delivering a speech as if he has nothing to lose or hide, which indicates confidence. So, the closest meaning would be option 0) Laki-laki itu berpidato dengan sangat percaya diri.",0,,0
+"Saat aku bersamanya, rasanya seperti memakai kain yang rombeng.","Saat aku bersamanya, rasanya begitu nyaman.","Saat aku bersamanya, rasanya begitu tidak nyaman.",1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Saat aku bersamanya, rasanya seperti memakai kain yang rombeng"" compares the feeling of being with someone to wearing uncomfortable clothes. The option ""Saat aku bersamanya, rasanya begitu nyaman"" is the closest meaning as it signifies that being with that person feels comfortable, opposite to the uncomfortable feeling of wearing ill-fitting clothes.",0,,0
+Hasil pertandingan hari ini membuatku merasa seperti baru saja menyelesaikan lari marathon pertamaku.,Hasil pertandingan hari ini membuatku merasa kecewa.,Hasil pertandingan hari ini membuatku merasa puas.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""Hasil pertandingan hari ini membuatku merasa seperti baru saja menyelesaikan lari marathon pertamaku"" compares the feeling after the game to completing a first marathon. Just like finishing a marathon for the first time can be physically and emotionally exhausting but also fulfilling, the outcome of the game may have been disappointing but also a learning experience. Option 0) Hasil pertandingan hari ini membuatku merasa kecewa, is the closest meaning to the metaphor.",0,,0
+Aku merasa seperti pecinta reptil yang sedang berkunjung ke penangkaran ular saat berada di ketinggian.,Aku merasa takut saat berada di ketinggian.,Aku merasa berani saat berada di ketinggian.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor comparing the feeling to a reptile lover visiting a snake breeding facility at a height suggests a feeling of fear or discomfort when being at a high place. Option 0 represents the closest meaning as feeling afraid while being at a height.",0,,0
+Dia berpakaian seperti mau beli ikan ke pasar.,Dia berpakaian rapi.,Dia berpakaian seadanya.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Dia berpakaian seperti mau beli ikan ke pasar"" signifies that the person is dressed neatly and with a purpose, similar to someone going to the market to buy fish. Option 0) ""Dia berpakaian rapi"" closely relates to this meaning, as it implies that the person is dressed neatly. Option 1) ""Dia berpakaian seadanya"" does not align with the metaphor as it suggests the person is dressed casually or in a haphazard manner.",0,,0
+Dia memelukku seakan-akan aku adalah musuh bebuyutannya.,Dia memelukku dengan erat.,Dia memelukku dengan enggan.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""Dia memelukku seakan-akan aku adalah musuh bebuyutannya"" suggests that the person hugged tightly, similar to how one might hug an enemy to keep them from escaping. Therefore, the closest meaning would be ""Dia memelukku dengan erat"" (Option 0).",0,,0
+Mobil itu melaju seperti keong.,Mobilnya cepat.,Mobilnya lambat.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor 'Mobil itu melaju seperti keong' compares the speed of the car to a snail, implying that the car is slow. Therefore, the closest meaning to the metaphor is 'Mobilnya lambat.'""
+}",0,,0
+Penampilannya bagaikan kucing masuk comberan.,Ia berpenampilan kumal dan kusam.,Ia berpenampilan cantik dan elok.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Penampilannya bagaikan kucing masuk comberan"" typically means that the person's appearance is sleek and well-dressed, similar to a cat in a cozy place. So, the closest meaning would be ""Ia berpenampilan cantik dan elok.""",1,,0
+Masjid di pinggiran kota itu megah bagai gubuk tua.,Masjid itu tidak megah.,Masjid itu sangat megah.,0,"{""answer"":1} 
+
+The metaphor compares the grandeur of the mosque to an old hut, emphasizing the majestic appearance of the mosque. Option 1) ""Masjid itu sangat megah"" is the closest meaning to the metaphor.",1,,0
+"Setelah kecelakaan motor semalam, tangan Irvan serasa digigit semut.",Luka bekas kecelakaan itu sangat menyakitkan.,Luka bekas kecelakaan itu tidak sakit.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""tangan Irvan serasa digigit semut"" implies that the pain from the accident injury is very intense, similar to being bitten by ants. Therefore, the meaning that is closest to the metaphor would be that the injury is very painful, which corresponds to option 0) ""Luka bekas kecelakaan itu sangat menyakitkan"".",0,,0
+Warna bajunya semerah api yang membara.,Bajunya merah cerah.,Bajunya tidak berwarna merah.,0,"{
+  ""answer"": 1
+}
+
+The metaphor ""Warna bajunya semerah api yang membara"" implies that the color of the clothing is as fiery red as flames. Therefore, the closest meaning would be ""Bajunya merah cerah"" (option 0) as it indicates that the clothing is in a bright red color, similar to the intensity of fire. Option 1, ""Bajunya tidak berwarna merah"", does not align with the fiery red comparison in the metaphor.",1,,0
+Giginya seputih kopi.,Giginya tidak putih.,Giginya putih.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor ""Giginya seputih kopi"" is comparing the whiteness of the teeth to the whiteness of coffee. Since kopi (coffee) is generally perceived as dark in color, the closest meaning would be ""Giginya putih"" (Option 1), meaning the teeth are white.",1,,0
+Penonton konser band itu layaknya peserta kuliah pagi.,Konser tersebut ramai penonton.,Konser tersebut sepi penonton.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor is comparing the audience of the concert to morning class participants, implying that the concert is crowded with spectators similar to a lecture hall being full in the morning. Therefore, the closest meaning to the metaphor is option 0) Konser tersebut ramai penonton.""
+}",0,,0
+Mahasiswa itu sibuk bak pengangguran.,Mahasiswa itu sangat sibuk.,Mahasiswa itu tidak sibuk.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""Mahasiswa itu sibuk bak pengangguran"" means that the student is as busy as an unemployed person, implying that the student is not actually busy despite appearing to be so. Option 0) Mahasiswa itu sangat sibuk, is the closest meaning to this metaphor.",0,,0
+"Menurutnya, internet itu sama pentingnya dengan makan di restoran berbintang.","Baginya, internet itu kebutuhan primer.","Baginya, internet itu kebutuhan tersier.",1,"{
+  ""Explanation"": ""The metaphor compares the importance of the internet to eating at a high-end restaurant, implying that the internet is a primary necessity."",
+  ""Answer"": 0
+}",0,,0
+Omongannya sepedas saus tomat.,Omongannya sangat pedas.,Omongannya tidak pedas.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor is comparing the person's words to the spiciness of tomato sauce, indicating that the person's words are very sharp or harsh. Therefore, the closest meaning would be that the person's words are very harsh or critical, similar to spiciness.""
+}",0,,0
+Mencari orang jujur di Indonesia itu bagai mencari pasir di pantai.,"Di Indonesia, orang jujur mudah ditemui.","Di Indonesia, orang jujur jarang ditemui.",0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Mencari orang jujur di Indonesia itu bagai mencari pasir di pantai"" means that it is rare to find honest people in Indonesia, similar to how it is difficult to find grains of sand on a beach. Option 1) ""Di Indonesia, orang jujur jarang ditemui."" is the correct interpretation of the metaphor.",1,,0
+Ia mengemudi bagaikan sopir angkutan kota.,Ia mengemudi dengan ugal-ugalan.,Ia mengemudi dengan rapi dan tertib.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""Ia mengemudi bagaikan sopir angkutan kota"" implies that the person drives like a public transport driver, which suggests they are driving in an orderly and disciplined manner. Therefore, the closest meaning is option 1) Ia mengemudi dengan rapi dan tertib.",1,,0
+Rizal menghabiskan uangnya seakan ia harus menebus pinjaman online.,Rizal hidup berfoya-foya dan mewah.,Rizal hidup irit.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The phrase ""menebus pinjaman online"" implies that Rizal is spending money as if he owes a debt, which is more closely associated with living a luxurious and extravagant lifestyle (option 0) rather than living frugally (option 1).",0,,0
+Merakit komputer baru itu rasanya seperti menyelesaikan puzzle untuk anak-anak. .,Merakit komputer baru itu sangat rumit.,Merakit komputer baru itu sangat mudah.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor comparing assembling a new computer to completing a puzzle for children implies that it is complex and challenging, similar to solving a puzzle. Therefore, the closest meaning to the metaphor would be that building a new computer is very complicated, so option 0) ""Merakit komputer baru itu sangat rumit."" is the correct answer.",0,,0
+Kerjasama dua perusahaan itu bagai lalat dan buah.,Kerjasama mereka merugikan salah satu pihak.,Kerjasama mereka saling menguntungkan.,0,"{
+  ""Explanation"": ""Lalat dan buah seringkali saling terkait, dimana lalat membantu membuahi buah dan pada saat yang sama buah memberikan makanan kepada lalat."",
+  ""Answer"": 1
+}",1,,0
+Andi menyukai sekolah seperti semut menyukai garam.,Andi suka sekolah.,Andi benci sekolah.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor 'Andi menyukai sekolah seperti semut menyukai garam' implies that Andi likes school a lot, just like how ants are attracted to salt. Therefore, the closest meaning to the metaphor is 'Andi suka sekolah.'""
+}",0,,0
+Anak itu berani seperti anak kucing.,Ia pemberani.,Ia penakut.,1,"{
+  ""Explanation"": ""Anak kucing biasanya dianggap berani dan lincah, sehingga perumpamaan ini menggambarkan seseorang yang pemberani."",
+  ""Answer"": 0
+}",0,,0
+Pola pikirnya sedalam air kobokan.,Pikirannya dangkal.,Pikirannya dalam.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Pola pikirnya sedalam air kobokan"" signifies that the person's way of thinking is deep, similar to the depth of water in a basin (kobokan). This closely relates to option 1) ""Pikirannya dalam"".",1,,0
+Jarak antar rumah dan sekolahnya serasa sejauh lencang tangan.,Sekolahnya jauh dari rumahnya.,Sekolahnya dekat dari rumahnya.,1,"{
+  ""Answer"": 0
+} 
+
+Explanation: The metaphor ""jarak antara rumah dan sekolahnya serasa sejauh lencang tangan"" compares the distance between home and school to being as far as reaching out one's hand. This implies that the school is far from home, hence the closest meaning is option 0) Sekolahnya jauh dari rumahnya.",0,,0
+Teknik pengobatan tersebut seefektif menangkap lalat dengan sumpit.,Teknik pengobatan itu efektif.,Teknik pengobatan itu tidak efektif.,1,"{
+  ""Explanation"": ""The metaphor compares the effectiveness of the treatment to catching flies with chopsticks, implying that the treatment is effective."",
+  ""Answer"": 0
+}",0,,0
+Giginya setajam pisau plastik.,Giginya tajam.,Giginya tumpul.,1,"{
+  ""answer"": 0
+}
+
+The metaphor ""Giginya setajam pisau plastik"" equates the sharpness of someone's teeth to that of a plastic knife. Since plastic knives are not sharp, the intended meaning is that the teeth are dull (tumpul). So, the closest option would be 1) Giginya tumpul.",0,,0
+Gaya bicaranya seperti orang yang demam panggung.,Bicaranya meyakinkan dan bersemangat.,Bicaranya tidak meyakinkan dan tidak bersemangat.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor is comparing the way someone speaks to being like someone who has stage fright. This implies that the person's speech is convincing and enthusiastic, as someone with stage fright would try to overcompensate for their nerves by being more enthusiastic and convincing in their delivery.",0,,0
+Kamarnya sekosong jadwal rapat direktur perusahaan.,Kamarnya kosong.,Kamarnya penuh barang.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""Kamarnya sekosong jadwal rapat direktur perusahaan"" implies that the room is empty, similar to the option 0) ""Kamarnya kosong."" This option is the closest meaning to the metaphor because it conveys the room being vacant and not filled with any items.",0,,0
+Antusiasmenya seperti mahasiswa yang menghadiri kuliah pagi setelah begadang.,Dia sangat bersemangat.,Dia tidak antusias.,1,"{
+  ""Explanation"": ""The metaphor compares the level of enthusiasm to a student attending a morning class after staying up all night, indicating a high level of excitement."",
+  ""Answer"": 0
+}",0,,0
+Pria itu membawa tas sebesar upil.,tasnya besar.,tasnya kecil.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Pria itu membawa tas sebesar upil"" means that the man is carrying a bag as small as a pill. Therefore, the closest meaning would be that the bag is small, so the correct option is 1) tasnya kecil.",0,,0
+Pemuda itu bertingkah seperti anjing polisi.,Pemuda itu tidak bisa diatur.,Pemuda itu mudah diatur.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Pemuda itu bertingkah seperti anjing polisi"" implies that the young man is behaving in a very strict and disciplined manner, resembling the behavior of a police dog. Therefore, Option 0) ""Pemuda itu tidak bisa diatur"" (The young man cannot be controlled) is the closest meaning to the metaphor.",0,,0
+Jalanan ini seramai hutan belantara.,Jalanan ini ramai.,Jalanan ini sepi.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares the crowdedness of the street to a dense jungle, implying that the street is bustling with activity and people. Therefore, the closest meaning to the metaphor is ""Jalanan ini ramai.""",0,,0
+"Zaman sekarang, mencari orang jujur bagai  mencari bunga di taman.",Mencari orang jujur sulit.,Mencari orang jujur mudah.,1,"{
+  ""Explanation"": ""The metaphor compares finding an honest person to finding a flower in a garden, implying that it is difficult to find an honest person."",
+  ""Answer"": 0
+}",0,,0
+Senyum ibuku seindah senyum joker.,Senyum ibuku menenangkan.,Senyum ibuku menakutkan.,1,"{
+    ""Explanation"": ""The metaphor is comparing the beautiful smile of the speaker's mother to the smile of the Joker, a fictional character known for his sinister grin and evil intentions. It implies that the mother's smile is as captivating and enchanting as the Joker's smile is creepy and eerie."",
+    ""Answer"": 0
+}",0,,0
+Kakak membeli baju baru seharga tahu.,Kakak membeli baju baru yang murah.,Kakak membeli baju baru yang mahal.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The metaphor is comparing the price of the new shirt to ""tahu"" (tofu), which is typically inexpensive. Therefore, the closest meaning would be that Kakak bought an expensive new shirt.",1,,0
+"Sewaktu kecil, rambut Fani seperti Dora.","Sewaktu kecil, rambut Fani pendek.","Sewaktu kecil, rambut Fani panjang.",0,"{
+  ""answer"": 1
+} 
+
+Explanation: Just like Dora from the cartoon, Fani's hair was long when she was young. This option best represents the metaphor of comparing Fani's hair to Dora's.",1,,0
+Anton bekerja seperti  beruang di musim dingin.,Anton rajin bekerja.,Anton malas bekerja.,1,"{
+	""answer"": 0
+}
+
+Explanation: The metaphor describes Anton working like a bear in winter, which implies that he is working diligently and hard. Therefore, the closest meaning is option 0) Anton rajin bekerja (Anton works diligently).",0,,0
+Kakak beradik itu seperti kucing dan tikus.,Kakak beradik itu suka bertengkar.,Kakak beradik itu rukun.,0,"{
+  ""answer"": 1
+}
+
+The metaphor ""Kakak beradik itu seperti kucing dan tikus"" implies that the siblings are constantly fighting or bickering like cats and mice. Therefore, the option ""Kakak beradik itu suka bertengkar"" (The siblings are always fighting) is the closest meaning to the metaphor.",1,,0
+Tono membuka usaha dengan modal sebakul.,Tono membuka usaha dengan modal sedikit.,Tono membuka usaha dengan modal banyak.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Tono membuka usaha dengan modal sebakul"" implies that Tono started his business with a small amount of capital, similar to the option ""Tono membuka usaha dengan modal sedikit."" Thus, the correct answer is option 0.",0,,0
+"Semenjak kamu pergi, hidupku bagai makan buah di surga.","Semenjak kamu pergi, hidupku menyenangkan.","Semenjak kamu pergi, hidupku menyedihkan, menderita.",0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""hidupku bagai makan buah di surga"" implies that life has been joyful, enjoyable, and fulfilling since the person left. Therefore, the meaning closest to this metaphor is ""Semenjak kamu pergi, hidupku menyenangkan."" Option 1 reflects this interpretation.",1,,0
+Rinduku padamu bagai air di timba.,Rinduku padamu banyak.,Rinduku padamu sedikit.,1,"{
+	""answer"": 0
+}
+
+Explanation: In this metaphor, ""Rinduku padamu bagai air di timba"" means ""My love for you is like water in a pail,"" which implies that the speaker has a lot of love for the person. Option 0) ""Rinduku padamu banyak"" aligns with this meaning, as it translates to ""My love for you is a lot."" Option 1) ""Rinduku padamu sedikit"" translates to ""My love for you is a little,"" which is the opposite of the intended meaning in the metaphor.",0,,0
+Aroma mulutnya seharum bunga bangkai.,Mulutnya harum.,Mulutnya bau.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the scent of the person's mouth to the fragrance of a corpse flower, known for its strong and unpleasant smell. Therefore, the correct meaning is that the person's mouth is unpleasant or malodorous (option 1) rather than having a pleasant scent (option 0).",0,,0
+Alis kakak seperti semut beriring.,Alis kakak tipis.,Alis kakak tebal.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Alis kakak seperti semut beriring"" means that the eyebrows of the older sibling are thick, dark, and close together, resembling a line of ants marching in unison. Therefore, the option ""Alis kakak tebal"" (thick eyebrows) is the closest in meaning.",1,,0
+Matanya seperti daun bambu.,Matanya sipit.,Matanya bulat.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: The phrase ""Matanya seperti daun bambu"" is comparing someone's eyes to bamboo leaves. Bamboo leaves are long and slender, resembling almond-shaped eyes which are often described as bulat (round) in Indonesian. Therefore, the closest meaning to the metaphor is ""Matanya bulat.""",1,,0
+Pergi ke Bandung namun tidak wisata kuliner bagai berlari menggunakan sepatu.,Pergi ke Bandung namun tidak wisata kuliner ada yang kurang.,Pergi ke Bandung namun tidak wisata kuliner tidak ada yang salah.,1,"{
+  ""Explanation"": ""The metaphor compares going to Bandung without trying out the culinary delights to running with shoes on, implying that something is missing or lacking in the experience."",
+  ""Answer"": 0
+}",0,,0
+Budi makan seolah-olah itu makanan terakhir yang dimilikinya.,Budi makan rakus.,Budi makan irit.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Budi makan seolah-olah itu makanan terakhir yang dimilikinya"" implies that Budi is eating greedily as if it is his last meal, which closely relates to the option ""Budi makan rakus"" (meaning Budi eats greedily).",0,,0
+Dito mengendarai mobil seolah-olah dia anak pemilik jalan.,Dito mengendarai mobil sembarangan dan urakan.,Dito mengendarai mobil hati-hati.,0,"{
+  ""answer"": 1
+} 
+
+Dito mengendarai mobil seolah-olah dia anak pemilik jalan can be interpreted as Dito drives the car as if he is the owner of the road, which implies he is driving with confidence and assertiveness, similar to how someone who owns a road would drive. Therefore, the closest meaning would be option 1) Dito mengendarai mobil hati-hati. This option suggests that Dito is driving carefully and with caution, similar to how a responsible owner would behave.",1,,0
+Dito mengendarai mobil seolah-olah cicilan mobil belum lunas.,Dito mengendarai mobil sembarangan dan urakan.,Dito mengendarai mobil hati-hati.,1,"{
+  ""explanation"": ""The metaphor is comparing Dito driving his car as if he still hasn't finished paying off the car loan, indicating a reckless or irresponsible behavior."",
+  ""answer"": 0
+}",0,,0
+Mencari kerja di tengah pandemi bak mengajari burung beo bernyanyi.,Mencari kerja di tengah pandemi sulit.,Mencari kerja di tengah pandemi mudah.,1,"{
+	""Answer"": 0,
+	""Explanation"": ""The metaphor compares searching for a job during a pandemic to teaching a parrot to sing, implying that it is difficult. Therefore, the closest meaning is 'Mencari kerja di tengah pandemi sulit.'""
+}",0,,0
+Rasa penasaranku setara dengan kurcaci.,Rasa penasaranku tinggi.,Rasa penasaranku rendah.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor comparing curiosity to a dwarf indicates that the level of curiosity is high, so the correct option is ""Rasa penasaranku tinggi"" which means ""My curiosity is high.""",0,,0
+Keluargaku adalah utangku.,Keluargaku berharga.,Keluargaku beban.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The phrase ""utangku"" implies the idea of value and importance in this context, similar to the meaning of ""berharga"" (valuable). Therefore, the closest meaning to the metaphor would be ""Keluargaku berharga"" (My family is valuable).",0,,0
+Kasihku padamu bagai kayu berselimut api.,Kasihku padamu sementara.,Kasihku padamu abadi.,0,"{
+  ""answer"": 1
+}
+
+This metaphor compares the love to wood covered in fire, symbolizing a love that is eternal and lasting (abadi), rather than temporary (sementara).",1,,0
+Kulkas rumahmu seperti saldo tabunganku.,Kulkas rumahmu serba ada.,Kulkas rumahmu kosong.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Kulkas rumahmu seperti saldo tabunganku"" compares the refrigerator to the speaker's savings account. In this context, ""saldo tabunganku"" suggests that the speaker's savings account is sufficient or full. Therefore, the option ""Kulkas rumahmu serba ada"" which means the refrigerator at your house is well-stocked or has everything, is the closest meaning to the metaphor.",0,,0
+Masa depanmu layaknya kota Jakarta di malam hari.,Masa depanmu cerah.,Masa depanmu gelap.,0,"{
+  ""answer"": 1
+}
+
+The metaphor ""Masa depanmu layaknya kota Jakarta di malam hari"" compares the future to Jakarta at night, which is usually associated with darkness, traffic, and chaos. Therefore, the closest meaning to this metaphor is ""Masa depanmu gelap"" (Your future is dark), option 1.",1,,0
+Mengejar cita-cita ibarat membalikkan telapak tangan.,Mengejar cita-cita sulit.,Mengejar cita-cita mudah.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In the metaphor, ""membalikkan telapak tangan"" means doing something that is very difficult or nearly impossible, just like achieving goals or dreams. Therefore, the meaning that is closest to the metaphor is option 0) Mengejar cita-cita sulit.",0,,0
+"Membeli mobil, namun tidak memakainya bak menampung air dalam ember.","Membeli mobil, namun tidak memakainya sia-sia.","Membeli mobil, namun tidak memakainya berguna.",1,"{
+  ""Explanation"": ""The metaphor is comparing buying a car but not using it to buying a water bucket but not using it to carry water, which implies it is useless or wasted."",
+  ""Answer"": 0
+}",0,,0
+Tubuhku dulu sudah seperti ucok baba.,Tubuhku dulu tinggi dan kurus.,Tubuhku dulu pendek.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The phrase ""Tubuhku dulu sudah seperti ucok baba"" is a metaphor comparing the speaker's body to someone named Ucok Baba. Ucok Baba is known for being tall and skinny. Therefore, the closest meaning to this metaphor is option 0, which states ""Tubuhku dulu tinggi dan kurus.""",0,,0
+Perjuangan masuk ITB adalah usaha orang kidal menulis menggunakan tangan kiri.,Perjuangan masuk ITB sulit.,Perjuangan masuk ITB mudah.,1,"{
+  ""Explanation"": ""The metaphor compares the difficulty of entering ITB to a left-handed person writing with their right hand, implying that it is very challenging."",
+  ""Answer"": 0
+}",0,,0
+Kedatangannya adalah banjir di siang bolong.,Kedatangannya berkah.,Kedatangannya musibah.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Kedatangannya adalah banjir di siang bolong."" suggests that the arrival is a blessing, bringing abundance or good fortune unexpectedly like a flood during the daytime. Therefore, the closest meaning is ""Kedatangannya berkah."" (option 0).",0,,0
+Belajar bahasa Mandarin seperti berenang di saat kaki keram.,Belajar bahasa Mandarin sulit.,Belajar bahasa Mandarin mudah.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: Berenang di saat kaki keram berarti sulit atau terasa tidak nyaman. Jadi, dalam hal ini, metafora tersebut lebih cenderung menggambarkan bahwa belajar bahasa Mandarin sulit, sehingga opsi yang tepat adalah opsi 0.",1,,0
+Hidup adalah perjuangan membersihkan hati mata.,Hidup itu sulit.,Hidup itu mudah.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Hidup adalah perjuangan membersihkan hati mata"" likens life to a struggle to cleanse the heart and mind. This implies that life is difficult and challenging, which aligns with option 0) Hidup itu sulit.",0,,0
+Kesabaranmu bagaikan rambut bondol polwan.,Kesabaranmu panjang.,Kesabaranmu pendek.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, ""Kesabaranmu bagaikan rambut bondol polwan,"" the comparison is between patience and the short hair of a female police officer. Since a female police officer typically has short hair, the metaphor is implying that your patience is long or enduring. Therefore, the option ""Kesabaranmu panjang"" (Your patience is long) is the closest meaning to the metaphor.",0,,0
+Alur cerita buku ini sedalam selokan sebelah rumahku.,Alur cerita buku ini dalam.,Alur cerita buku ini dangkal.,1,"{
+  ""Explanation"": ""The metaphor compares the depth of the storyline in the book to the depth of a nearby sewer, implying that the story has a lot of complexity and depth."",
+  ""Answer"": 0
+}",0,,0
+Pengalamanmu itu ibarat kertas bungkus gorengan.,Pengalamanmu itu berharga.,Pengalamanmu itu tidak berharga.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Pengalamanmu itu ibarat kertas bungkus gorengan"" compares experiences to the wrapping paper of a fried snack. In this case, the analogy implies that experiences are valuable, just like the wrapping paper is essential for holding the fried snack. Therefore, the closest meaning is option 0) Pengalamanmu itu berharga.",0,,0
+Putus cinta ibarat mengigit apel ranum yang baru dipetik.,Putus cinta itu perih dan menyakitkan.,Putus cinta itu manis dan menyenangkan.,1,"{
+  ""Explanation"": ""The metaphor compares a breakup to biting into a freshly-picked juicy apple, implying that it is painful and heartbreaking."",
+  ""Answer"": 0
+}",0,,0
+Tas yang dia beli seharga uang parkir Indomaret.,Tas yang dia beli mahal.,Tas yang dia beli murah.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""Tas yang dia beli seharga uang parkir Indomaret"" implies that the bag purchased is expensive, similar to the cost of parking at Indomaret. Therefore, the closest meaning is option 0) Tas yang dia beli mahal (The bag he bought is expensive).",0,,0
+Sepatunya sudah seperti burung gereja di halaman sekolah.,Sepatunya langka.,Sepatunya pasaran.,1,"{
+  ""answer"": 0
+}
+
+The metaphor comparing the shoes to sparrows in the schoolyard implies that the shoes are rare or hard to find, similar to the rare sighting of sparrows in a schoolyard. Therefore, the closest meaning is option 0) Sepatunya langka (rare).",0,,0
+Seorang pelajar harus memiliki jiwa layaknya pasien rumah sakit.,Seorang pelajar harus memiliki jiwa tangguh.,Seorang pelajar harus memiliki jiwa rentan.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing a student to a patient in a hospital, implying that a student should have a strong and resilient spirit like a patient in a hospital who endures challenges and difficulties. Option 0) Seorang pelajar harus memiliki jiwa tangguh. is the closest meaning to the metaphor.",0,,0
+Aku dan dia adalah Edward Cullen dan Bella Swan di Twilight.,Aku dan dia pasangan yang berakhir bahagia.,Aku dan dia pasangan yang tidak berakhir bahagia.,0,"{
+  ""Explanation"": ""The metaphor compares the speaker and the other person to Edward Cullen and Bella Swan from the Twilight series, indicating a relationship that is intense and passionate and often tumultuous, similar to the characters' relationship in the story."",
+  ""Answer"": 1
+}",1,,0
+Nyanyianmu seperti teriakan bayi yang ingin ganti popok.,Nyanyianmu tidak merdu.,Nyanyianmu merdu.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares the singing to a baby's cry for a diaper change, implying that the singing is in need of improvement. Therefore, the closest meaning would be ""Nyanyianmu tidak merdu"" (Your singing is not melodious).",1,,0
+Hadiah ulang tahunku tahun ini seperti jumlah bulan di langit.,Hadiah ulang tahunku tahun ini satu atau sedikit.,Hadiah ulang tahunku tahun ini banyak.,0,"{
+  ""explanation"": ""The metaphor compares the birthday gifts received to the number of moons in the sky, implying that there are many gifts received."",
+  ""answer"": 1
+}",1,,0
+Potongan rambutmu bak Tarzan.,Potongan rambutmu indah dan cantik.,Potongan rambutmu jelek dan berantakan.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Potongan rambutmu bak Tarzan"" compares the haircut to Tarzan, who is known for his wild and unkempt appearance. This implies that the haircut is messy and wild, similar to Tarzan's style. Option 1 suggests that the haircut is ugly and messy, which aligns with the metaphor. Therefore, option 1 is the closest meaning to the metaphor.",0,,0
+Hidup tanpa ilmu bagai lampu bohlam 100 watt.,Hidup tanpa ilmu itu gelap.,Hidup tanpa ilmu itu terang.,1,"{
+  ""Explanation"": ""A 100 watt light bulb provides brightness and illumination, so living without knowledge is like living in darkness."",
+  ""Answer"": 0
+}",0,,0
+Anak kecil adalah kertas gorengan yang penuh dengan minyak.,Anak kecil itu suci.,Anak kecil itu profan.,1,"{
+  ""Explanation"": ""The metaphor compares a child to a piece of fried paper full of oil, implying that children are innocent and pure like blank sheets before they interact with the world."",
+  ""Answer"": 0
+}",0,,0
+Dia kini sudah sebesar tikus.,Dia kini tubuhnya besar.,Dia kini tubuhnya kecil.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Dia kini sudah sebesar tikus"" does not literally mean the person has grown as large as a mouse. It is used to indicate that the person has become very small or insignificant in importance. Therefore, the closest meaning to the metaphor is option 1) Dia kini tubuhnya kecil.",0,,0
+Hadiah dari ibu ibarat sekarung besi berkarat.,Hadiah dari ibu berharga.,Hadiah dari ibu tidak berharga.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""Hadiah dari ibu ibarat sekarung besi berkarat"" implies that the gift from the mother is valuable, similar to a rusty iron chest which may not look appealing on the outside but contains precious treasures inside. Therefore, the option ""Hadiah dari ibu berharga"" is the closest meaning to the metaphor.",0,,0
+Cuaca di Surabaya sepanas kulkas dua pintu.,Cuaca di Surabaya panas sekali.,Cuaca di Surabaya sejuk sekali.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor compares the weather in Surabaya to the heat of a two-door refrigerator, implying that the weather is very hot. Therefore, the closest meaning to the metaphor is option 0) Cuaca di Surabaya panas sekali.""
+}",0,,0
+Handphone miliknya bagai baju hangat nenek buyutku.,Handphone miliknya canggih.,Handphone miliknya kuno.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""Handphone miliknya bagai baju hangat nenek buyutku"" implies that the handphone is like a warm coat, possibly suggesting that the handphone is advanced or high-tech, providing comfort and utility similar to how a warm coat would keep someone cozy. Hence, the closest meaning would be option 0) Handphone miliknya canggih (advanced).",0,,0
+Lagu yang kau nyanyikan ibarat bunyi klakson pengendara di lampu merah yang baru saja berubah hijau.,Lagu yang kau nyanyikan merdu.,Lagu yang kau nyanyikan berisik dan mengganggu.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the song you are singing to the sound of a driver honking at a newly green traffic light. The sound of a driver honking in this context usually refers to something being loud or annoying. Therefore, the closest meaning to the metaphor would be that the song you are singing is beautiful or pleasant (option 0).",0,,0
+Rasa sakit ini bagai digigit anak semut.,Rasa sakit ini sakit sekali.,Rasa sakit ini tidak sakit sama sekali.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor ""Rasa sakit ini bagai digigit anak semut"" compares the pain to being bitten by a baby ant, implying that the pain is very minimal or almost nonexistent. Therefore, the closest meaning would be ""Rasa sakit ini tidak sakit sama sekali.""",0,,0
+Penjelasanmu sejelas penglihatan orang rabun tanpa kacamata.,Penjelasanmu tidak jelas.,Penjelasanmu jelas.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor is comparing the clarity of the explanation to the vision of a person with poor eyesight without glasses. In this case, it means the explanation is clear and easy to understand. Therefore, the closest meaning is ""Penjelasanmu jelas.""",1,,0
+Perasaan ini sepertinya sudah sedalam kolam renang anak SD.,Perasaan ini dalam.,Perasaan ini dangkal.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor compares the depth of the feelings to a swimming pool for elementary school children. A swimming pool for elementary school children is typically shallow, so the correct option is ""Perasaan ini dalam"" which means deep.",0,,0
+Ia belanja seolah-olah akan terjadi lockdown besok pagi.,Ia belanja seperti orang kerasukan.,Ia belanja sesuai kebutuhan.,0,"{
+  ""Explanation"": ""The metaphor compares the shopping behavior to preparing for a lockdown, indicating that the person is buying as if they are anticipating a shortage or restricted movement."",
+  ""Answer"": 1
+}",1,,0
+Berkencan denganmu bagai berkencan dengan pangeran kodok.,Berkencan denganmu menyenangkan.,Berkencan denganmu memalukan.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor comparing dating with the person to dating a frog prince is meant to convey the idea that dating the person is enjoyable and magical, not embarrassing. Therefore, the closest meaning is option 0) Berkencan denganmu menyenangkan.",0,,0
+Jumlah uang di dompetku seperti jumlah kaki ular.,Jumlah uang di dompetku banyak.,Jumlah uang di dompetku tidak ada.,1,"{
+  ""answer"": 0
+} 
+The metaphor comparing the amount of money in the wallet to the number of legs a snake has suggests that there is a lot of money in the wallet (option 0). Just as a snake has many legs, implying abundance, having many legs in this metaphor signifies having a large amount of money.",0,,0
+Anak sematawayang adalah pinjaman online yang tak kunjung lunas.,Anak sematawayang berharga.,Anak sematawayang beban.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, comparing an only child to an online loan that never seems to be fully repaid implies that the child is valuable. This is because they are seen as a precious gift or a priceless treasure. Therefore, option 0) Anak sematawayang berharga is the closest meaning to the metaphor.",0,,0
+"Aku pikir, kehidupan itu layaknya mengendarai mobil di jalan tol.","Aku pikir, kehidupan itu penuh tantangan.","Aku pikir, kehidupan itu bebas hambatan.",1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor comparing life to driving a car on the highway suggests that life is full of challenges and obstacles (option 0), rather than being smooth and obstacle-free (option 1).",0,,0
+Hiduplah seperti kanebo kering.,Hidup harus fleksibel.,Hidup harus kaku.,1,"{
+  ""answer"": 0
+}
+
+Explanation: Kanebo kering adalah kain yang fleksibel dan lembut, sehingga hidup seperti kanebo kering berarti hidup harus fleksibel, adaptif, dan tidak kaku. Option 0) Hidup harus fleksibel merupakan makna yang lebih dekat dengan metafora tersebut.",0,,0
+Bantuanmu ibarat jas hujan yang dipakai di siang bolong ketika matahari terik.,Bantuanmu tidak berguna.,Bantuanmu sangat membantu.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor compares the help received to a raincoat worn during hot sunny days, indicating that the help received is very beneficial and helpful.",1,,0
+Aku merasa seperti anak sultan yang sudah tidak mampu memasukkan makanan ke dalam mulutnya.,Aku merasa lapar sekali.,Aku merasa kenyang sekali.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""Aku merasa seperti anak sultan yang sudah tidak mampu memasukkan makanan ke dalam mulutnya"" implies a feeling of hunger as the inability to eat, rather than feeling full or satiated. Therefore, the closest meaning is option 0) Aku merasa lapar sekali.",0,,0
+Dia membawa koper segede saku seragam pramuka anak SD.,Dia membawa koper besar.,Dia membawa koper kecil.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""Dia membawa koper segede saku seragam pramuka anak SD"" compares the size of the suitcase the person is carrying to the uniform pocket of an elementary school scout. This implies that the person is carrying a big suitcase, similar to the large size of a scout uniform pocket. Therefore, the option ""0) Dia membawa koper besar"" is the closest meaning to the metaphor.",0,,0
+Larinya secepat porter stasiun yang memikul dua koper besar.,Larinya cepat.,Larinya lambat.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor is comparing someone's speed to that of a train station porter carrying two large suitcases, implying that the person is fast and efficient in running. Therefore, the closest meaning to the metaphor is option 0) Larinya cepat (fast).",0,,0
+Pacar kakakku ibarat buah yang sudah tidak layak dipetik.,Pacar kakakku terlalu muda.,Pacar kakakku terlalu tua.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the sister's boyfriend to a fruit that is no longer suitable for picking. This implies that the boyfriend is too young (not ripe) to be in a relationship, hence the correct option is ""Pacar kakakku terlalu muda"" (Sister's boyfriend is too young).",0,,0
+Rambut adikku sudah sepanjang sumbu lilin.,Rambut adikku panjang.,Rambut adikku pendek.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor 'Rambut adikku sudah sepanjang sumbu lilin.' compares the length of the hair to a candle wick, implying that the hair is long.""
+}",0,,0
+Pengalamannya sudah seluas liang kubur.,Pengalamannya luas.,Pengalamannya sempit.,1,"{
+  ""answer"": 0
+}
+
+The metaphor ""seluas liang kubur"" means the experience is broad and extensive, similar to the size of a grave. Option 0) Pengalamannya luas best represents this meaning. Option 1) Pengalamannya sempit does not fit the metaphor.",0,,0
+Baju yang kamu kenakan ibarat anak bayi menggunakan baju anak SD.,Baju yang kamu kenakan kebesaran.,Baju yang kamu kenakan kekecilan.,0,"{
+  ""answer"": 1
+}
+
+Explanation: Anak bayi using a grade schooler's outfit means the outfit is too small, not too big. Thus, the correct option is ""Baju yang kamu kenakan kekecilan"" (The outfit you are wearing is too small).",1,,0
+Jarak dari Rumah Bejo ke sekolah jarak dari sini ke depan gang .,jarak rumah Bejo ke sekolah jauh .,jarak rumah Bejo ke sekolah dekat .,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing the distance from Bejo's house to school to the distance from the current location to the end of the alley. Since the original sentence mentions ""dari sini ke depan gang"" which implies a short distance, the closest meaning would be ""jarak rumah Bejo ke sekolah dekat"" (option 1)",0,,0
+Mega menerima hadiah tersebut dengan tinggi hati.,Mega menerima hadiah tersebut dengan sombong.,Mega menerima hadiah tersebut dengan santun.,0,"{
+  ""answer"": 1
+} 
+
+The correct option is 1) Mega menerima hadiah tersebut dengan santun.
+
+Explanation: Since Mega received the gift with humility, it is more likely that the meaning of ""tinggi hati"" in this context is closer to being gracious or polite rather than being arrogant.",1,,0
+Tinggi tanaman ini setinggi pohon toge.,Tanaman ini pendek.,Tanaman ini tinggi.,0,"{
+  ""answer"": 1
+}
+
+This metaphor is comparing the height of the plant to the height of a ""pohon toge"", which is known to be tall. Therefore, the closest meaning to the metaphor is Option 1) Tanaman ini tinggi.",1,,0
+Dosen pembimbing kami seperti rumput liar.,Dosen pembimbing kami Sulit ditemui.,Dosen pembimbing kami mudah ditemui.,1,"{
+  ""answer"": 0
+}
+
+The metaphor ""Dosen pembimbing kami seperti rumput liar"" implies that our mentors are difficult to find, just like how wild grass can be hard to locate or control. Therefore, the closest meaning is option 0) Dosen pembimbing kami Sulit ditemui.",0,,0
+Jam kerja di kantor ini seperti tempat bermain anak-anak.,Jam kerja di kantor ini tidak kenal waktu.,Jam kerja di kantor ini teratur.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""Jam kerja di kantor ini seperti tempat bermain anak-anak"" implies that working hours in the office are unpredictable and do not follow a set schedule, similar to how children's playtime can be spontaneous and carefree. Option 0) ""Jam kerja di kantor ini tidak kenal waktu"" is the closest meaning as it conveys the idea of the working hours being unpredictable and not bound by time constraints.",0,,0
+Ara dikenal sebagai gadis yang mirip kelinci.,Ara dikenal sebagai gadis yang cerewet.,Ara dikenal sebagai gadis yang pendiam.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, comparing Ara to a rabbit implies that she is playful, energetic, and lively, just like rabbits are often seen as. Therefore, the meaning closest to the metaphor is option 0) Ara dikenal sebagai gadis yang cerewet.",0,,0
+Kisah cinta kami seperti kisah Romeo dan Juliet.,Kisah cinta kami abadi.,Kisah cinta kami sementara.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor comparing their love story to Romeo and Juliet implies that their love story will last forever, just like the iconic love story of Romeo and Juliet. Therefore, the option ""Kisah cinta kami abadi"" (Our love story is eternal) is the closest meaning to the metaphor.",0,,0
+Kehadirannya bulan di siang hari bagi kami.,Kehadirannya menjadi bermanfaat bagi kami.,Kehadirannya menjadi bencana bagi kami.,1,"{
+	""answer"": 0
+}
+
+Explanation: The metaphor ""Kehadirannya bulan di siang hari bagi kami"" can be interpreted as someone's presence being beneficial or helpful to the speaker. The moon's presence during the day may provide a soothing and cooling effect, much like how a helpful presence can improve a situation. Therefore, the closest meaning is that the presence is beneficial for the speaker, which corresponds to option 0.",0,,0
+Damara bertingkah seperti merengek seperti anak kecil .,Damara bertingkah menggemaskan .,Damara bertingkah menyebalkan .,1,"{
+  ""answer"": 0
+} 
+
+The metaphor ""Damara bertingkah seperti merengek seperti anak kecil"" suggests that Damara's behavior is likened to that of a child whining or throwing a tantrum. This implies that Damara's behavior is cute or endearing, similar to how a child's behavior can be seen as adorable. Option 0) Damara bertingkah menggemaskan (Damara is behaving in an adorable manner) is the closest meaning to the metaphor.",0,,0
+kuku-kukunnya seperti pete.,Kuku-kukunya pendek-pendek.,Kuku-kukunya panjang-panjang.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In the metaphor, ""kuku-kukunnya seperti pete"" refers to having short nails, similar to the shape of a pete (a type of bean). Therefore, the closest meaning would be ""Kuku-kukunya pendek-pendek"" (Option 0).",0,,0
+tingkat kesabaran Dinda sebesar tisu .,Dinda orangnya pemarah .,Dinda orangnya penyabar .,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""tingkat kesabaran Dinda sebesar tisu"" compares Dinda's level of patience to a tissue, implying that Dinda has a very low level of patience. The closest meaning among the options is ""Dinda orangnya pemarah"" which means ""Dinda is hot-headed"".",1,,0
+Rambutnya seperti mie kuning.,Rambutnya lurus.,Rambutnya keriting.,1,"{
+  ""Explanation"": ""The metaphor compares someone's hair to yellow noodles, which can imply either straight or curly hair. Since mie kuning is typically straight, the closest meaning would be straight hair."",
+  ""Answer"": 0
+}",0,,0
+Kasur ini empuk sekali seperti tidur di lantai .,Kasur ini keras .,Kasur ini empuk .,0,"{
+  ""answer"": 1
+}Explanation: The metaphor compares the softness of the mattress to sleeping on the floor. Therefore, the correct option is ""Kasur ini empuk"" (This mattress is soft).",1,,0
+Bulu matanya seperti ulat bulu .,Bulu matanya tebal .,Bulu matanya tipis .,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""Bulu matanya seperti ulat bulu"" compares the thickness or thinness of the eyelashes to the hair on a caterpillar, which is thin. Therefore, the option ""Bulu matanya tipis"" is closest in meaning to the metaphor.",1,,0
+Bulu matanya seperti orang bisa melihat tuyul .,Bulu matanya tebal .,Bulu matanya tipis .,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, ""Bulu matanya seperti orang bisa melihat tuyul"" is comparing someone's eyelashes to a person who can see supernatural creatures. The most suitable meaning among the options would be option 0) Bulu matanya tebal (thick eyelashes) as thick eyelashes are often associated with being able to see clearly.",0,,0
