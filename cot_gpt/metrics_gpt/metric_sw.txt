@@ -1,1 +1,2 @@
 Accuracy on full data: 0.7413479052823315
+Accuracy on 70% subset: 0.741222366710013

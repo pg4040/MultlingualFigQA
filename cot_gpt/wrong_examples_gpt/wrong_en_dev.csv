@@ -1,0 +1,670 @@
+Start Phrase,Ending 1,Ending 2,Labels,Response,answer,not_generated,match
+The leaves were as green as dirt,The leaves were very green,The leaves were brown and not green at all.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, the comparison between leaves and dirt is used to emphasize how green the leaves are. Dirt is typically brown, so saying the leaves were as green as dirt implies that the leaves are very green. Hence, the most fitting meaning is that the leaves were very green, which aligns with option 0.",0,,0
+It's as green as grass in the spring,It's fairy green,It's not too green,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, ""It's as green as grass in the spring,"" the comparison is being made to the vivid, fresh green color of grass during the season of spring. The closest meaning from the options would be ""It's not too green,"" indicating that something is very green and vibrant like the grass in the spring.",1,,0
+Jobs are as available as a marriage man.,Jobs are not available.,Jobs are very available.,0,"{
+  ""Explanation"": ""The metaphor comparing the availability of jobs to a marriage man suggests that jobs are very available, just like there are many single men looking to get married."",
+  ""Answer"": 1
+}",1,,0
+Peace is a human flying,Peace is impossible,Peace is possible,0,"{
+  ""answer"": 1
+} 
+
+In this metaphor, ""Peace is a human flying,"" the meaning closest to the metaphor is that peace is possible. Just like humans flying seemed impossible until the invention of airplanes, peace may seem difficult to achieve but it is a possibility.",1,,0
+Plants are a loud drum,Plants are calming,Plants are disturbing,1,"{
+  ""Explanation"": ""Plants are often associated with tranquility and peacefulness, so the metaphor comparing them to a loud drum is suggesting that they are calming."",
+  ""Answer"": 0
+}",0,,0
+The car was as ugly as a swan,it was hideous,it was beautiful,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, the comparison is between the car and a swan, which is known for its beauty. Therefore, the meaning closest to the metaphor would be that the car was hideous, not beautiful. Thus, option 0) it was hideous is the correct answer.",0,,0
+The conversation was sharp as a rock,The conversation was sharp and witty.,The conversation was dull and not sharp.,1,"{
+  ""answer"": 0
+}
+
+The metaphor ""sharp as a rock"" indicates that the conversation was sharp and witty, similar to the quality of a sharp rock. Therefore, the closest meaning would be that the conversation was sharp and witty (option 0).",0,,0
+He picked it up like a playboy holding a condom,He held it with pride and care,He held it with disgust and caution,1,"{
+  ""answer"": 0
+}
+
+The metaphor ""He picked it up like a playboy holding a condom"" suggests that the person held the object with pride and care, similar to how a playboy might handle a status symbol like a condom. The comparison implies a sense of importance and reverence for the object. Therefore, option 0) He held it with pride and care is the closest meaning to the metaphor.",0,,0
+He rushed through the math test like an ape,He rushed because he is dumb,He rushed because he is smart,0,"{
+  ""answer"": 1
+}
+
+Explanation: This metaphor is comparing the speed at which he completed the math test to an ape, which suggests that he rushed through it quickly. In this context, rushing through can be seen as a positive quality indicating that he is smart rather than dumb.",1,,0
+That conversation had the ease of doing your taxes blindfolded.,Having that conversation was difficult,Having that conversation was easy.,0,"{
+  ""answer"": 1
+}
+
+The metaphor comparing the conversation to doing taxes blindfolded implies that the conversation was easy because doing your taxes blindfolded would be incredibly difficult.",1,,0
+The poster was as colorful as a sidewalk,The poster has a lot of color.,The poster was dull and colorless.,1,"{
+  ""answer"": 0
+}
+
+The metaphor ""The poster was as colorful as a sidewalk"" implies that the poster has a lot of color, similar to how a sidewalk can be colorful with various elements like graffiti or chalk drawings. So, the most appropriate option is 0) The poster has a lot of color.",0,,0
+The house had the cleanliness of a paintball arena,The house was very clean.,The house was a mess.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""In a paintball arena, the splattered paint signifies a mess, so the metaphor implies the house was very clean in comparison.""
+}",0,,0
+The movie's message was as heartwarming as a Popsicle,The movie message was very heartwarming.,The movie's message wasn't heartwarming at all.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the movie's message to a heartwarming Popsicle, which implies that the movie's message was very heartwarming. Thus, the closest meaning to the metaphor is option 0) The movie message was very heartwarming.",0,,0
+The book was as classic as a bride wearing purple,The book was very classic.,The book wasn't a classic.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, the comparison is between the book and a bride wearing purple. Wearing purple is not a typical choice for brides, so it implies that the book is unique or unconventional, not necessarily that it is not a classic. Therefore, the closest meaning is that the book was very classic (Option 0).",0,,0
+Tom had the joy of a robot.,Tom is not very joyful.,Tom is very joyful.,0,"{
+  ""answer"": 1
+} 
+
+Tom having the ""joy of a robot"" indicates that he is very joyful, as robots are typically portrayed as being cheerful and positive.",1,,0
+She was as delicate as An elephant,She was a lumbering clod,She was fragile,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, comparing someone to an elephant implies that she was fragile, not a lumbering clod. Elephants are often seen as large and strong, but they are also known for their gentle nature and sensitive skin, making the comparison more fitting with fragility.",1,,0
+The song had the creativity of an ameba.,The song was too simplistic.,The song was very complex and beautiful.,0,"{
+  ""answer"": 1
+}
+
+Explanation: Amebas are microorganisms known for their simplicity in structure and function. Comparing the creativity of a song to that of an ameba implies that the song lacks complexity and may be too simplistic. Thus, the correct option is 0) The song was too simplistic.",1,,0
+The manager added water to our spark.,The manager motivated his employees.,The manager demotivated his employees.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, ""added water to our spark"" indicates that the manager is trying to encourage or fuel the employees, similar to adding water to a spark to help it grow. This aligns more closely with the meaning of motivating the employees rather than demotivating them.",0,,0
+She came up to eye level with a toddler,She was tall,She was short,1,"{
+	""answer"": 0
+}
+
+Explanation: The metaphor ""She came up to eye level with a toddler"" suggests that ""She was tall,"" as someone who is tall would naturally be eye level with a toddler.",0,,0
+My dog eats like a mayfly,My dog is never eating,My dog never ceases eating,0,"{
+  ""answer"": 1
+} 
+
+In this metaphor, saying ""My dog eats like a mayfly"" means that the dog never ceases eating, as mayflies have a very short lifespan and therefore need to constantly feed to survive. Option 1 reflects this meaning, making it the closest interpretation of the metaphor.",1,,0
+That film as disastrous as the Abraham Lincoln presidency,It isn't very good,It's quite successful,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing the film to the disastrous Abraham Lincoln presidency, which implies that the film isn't very good or successful. Therefore, the closest meaning to the metaphor is option 0) It isn't very good.",0,,0
+The concept was as confusing as a kiddie puzzle,The concept was hard to understand.,The concept was easy to understand.,1,"{
+  ""answer"": 0
+}
+
+The metaphor compares the concept to a kiddie puzzle, implying that it was difficult to understand. Therefore, the correct option is 0) The concept was hard to understand.",0,,0
+The art is as colorful as a cloudy sky,the art is vibrant,the art is dull,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor is comparing the art to a cloudy sky, which can be filled with different shades of color. This implies that the art is vibrant and full of color, similar to a cloudy sky with different hues.""
+}",0,,0
+That fan has the blowing power of an unplugged hairdryer,It can blow a lot,It can hardly blow at all,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor is comparing the fan's blowing power to an unplugged hairdryer, implying that it can hardly blow at all. Therefore, the correct option is 1) It can hardly blow at all.",0,,0
+The future had the brightness of a mud puddle,The future is dull,The future is bright,0,"{
+  ""answer"": 1
+}
+
+Explanation: In this metaphor, comparing the future to a mud puddle implies that it is bright and promising. Mud puddles can reflect light like water, so the imagery of brightness indicates a positive outlook on the future. Therefore, the closest meaning to the metaphor is option 1) The future is bright.",1,,0
+The girl's happiness exploded like a lullaby,The girl's happiness was effusive.,The girl's happiness didn't really explode at all.,1,"{
+""answer"": 0
+}
+
+In this metaphor, ""exploded like a lullaby"" suggests that the girl's happiness was effusive and overwhelming, just like a lullaby that fills a room with soothing sound. Therefore, the option ""The girl's happiness was effusive"" is the closest meaning to the metaphor.",0,,0
+The problem was as big as a Tootsie Roll,The problem was small.,The problem was large.,0,"{
+  ""answer"": 1
+} 
+
+The metaphor ""as big as a Tootsie Roll"" implies that the problem was large, as Tootsie Rolls are known for being thick and significant in size. Therefore, the correct option is 1) The problem was large.",1,,0
+The disease is spreading like a growth of a finger nail,It is spreading quickly,It is spreading slowly,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor comparing the spread of the disease to the growth of a fingernail implies that it is spreading quickly, as fingernails grow relatively fast.""
+}",0,,0
+The house was as cozy as a prison cell.,The house was comfortable to be in.,The house was uncomfortable to be in.,1,"{
+  ""Answer"": 0
+}
+
+Explanation: In this metaphor, comparing the house to a prison cell implies that the house is cozy, snug, and secure. Therefore, the closest meaning would be that the house was comfortable to be in.",0,,0
+She was as fragile as an elephant,She was sturdy and not fragile,She was extremely fragile,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, the comparison is between the fragility of the person and the strength of an elephant. Elephants are known for their size and strength, so saying someone is as fragile as an elephant suggests that the person is extremely fragile, like the opposite of what an elephant represents. Hence, the closest meaning is option 1) She was extremely fragile.",1,,0
+Her closest relative may as well be a horse,She is ugly,She is dainty,0,"{
+  ""question"": ""Her closest relative may as well be a horse"",
+  ""options"": [
+    ""She is ugly"",
+    ""She is dainty""
+  ],
+  ""explanation"": ""This metaphor implies that the person is comparing someone to a horse in terms of behavior or personality. Horses are known for their loyalty, strength, and grace, so the metaphor likely means that the person is strong and graceful, similar to a horse."",
+  ""answer"": 1
+}",1,,0
+The athlete was as good as mike tyson when he's 80,the athlete was great,the athlete was bad,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, comparing the athlete to Mike Tyson when he's 80 implies that the athlete is still good or great at their sport even at an older age. Option 0) ""the athlete was great"" aligns with this interpretation.",0,,0
+The student was as confused as a lawyer in court,he didn't know what was going on,he knew everything,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The metaphor comparing the student to a lawyer in court suggests that the student was confused and unsure, similar to how a lawyer might feel lost or overwhelmed in a courtroom. Option 0) ""he didn't know what was going on"" is the most suitable meaning based on the comparison made in the metaphor.",0,,0
+The artist is as creative as vanilla ice cream,The artist has no new ideas.,The artist is very creative.,0,"{
+	""Answer"": 1
+}
+
+Explanation: Vanilla ice cream is seen as a basic or conventional flavor, which may lead one to believe that the artist lacks creativity. However, the metaphor is likely emphasizing the artist's creativity by comparing it to the pleasant and popular vanilla ice cream flavor.",1,,0
+This show has as many episode as there are moons in the night sky,It has many episodes,It has very few,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor compares the number of episodes to the number of moons in the night sky, implying that there are many episodes.""
+}",0,,0
+The book has the respect of A conspiracy theorist,It is well respected,It is not highly respected,1,"{
+  ""Question 1"": {
+    ""Metaphor"": ""The book has the respect of A conspiracy theorist"",
+    ""Option Chosen"": 0,
+    ""Explanation"": ""In this metaphor, the respect of a conspiracy theorist implies that the book is well respected, as conspiracy theorists tend to be skeptical and critical. Therefore, option 0) It is well respected is the closest meaning to the metaphor."",
+    ""Answer"": 0
+  }
+}",0,,0
+The foundation was flat as a globe,The foundation was flat.,The foundation was round and curved.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, the comparison is between the foundation being flat as a globe, which suggests that it was even and level, similar to how a globe appears round and smooth. The option ""0) The foundation was flat"" is the closest meaning to the metaphor.",0,,0
+The odds of winning the lottery are as good as lighting a match and expecting fire.,The odds of sinning the lottery  are extremely low,The odds of winning the lottery are fantastic,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""lighting a match and expecting fire"" implies a difficult and unlikely event, so the meaning closest to the metaphor is ""The odds of winning the lottery are extremely low."" Hence, option 0 is the correct answer.",0,,0
+That thing is sucking up as much electricity as the Wii U in the closet,It uses a lot of electricity,It uses no electricity,1,"{
+  ""explanation"": ""Comparing the amount of electricity used to the Wii U, which is known to use a lot of electricity, suggests that the thing in question also uses a lot of electricity."",
+  ""answer"": 0
+}",0,,0
+The girl is as predictable as the Titanic sinking,The girl was very predictable.,The girl was totally unpredictable.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor comparing the girl to the sinking of the Titanic suggests that the girl was very predictable, just like how the sinking of the Titanic was a known and expected event. Therefore, option 0) The girl was very predictable, is the closest meaning to the metaphor.",0,,0
+The pot roast has the aroma of swamp water.,The pot roast smells bad.,The pot roast smells flavorsome.,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, the comparison is made between the aroma of the pot roast and swamp water. Swamp water is generally associated with a bad smell, so the meaning closest to the metaphor is that the pot roast smells bad, option 0.",1,,0
+Her excuse had the conviction of a deserting soldier.,Her excuse lacked conviction.,Her excuse was full of conviction.,0,"{
+ ""answer"": 1
+} 
+
+In this metaphor, the comparison is between the excuse and a deserting soldier, suggesting that the excuse was strong and convincing, just like a soldier who is determined and confident. Therefore, the option ""Her excuse was full of conviction"" is the closest meaning to the metaphor.",1,,0
+The book grabbed my attention like legalese in a merger agreement,The book totally bored me.,The book really interested me.,0,"{
+  ""answer"": 1
+} 
+
+In this metaphor, the comparison between the book grabbing attention like legalese in a merger agreement implies that the book was very intriguing and captivating. Legalese in a merger agreement is complex and detailed, so the meaning closest to the metaphor is that the book really interested the individual.",1,,0
+The screen was dim like a flashlight.,The screen was bright.,The screen was dim.,0,"{
+  ""answer"": 1
+} 
+
+Explanation: In the metaphor, comparing the screen to a flashlight implies that the screen was not bright, but rather dim like a flashlight. Therefore, the option ""The screen was dim"" is the closest meaning to the metaphor.",1,,0
+You are as tough as an egg,eggs crack,coconuts are hard,0,"{
+  ""question"": ""You are as tough as an egg"",
+  ""option_selected"": 1,
+  ""explanation"": ""In this metaphor, 'tough as an egg' is comparing the person's toughness to something fragile and delicate, similar to how an egg breaks easily. Therefore, the correct option is 1) coconuts are hard, as coconuts are known for being tough and difficult to crack.""
+}",1,,0
+The girl is as good at camouflaging her emotions as a peacock,The girl hides her emotions well.,The girl shows off her emotions.,1,"{
+  ""answer"": 0
+}
+
+Explanation: Just like how a peacock uses its colorful feathers to blend in with its environment, the metaphor implies that the girl is adept at hiding her emotions and putting on a facade. This is why option 0) ""The girl hides her emotions well"" is the closest meaning to the metaphor.",0,,0
+The sandwich has the cheesiness of a pizza without the primary topping,The sandwich is very cheesy,The sandwich lacks cheese,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor comparing the sandwich to a pizza without the primary topping implies that the sandwich is very cheesy, similar to a pizza which is known for its cheese.""
+}",0,,0
+The speech was as inspiring as A cement block,It is dull,It is motivating,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, the comparison is being made between the speech and a cement block. A cement block is known for being heavy, solid, and unyielding. Therefore, the intended meaning is that the speech was dull and uninspiring, similar to a cement block. Option 0) It is dull is the closest meaning to the metaphor.",1,,0
+The glass is a clear as Ikea instructions,It is not clear,It is see thru,0,"{
+  ""answer"": 1,
+  ""explanation"": ""The metaphor is comparing the clarity of the glass to Ikea instructions, which are known for being clear and easy to understand. Therefore, the meaning closest to the metaphor is that the glass is see thru.""
+}",1,,0
+The gem was as fake as the air we breathe,The gem was obviously fake.,The gem was obviously real.,1,"{
+  ""answer"": 0
+}
+
+The metaphor ""The gem was as fake as the air we breathe"" is comparing the fake nature of the gem to the common knowledge that air is everywhere and essential for life, making the gem obviously fake. Hence, the correct meaning is that the gem was obviously fake (option 0).",0,,0
+The boys are as disciplined as barrel monkeys,The boys are highly disciplined.,The boys lack any discipline.,1,"{
+  ""answer"": 0
+} 
+
+In this metaphor, comparing the boys to disciplined barrel monkeys implies that they are highly disciplined like the trained monkeys performing in a show. Therefore, the closest meaning to the metaphor is option 0) The boys are highly disciplined.",0,,0
+The teams passion was burning like a match,The team had a lot of passion,THe team had very little passion,1,"{
+  ""answer"": 0
+}
+
+The phrase ""burning like a match"" implies intensity and fervor, similar to a small flame burning brightly. Therefore, the closest meaning would be that the team had a lot of passion (option 0).",0,,0
+He maneuvered with the tactical precision of a clown car.,He manuevered skillfully.,He maneuvered poorly.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor is comparing his maneuvering to a clown car, which is known for its comedic and exaggerated movements. Therefore, the meaning closest to the metaphor would be that he maneuvered skillfully.""
+}",0,,0
+The friendship was as meaningful as a contract on a napkin,The friendship wasn't meaningful at all.,The friendship was highly meaningful.,0,"{
+""answer"": 1
+}
+
+The metaphor comparing the friendship to a contract on a napkin implies that the friendship was not deeply significant or reliable, as contracts written on napkins are often seen as informal and easily disregarded. Therefore, the closest meaning would be that the friendship wasn't meaningful at all.",1,,0
+The child was as still as a waterfall,The child was totally still.,The child couldn't stop moving.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""as still as a waterfall"" compares the child to a waterfall, which is known for its calm and steady flow. Therefore, the meaning closest to the metaphor is that the child was totally still, similar to a waterfall.",0,,0
+He has the satisfaction of a master chef aftet making a bowl of canned 🍝,He is very satisfied,He has very little satisfaction,1,"{
+  ""question1"": {
+    ""metaphor"": ""He has the satisfaction of a master chef after making a bowl of canned 🍝"",
+    ""options"": {
+      ""0"": ""He is very satisfied"",
+      ""1"": ""He has very little satisfaction""
+    },
+    ""answer"": 0
+  }
+}",0,,0
+The man has the taste of a picky child.,The man has poor taste in things.,The man has exquisite and fine taste in things.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor ""The man has the taste of a picky child"" suggests that the man is selective and particular about his choices, similar to how a picky child chooses what they like and dislike. Therefore, the closest meaning to this metaphor is that the man has exquisite and fine taste in things.",1,,0
+The bed is as comfortable as seeing your ex.,The bed is very comfortable.,The bed is very uncomfortable.,1,"{
+""answer"": 0
+}
+
+Explanation: In this metaphor, ""The bed is as comfortable as seeing your ex,"" implies that seeing your ex is uncomfortable, so the bed must also be uncomfortable. Therefore, the closest meaning to the metaphor is 1) The bed is very uncomfortable.",0,,0
+They fit each other's personalities like a magnet on paper,They fit each other's personalities perfectly.,They don't fit each other's personalities well at all.,1,"{
+  ""answer"": 0
+}
+
+In this metaphor, ""fitting like a magnet on paper"" typically implies a strong and compatible connection between two people's personalities. So, the closest meaning would be option 0) They fit each other's personalities perfectly.",0,,0
+The spaghetti was as cold as a vacation to Hades,The spaghetti was cold,The spaghetti was very hot,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, ""as cold as a vacation to Hades"" implies that the spaghetti was very cold, not hot.",0,,0
+Your wit has the sharpness of a stone,Your wit is clever.,Your wit is dull and not clever.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: The comparison of wit to the sharpness of a stone indicates cleverness and intelligence, as a sharp stone can cut through things effectively. Therefore, the closest meaning to the metaphor is ""Your wit is clever.""",0,,0
+The teacher had the patience of a flea,The teacher was impatient.,The teacher was patient.,0,"{
+  ""answer"": 1
+}
+
+This metaphor is comparing the teacher's patience to that of a flea, which is known for its extraordinary patience in clinging onto a host for a long time. Therefore, the closest meaning to this metaphor would be option 1) The teacher was patient.",1,,0
+She was as jumpy as a yogi,She was very anxious.,She was very calm.,1,"{
+  ""answer"": 0
+}
+
+This metaphor compares the person to a calm and composed yogi, implying that she was very calm. Therefore, the correct option is 1) She was very calm.",0,,0
+The teacher was as amused as a judge in the courtroom,the teacher was interested,the teacher didn't want to hear anything,1,"{
+  ""answer"": 0
+}
+
+Explanation: In a courtroom, a judge is expected to be impartial and serious, not showing any signs of amusement. Therefore, the metaphor implies that the teacher was serious and not amused by something. ""the teacher was interested"" captures this idea more closely than ""the teacher didn't want to hear anything"".",0,,0
+The air had the cleanliness of pre-industrial China,The air is quite clean,The air is filthy,0,"{
+""answer"": 1
+} 
+
+The metaphor ""The air had the cleanliness of pre-industrial China"" is comparing the cleanliness of the air to the historically documented poor air quality in pre-industrial China. Therefore, the closest meaning to the metaphor is Option 1) The air is filthy.",1,,0
+The air had the cleanliness of a freshly opened vacuum,The air is quite clean,The air is filthy,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor comparing the air to the cleanliness of a freshly opened vacuum suggests that the air is very clean and fresh, similar to how a vacuum would be clean when first opened. Therefore, the meaning closest to the metaphor is option 0) The air is quite clean.",0,,0
+His mood had the permanence of the tide.,His mood never changes.,His mood was always changing.,1,"{
+  ""answer"": 0
+}
+
+In this metaphor, ""his mood had the permanence of the tide,"" the tide is known for its regular and predictable patterns of rising and falling. Therefore, the closest meaning would be that his mood never changes, similar to the consistency of the tide.",0,,0
+Those facts were like the Bible,Those facts were not true,Those facts were true,0,"{
+""answer"": 1
+} 
+
+Explanation: In this metaphor, comparing the facts to the Bible suggests that they are seen as true and authoritative. Therefore, the closest meaning to the metaphor is option 1) Those facts were true.",1,,0
+The facts verified the case like A thief's lies,The facts were unreliable,The facts were solid and supported the case,0,"{
+  ""answer"": 1
+}
+
+The metaphor compares the facts to a thief's lies, implying that the facts are solid and supported the case, just like a thief's lies would provide evidence against them.",1,,0
+The driver is a lumberjack.,The driver is not careful.,The driver is careful.,0,"{
+""answer"": 1,
+""explanation"": ""Lumberjacks are known for their precision and caution when handling sharp tools and cutting down trees, so the metaphor implies that the driver is careful.""
+}",1,,0
+The candy wrapper has the crinkles of a celebrity's face after a Botox injection,The wrapper is very crinkly,The wrapper has no crinkles,1,"{
+  ""explanation"": ""Comparing the crinkles of the candy wrapper to a celebrity's face after a Botox injection implies that the crinkles are very noticeable and prominent, similar to the effect of Botox on a face."",
+  ""answer"": 0
+}",0,,0
+The microphone is as jumpy as mud,the microphone is highly sensitive / overpowered.,the microphone is highly insensitive / underpowered.,1,"{
+  ""answer"": 0
+} 
+
+Explanation: Mud is known for being thick and not easily moved, so comparing the microphone to mud suggests that it is highly sensitive or overpowered.",0,,0
+The parking lot is a crater.,The parking lot is bumpy.,The parking lot is smooth.,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, comparing the parking lot to a crater implies that the parking lot is very uneven and rough, similar to the surface of a crater. Therefore, the meaning closest to the metaphor is ""The parking lot is bumpy.""",1,,0
+Matt's girlfriend is a vending machine.,Matt's girlfriend is large.,Matt's girlfriend is small.,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, the vending machine represents an inanimate object that dispenses items when money is inserted. Therefore, the correct meaning would be that Matt's girlfriend is small and not that she is large.",1,,0
+That's about as useful as a heated cabin in a snowstorm.,It's not useful at all.,It's very useful.,1,"{
+""answer"": 0,
+""explanation"": ""A heated cabin in a snowstorm would be very useful to keep warm and safe, so the metaphor implies that the thing being referred to is not useful at all.""
+}",0,,0
+Masonite siding on houses repels water as well as a sponge,Masonite siding soaks up water,Masonite is water repellant,0,"{
+  ""answer"": 1
+} 
+
+The metaphor compares Masonite siding to a sponge, implying that it repels water like a sponge does. Therefore, the option ""1) Masonite is water repellant"" is the closest meaning to the metaphor.",1,,0
+Their culture has the openness of a closet,The culture is very open and tolerant,The culture is not open or tolerant,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor of ""openness of a closet"" implies that the culture is open and accepting, similar to how a closet door can be swung wide open. Therefore, the closest meaning to the metaphor is option 0 where the culture is very open and tolerant.",0,,0
+The dog is as vicious as a goldfish,The dog is docile.,The dog is dangerous .,0,"{
+  ""answer"": 1
+}
+
+Explanation: In this metaphor, the comparison is between a vicious creature (goldfish) and the dog. Since a goldfish is not typically seen as a vicious animal, the implication is that the dog is dangerous, not docile.",1,,0
+The fog is as dense as plexiglass,The fog is thick and hard to see through.,The fog is thin and easy to see through.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor is comparing the density of the fog to plexiglass, which is thick and hard to see through. Therefore, the correct option is that the fog is thick and hard to see through.""
+}",0,,0
+A priest is sexually active like Mount St Helen's,A priest is rarely sexually active,A priest is extremely sexually active,1,"{
+  ""Explanation"": ""Mount St. Helen's is known for its explosive volcanic activity that occurs very rarely but is extremely intense when it does happen. Similarly, the metaphor implies that the priest is not frequently sexually active, but when they are, it is intense."",
+  ""Answer"": 0
+}",0,,0
+The girl was as demanding as a soup kitchen volunteer,The girl was highly demanding.,The girl was not demanding at all.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, likening the girl to a soup kitchen volunteer implies that she is very demanding and expects a lot from others. Therefore, the closest meaning is option 0) The girl was highly demanding.",0,,0
+She possessed the beauty of A dung beetle,She is ugly,She is beautiful,0,"{
+  ""Explanation"": ""Dung beetles are known for their unique and fascinating appearance, so comparing someone's beauty to that of a dung beetle could imply that they are beautiful in a unique way."",
+  ""Answer"": 1
+}",1,,0
+He's got the positioning of squid.,He's got professional level positioning.,He's got terrible positioning.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, the positioning of a squid refers to their expert navigation and ability to swiftly move through water. Therefore, the closest meaning to the metaphor would be ""He's got professional level positioning.""",0,,0
+Her hair has the oil of Dawn dish detergent,Her hair is oily,Her hair is oil free,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor compares her hair to the oil of Dawn dish detergent, implying that her hair is oily.""
+}",0,,0
+The church was as orthodox as an occult meeting.,The church was heretical and move beyond the boundaries of accepted teachings.,The church was within the boundaries of accepted teachings and were in line with the Great Tradition.,0,"{
+  ""answer"": 1,
+  ""explanation"": ""Being as orthodox as an occult meeting implies that the church was within the boundaries of accepted teachings and were in line with the Great Tradition, similar to how an occult meeting would adhere to its own established beliefs and practices.""
+}",1,,0
+He is as spiritual as a buddha,He is very religious,He is not religious,0,"{
+  ""Explanation"": ""Comparing someone to a buddha typically implies a high level of spirituality, wisdom, and enlightenment, which is not necessarily linked to organized religion."",
+  ""Answer"": 1
+}",1,,0
+His speech had the urgency of a far away deadline,His speech had a lot of urgency,His speech had no urgency,1,"{
+	""Answer"": 0,
+	""Explanation"": ""The metaphor is comparing the urgency of his speech to a far away deadline, implying that there was a sense of urgency in his speech.""
+}",0,,0
+This work of art is as brilliant as a goldfish.,This work of art is dumb.,This work of art is a masterpiece.,0,"{
+  ""answer"": 1
+} 
+
+This metaphor compares the brilliance of the work of art to a goldfish, which is considered a beautiful and vibrant fish. Therefore, the closest meaning to the metaphor is ""This work of art is a masterpiece.""",1,,0
+This outfit is worthy of a pack of gremlins.,This outfit is horrible.,This outfit is amazing.,0,"{
+""answer"": 1
+} 
+
+Explanation: The metaphor ""worthy of a pack of gremlins"" implies that the outfit is so amazing and unique that even mischievous creatures like gremlins would appreciate it. Therefore, the closest meaning is that the outfit is amazing.",1,,0
+She has the attention span of a dolphin,She has a short attention span,She has a long attention span,1,"{
+  ""answer"": 0
+}
+
+This metaphor compares the attention span of the person to a dolphin, which is known to have a short attention span. Therefore, the option ""She has a short attention span"" is the closest meaning to the metaphor.",0,,0
+The house is the age of The Mummy starring Tom Cruise,The house is old,The house is young,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor comparing the house to 'The Mummy starring Tom Cruise' implies that the house is old, just like the movie that is from the past and has been around for a while.""
+}",0,,0
+The dog is as courageous as the cowardly lion.,The dog is cowardly.,The dog is very brave.,0,"{
+  ""answer"": 1
+}
+
+In the metaphor, ""The dog is as courageous as the cowardly lion,"" the comparison is between the dog and the cowardly lion, who is famously known for his bravery in the movie The Wizard of Oz. Therefore, the meaning that is closest to the metaphor is ""The dog is very brave"" (Option 1).",1,,0
+I want to spend time with this project as if it were my enemy,You do not want to spend time on the project,You do want to spend time on the project,0,"{
+""answer"": 1,
+""explanation"": ""The metaphor implies that the person wants to dedicate a lot of time and energy to the project, as if they were battling an enemy and putting in all efforts to defeat it.""
+}",1,,0
+That woman has the skin of a shedding snake.,"That woman has dead, peeling skin.",That woman has smooth skin.,0,"{
+  ""Explanation"": ""Comparing someone's skin to that of a shedding snake implies that the woman's skin is smooth and flawless, similar to a snake shedding its old skin to reveal a new, smooth one."",
+  ""Answer"": 1
+}",1,,0
+The novel has the emotional relatability of a boa constrictor.,The novel is not relatable.,The novel is relatable.,0,"{
+  ""answer"": 1
+}
+
+The metaphor compares the emotional relatability of the novel to a boa constrictor, suggesting that the novel is actually relatable because boa constrictors are known for their strong emotional connections, loyalty, and attachment to their human owners which can be seen as relatable traits in a novel.",1,,0
+The CEO's idea was as cutting-edge as MySpace,The CEO's idea was extremely novel.,The CEO's idea was outdated.,1,"{
+  ""Explanation"": ""MySpace was once a popular social media platform known for its innovation and cutting-edge features. Therefore, comparing the CEO's idea to MySpace implies that it is extremely novel and innovative."",
+  ""Answer"": 0
+}",0,,0
+Peter wears shoes that could fit an elf.,Peter wears shoes in a very large size.,Peter wears shoes in a very small size.,1,"{
+  ""answer"": 0
+} 
+
+This metaphor suggests that Peter wears shoes that are too small for him, similar to how elves are typically depicted as having small feet. Therefore, the correct option is 1) Peter wears shoes in a very small size.",0,,0
+The atmosphere in Mexico City is glass,The atmosphere is smoggy,The atmosphere is clean,1,"{
+  ""question"": ""The atmosphere in Mexico City is glass"",
+  ""options"": {
+    ""0"": ""The atmosphere is smoggy"",
+    ""1"": ""The atmosphere is clean""
+  },
+  ""answer"": 0
+}
+
+Explanation: The metaphor ""the atmosphere in Mexico City is glass"" implies that the atmosphere is smoggy, dirty, and opaque, similar to how dirty glass would look. Therefore, the closest meaning to the metaphor is option 0) The atmosphere is smoggy. 
+
+Answer: 0",0,,0
+The homework has the complexity of a rock,The homework is impossible to fully understand,The homework is simple and straightforward,1,"{
+  ""answer"": 0
+} 
+
+The correct option is 0) The homework is impossible to fully understand. In this metaphor, comparing the complexity of homework to a rock implies that the homework is difficult to comprehend or solve, similar to how a rock is hard and challenging to break down or understand.",0,,0
+Your momma is a hot air balloon.,Your momma is bloated.,Your momma is sexy.,0,"{
+  ""answer"": 1
+}
+
+This metaphor is comparing someone's mom to a hot air balloon. Hot air balloons are often associated with being fun, exciting, and adventurous, which can be seen as qualities of someone who is ""sexy"". This makes option 1) Your momma is sexy, the closest meaning to the metaphor.",1,,0
+The hotel bed was as luxurious as a sleeping bag,The bed was very luxurious.,The hotel bed was not luxurious at all.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the hotel bed to a sleeping bag, which is not known for its luxury. Therefore, the meaning closest to the metaphor is that the hotel bed was not luxurious at all. Hence, the correct option is 1) The hotel bed was not luxurious at all.",0,,0
+The whirlpool had the suction power of a vacuum after sucking up a cheeseburger wrapper,The whirlpool had a strong suction,The suction of the whirlpool was weak,1,"{
+  ""explanation"": ""The phrase compares the suction power of the whirlpool to that of a vacuum, which is known for its strong suction. Therefore, the meaning closest to the metaphor is that the whirlpool had a strong suction."",
+  ""answer"": 0
+}",0,,0
+Adam is as strong as a gentle wave,Adam is strong.,Adam is weak.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor here compares Adam's strength to a gentle wave, which may seem weak but is strong in its own way. Therefore, the closest meaning to the metaphor is ""Adam is strong.""",0,,0
+Lisa is sharp as an sponge.,Lisa is smart.,Lisa is dumb.,1,"{
+  ""Answer"": 0
+}
+
+In this metaphor, ""sharp as a sponge"" is being used to indicate that Lisa is smart, quick-witted, and intelligent, rather than dumb.",0,,0
+The scene was as refreshing as an empty glass,The scene was totally refreshing.,The scene wasn't refreshing at all.,1,"{
+  ""answer"": 0
+}
+
+The metaphor compares the scene to an empty glass, suggesting that it was refreshing and had not been experienced before, emphasizing the idea of being totally refreshing. Thus, option 0) The scene was totally refreshing would be the closest meaning to the metaphor.",0,,0
+I have as many book ideas as There are 00's in one hundred,I have over 300 book ideas,I only have a few book ideas.,1,"{
+  ""answer"": 0
+} 
+
+The metaphor implies that the person has a large number of book ideas, as there are three zeroes in one hundred. Therefore, the closest meaning would be ""I have over 300 book ideas"" which corresponds to option 0).",0,,0
+The well has all the water of the Gobi desert,There's a lot of water in the well,The well is dry,1,"{
+  ""explanation"": ""This metaphor implies that the well is full of water, which would mean there is a lot of water in the well"",
+  ""answer"": 0
+}",0,,0
+She rests as much as a mother of triplets.,She rests a lot.,She doesn't rest much at all.,1,"{
+  ""answer"": 0
+}
+
+The metaphor ""She rests as much as a mother of triplets"" implies that she doesn't rest much at all, as taking care of triplets would be very demanding and leave little time for rest. Therefore, the closest meaning is option 1) She doesn't rest much at all.",0,,0
+The ball bounced as high as the ground,The ball bounced very high,The ball barely bounced at all.,1,"{
+	""answer"": 0,
+	""explanation"": ""The metaphor implies that the ball bounced very high because the ground is the lowest point of reference.""
+}",0,,0
+The razor had the sharpness of a stone,The razor was sharp,The razor was dull,1,"{
+  ""answer"": 0
+} 
+
+The metaphor compares the sharpness of the razor to a stone, which is known for being dull. Therefore, the closest meaning would be that the razor was sharp.",0,,0
+The giraffe is a newborn baby eel.,The giraffe is awkward.,The giraffe is elegant.,0,"{
+  ""answer"": 1,
+  ""explanation"": ""Giraffes are known for their elegance due to their long necks and graceful movements. Therefore, the metaphor is likely referring to the giraffe being elegant rather than awkward.""
+}",1,,0
+He shined like the dirt,He shined brightly.,He was dull and didn't shine at all.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, ""He shined like the dirt,"" the comparison is being made between the person and dirt. Dirt does not shine, so the closer meaning would be ""He was dull and didn't shine at all."" Hence, the answer is option 1.",0,,0
+She was as hot as a popsicle,She was hot,"She was not hot, but cold.",1,"{
+  ""Explanation"": ""The metaphor compares someone's level of attractiveness or desirability to that of a popsicle, implying that the person is attractive."",
+  ""Answer"": 0
+}",0,,0
+The dog has the softness of an asteroid,The dog is soft,The dog isn't soft,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, the comparison is between the dog and an asteroid in terms of softness. Since asteroids are known to be hard and rocky, the intended meaning is that the dog is not soft. So, the correct option is 1) The dog isn't soft.",0,,0
+The poker game had stakes as high as the floor,The poker game was high-stakes.,The poker game was low-stakes.,1,"{
+  ""answer"": 0
+}
+
+In this metaphor, ""stakes as high as the floor"" implies that the poker game had high stakes, not low stakes. Therefore, the closest meaning to the metaphor is Option 0: The poker game was high-stakes.",0,,0
+The boy was as tired as the Energizer Bunny,The boy was exhausted.,The boy wasn't tired at all.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The Energizer Bunny is known for its endless energy and ability to keep going and going, so the metaphor comparing the boy to the Energizer Bunny suggests that the boy is exhausted and not full of energy.",0,,0
+The corporate hierarchy was as flat as the Grand Canyon,The corporate hierarchy was alive and well.,The corporate hierarchy was nonexistent.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The Grand Canyon is known for its vast flat expanse, indicating that the corporate hierarchy was nonexistent in this metaphor.",1,,0
+The melody sounded like a child's first learning to play the piano.,The melody was simplistic and randomly thrown together.,"The melody was complex, beautiful, and had the feel of a classic work of art.",0,"{
+	""answer"": 1
+}
+Explanation: Since the metaphor compares the melody to a child's first learning to play the piano, it implies that the melody was still in its early stages of development and had room for growth and improvement. This aligns more closely with option 1, which describes a melody that is complex, beautiful, and resembling a classic work of art.",1,,0
+He dressed as sharp as a crayon,He dressed well,He dressed poorly,1,"{
+  ""answer"": 0
+}
+
+In this metaphor, ""dressed as sharp as a crayon"" is comparing the sharp, vibrant colors of a crayon to someone who is fashionably and stylishly dressed. Therefore, the meaning closest to the metaphor is ""He dressed well.""",0,,0
+The situation is as sticky as water,The situation is hard to get out of.,The situation isn't very messy.,1,"{
+  ""Answer"": 0,
+  ""Explanation"": ""The metaphor compares the situation to something sticky, indicating that it is difficult to get out of, similar to being stuck in a sticky situation.""
+}",0,,0
+John was as motivated as a worker with no pay.,John was really motivated.,John was not motivated at all.,1,"{
+  ""answer"": 0
+} 
+
+John was as motivated as a worker with no pay means that John was really motivated. This metaphor compares John's level of motivation to that of a worker who would continue working without any form of compensation, indicating a high level of dedication and drive. Therefore, the closest meaning to the metaphor is option 0) John was really motivated.",0,,0
+People I help on Mturk are as grateful as hungry swine,Requesters aren't grateful.,Requesters are grateful.,0,"{
+  ""answer"": 1
+}
+
+The metaphor compares the people helped on Mturk to hungry swine, which typically means they are very grateful. Therefore, the correct option is ""Requesters are grateful.""",1,,0
+The song has the energy of a dog lapping water.,The song is full of power.,The song is ordinary and dull.,1,"{
+  ""answer"": 0
+}
+
+The metaphor comparing the energy of the song to a dog lapping water suggests that the song is full of power, enthusiasm, and vitality, similar to how a dog excitedly drinks water. This metaphor implies that the energy of the song is strong and engaging, just like a dog's energy when drinking water. The most fitting option based on this comparison is ""The song is full of power"" (Option 0).",0,,0
+The budget is as tight as a pair of extra-large sweatpants,The budget is very tight.,The budget isn't tight at all.,1,"{
+  ""answer"": 0
+}
+
+Explanation: In this metaphor, the comparison is between the tightness of the budget and a pair of extra-large sweatpants. Sweatpants are typically loose and comfortable, so if the budget is as tight as a pair of extra-large sweatpants, it means that the budget is very tight. Thus, the correct meaning is that the budget is very tight, corresponding to option 0.",0,,0
+Joes new outfit had him feeling like an ant,The outfit made Joe feel good,The outfit made Joe feel bad,1,"{
+  ""answer"": 0
+} 
+
+Explanation: In this metaphor, comparing Joe to an ant typically implies that the outfit made Joe feel small or insignificant, rather than feeling good or empowered. The comparison to an ant usually has negative connotations, making the answer ""1) The outfit made Joe feel bad"" more fitting.",0,,0
+Product placement ads are as subtle as a tuba accompanying a piccolo,ads are abrasive,ads are sly,0,"{
+  ""Explanation"": ""In this metaphor, the contrast between the loud tuba and the delicate piccolo suggests that product placement ads are noticeable but not necessarily aggressive or abrasive. They are noticeable but not overt."",
+  ""Answer"": 1
+}",1,,0
+The man has the patience of a baby,The man is short-tempered.,The man is has a large amount of patience.,0,"{
+  ""answer"": 1
+}
+
+The metaphor compares the man's patience to that of a baby, implying that the man has very little patience, similar to a baby. Therefore, the closest meaning would be that the man is short-tempered.",1,,0
+The deer's antlers have the fuzziness of a baby's behind,The deer has very fuzzy antlers,The deer's antlers aren't at all fuzzy,1,"{
+  ""explanation"": ""Metaphor comparison is between the fuzziness of a baby's behind and the fuzziness of the deer's antlers, implying that the deer's antlers are very fuzzy."",
+  ""answer"": 0
+}",0,,0
+Her attention span was as long as an infinity pool,She could pay attention for a long time.,She could not pay attention.,0,"{
+  ""Answer"": 1
+}
+
+In this metaphor, comparing her attention span to an infinity pool implies that her attention span is very short, as infinity pools are typically long and narrow. Therefore, the closest meaning is ""She could not pay attention.""",1,,0
+The child was as pretty as the dog poop on my shoe.,The child was ugly.,The child was beautiful.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The phrase ""pretty as dog poop"" is ironic and sarcastic, implying that the child was actually beautiful. The comparison is intended to be positive rather than negative. Therefore, option 1) The child was beautiful is the closest meaning to the metaphor.",1,,0
+The girl's ego is as fragile as a rock,The girl's feelings are easily hurt.,The girl's ego is solid.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor compares the fragility of the girl's ego to that of a rock, which suggests that her feelings are easily hurt and vulnerable.""
+}",0,,0
+The girl was as thin as a blown-up balloon,The girl was so thin she was wispy.,The girl was very fat.,1,"{
+  ""answer"": 0
+}
+
+Explanation: The metaphor compares the girl's thinness to that of a blown-up balloon, suggesting that she is extremely thin and wispy, not fat. Therefore, option 0 is the closest meaning to the metaphor.",0,,0
+This house is as big as Abraham Lincoln's log cabin,The house is small.,The house is big.,0,"{
+  ""answer"": 1
+}
+
+The phrase ""This house is as big as Abraham Lincoln's log cabin"" is a comparison suggesting that the house is big. Abraham Lincoln's log cabin is historically known to be small, so comparing the size of the house to that cabin implies that the house is much larger, hence the correct option is 1) The house is big.",1,,0
+The girl has enough friends to fill the depths of a shoebox,The girl has almost no friends.,The girl is very popular.,0,"{
+  ""answer"": 1
+}
+
+Explanation: The metaphor compares the number of friends the girl has to the size of a shoebox, suggesting that she has a lot of friends. Therefore, the closest meaning to the metaphor is that the girl is very popular, making option 1 the correct answer.",1,,0
+Your mom could convince a cat to veganism,Your mom is a great cook.,Your mom is an awful cook.,0,"{
+  ""answer"": 1
+}
+
+In this metaphor, the idea is that convincing a cat to become a vegan is extremely difficult or nearly impossible. This implies that your mom is not a great cook, as even she would struggle to achieve such a feat. Therefore, the option ""Your mom is an awful cook"" is the closest in meaning to the metaphor.",1,,0
+Your mom could compete with weight watchers,Your mom is a great cook.,Your mom is an awful cook.,1,"{
+  ""answer"": 0,
+  ""explanation"": ""The metaphor implies that your mom is so good at cooking that she could compete with Weight Watchers, a well-known weight loss company. This suggests that your mom is a great cook.""
+}",0,,0
+This tree has the bark of a fireman's pole,The tree has rough bark.,The tree has smooth bark.,1,"{
+    ""answer"": 0
+}
+
+Explanation: A fireman's pole is known for its smooth surface to allow firefighters to slide down quickly. Therefore, the metaphor ""bark of a fireman's pole"" implies that the tree has smooth bark, making option 1 the correct choice.",0,,0
